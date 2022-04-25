@@ -13,7 +13,7 @@ const sequelize = new Sequelize(DATABASE_URL, {
   dialectOptions: {
     ssl: {
       require: true,
-      rejectUnauthorized: false
+      rejectUnauthorized: false,
     }
   }
 });
@@ -22,10 +22,6 @@ const basename = path.basename(__filename);
 const modelDefiners = [];
 
 
-const actArray = ["Observacion de atractivos de la naturaleza", "Observacion de fauna",
-  "Observacion de flora", "Caminata", "Ciclismo", "Cabalgata", "Buceo", "Descenso en rios",
-  "Pesca recreativa", "Paracaidismo", "Vuelo Parapente", "Recorridos por Bodegas",
-  "Visitas a Centros Comerciales", "Visitas guiadas al patrimonio historico ", "Rafting"]
 
 
 // Leemos todos los archivos de la carpeta Models, los requerimos y agregamos al arreglo modelDefiners
