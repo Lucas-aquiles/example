@@ -18,6 +18,7 @@ server.post('/', async (req, res) => {
 
 
 
+
     try {
         await validarActivity(nameMin, country);
     } catch (err) {
