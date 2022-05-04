@@ -7,8 +7,6 @@ const { CORS_URL } = process.env;
 let port = process.env.PORT || 3000;
 
 require('./db.js');
-
-
 const server = express();
 
 server.name = 'API';
