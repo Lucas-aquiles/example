@@ -9,9 +9,6 @@ const allInfant = require('../All/INFANT/ADIDAS-INFANT0.json')
 
 
 
-
-
-
 server.get('/children', (req, res) => {
 
     res.status(200).json(allInformacion)
