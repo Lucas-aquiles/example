@@ -1,0 +1,264 @@
+{
+    "results": [
+        {
+            "id": "a7777cec-8373-479a-b928-cbf1b07460dd",
+            "sku": "208013-90H",
+            "brand": "Crocs",
+            "name": "SZA x Wmns Classic Slide 'Woodgrain'",
+            "colorway": "",
+            "gender": "women",
+            "silhouette": "Crocs Classic Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-06",
+            "retailPrice": 40,
+            "estimatedMarketValue": 250,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/637/424/original/208013_90H.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/637/424/original/208013_90H.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/637/424/original/208013_90H.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/sza-x-wmns-classic-slide-woodgrain-208013-90h",
+                "flightClub": "https://flightclub.com/sza-x-wmns-classic-slide-woodgrain-208013-90h",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c133705a-d8f7-47a0-8ba7-8c3e8adac74b",
+            "sku": "207390-90H",
+            "brand": "Crocs",
+            "name": "SZA x Wmns Classic Clog 'Woodgrain'",
+            "colorway": "",
+            "gender": "women",
+            "silhouette": "Clog",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-06",
+            "retailPrice": 70,
+            "estimatedMarketValue": 215,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/637/423/original/207390_90H.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/637/423/original/207390_90H.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/637/423/original/207390_90H.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/sza-x-wmns-classic-clog-woodgrain-207390-90h",
+                "flightClub": "https://flightclub.com/sza-x-wmns-classic-clog-woodgrain-207390-90h",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2405cfb5-1c63-4503-ad67-045518f0d8d1",
+            "sku": "207234-119",
+            "brand": "Crocs",
+            "name": "Crocs Classic Bae Clog Coca-Cola (W)",
+            "colorway": "White/Red",
+            "gender": "women",
+            "silhouette": "Crocs Classic Bae Clog",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-11",
+            "retailPrice": 70,
+            "estimatedMarketValue": 80,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-Coca-Cola-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634128663",
+                "small": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-Coca-Cola-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634128663",
+                "thumbnail": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-Coca-Cola-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634128663"
+            },
+            "links": {
+                "stockX": "https://stockx.com/crocs-classic-bae-clog-coca-cola-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5207b705-96b3-45a2-b233-552235641502",
+            "sku": "207102-90H",
+            "brand": "Crocs",
+            "name": "Ruby Rose x Wmns Classic Bae Clog 'Just Love'",
+            "colorway": "Multi-Color",
+            "gender": "women",
+            "silhouette": "Clog",
+            "releaseYear": "2020",
+            "releaseDate": "2020-06-19",
+            "retailPrice": 80,
+            "estimatedMarketValue": 80,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/044/961/024/original/207102_90H.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/044/961/024/original/207102_90H.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/044/961/024/original/207102_90H.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ruby-rose-x-wmns-classic-bae-clog-just-love-207102-90h",
+                "flightClub": "https://flightclub.com/ruby-rose-x-wmns-classic-bae-clog-just-love-207102-90h",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a3af636e-3a9f-47d5-8390-e906c962c0a3",
+            "sku": "506381838",
+            "brand": "Crocs",
+            "name": "Crocs Classic Clog Barneys New York XO Black Punk (W)",
+            "colorway": "Black",
+            "gender": "women",
+            "silhouette": "Crocs Classic Clog",
+            "releaseYear": "2019",
+            "releaseDate": "2019-06-21",
+            "retailPrice": 90,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Crocs-Classic-Clog-Barneys-New-York-XO-Black-Punk-W.png?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1617289730",
+                "small": "https://images.stockx.com/images/Crocs-Classic-Clog-Barneys-New-York-XO-Black-Punk-W.png?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1617289730",
+                "thumbnail": "https://images.stockx.com/images/Crocs-Classic-Clog-Barneys-New-York-XO-Black-Punk-W.png?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1617289730"
+            },
+            "links": {
+                "stockX": "https://stockx.com/crocs-classic-clog-barneys-new-york-xo-black-punk-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1adf8730-cd99-485b-82b4-6c31da3f8a15",
+            "sku": "206302-5PR",
+            "brand": "Crocs",
+            "name": "Crocs Classic Bae Clog Orchid (W)",
+            "colorway": "Orchid",
+            "gender": "women",
+            "silhouette": "Crocs Classic Bae Clog",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 59,
+            "estimatedMarketValue": 59,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-Orchid-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634837365",
+                "small": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-Orchid-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634837365",
+                "thumbnail": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-Orchid-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634837365"
+            },
+            "links": {
+                "stockX": "https://stockx.com/crocs-classic-bae-clog-orchid-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "32078070-d5cb-4327-9438-bfed457e81e1",
+            "sku": "206302-001",
+            "brand": "Crocs",
+            "name": "Crocs Classic Bae Clog Black (W)",
+            "colorway": "Black",
+            "gender": "women",
+            "silhouette": "Crocs Classic Bae Clog",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 59,
+            "estimatedMarketValue": 124,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-Black-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634837364",
+                "small": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-Black-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634837364",
+                "thumbnail": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-Black-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634837364"
+            },
+            "links": {
+                "stockX": "https://stockx.com/crocs-classic-bae-clog-black-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6e649e93-6e97-4630-a17f-3be87a054190",
+            "sku": "206302-3U4",
+            "brand": "Crocs",
+            "name": "Crocs Classic Bae Clog Lime Zest (W)",
+            "colorway": "Lime Zest",
+            "gender": "women",
+            "silhouette": "Crocs Classic Bae Clog",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 59,
+            "estimatedMarketValue": 99,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-Lime-Zest-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634837365",
+                "small": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-Lime-Zest-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634837365",
+                "thumbnail": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-Lime-Zest-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634837365"
+            },
+            "links": {
+                "stockX": "https://stockx.com/crocs-classic-bae-clog-lime-zest-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d56ffb13-b1ac-44f0-a094-10d002fd8ec6",
+            "sku": "206302-100",
+            "brand": "Crocs",
+            "name": "Crocs Classic Bae Clog White (W)",
+            "colorway": "White",
+            "gender": "women",
+            "silhouette": "Crocs Classic Bae Clog",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 59,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-White-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634837365",
+                "small": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-White-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634837365",
+                "thumbnail": "https://images.stockx.com/images/Crocs-Classic-Bae-Clog-White-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1634837365"
+            },
+            "links": {
+                "stockX": "https://stockx.com/crocs-classic-bae-clog-white-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d6c54662-3606-4216-b21d-609acd4ad3f8",
+            "sku": "207271-90H",
+            "brand": "Crocs",
+            "name": "Wmns Classic Bae Buckle Translucent Clog 'Tie Dye Smiley'",
+            "colorway": "Black/Yellow",
+            "gender": "women",
+            "silhouette": "Clog",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/075/946/original/786425_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/075/946/original/786425_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/075/946/original/786425_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-bae-buckle-translucent-clog-tie-dye-smiley-207271-90h",
+                "flightClub": "https://flightclub.com/wmns-classic-bae-buckle-translucent-clog-tie-dye-smiley-207271-90h",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,2604 @@
+{
+    "results": [
+        {
+            "id": "3d3a4c4b-00d7-4a91-9c32-daf4bfd21d85",
+            "sku": "GW5658",
+            "brand": "adidas",
+            "name": "adidas NMD V3 Dash Grey (W)",
+            "colorway": "Dash Grey/Dash Grey/Core Black",
+            "gender": "women",
+            "silhouette": "NMD_V3",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-05",
+            "retailPrice": 160,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/413/105/original/GW5658.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/413/105/original/GW5658.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/413/105/original/GW5658.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-nmd-v3-dash-grey-w",
+                "goat": "https://goat.com/sneakers/wmns-nmd_v3-dash-grey-gw5658",
+                "flightClub": "https://flightclub.com/wmns-nmd_v3-dash-grey-gw5658",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fc44abe5-9ef4-41be-b9b7-39bef0d7d7b0",
+            "sku": "HQ6533",
+            "brand": "adidas",
+            "name": "Parley x Wmns UltraBoost 21 'Black Orbit Grey'",
+            "colorway": "Core Black/Core Black/Orbit Grey",
+            "gender": "women",
+            "silhouette": "UltraBoost 21",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-03",
+            "retailPrice": 220,
+            "estimatedMarketValue": 290,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/637/577/original/HQ6533.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/637/577/original/HQ6533.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/637/577/original/HQ6533.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/parley-x-wmns-ultraboost-21-black-orbit-grey-hq6533",
+                "flightClub": "https://flightclub.com/parley-x-wmns-ultraboost-21-black-orbit-grey-hq6533",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5287d3c4-d1e6-44ac-9c7f-fe93747d459a",
+            "sku": "H05776",
+            "brand": "adidas",
+            "name": "Wmns Terrex Soulstride 'Grey Turbo'",
+            "colorway": "Grey Three/Grey Four/Turbo",
+            "gender": "women",
+            "silhouette": "Terrex Soulstride",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-27",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/460/932/original/H05776.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/460/932/original/H05776.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/460/932/original/H05776.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-terrex-soulstride-grey-turbo-h05776",
+                "flightClub": "https://flightclub.com/wmns-terrex-soulstride-grey-turbo-h05776",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "316e0da1-9097-4afa-b7fa-f9ba41f6a7a6",
+            "sku": "GZ0588",
+            "brand": "adidas",
+            "name": "Wmns EQ21 Run 'Dash Grey Almost Pink'",
+            "colorway": "Dash Grey/Almost Pink/Acid Red",
+            "gender": "women",
+            "silhouette": "EQ21 Run",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-26",
+            "retailPrice": 80,
+            "estimatedMarketValue": 80,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/413/120/original/GZ0588.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/413/120/original/GZ0588.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/413/120/original/GZ0588.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-eq21-run-dash-grey-almost-pink-gz0588",
+                "flightClub": "https://flightclub.com/wmns-eq21-run-dash-grey-almost-pink-gz0588",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5c318b30-440e-4cb2-b46f-2e6da975fbb9",
+            "sku": "GZ0612",
+            "brand": "adidas",
+            "name": "Wmns Questar 'Acid Red Almost Pink'",
+            "colorway": "Acid Red/Turbo/Almost Pink",
+            "gender": "women",
+            "silhouette": "Questar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-26",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/413/121/original/GZ0612.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/413/121/original/GZ0612.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/413/121/original/GZ0612.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-questar-acid-red-almost-pink-gz0612",
+                "flightClub": "https://flightclub.com/wmns-questar-acid-red-almost-pink-gz0612",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e20c5cbb-ba97-4f3e-91c5-2faccec82320",
+            "sku": "GZ3474",
+            "brand": "adidas",
+            "name": "Wmns Superstar Bonega 'Embroidered Floral'",
+            "colorway": "Crystal White/Wonder White/Off White",
+            "gender": "women",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-26",
+            "retailPrice": 110,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/413/122/original/GZ3474.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/413/122/original/GZ3474.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/413/122/original/GZ3474.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-superstar-bonega-embroidered-floral-gz3474",
+                "flightClub": "https://flightclub.com/wmns-superstar-bonega-embroidered-floral-gz3474",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "376e4e4d-96ae-4b80-a57f-d09707f40a5d",
+            "sku": "GZ4296",
+            "brand": "adidas",
+            "name": "Wmns Forum Bonega Mid 'Embroidered Floral'",
+            "colorway": "Crystal White/Wonder White/Off White",
+            "gender": "women",
+            "silhouette": "Forum",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-25",
+            "retailPrice": 120,
+            "estimatedMarketValue": 190,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/413/123/original/GZ4296.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/413/123/original/GZ4296.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/413/123/original/GZ4296.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-forum-bonega-mid-embroidered-floral-gz4296",
+                "flightClub": "https://flightclub.com/wmns-forum-bonega-mid-embroidered-floral-gz4296",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "af7e6172-d69d-4cfa-98dc-9fef76eda181",
+            "sku": "GZ4308",
+            "brand": "adidas",
+            "name": "Wmns Stan Smith Bonega 'Embroidered Floral'",
+            "colorway": "Crystal White/Wonder White/Off White",
+            "gender": "women",
+            "silhouette": "Stan Smith",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-25",
+            "retailPrice": 110,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/413/125/original/GZ4308.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/413/125/original/GZ4308.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/413/125/original/GZ4308.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-stan-smith-bonega-embroidered-floral-gz4308",
+                "flightClub": "https://flightclub.com/wmns-stan-smith-bonega-embroidered-floral-gz4308",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0ec9d59d-1739-4e27-965a-2f72a9fbfaeb",
+            "sku": "H03190",
+            "brand": "adidas",
+            "name": "adidas Terrex Agravic Flow 2 Black Turbo Blue Rush (W)",
+            "colorway": "Core Black/Turbo/Blue Rush",
+            "gender": "women",
+            "silhouette": "adidas Terrex Agravic Flow 2",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-24",
+            "retailPrice": 130,
+            "estimatedMarketValue": 220,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/adidas-Terrex-Agravic-Flow-2-Black-Turbo-Blue-Rush-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1651604443",
+                "small": "https://images.stockx.com/images/adidas-Terrex-Agravic-Flow-2-Black-Turbo-Blue-Rush-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1651604443",
+                "thumbnail": "https://images.stockx.com/images/adidas-Terrex-Agravic-Flow-2-Black-Turbo-Blue-Rush-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1651604443"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-terrex-agravic-flow-2-black-turbo-blue-rush-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6f457005-0c94-49f6-8d89-a6ec8022129b",
+            "sku": "GV7929",
+            "brand": "adidas",
+            "name": "Disney x Wmns Forum 84 Low 'Bambi - Floral'",
+            "colorway": "Cloud White/Off White/Clear Pink",
+            "gender": "women",
+            "silhouette": "Forum",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-24",
+            "retailPrice": 110,
+            "estimatedMarketValue": 180,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/699/original/GV7929.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/699/original/GV7929.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/699/original/GV7929.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-wmns-forum-84-low-bambi-floral-gv7929",
+                "flightClub": "https://flightclub.com/disney-x-wmns-forum-84-low-bambi-floral-gv7929",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c7954941-9e0a-4faa-9825-ee081401c0cf",
+            "sku": "H03189",
+            "brand": "adidas",
+            "name": "adidas Terrex Agravic Flow 2 Black Mint Ton (W)",
+            "colorway": "Core Black/Mint Ton/Cloud White",
+            "gender": "women",
+            "silhouette": "Terrex Agravic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-24",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/273/original/H03189.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/273/original/H03189.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/273/original/H03189.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-terrex-agravic-flow-2-black-mint-ton-w",
+                "goat": "https://goat.com/sneakers/wmns-terrex-agravic-flow-2-black-mint-ton-h03189",
+                "flightClub": "https://flightclub.com/wmns-terrex-agravic-flow-2-black-mint-ton-h03189",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "dcf67460-70ed-4188-8d50-b4e30fc3b49f",
+            "sku": "GW1389",
+            "brand": "adidas",
+            "name": "Wmns SolarGlide 5 'Grey Silver Metallic'",
+            "colorway": "Grey Two/Silver Metallic/Wonder Mauve",
+            "gender": "women",
+            "silhouette": "SolarGlide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-24",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/700/original/GW1389.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/700/original/GW1389.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/700/original/GW1389.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-solarglide-5-grey-silver-metallic-gw1389",
+                "flightClub": "https://flightclub.com/wmns-solarglide-5-grey-silver-metallic-gw1389",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ef3643f1-d770-4346-be2a-1a1716bd1217",
+            "sku": "H03191",
+            "brand": "adidas",
+            "name": "adidas Terrex Agravic Flow 2 Almost Lime Turbo (W)",
+            "colorway": "Almost Lime/Pulse Lime/Turbo",
+            "gender": "women",
+            "silhouette": "adidas Terrex Agravic Flow 2",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-24",
+            "retailPrice": 130,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/adidas-Terrex-Agravic-Flow-2-Almost-Lime-Turbo-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1651604442",
+                "small": "https://images.stockx.com/images/adidas-Terrex-Agravic-Flow-2-Almost-Lime-Turbo-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1651604442",
+                "thumbnail": "https://images.stockx.com/images/adidas-Terrex-Agravic-Flow-2-Almost-Lime-Turbo-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1651604442"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-terrex-agravic-flow-2-almost-lime-turbo-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f2e839af-5df9-4bb0-b8f2-c8d9510ef719",
+            "sku": "GX2905",
+            "brand": "adidas",
+            "name": "Wmns Supernova+ 'Black Magic Grey'",
+            "colorway": "Core Black/Cloud White/Magic Grey",
+            "gender": "women",
+            "silhouette": "Supernova",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-24",
+            "retailPrice": 120,
+            "estimatedMarketValue": 190,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/727/original/GX2905.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/727/original/GX2905.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/727/original/GX2905.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-supernova-black-magic-grey-gx2905",
+                "flightClub": "https://flightclub.com/wmns-supernova-black-magic-grey-gx2905",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f7524ae0-4c60-46f5-af79-6d2b1872abad",
+            "sku": "GZ4297",
+            "brand": "adidas",
+            "name": "Wmns Forum Bonega 'Embroidered Floral'",
+            "colorway": "Crystal White/Wonder White/Off White",
+            "gender": "women",
+            "silhouette": "Forum",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-24",
+            "retailPrice": 110,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/413/124/original/GZ4297.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/413/124/original/GZ4297.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/413/124/original/GZ4297.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-forum-bonega-embroidered-floral-gz4297",
+                "flightClub": "https://flightclub.com/wmns-forum-bonega-embroidered-floral-gz4297",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5c93bd99-628d-4312-8cca-09b099c7c4ae",
+            "sku": "GZ3750",
+            "brand": "adidas",
+            "name": "Wmns Avacourt 'Safari Mix'",
+            "colorway": "Cloud White/Active Purple/Semi Solar Green",
+            "gender": "women",
+            "silhouette": "Avacourt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-23",
+            "retailPrice": 140,
+            "estimatedMarketValue": 210,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/779/original/GZ3750.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/779/original/GZ3750.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/779/original/GZ3750.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-avacourt-safari-mix-gz3750",
+                "flightClub": "https://flightclub.com/wmns-avacourt-safari-mix-gz3750",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d6247d54-3cff-4542-9e5e-fa18c489e5f9",
+            "sku": "GZ3284",
+            "brand": "adidas",
+            "name": "Wmns Adizero Ubersonic 4 'White Acid Red'",
+            "colorway": "Cloud White/Legacy Indigo/Acid Red",
+            "gender": "women",
+            "silhouette": "Adizero Ubersonic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-23",
+            "retailPrice": 130,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/776/original/GZ3284.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/776/original/GZ3284.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/776/original/GZ3284.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-adizero-ubersonic-4-white-acid-red-gz3284",
+                "flightClub": "https://flightclub.com/wmns-adizero-ubersonic-4-white-acid-red-gz3284",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "eee8ca85-8854-4684-8509-57a734c99451",
+            "sku": "GW2763",
+            "brand": "adidas",
+            "name": "Marimekko x Wmns SN1997 'Poppy'",
+            "colorway": "Cloud White/Trail Brown/Pearl Citrine",
+            "gender": "women",
+            "silhouette": "SN 1997",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-23",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/356/159/original/SN1997_x_Marimekko_Shoes_White_GW2763_01_standard-removebg.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/356/159/original/SN1997_x_Marimekko_Shoes_White_GW2763_01_standard-removebg.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/356/159/original/SN1997_x_Marimekko_Shoes_White_GW2763_01_standard-removebg.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/marimekko-x-wmns-sn1997-poppy-gw2763",
+                "flightClub": "https://flightclub.com/marimekko-x-wmns-sn1997-poppy-gw2763",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fb291122-879b-403a-bdbb-68fbde10a65f",
+            "sku": "GX0590",
+            "brand": "adidas",
+            "name": "Wmns Edge Lux 'Burgundy'",
+            "colorway": "Burgundy/Sandy Beige Metallic/Wonder White",
+            "gender": "women",
+            "silhouette": "Edge Lux",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-23",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/719/original/GX0590.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/719/original/GX0590.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/719/original/GX0590.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-edge-lux-burgundy-gx0590",
+                "flightClub": "https://flightclub.com/wmns-edge-lux-burgundy-gx0590",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8465ef0a-8b32-45f4-98c8-f8a4e50cc3b6",
+            "sku": "GW8746",
+            "brand": "adidas",
+            "name": "Wmns Adilette Comfort Slide 'White Matte Silver'",
+            "colorway": "Chalk White/Chalk White/Matte Silver",
+            "gender": "women",
+            "silhouette": "Adilette",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-22",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/712/original/GW8746.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/712/original/GW8746.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/712/original/GW8746.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-adilette-comfort-slide-white-matte-silver-gw8746",
+                "flightClub": "https://flightclub.com/wmns-adilette-comfort-slide-white-matte-silver-gw8746",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ea219cfc-32ac-4f57-8ba0-ed3582a7cc68",
+            "sku": "GW6660",
+            "brand": "adidas",
+            "name": "Wmns Response 'Carbon Turbo'",
+            "colorway": "Carbon/Sandy Beige Metallic/Turbo",
+            "gender": "women",
+            "silhouette": "Response Bounce",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-22",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/706/original/GW6660.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/706/original/GW6660.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/706/original/GW6660.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-response-carbon-turbo-gw6660",
+                "flightClub": "https://flightclub.com/wmns-response-carbon-turbo-gw6660",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "878d299f-9e8c-4b40-92d3-78b4ac74d7e5",
+            "sku": "GW5457",
+            "brand": "adidas",
+            "name": "Wmns Hoops 3.0 Mid 'White Dash Grey'",
+            "colorway": "Cloud White/Cloud White/Dash Grey",
+            "gender": "women",
+            "silhouette": "Hoops 3.0",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-21",
+            "retailPrice": 65,
+            "estimatedMarketValue": 97,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/705/original/GW5457.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/705/original/GW5457.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/705/original/GW5457.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-hoops-3-0-mid-white-dash-grey-gw5457",
+                "flightClub": "https://flightclub.com/wmns-hoops-3-0-mid-white-dash-grey-gw5457",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f83a3a97-b4b1-41c4-9d14-19ecf0f32205",
+            "sku": "H04590",
+            "brand": "adidas",
+            "name": "Wmns Fluidflow 2.0 'Halo Silver'",
+            "colorway": "Halo Silver/Cloud White/Halo Blue",
+            "gender": "women",
+            "silhouette": "Fluidflow",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-20",
+            "retailPrice": 80,
+            "estimatedMarketValue": 80,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/130/538/original/H04590.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/130/538/original/H04590.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/130/538/original/H04590.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluidflow-2-0-halo-silver-h04590",
+                "flightClub": "https://flightclub.com/wmns-fluidflow-2-0-halo-silver-h04590",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "072b3d33-2a40-4cad-a19c-29497fda9bf6",
+            "sku": "GV9749",
+            "brand": "adidas",
+            "name": "Wmns Summervent Spikeless Golf 'Grey Light Purple'",
+            "colorway": "Grey Two/Silver Metallic/Light Purple",
+            "gender": "women",
+            "silhouette": "Summervent",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-19",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/087/314/original/GV9749.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/087/314/original/GV9749.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/087/314/original/GV9749.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-summervent-spikeless-golf-grey-light-purple-gv9749",
+                "flightClub": "https://flightclub.com/wmns-summervent-spikeless-golf-grey-light-purple-gv9749",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4182df98-cb5e-4f1c-812a-6188aad134cf",
+            "sku": "GV9764",
+            "brand": "adidas",
+            "name": "Wmns Summervent Spikeless Golf 'Wonder Mauve'",
+            "colorway": "Wonder Mauve/Wonder Mauve/Magic Grey",
+            "gender": "women",
+            "silhouette": "Summervent",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-18",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/087/315/original/GV9764.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/087/315/original/GV9764.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/087/315/original/GV9764.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-summervent-spikeless-golf-wonder-mauve-gv9764",
+                "flightClub": "https://flightclub.com/wmns-summervent-spikeless-golf-wonder-mauve-gv9764",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5afdf6de-2766-41dc-8bf8-305706427a0b",
+            "sku": "GZ5878",
+            "brand": "adidas",
+            "name": "Wmns Adilette Aqua Slide 'Almost Pink'",
+            "colorway": "Almost Pink/Cloud White/Almost Pink",
+            "gender": "women",
+            "silhouette": "Adilette",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-18",
+            "retailPrice": 25,
+            "estimatedMarketValue": 95,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/270/original/GZ5878.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/270/original/GZ5878.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/270/original/GZ5878.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-adilette-aqua-slide-almost-pink-gz5878",
+                "flightClub": "https://flightclub.com/wmns-adilette-aqua-slide-almost-pink-gz5878",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "62d34e41-c1b9-4330-ba7a-cb8e52b1ccdd",
+            "sku": "GW8741",
+            "brand": "adidas",
+            "name": "Wmns Adilette Comfort Slide 'Wonder Mauve'",
+            "colorway": "Wonder Mauve/Magic Earth Met/Magic Earth Met",
+            "gender": "women",
+            "silhouette": "Adilette",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-18",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/087/347/original/GW8741.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/087/347/original/GW8741.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/087/347/original/GW8741.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-adilette-comfort-slide-wonder-mauve-gw8741",
+                "flightClub": "https://flightclub.com/wmns-adilette-comfort-slide-wonder-mauve-gw8741",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "88dc2832-b963-47a1-b59d-077c2d606ac8",
+            "sku": "GZ3281",
+            "brand": "adidas",
+            "name": "Wmns Summervent Spikeless Golf 'White Almost Lime'",
+            "colorway": "Cloud White/Cloud White/Almost Lime",
+            "gender": "women",
+            "silhouette": "Summervent",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-18",
+            "retailPrice": 90,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/087/363/original/GZ3281.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/087/363/original/GZ3281.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/087/363/original/GZ3281.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-summervent-spikeless-golf-white-almost-lime-gz3281",
+                "flightClub": "https://flightclub.com/wmns-summervent-spikeless-golf-white-almost-lime-gz3281",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1a6c7b12-24a2-466a-9ebd-eb6d9bb64011",
+            "sku": "H03384",
+            "brand": "adidas",
+            "name": "Wmns Terrex Agravic Flow 2.0 GTX 'Dash Grey Sky Rush'",
+            "colorway": "Dash Grey/Magic Grey/Sky Rush",
+            "gender": "women",
+            "silhouette": "Terrex Agravic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-17",
+            "retailPrice": 150,
+            "estimatedMarketValue": 220,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/276/original/H03384.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/276/original/H03384.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/276/original/H03384.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-terrex-agravic-flow-2-0-gtx-dash-grey-sky-rush-h03384",
+                "flightClub": "https://flightclub.com/wmns-terrex-agravic-flow-2-0-gtx-dash-grey-sky-rush-h03384",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3bd1a483-db87-4139-ab27-27454018e522",
+            "sku": "H03382",
+            "brand": "adidas",
+            "name": "Wmns Terrex Agravic Flow 2.0 GTX 'Black Grey Mint Ton'",
+            "colorway": "Core Black/Grey Six/Mint Ton",
+            "gender": "women",
+            "silhouette": "Terrex Agravic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-17",
+            "retailPrice": 150,
+            "estimatedMarketValue": 220,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/274/original/H03382.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/274/original/H03382.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/274/original/H03382.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-terrex-agravic-flow-2-0-gtx-black-grey-mint-ton-h03382",
+                "flightClub": "https://flightclub.com/wmns-terrex-agravic-flow-2-0-gtx-black-grey-mint-ton-h03382",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3d139260-eeb8-499e-973b-0acb1392573b",
+            "sku": "GZ0690",
+            "brand": "adidas",
+            "name": "Wmns Avacourt 'White Legacy Indigo'",
+            "colorway": "Cloud White/Legacy Indigo/Flash Orange",
+            "gender": "women",
+            "silhouette": "Avacourt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-17",
+            "retailPrice": 140,
+            "estimatedMarketValue": 169,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/260/original/GZ0690.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/260/original/GZ0690.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/260/original/GZ0690.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-avacourt-white-legacy-indigo-gz0690",
+                "flightClub": "https://flightclub.com/wmns-avacourt-white-legacy-indigo-gz0690",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4cc4c47d-774a-409a-9310-6bb741158433",
+            "sku": "GY8728",
+            "brand": "adidas",
+            "name": "adidas Solarglide 5 Wonder Mauve (W)",
+            "colorway": "Wonder Mauve/Cloud White/Rose Tone",
+            "gender": "women",
+            "silhouette": "SolarGlide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-17",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/128/original/GY8728.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/128/original/GY8728.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/128/original/GY8728.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-solarglide-5-wonder-mauve-w",
+                "goat": "https://goat.com/sneakers/wmns-solarglide-5-wonder-mauve-gy8728",
+                "flightClub": "https://flightclub.com/wmns-solarglide-5-wonder-mauve-gy8728",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c923e3ef-8535-43eb-81b4-249b474fe968",
+            "sku": "GZ3477",
+            "brand": "adidas",
+            "name": "adidas Superstar Vegan White Bliss (W)",
+            "colorway": "Cloud White/Cloud White/Bliss",
+            "gender": "women",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-17",
+            "retailPrice": 100,
+            "estimatedMarketValue": 103,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/715/201/original/GZ3477.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/715/201/original/GZ3477.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/715/201/original/GZ3477.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-superstar-vegan-white-bliss-w",
+                "goat": "https://goat.com/sneakers/superstar-vegan-spilt-milk-gz3477",
+                "flightClub": "https://flightclub.com/superstar-vegan-spilt-milk-gz3477",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "02b37702-b46d-4260-aba8-25abf14fd32b",
+            "sku": "GZ1637",
+            "brand": "adidas",
+            "name": "Wmns Astir 'White Calvi'",
+            "colorway": "Cloud White/Cloud White/Calvi",
+            "gender": "women",
+            "silhouette": "Astir",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-16",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/264/original/GZ1637.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/264/original/GZ1637.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/264/original/GZ1637.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-astir-white-calvi-gz1637",
+                "flightClub": "https://flightclub.com/wmns-astir-white-calvi-gz1637",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f61703fa-561b-4b2e-962f-4e4ed2020b20",
+            "sku": "GV9765",
+            "brand": "adidas",
+            "name": "Wmns Summervent Spikeless Golf 'Black Mint Rush'",
+            "colorway": "Core Black/Core Black/Mint Rush",
+            "gender": "women",
+            "silhouette": "Summervent",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-16",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/087/316/original/GV9765.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/087/316/original/GV9765.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/087/316/original/GV9765.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-summervent-spikeless-golf-black-mint-rush-gv9765",
+                "flightClub": "https://flightclub.com/wmns-summervent-spikeless-golf-black-mint-rush-gv9765",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "44e420d1-11fd-4815-9770-2000325abbb0",
+            "sku": "GX5784",
+            "brand": "adidas",
+            "name": "adidas NMD V3 Utility Green Legend Ink (W)",
+            "colorway": "Utility Green/Legend Ink/Gold Metallic",
+            "gender": "women",
+            "silhouette": "NMD_V3",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-15",
+            "retailPrice": 160,
+            "estimatedMarketValue": 198,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/121/original/GX5784.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/121/original/GX5784.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/121/original/GX5784.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-nmd-v3-utility-green-legend-ink-w",
+                "goat": "https://goat.com/sneakers/wmns-nmd_v3-utility-green-legend-ink-gx5784",
+                "flightClub": "https://flightclub.com/wmns-nmd_v3-utility-green-legend-ink-gx5784",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "89efb5f0-8870-45e6-bc37-329fcbd5af66",
+            "sku": "GW4230",
+            "brand": "adidas",
+            "name": "adidas SL20.3 Tinman Elite (W)",
+            "colorway": "Grey Three/Cloud White/Grey Four",
+            "gender": "women",
+            "silhouette": "SL20",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-14",
+            "retailPrice": 110,
+            "estimatedMarketValue": 180,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/924/258/original/GW4230.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/924/258/original/GW4230.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/924/258/original/GW4230.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-sl203-tinman-elite-w",
+                "goat": "https://goat.com/sneakers/wmns-sl20-3-tme-grey-gw4230",
+                "flightClub": "https://flightclub.com/wmns-sl20-3-tme-grey-gw4230",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d96bf839-e0b0-49a2-8ffd-40a541627f92",
+            "sku": "GX8550",
+            "brand": "adidas",
+            "name": "Wmns Astir 'Almost Lime Paint Drip'",
+            "colorway": "Almost Lime/Almost Lime/Core Black",
+            "gender": "women",
+            "silhouette": "Astir",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-14",
+            "retailPrice": 100,
+            "estimatedMarketValue": 121,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/803/808/original/GX8550.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/803/808/original/GX8550.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/803/808/original/GX8550.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-astir-almost-lime-paint-drip-gx8550",
+                "flightClub": "https://flightclub.com/wmns-astir-almost-lime-paint-drip-gx8550",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e0a3f543-6eda-4ec4-8546-bdb9b4a6dca3",
+            "sku": "H03383",
+            "brand": "adidas",
+            "name": "Wmns Terrex Agravic Flow 2.0 GTX 'Almost Lime Turbo'",
+            "colorway": "Almost Lime/Pulse Lime/Turbo",
+            "gender": "women",
+            "silhouette": "Terrex Agravic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-14",
+            "retailPrice": 150,
+            "estimatedMarketValue": 220,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/275/original/H03383.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/275/original/H03383.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/275/original/H03383.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-terrex-agravic-flow-2-0-gtx-almost-lime-turbo-h03383",
+                "flightClub": "https://flightclub.com/wmns-terrex-agravic-flow-2-0-gtx-almost-lime-turbo-h03383",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "48535ce3-3778-4f60-809c-5ae3014d1e04",
+            "sku": "GX5512",
+            "brand": "adidas",
+            "name": "adidas Solarglide 5 Black Solar Red Purple (W)",
+            "colorway": "Core Black/Core Black/Solar Red",
+            "gender": "women",
+            "silhouette": "SolarGlide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 130,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/443/112/original/GX5512.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/443/112/original/GX5512.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/443/112/original/GX5512.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-solarglide-5-black-solar-red-purple-w",
+                "goat": "https://goat.com/sneakers/wmns-solarglide-5-black-floral-gx5512",
+                "flightClub": "https://flightclub.com/wmns-solarglide-5-black-floral-gx5512",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5485df71-5daf-4d4d-9e8f-40e17154b535",
+            "sku": "GW1060",
+            "brand": "adidas",
+            "name": "Disney x Wmns Adilette Comfort Slide 'Minnie Mouse'",
+            "colorway": "Cloud White/Ray Red/Core Black",
+            "gender": "women",
+            "silhouette": "Adilette",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/896/original/GW1060.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/896/original/GW1060.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/896/original/GW1060.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-wmns-adilette-comfort-slide-minnie-mouse-gw1060",
+                "flightClub": "https://flightclub.com/disney-x-wmns-adilette-comfort-slide-minnie-mouse-gw1060",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "942d4903-8945-4d9e-b363-430efd2e76fa",
+            "sku": "H01163",
+            "brand": "adidas",
+            "name": "adidas Solarglide 5 Carbon Turbo (W)",
+            "colorway": "Carbon/Sandy Beige Met/Turbo",
+            "gender": "women",
+            "silhouette": "SolarGlide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/873/original/H01163.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/873/original/H01163.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/873/original/H01163.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-solarglide-5-carbon-turbo-w",
+                "goat": "https://goat.com/sneakers/wmns-solarglide-5-carbon-turbo-h01163",
+                "flightClub": "https://flightclub.com/wmns-solarglide-5-carbon-turbo-h01163",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a5822363-dfdc-4c93-9a31-5310cde9b25f",
+            "sku": "GX5511",
+            "brand": "adidas",
+            "name": "adidas Solarglide 5 Core Black White (W)",
+            "colorway": "Core Black/Cloud White/Grey Six",
+            "gender": "women",
+            "silhouette": "SolarGlide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 130,
+            "estimatedMarketValue": 137,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/999/755/original/GX5511.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/999/755/original/GX5511.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/999/755/original/GX5511.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-solarglide-5-core-black-white-w",
+                "goat": "https://goat.com/sneakers/wmns-solarglide-5-black-grey-gx5511",
+                "flightClub": "https://flightclub.com/wmns-solarglide-5-black-grey-gx5511",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ca95012e-a08b-4c16-84aa-517e100f8b53",
+            "sku": "GX5496",
+            "brand": "adidas",
+            "name": "adidas Solarglide 5 Light Flash Orange (W)",
+            "colorway": "Core White/Silver Metallic/Light Flash Orange",
+            "gender": "women",
+            "silhouette": "SolarGlide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 130,
+            "estimatedMarketValue": 138,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/854/original/GX5496.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/854/original/GX5496.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/854/original/GX5496.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-solarglide-5-light-flash-orange-w",
+                "goat": "https://goat.com/sneakers/wmns-solarglide-5-white-silver-metallic-gx5496",
+                "flightClub": "https://flightclub.com/wmns-solarglide-5-white-silver-metallic-gx5496",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "485e5e9e-b812-4964-a7f4-16ad6d531668",
+            "sku": "GX8549",
+            "brand": "adidas",
+            "name": "Wmns Astir 'Triple White'",
+            "colorway": "Cloud White/Cloud White/Off White",
+            "gender": "women",
+            "silhouette": "Astir",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 100,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/122/original/GX8549.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/122/original/GX8549.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/122/original/GX8549.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-astir-triple-white-gx8549",
+                "flightClub": "https://flightclub.com/wmns-astir-triple-white-gx8549",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c2483d19-11d3-43ca-aba2-fe86963b53f4",
+            "sku": "GZ5986",
+            "brand": "adidas",
+            "name": "FARM Rio x Wmns Vulc Raid3r 'Tropical'",
+            "colorway": "Cloud White/Cloud White/Cloud White",
+            "gender": "women",
+            "silhouette": "Vulc Raid3r",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/140/original/GZ5986.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/140/original/GZ5986.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/140/original/GZ5986.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/farm-rio-x-wmns-vulc-raid3r-tropical-gz5986",
+                "flightClub": "https://flightclub.com/farm-rio-x-wmns-vulc-raid3r-tropical-gz5986",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c7659613-e60f-4e7d-9874-d040469b6af3",
+            "sku": "GW5622",
+            "brand": "adidas",
+            "name": "Wmns Ozweego 'White Pulse Lime'",
+            "colorway": "Cloud White/Almost Lime/Pulse Lime",
+            "gender": "women",
+            "silhouette": "Ozweego",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 110,
+            "estimatedMarketValue": 180,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/116/original/GW5622.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/116/original/GW5622.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/116/original/GW5622.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-ozweego-white-pulse-lime-gw5622",
+                "flightClub": "https://flightclub.com/wmns-ozweego-white-pulse-lime-gw5622",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cc5bbcd5-2d7e-489a-86a5-955b3bfc6c23",
+            "sku": "GW1049",
+            "brand": "adidas",
+            "name": "Wmns Adilette Comfort Slide 'Black Floral'",
+            "colorway": "Core Black/Cloud White/Core Black",
+            "gender": "women",
+            "silhouette": "Adilette",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/214/original/GW1049.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/214/original/GW1049.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/214/original/GW1049.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-adilette-comfort-slide-black-floral-gw1049",
+                "flightClub": "https://flightclub.com/wmns-adilette-comfort-slide-black-floral-gw1049",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0f03cc92-db68-45a8-8287-7ade3501b999",
+            "sku": "GW0372",
+            "brand": "adidas",
+            "name": "Wmns Nebzed Super Boost 'White Silver Metallic'",
+            "colorway": "Cloud White/Cloud White/Silver Metallic",
+            "gender": "women",
+            "silhouette": "Nebzed",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/743/original/GW0372.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/743/original/GW0372.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/743/original/GW0372.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nebzed-super-boost-white-silver-metallic-gw0372",
+                "flightClub": "https://flightclub.com/wmns-nebzed-super-boost-white-silver-metallic-gw0372",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d3615b0d-7c26-4999-8cee-493422ae025c",
+            "sku": "Q47241",
+            "brand": "adidas",
+            "name": "Wmns Tracefinder Trail 'Dash Grey Sky Rush'",
+            "colorway": "Dash Grey/Cloud White/Sky Rush",
+            "gender": "women",
+            "silhouette": "Tracefinder Trail",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/171/original/Q47241.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/171/original/Q47241.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/171/original/Q47241.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-tracefinder-trail-dash-grey-sky-rush-q47241",
+                "flightClub": "https://flightclub.com/wmns-tracefinder-trail-dash-grey-sky-rush-q47241",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f6cd13c5-7733-432c-83f1-4ec1a0f80640",
+            "sku": "GX2982",
+            "brand": "adidas",
+            "name": "Wmns 4DFWD Pulse 'Carbon Almost Pink'",
+            "colorway": "Carbon/Carbon/Almost Pink",
+            "gender": "women",
+            "silhouette": "4DFWD",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 160,
+            "estimatedMarketValue": 230,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/755/original/GX2982.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/755/original/GX2982.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/755/original/GX2982.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-4dfwd-pulse-carbon-almost-pink-gx2982",
+                "flightClub": "https://flightclub.com/wmns-4dfwd-pulse-carbon-almost-pink-gx2982",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "431c1b49-9d77-419b-b802-e3c9f47708fe",
+            "sku": "GW8567",
+            "brand": "adidas",
+            "name": "adidas Ultra Boost 4.0 DNA Marimekko Floral (W)",
+            "colorway": "Cloud White/Cloud White/Pearl Citrine",
+            "gender": "women",
+            "silhouette": "UltraBoost 5.0",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-09",
+            "retailPrice": 200,
+            "estimatedMarketValue": 166,
+            "story": "Launching as part of a capsule collection with the Finnish design brand, the Marimekko x adidas women’s UltraBoost 5.0 ‘Poppy’ gives the lifestyle runner a colorful makeover. Marimekko’s signature poppy print floods the sock-like Primeknit upper, composed of 50% Parley Ocean Plastic and 50% recycled polyester. Vibrant green accents settle on the molded heel counter and dual-branded tongue tag. The sneaker sits atop a full-length Boost midsole, supported underfoot by a Stretchweb Continental Rubber outsole.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/356/821/original/GW8567.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/356/821/original/GW8567.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/356/821/original/GW8567.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-ultra-boost-40-dna-marimekko-floral-w",
+                "goat": "https://goat.com/sneakers/marimekko-x-wmns-ultraboost-5-0-poppy-gw8567",
+                "flightClub": "https://flightclub.com/marimekko-x-wmns-ultraboost-5-0-poppy-gw8567",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4c8dcd2f-55dd-4f52-bfa7-106f63cb1215",
+            "sku": "GX2986",
+            "brand": "adidas",
+            "name": "Wmns 4DFWD Pulse 'Shadow Navy Turbo'",
+            "colorway": "Shadow Navy/Silver Metallic/Turbo",
+            "gender": "women",
+            "silhouette": "4DFWD",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-09",
+            "retailPrice": 160,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/757/original/GX2986.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/757/original/GX2986.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/757/original/GX2986.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-4dfwd-pulse-shadow-navy-turbo-gx2986",
+                "flightClub": "https://flightclub.com/wmns-4dfwd-pulse-shadow-navy-turbo-gx2986",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6ff6e8c8-2022-499c-9db2-ee9b87d30ee0",
+            "sku": "GX2984",
+            "brand": "adidas",
+            "name": "Wmns 4DFWD Pulse 'White Flash Orange'",
+            "colorway": "Cloud White/Flash Orange/Ecru Tint",
+            "gender": "women",
+            "silhouette": "4DFWD",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-09",
+            "retailPrice": 160,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/756/original/GX2984.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/756/original/GX2984.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/756/original/GX2984.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-4dfwd-pulse-white-flash-orange-gx2984",
+                "flightClub": "https://flightclub.com/wmns-4dfwd-pulse-white-flash-orange-gx2984",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "86046d7a-6967-4cf0-8588-aeb7ef1fcbdf",
+            "sku": "GX3190",
+            "brand": "adidas",
+            "name": "Wmns Cloudfoam Pure 2.0 'Black Magic Grey Metallic'",
+            "colorway": "Core Black/Magic Grey Metallic/Magic Grey",
+            "gender": "women",
+            "silhouette": "Cloudfoam Pure",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-09",
+            "retailPrice": 75,
+            "estimatedMarketValue": 75,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/759/original/GX3190.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/759/original/GX3190.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/759/original/GX3190.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cloudfoam-pure-2-0-black-magic-grey-metallic-gx3190",
+                "flightClub": "https://flightclub.com/wmns-cloudfoam-pure-2-0-black-magic-grey-metallic-gx3190",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f59f3b04-b48a-4e76-990d-c6a7ba554da8",
+            "sku": "GW9653",
+            "brand": "adidas",
+            "name": "S.E.E.D x Wmns Top Ten RB G20 CM 201 'Multi'",
+            "colorway": "Orange Rush/Semi Turbo/Bright Blue",
+            "gender": "women",
+            "silhouette": "Top Ten",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-09",
+            "retailPrice": 110,
+            "estimatedMarketValue": 180,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/753/original/GW9653.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/753/original/GW9653.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/753/original/GW9653.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/s-e-e-d-x-wmns-top-ten-rb-g20-cm-201-multi-gw9653",
+                "flightClub": "https://flightclub.com/s-e-e-d-x-wmns-top-ten-rb-g20-cm-201-multi-gw9653",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f70d3f0b-2489-432e-a469-7b2a0205d4ae",
+            "sku": "GW2513",
+            "brand": "adidas",
+            "name": "Wmns Adizero Ubersonic 4 'White Silver Metallic'",
+            "colorway": "Cloud White/Silver Metallic/Grey Two",
+            "gender": "women",
+            "silhouette": "Adizero Ubersonic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-09",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/746/original/GW2513.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/746/original/GW2513.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/746/original/GW2513.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-adizero-ubersonic-4-white-silver-metallic-gw2513",
+                "flightClub": "https://flightclub.com/wmns-adizero-ubersonic-4-white-silver-metallic-gw2513",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "678c634c-b877-4885-bdb5-8cd2b0f8be5e",
+            "sku": "GV9215",
+            "brand": "adidas",
+            "name": "adidas Tour360 22 Waffle House (W)",
+            "colorway": "Wonder White/Golden Beige/Sandy Beige Met",
+            "gender": "women",
+            "silhouette": "Tour 360",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-07",
+            "retailPrice": 200,
+            "estimatedMarketValue": 239,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/003/original/GV9215.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/003/original/GV9215.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/003/original/GV9215.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-tour360-22-waffle-house-w",
+                "goat": "https://goat.com/sneakers/waffle-house-x-wmns-tour-360-22-waffles-gv9215",
+                "flightClub": "https://flightclub.com/waffle-house-x-wmns-tour-360-22-waffles-gv9215",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a44cbc60-212e-48a6-b9f5-e0c4bd78525f",
+            "sku": "GY5260",
+            "brand": "adidas",
+            "name": "Wmns Astir 'Black White'",
+            "colorway": "Core Black/Core Black/Cloud White",
+            "gender": "women",
+            "silhouette": "Astir",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 100,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/391/278/original/GY5260.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/391/278/original/GY5260.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/391/278/original/GY5260.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-astir-black-white-gy5260",
+                "flightClub": "https://flightclub.com/wmns-astir-black-white-gy5260",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f64b10cb-05c0-41ae-9c00-465e92bc819d",
+            "sku": "GX5658",
+            "brand": "adidas",
+            "name": "Wmns Puremotion Adapt 'Black Floral'",
+            "colorway": "Core Black/Core Black/Pulse Mint",
+            "gender": "women",
+            "silhouette": "Puremotion Adapt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/391/275/original/GX5658.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/391/275/original/GX5658.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/391/275/original/GX5658.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-puremotion-adapt-black-floral-gx5658",
+                "flightClub": "https://flightclub.com/wmns-puremotion-adapt-black-floral-gx5658",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5132fc3c-046d-4bc7-8fc5-6818b72aca60",
+            "sku": "GV7910",
+            "brand": "adidas",
+            "name": "Disney x Wmns Adilette Slide 'Bambi'",
+            "colorway": "Clear Pink/Cloud White/Core Black",
+            "gender": "women",
+            "silhouette": "Adilette",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 50,
+            "estimatedMarketValue": 94,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/344/400/original/GV7910.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/344/400/original/GV7910.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/344/400/original/GV7910.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-wmns-adilette-slide-bambi-gv7910",
+                "flightClub": "https://flightclub.com/disney-x-wmns-adilette-slide-bambi-gv7910",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7af39c77-9931-4be8-9060-e059e949b36f",
+            "sku": "GW8571",
+            "brand": "adidas",
+            "name": "Disney x Wmns Forum Bold 'Bambi'",
+            "colorway": "Cloud White/Silver Metallic/Core Black",
+            "gender": "women",
+            "silhouette": "Forum",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 110,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/024/original/GW8571.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/024/original/GW8571.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/024/original/GW8571.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-wmns-forum-bold-bambi-gw8571",
+                "flightClub": "https://flightclub.com/disney-x-wmns-forum-bold-bambi-gw8571",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "17039cea-fc38-46b8-af6a-70cc7e6358f4",
+            "sku": "GX7758",
+            "brand": "adidas",
+            "name": "Wmns X9000L4 Heat.RDY 'White Magic Mauve'",
+            "colorway": "Cloud White/Cloud White/Magic Mauve",
+            "gender": "women",
+            "silhouette": "X9000L4",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-03",
+            "retailPrice": 140,
+            "estimatedMarketValue": 175,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/051/original/GX7758.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/051/original/GX7758.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/051/original/GX7758.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-x9000l4-heat-rdy-white-magic-mauve-gx7758",
+                "flightClub": "https://flightclub.com/wmns-x9000l4-heat-rdy-white-magic-mauve-gx7758",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "21ed0ef8-ae9d-4b92-a064-5b4820b967b5",
+            "sku": "GV9185",
+            "brand": "adidas",
+            "name": "adidas NMD R1 Blue Pink (W)",
+            "colorway": "Supplier Colour/Cloud White/Supplier Colour",
+            "gender": "women",
+            "silhouette": "NMD Runner",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-03",
+            "retailPrice": 150,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/001/original/GV9185.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/001/original/GV9185.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/001/original/GV9185.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-nmd-r1-blue-pink-w",
+                "goat": "https://goat.com/sneakers/wmns-nmd_r1-blue-pink-gv9185",
+                "flightClub": "https://flightclub.com/wmns-nmd_r1-blue-pink-gv9185",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8f95393d-14d2-4fbf-9739-9d27b6e95a40",
+            "sku": "GX0616",
+            "brand": "adidas",
+            "name": "Wmns Puremotion Super 'White Blue Tint'",
+            "colorway": "Cloud White/Cloud White/Blue Tint",
+            "gender": "women",
+            "silhouette": "Puremotion",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-03",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/026/original/GX0616.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/026/original/GX0616.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/026/original/GX0616.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-puremotion-super-white-blue-tint-gx0616",
+                "flightClub": "https://flightclub.com/wmns-puremotion-super-white-blue-tint-gx0616",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "97fe74e9-4d3e-4bd5-bff0-8fd347e44c9c",
+            "sku": "Q47239",
+            "brand": "adidas",
+            "name": "Wmns Tracefinder Trail 'Black Grey'",
+            "colorway": "Core Black/Grey Two/Mint Ton",
+            "gender": "women",
+            "silhouette": "Tracefinder Trail",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-03",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/106/original/Q47239.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/106/original/Q47239.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/106/original/Q47239.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-tracefinder-trail-black-grey-q47239",
+                "flightClub": "https://flightclub.com/wmns-tracefinder-trail-black-grey-q47239",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "15f9fc6e-2caf-402c-a8ec-0293fc7d0d13",
+            "sku": "GX2150",
+            "brand": "adidas",
+            "name": "Wmns NMD_R1 'Black Solar Pink'",
+            "colorway": "Core Black/Core Black/Solar Pink",
+            "gender": "women",
+            "silhouette": "NMD Runner",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 150,
+            "estimatedMarketValue": 220,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/037/original/GX2150.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/037/original/GX2150.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/037/original/GX2150.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nmd_r1-black-solar-pink-gx2150",
+                "flightClub": "https://flightclub.com/wmns-nmd_r1-black-solar-pink-gx2150",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "18205f4e-abe0-4236-8660-78800618549f",
+            "sku": "GV6986",
+            "brand": "adidas",
+            "name": "Wmns Adilette Slide 'Acid Wash'",
+            "colorway": "Purple Tint/Cloud White/Clear Pink",
+            "gender": "women",
+            "silhouette": "Adilette",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 45,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/344/395/original/GV6986.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/344/395/original/GV6986.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/344/395/original/GV6986.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-adilette-slide-acid-wash-gv6986",
+                "flightClub": "https://flightclub.com/wmns-adilette-slide-acid-wash-gv6986",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "28be6032-8411-4f4b-8039-9698de859c8b",
+            "sku": "GX4207",
+            "brand": "adidas",
+            "name": "Wmns Racer TR21 'White Gum'",
+            "colorway": "Cloud White/Cloud White/Grey Two",
+            "gender": "women",
+            "silhouette": "Racer TR21",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/046/original/GX4207.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/046/original/GX4207.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/046/original/GX4207.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-racer-tr21-white-gum-gx4207",
+                "flightClub": "https://flightclub.com/wmns-racer-tr21-white-gum-gx4207",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2f39c0f2-3be0-4baf-bed2-68997daee2e0",
+            "sku": "GW0593",
+            "brand": "adidas",
+            "name": "Wmns Ozelia 'Black White'",
+            "colorway": "Core Black/Cloud White/Acid Red",
+            "gender": "women",
+            "silhouette": "Ozelia",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 100,
+            "estimatedMarketValue": 136,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/005/original/GW0593.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/005/original/GW0593.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/005/original/GW0593.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-ozelia-black-white-gw0593",
+                "flightClub": "https://flightclub.com/wmns-ozelia-black-white-gw0593",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "53985d53-8205-4426-a9f3-961234c81336",
+            "sku": "GZ3247",
+            "brand": "adidas",
+            "name": "Wmns X9000L4 Heat.RDY 'Black Almost Pink'",
+            "colorway": "Core Black/Core Black/Almost Pink",
+            "gender": "women",
+            "silhouette": "X9000L4",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 140,
+            "estimatedMarketValue": 210,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/086/original/GZ3247.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/086/original/GZ3247.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/086/original/GZ3247.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-x9000l4-heat-rdy-black-almost-pink-gz3247",
+                "flightClub": "https://flightclub.com/wmns-x9000l4-heat-rdy-black-almost-pink-gz3247",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "54501e49-319d-4d46-a1fd-a80677dbe9f9",
+            "sku": "GX0618",
+            "brand": "adidas",
+            "name": "Wmns Puremotion Super 'Core Black'",
+            "colorway": "Core Black/Core Black/Carbon",
+            "gender": "women",
+            "silhouette": "Puremotion",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/028/original/GX0618.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/028/original/GX0618.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/028/original/GX0618.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-puremotion-super-core-black-gx0618",
+                "flightClub": "https://flightclub.com/wmns-puremotion-super-core-black-gx0618",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5ec41e95-d0e5-4566-8974-ed6c9648d5cf",
+            "sku": "GV7912",
+            "brand": "adidas",
+            "name": "Disney x Wmns Superstar 'Bambi'",
+            "colorway": "Cloud White/Cloud White/Off White",
+            "gender": "women",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/344/402/original/GV7912.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/344/402/original/GV7912.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/344/402/original/GV7912.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-wmns-superstar-bambi-gv7912",
+                "flightClub": "https://flightclub.com/disney-x-wmns-superstar-bambi-gv7912",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8f3c6721-c4af-4585-8043-3e7e41abb48b",
+            "sku": "GY8182",
+            "brand": "adidas",
+            "name": "Wmns Forum Low 'White Grey'",
+            "colorway": "Cloud White/Cloud White/Grey Two",
+            "gender": "women",
+            "silhouette": "Forum",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 95,
+            "estimatedMarketValue": 165,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/072/original/GY8182.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/072/original/GY8182.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/072/original/GY8182.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-forum-low-white-grey-gy8182",
+                "flightClub": "https://flightclub.com/wmns-forum-low-white-grey-gy8182",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "96700a14-2f6e-481e-b98b-740f60a9a476",
+            "sku": "GW5623",
+            "brand": "adidas",
+            "name": "Wmns Ozweego 'Off White Acid Orange'",
+            "colorway": "Off White/Calvi/Acid Orange",
+            "gender": "women",
+            "silhouette": "Ozweego",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 110,
+            "estimatedMarketValue": 180,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/010/151/original/GW5623.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/010/151/original/GW5623.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/010/151/original/GW5623.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-ozweego-off-white-acid-orange-gw5623",
+                "flightClub": "https://flightclub.com/wmns-ozweego-off-white-acid-orange-gw5623",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c04d5f6c-b094-4b0b-9bd1-cd232567af8e",
+            "sku": "GV7931",
+            "brand": "adidas",
+            "name": "Disney x Wmns Stan Smith 'Bambi'",
+            "colorway": "Cloud White/Clear Pink/Gold Metallic",
+            "gender": "women",
+            "silhouette": "Stan Smith",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/344/404/original/GV7931.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/344/404/original/GV7931.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/344/404/original/GV7931.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-wmns-stan-smith-bambi-gv7931",
+                "flightClub": "https://flightclub.com/disney-x-wmns-stan-smith-bambi-gv7931",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c8ed241b-fb76-40bf-9651-fe18d60ae65c",
+            "sku": "GZ3248",
+            "brand": "adidas",
+            "name": "Wmns X9000L4 Heat.RDY 'Clear Orange'",
+            "colorway": "Clear Orange/Clear Orange/Wonder Mauve",
+            "gender": "women",
+            "silhouette": "X9000L4",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 140,
+            "estimatedMarketValue": 210,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/087/original/GZ3248.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/087/original/GZ3248.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/087/original/GZ3248.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-x9000l4-heat-rdy-clear-orange-gz3248",
+                "flightClub": "https://flightclub.com/wmns-x9000l4-heat-rdy-clear-orange-gz3248",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "dee9b1a1-70c1-47aa-8a0e-33997081c977",
+            "sku": "GX0621",
+            "brand": "adidas",
+            "name": "Wmns Puremotion Super 'Legend Ink Light Purple'",
+            "colorway": "Legend Ink/Legend Ink/Light Purple",
+            "gender": "women",
+            "silhouette": "Puremotion",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/029/original/GX0621.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/029/original/GX0621.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/029/original/GX0621.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-puremotion-super-legend-ink-light-purple-gx0621",
+                "flightClub": "https://flightclub.com/wmns-puremotion-super-legend-ink-light-purple-gx0621",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "dfd0306e-5185-4366-8007-024806b67d5f",
+            "sku": "GY4485",
+            "brand": "adidas",
+            "name": "Wmns Cloudfoam Pure 2.0 'White Acid Red'",
+            "colorway": "Cloud White/Acid Red/Acid Red",
+            "gender": "women",
+            "silhouette": "Cloudfoam Pure",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/064/original/GY4485.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/064/original/GY4485.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/064/original/GY4485.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cloudfoam-pure-2-0-white-acid-red-gy4485",
+                "flightClub": "https://flightclub.com/wmns-cloudfoam-pure-2-0-white-acid-red-gy4485",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "dfea3744-5079-478c-a6a7-1caaffdf9c37",
+            "sku": "GX4206",
+            "brand": "adidas",
+            "name": "Wmns Racer TR21 'Black Gum'",
+            "colorway": "Core Black/Core Black/Gum",
+            "gender": "women",
+            "silhouette": "Racer TR21",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 75,
+            "estimatedMarketValue": 74,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/045/original/GX4206.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/045/original/GX4206.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/045/original/GX4206.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-racer-tr21-black-gum-gx4206",
+                "flightClub": "https://flightclub.com/wmns-racer-tr21-black-gum-gx4206",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e5b807b0-5dce-4ca4-a105-3514052e5cda",
+            "sku": "GX8087",
+            "brand": "adidas",
+            "name": "adidas Ultra Boost 22 Heat.RDY White Iridescent (W)",
+            "colorway": "White/Iridescent",
+            "gender": "women",
+            "silhouette": "UltraBoost 22",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 190,
+            "estimatedMarketValue": 260,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/054/original/GX8087.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/054/original/GX8087.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/054/original/GX8087.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-ultra-boost-22-heatrdy-white-iridescent-w",
+                "goat": "https://goat.com/sneakers/wmns-ultraboost-22-heat-rdy-white-tint-pulse-mint-gx8087",
+                "flightClub": "https://flightclub.com/wmns-ultraboost-22-heat-rdy-white-tint-pulse-mint-gx8087",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f2105ad7-7f0a-4e65-b41d-235ca063a920",
+            "sku": "GX6216",
+            "brand": "adidas",
+            "name": "Wmns EQ21 Run 'White Speckled'",
+            "colorway": "Cloud White/Cloud White/Almost Lime",
+            "gender": "women",
+            "silhouette": "EQ21 Run",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 80,
+            "estimatedMarketValue": 148,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/049/original/GX6216.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/049/original/GX6216.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/049/original/GX6216.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-eq21-run-white-speckled-gx6216",
+                "flightClub": "https://flightclub.com/wmns-eq21-run-white-speckled-gx6216",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f2d89a5b-9b48-4d03-a828-a95d10f0a92a",
+            "sku": "GX2149",
+            "brand": "adidas",
+            "name": "Wmns NMD_R1 'White Clear Mint'",
+            "colorway": "Cloud White/Cloud White/Clear Mint",
+            "gender": "women",
+            "silhouette": "NMD Runner",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 150,
+            "estimatedMarketValue": 210,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/035/original/GX2149.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/035/original/GX2149.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/035/original/GX2149.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nmd_r1-white-clear-mint-gx2149",
+                "flightClub": "https://flightclub.com/wmns-nmd_r1-white-clear-mint-gx2149",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f5a1a6f4-7d0e-4a0a-a939-817e21a6fd22",
+            "sku": "GY5919",
+            "brand": "adidas",
+            "name": "Wmns Forum Low 'White Tint Orbit Grey'",
+            "colorway": "Cloud White/White Tint/Orbit Grey",
+            "gender": "women",
+            "silhouette": "Forum",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 95,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/067/original/GY5919.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/067/original/GY5919.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/067/original/GY5919.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-forum-low-white-tint-orbit-grey-gy5919",
+                "flightClub": "https://flightclub.com/wmns-forum-low-white-tint-orbit-grey-gy5919",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0c7a76e3-6bb7-49ad-a3c8-e175e640c91f",
+            "sku": "GZ5738",
+            "brand": "adidas",
+            "name": "adidas Ultra Boost 22 Marimekko (W)",
+            "colorway": "Cloud White / Cloud White / Pearl Citrine",
+            "gender": "women",
+            "silhouette": "UltraBoost 22",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 190,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/283/625/original/915067_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/283/625/original/915067_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/283/625/original/915067_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-ultra-boost-22-marimekko-w",
+                "goat": "https://goat.com/sneakers/marimekko-x-wmns-ultraboost-22-poppy-gz5738",
+                "flightClub": "https://flightclub.com/marimekko-x-wmns-ultraboost-22-poppy-gz5738",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1aa813ca-5e37-4343-8db9-0445c9e3eabf",
+            "sku": "GW0567",
+            "brand": "adidas",
+            "name": "Rich Mnisi x Wmns Stan Smith 'Roses - White'",
+            "colorway": "Cloud White/Supplier Colour/Gold Metallic",
+            "gender": "women",
+            "silhouette": "Stan Smith",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 100,
+            "estimatedMarketValue": 100,
+            "story": "The Rich Mnisi x adidas women’s Stan Smith ‘Roses’ is taken from an apparel and footwear collection with the South African fashion designer. Mnisi’s take on the iconic silhouette features a white synthetic leather upper made with 50% recycled content. Perforated three-stripes adorn the medial side, while the opposite side displays a stylized rose graphic in multicolor embroidery. The sneaker’s top eyelets are rendered in metallic gold, matching the traditional branding elements that decorate the tongue and heel tab.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/254/607/original/GW0567.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/254/607/original/GW0567.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/254/607/original/GW0567.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rich-mnisi-x-wmns-stan-smith-roses-white-gw0567",
+                "flightClub": "https://flightclub.com/rich-mnisi-x-wmns-stan-smith-roses-white-gw0567",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "217d2e67-80bb-42c9-aa59-031709719813",
+            "sku": "GY4466",
+            "brand": "adidas",
+            "name": "Wmns Puremotion Adapt 'White Acid Red'",
+            "colorway": "Cloud White/Cloud White/Acid Red",
+            "gender": "women",
+            "silhouette": "Puremotion Adapt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/063/original/GY4466.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/063/original/GY4466.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/063/original/GY4466.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-puremotion-adapt-white-acid-red-gy4466",
+                "flightClub": "https://flightclub.com/wmns-puremotion-adapt-white-acid-red-gy4466",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "240052cb-e023-4be5-af10-6f057073dab8",
+            "sku": "GW8569",
+            "brand": "adidas",
+            "name": "Rich Mnisi x Wmns Her Court 'Roses - Black'",
+            "colorway": "Core Black/Cloud White/Supplier Colour",
+            "gender": "women",
+            "silhouette": "Her Court",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 110,
+            "estimatedMarketValue": 180,
+            "story": "Launching as part of a collaborative collection with the South African fashion designer, the Rich Mnisi x adidas women’s Her Court ‘Roses’ delivers a casual sneaker built with exaggerated tooling. Made with 50% recycled content, the black canvas upper features a multicolor floral print with the designer’s name spelled out in scattered block lettering. Metallic gold adidas branding decorates the tongue, along with a woven tag affixed to the lateral eyestay. The low-top rides on a platform midsole in a solid Cloud White finish.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/254/633/original/GW8569.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/254/633/original/GW8569.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/254/633/original/GW8569.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rich-mnisi-x-wmns-her-court-roses-black-gw8569",
+                "flightClub": "https://flightclub.com/rich-mnisi-x-wmns-her-court-roses-black-gw8569",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2e766673-0a4e-4b68-ba39-0bf49d9963a7",
+            "sku": "GX6302",
+            "brand": "adidas",
+            "name": "Wmns UltraBoost 22 'Almost Lime'",
+            "colorway": "Non Dyed/Non Dyed/Almost Lime",
+            "gender": "women",
+            "silhouette": "UltraBoost 22",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 190,
+            "estimatedMarketValue": 175,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/658/733/original/GX6302.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/658/733/original/GX6302.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/658/733/original/GX6302.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-ultraboost-22-almost-lime-gx6302",
+                "flightClub": "https://flightclub.com/wmns-ultraboost-22-almost-lime-gx6302",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4f2c7122-f3ec-410d-9414-30091c233b5f",
+            "sku": "GZ1949",
+            "brand": "adidas",
+            "name": "Wmns EQ21 Run 'White Tie Dye'",
+            "colorway": "Cloud White/Cloud White/Almost Lime",
+            "gender": "women",
+            "silhouette": "EQ21 Run",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 80,
+            "estimatedMarketValue": 96,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/084/original/GZ1949.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/084/original/GZ1949.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/084/original/GZ1949.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-eq21-run-white-tie-dye-gz1949",
+                "flightClub": "https://flightclub.com/wmns-eq21-run-white-tie-dye-gz1949",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5c277d48-8266-4e92-b26f-38712709d6d6",
+            "sku": "GZ3572",
+            "brand": "adidas",
+            "name": "Rich Mnisi x Wmns Astir 'Roses - Black'",
+            "colorway": "Core Black/Green/Clear Pink",
+            "gender": "women",
+            "silhouette": "Astir",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/718/594/original/GZ3572.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/718/594/original/GZ3572.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/718/594/original/GZ3572.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rich-mnisi-x-wmns-astir-roses-black-gz3572",
+                "flightClub": "https://flightclub.com/rich-mnisi-x-wmns-astir-roses-black-gz3572",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "61016209-58f6-4634-a38f-743b4ae3b606",
+            "sku": "GW0564",
+            "brand": "adidas",
+            "name": "Rich Mnisi x Wmns Adilette Slide 'Roses'",
+            "colorway": "Core Black/Cloud White/Supplier Colour",
+            "gender": "women",
+            "silhouette": "Adilette",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 60,
+            "estimatedMarketValue": 81,
+            "story": "The Rich Mnisi x adidas women’s Adilette Slide ‘Roses’ is drawn from a debut collection with the South African designer, exploring themes of community, heritage and self-expression. Made with 50% recycled materials, the black canvas upper features a multicolor floral print with wraparound three-stripes in serrated white leather. adidas branding is stamped on a contoured footbed built with genuine cork. Underfoot, a solid rubber outsole delivers durable traction.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/374/889/original/GW0564.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/374/889/original/GW0564.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/374/889/original/GW0564.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rich-mnisi-x-wmns-adilette-slide-roses-gw0564",
+                "flightClub": "https://flightclub.com/rich-mnisi-x-wmns-adilette-slide-roses-gw0564",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6fcb411a-0712-4f00-bb0e-65630fe8de90",
+            "sku": "GW0563",
+            "brand": "adidas",
+            "name": "Rich Mnisi x Wmns NMD_R1 'Roses - White'",
+            "colorway": "Cloud White/Supplier Colour/Clear Pink",
+            "gender": "women",
+            "silhouette": "NMD Runner",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 150,
+            "estimatedMarketValue": 181,
+            "story": "The Rich Mnisi x adidas women’s NMD_R1 ‘Roses’ makes over the classic silhouette with playful details and a sustainable build. The South African fashion designer applies a pop-art rose print to the heel panel, webbing pull loop, and welded three-stripes. The multicolor arrangement enlivens a white textile knit upper made with a 50/50 blend of Parley Ocean Plastic and recycled polyester. Responsive cushioning is provided by a full-length Boost midsole, featuring signature EVA plugs in a delicate pink hue.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/204/447/original/GW0563.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/204/447/original/GW0563.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/204/447/original/GW0563.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rich-mnisi-x-wmns-nmd_r1-roses-white-gw0563",
+                "flightClub": "https://flightclub.com/rich-mnisi-x-wmns-nmd_r1-roses-white-gw0563",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "80d59dfb-0b1f-4b03-88a1-e0c1be35a900",
+            "sku": "GX3059",
+            "brand": "adidas",
+            "name": "Wmns SolarGlide 4 ST 'Grey Silver Metallic'",
+            "colorway": "Grey One/Silver Metallic/Light Flash Orange",
+            "gender": "women",
+            "silhouette": "SolarGlide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 140,
+            "estimatedMarketValue": 210,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/041/original/GX3059.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/041/original/GX3059.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/041/original/GX3059.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-solarglide-4-st-grey-silver-metallic-gx3059",
+                "flightClub": "https://flightclub.com/wmns-solarglide-4-st-grey-silver-metallic-gx3059",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "95fcc014-063c-4eb3-a4f1-8146c132ad2b",
+            "sku": "GZ1654",
+            "brand": "adidas",
+            "name": "Disney x Wmns Nizza Trek 'Bambi'",
+            "colorway": "Cloud White/Legacy Burgundy/Off White",
+            "gender": "women",
+            "silhouette": "Nizza",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 100,
+            "estimatedMarketValue": 114,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/083/original/GZ1654.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/083/original/GZ1654.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/083/original/GZ1654.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-wmns-nizza-trek-bambi-gz1654",
+                "flightClub": "https://flightclub.com/disney-x-wmns-nizza-trek-bambi-gz1654",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "afb0442d-9795-497d-a67b-fbeb2fc7bafc",
+            "sku": "GX9328",
+            "brand": "adidas",
+            "name": "adidas Ultra Boost 5.0 DNA Bleach Dye Pack Cardboard (W)",
+            "colorway": "Core Black/Core Black/Cardboard",
+            "gender": "women",
+            "silhouette": "UltraBoost 5.0",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 190,
+            "estimatedMarketValue": 164,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/658/744/original/GX9328.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/658/744/original/GX9328.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/658/744/original/GX9328.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-ultra-boost-50-dna-bleach-dye-pack-cardboard-w",
+                "goat": "https://goat.com/sneakers/wmns-ultraboost-5-0-dna-acid-wash-gx9328",
+                "flightClub": "https://flightclub.com/wmns-ultraboost-5-0-dna-acid-wash-gx9328",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b3b1c425-c160-468f-8dcc-84307f0b4d27",
+            "sku": "GW6197",
+            "brand": "adidas",
+            "name": "Wmns Supernova 'Sky Rush Gum'",
+            "colorway": "Sky Rush/Cloud White/Turbo",
+            "gender": "women",
+            "silhouette": "Supernova",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/016/original/GW6197.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/016/original/GW6197.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/016/original/GW6197.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-supernova-sky-rush-gum-gw6197",
+                "flightClub": "https://flightclub.com/wmns-supernova-sky-rush-gum-gw6197",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d6d2c63c-a38a-42a3-a350-4e9001aa8c13",
+            "sku": "GX8003",
+            "brand": "adidas",
+            "name": "adidas Ultra Boost 22 Legacy Indigo Purple Rush (W)",
+            "colorway": "Legacy Indigo / Legacy Indigo / Purple Rush",
+            "gender": "women",
+            "silhouette": "UltraBoost 22",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 190,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/658/736/original/GX8003.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/658/736/original/GX8003.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/658/736/original/GX8003.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-ultra-boost-22-legacy-indigo-purple-rush-w",
+                "goat": "https://goat.com/sneakers/wmns-ultraboost-22-legacy-indigo-gx8003",
+                "flightClub": "https://flightclub.com/wmns-ultraboost-22-legacy-indigo-gx8003",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "210df1f2-bb40-4a90-af46-4538ae2fd9c2",
+            "sku": "GV9205",
+            "brand": "adidas",
+            "name": "Wmns Retropy F2 'White Wild Brown'",
+            "colorway": "Cloud White/Wild Brown/Gum",
+            "gender": "women",
+            "silhouette": "Retropy F2",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-retropy-f2-white-wild-brown-gv9205",
+                "flightClub": "https://flightclub.com/wmns-retropy-f2-white-wild-brown-gv9205",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0cb361dc-e0b6-4839-8ced-21a4d84ffcfb",
+            "sku": "GX8226",
+            "brand": "adidas",
+            "name": "Wmns Advantage 'White Sandy Beige'",
+            "colorway": "Cloud White/Sandy Beige/Sandy Beige Metallic",
+            "gender": "women",
+            "silhouette": "Advantage",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-29",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/056/881/original/GX8226.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/056/881/original/GX8226.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/056/881/original/GX8226.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-advantage-white-sandy-beige-gx8226",
+                "flightClub": "https://flightclub.com/wmns-advantage-white-sandy-beige-gx8226",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,2641 @@
+{
+    "results": [
+        {
+            "id": "586f8719-c168-4237-b5d6-70f31806977d",
+            "sku": "GY3340",
+            "brand": "adidas",
+            "name": "Astir I 'Multi'",
+            "colorway": "Cloud White/Core Black/Acid Red",
+            "gender": "infant",
+            "silhouette": "Astir",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-24",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/761/original/GY3340.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/761/original/GY3340.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/761/original/GY3340.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/astir-i-multi-gy3340",
+                "flightClub": "https://flightclub.com/astir-i-multi-gy3340",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f7787195-c91c-46cd-a7a7-6196998eece8",
+            "sku": "GX3318",
+            "brand": "adidas",
+            "name": "NMD 360 I 'Solar Red'",
+            "colorway": "Solar Red/Solar Red/Solar Red",
+            "gender": "infant",
+            "silhouette": "NMD 360",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-23",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/737/original/GX3318.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/737/original/GX3318.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/737/original/GX3318.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/nmd-360-i-solar-red-gx3318",
+                "flightClub": "https://flightclub.com/nmd-360-i-solar-red-gx3318",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ac133c81-22ab-4791-bf32-9b1fe49bcd32",
+            "sku": "GX5749",
+            "brand": "adidas",
+            "name": "Grand Court I 'White Royal Blue'",
+            "colorway": "Cloud White/Royal Blue/Vivid Red",
+            "gender": "infant",
+            "silhouette": "Grand Court",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-17",
+            "retailPrice": 38,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/234/original/GX5749.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/234/original/GX5749.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/234/original/GX5749.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/grand-court-i-white-royal-blue-gx5749",
+                "flightClub": "https://flightclub.com/grand-court-i-white-royal-blue-gx5749",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f2368c9a-5ca1-46e3-b46d-115a7c68a33d",
+            "sku": "GW4242",
+            "brand": "adidas",
+            "name": "Lite Racer Adapt 4.0 I 'White Acid Wash'",
+            "colorway": "Cloud White/Sky Rush/Solar Pink",
+            "gender": "infant",
+            "silhouette": "Lite Racer Adapt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 43,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/112/original/GW4242.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/112/original/GW4242.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/112/original/GW4242.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lite-racer-adapt-4-0-i-white-acid-wash-gw4242",
+                "flightClub": "https://flightclub.com/lite-racer-adapt-4-0-i-white-acid-wash-gw4242",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e1d31bcf-af30-491f-9504-fe134974c045",
+            "sku": "GW8092",
+            "brand": "adidas",
+            "name": "LEGO x Sport Pro I 'Equipment Yellow'",
+            "colorway": "Equipment Yellow/Equipment Yellow/Core Black",
+            "gender": "infant",
+            "silhouette": "Sport Pro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-09",
+            "retailPrice": 52,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/225/original/GW8092.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/225/original/GW8092.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/225/original/GW8092.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lego-x-sport-pro-i-equipment-yellow-gw8092",
+                "flightClub": "https://flightclub.com/lego-x-sport-pro-i-equipment-yellow-gw8092",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b5e1cce6-6a5f-4fdd-83af-58c56b252a73",
+            "sku": "GX3320",
+            "brand": "adidas",
+            "name": "NMD 360 I 'White Iridescent'",
+            "colorway": "Cloud White/Light Purple/Clear Pink",
+            "gender": "infant",
+            "silhouette": "NMD 360",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/529/original/GX3320.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/529/original/GX3320.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/529/original/GX3320.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/nmd-360-i-white-iridescent-gx3320",
+                "flightClub": "https://flightclub.com/nmd-360-i-white-iridescent-gx3320",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0dd8d37d-ea30-4fe1-85be-02797c570a95",
+            "sku": "GW3308",
+            "brand": "adidas",
+            "name": "Kevin Lyons x Superstar 360 I 'Monster Face'",
+            "colorway": "Clear Pink/Shadow Navy/Cloud White",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-03",
+            "retailPrice": 45,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/013/original/GW3308.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/013/original/GW3308.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/013/original/GW3308.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/kevin-lyons-x-superstar-360-i-monster-face-gw3308",
+                "flightClub": "https://flightclub.com/kevin-lyons-x-superstar-360-i-monster-face-gw3308",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1a961a0b-a79e-4a9d-a59b-74e20f7b4bd0",
+            "sku": "GW0923",
+            "brand": "adidas",
+            "name": "LEGO x Racer TR I 'Grey Black'",
+            "colorway": "Grey Three/Core Black/Red",
+            "gender": "infant",
+            "silhouette": "Racer TR",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-03",
+            "retailPrice": 55,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/344/408/original/GW0923.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/344/408/original/GW0923.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/344/408/original/GW0923.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lego-x-racer-tr-i-grey-black-gw0923",
+                "flightClub": "https://flightclub.com/lego-x-racer-tr-i-grey-black-gw0923",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5dac643d-4910-475e-b646-295d6c598ffb",
+            "sku": "GX2119",
+            "brand": "adidas",
+            "name": "NMD Runner I 'Mosaic - Black'",
+            "colorway": "Core Black/Core Black/Cloud White",
+            "gender": "infant",
+            "silhouette": "NMD Runner",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/034/original/GX2119.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/034/original/GX2119.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/034/original/GX2119.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/nmd-runner-i-mosaic-black-gx2119",
+                "flightClub": "https://flightclub.com/nmd-runner-i-mosaic-black-gx2119",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "979a8530-89b2-452e-9b58-d792d484415c",
+            "sku": "GZ3363",
+            "brand": "adidas",
+            "name": "Racer TR21 I 'Black Solar Yellow'",
+            "colorway": "Core Black/Halo Silver/Solar Yellow",
+            "gender": "infant",
+            "silhouette": "Racer TR21",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/088/original/GZ3363.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/088/original/GZ3363.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/088/original/GZ3363.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/racer-tr21-i-black-solar-yellow-gz3363",
+                "flightClub": "https://flightclub.com/racer-tr21-i-black-solar-yellow-gz3363",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b02eb494-8f9d-4f1a-9b0a-e3fb29a9e7db",
+            "sku": "GW8093",
+            "brand": "adidas",
+            "name": "LEGO x Sport Pro I 'Red'",
+            "colorway": "Red/Red/Cloud White",
+            "gender": "infant",
+            "silhouette": "Adidas Sport",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 52,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/020/original/GW8093.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/020/original/GW8093.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/020/original/GW8093.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lego-x-sport-pro-i-red-gw8093",
+                "flightClub": "https://flightclub.com/lego-x-sport-pro-i-red-gw8093",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ffd70291-4fa4-43e5-bc66-87d75ae436e3",
+            "sku": "GX3299",
+            "brand": "adidas",
+            "name": "Disney x Superstar 360 I 'Bambi'",
+            "colorway": "Light Pink/Cloud White/Light Purple",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 45,
+            "estimatedMarketValue": 99,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/043/original/GX3299.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/043/original/GX3299.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/043/original/GX3299.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-superstar-360-i-bambi-gx3299",
+                "flightClub": "https://flightclub.com/disney-x-superstar-360-i-bambi-gx3299",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "286bc600-1217-4ab3-994b-17726f815f4f",
+            "sku": "GY6739",
+            "brand": "adidas",
+            "name": "Racer TR2 I 'White Almost Pink'",
+            "colorway": "Cloud White/Almost Pink/Blue Tint",
+            "gender": "infant",
+            "silhouette": "Racer TR21",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/070/original/GY6739.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/070/original/GY6739.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/070/original/GY6739.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/racer-tr2-i-white-almost-pink-gy6739",
+                "flightClub": "https://flightclub.com/racer-tr2-i-white-almost-pink-gy6739",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "937c1f23-6741-4891-b7cd-371266aaeefe",
+            "sku": "GX3298",
+            "brand": "adidas",
+            "name": "Disney x Superstar 360 I 'Thumper'",
+            "colorway": "Light Pink/Cloud White/Light Purple",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 45,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/303/042/original/GX3298.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/303/042/original/GX3298.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/303/042/original/GX3298.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-superstar-360-i-thumper-gx3298",
+                "flightClub": "https://flightclub.com/disney-x-superstar-360-i-thumper-gx3298",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fe92a042-6c5e-4389-ac82-3effa30a52ac",
+            "sku": "GX3319",
+            "brand": "adidas",
+            "name": "NMD 360 I 'Team Semi Solar Yellow'",
+            "colorway": "Team Semi Solar Yellow/Team Semi Solar Yellow/Team Semi Solar Yellow",
+            "gender": "infant",
+            "silhouette": "NMD 360",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/598/original/GX3319.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/598/original/GX3319.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/598/original/GX3319.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/nmd-360-i-team-semi-solar-yellow-gx3319",
+                "flightClub": "https://flightclub.com/nmd-360-i-team-semi-solar-yellow-gx3319",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ff56d540-7ddd-46af-96ca-cc454aca245c",
+            "sku": "GX3349",
+            "brand": "adidas",
+            "name": "ZX 360 I 'Black White'",
+            "colorway": "Core Black/Cloud White/Core Black",
+            "gender": "infant",
+            "silhouette": "ZX 360",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/601/original/GX3349.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/601/original/GX3349.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/601/original/GX3349.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/zx-360-i-black-white-gx3349",
+                "flightClub": "https://flightclub.com/zx-360-i-black-white-gx3349",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8e3089e0-2c16-4e85-a023-93bad1c19395",
+            "sku": "GX3369",
+            "brand": "adidas",
+            "name": "Forum 360 I 'Legacy Indigo Pink'",
+            "colorway": "Legacy Indigo/Cloud White/Almost Lime",
+            "gender": "infant",
+            "silhouette": "Forum",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-28",
+            "retailPrice": 45,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/010/168/original/GX3369.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/010/168/original/GX3369.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/010/168/original/GX3369.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/forum-360-i-legacy-indigo-pink-gx3369",
+                "flightClub": "https://flightclub.com/forum-360-i-legacy-indigo-pink-gx3369",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d94ff69a-1e2a-4647-b64e-524b2e69a88b",
+            "sku": "GZ0628",
+            "brand": "adidas",
+            "name": "Toy Story x RapidaZen I 'Buzz Lightyear'",
+            "colorway": "Cloud White/Semi Solar Lime/Active Purple",
+            "gender": "infant",
+            "silhouette": "RapidaZen",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-27",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/056/897/original/GZ0628.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/056/897/original/GZ0628.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/056/897/original/GZ0628.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/toy-story-x-rapidazen-i-buzz-lightyear-gz0628",
+                "flightClub": "https://flightclub.com/toy-story-x-rapidazen-i-buzz-lightyear-gz0628",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8319ba83-e3fb-419b-8dbb-41d11e729724",
+            "sku": "GY3335",
+            "brand": "adidas",
+            "name": "Superstar I 'White Team College Burgundy'",
+            "colorway": "Cloud White/Team College Burgundy/Cloud White",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-23",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/769/485/original/GY3335.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/769/485/original/GY3335.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/769/485/original/GY3335.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/superstar-i-white-team-college-burgundy-gy3335",
+                "flightClub": "https://flightclub.com/superstar-i-white-team-college-burgundy-gy3335",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9bd78fee-68a7-44fa-bbd8-2c27f14a3df6",
+            "sku": "GZ0653",
+            "brand": "adidas",
+            "name": "Marvel x FortaRun I 'Spider-Man'",
+            "colorway": "Vivid Red/Core Black/Cloud White",
+            "gender": "infant",
+            "silhouette": "FortaRun",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-20",
+            "retailPrice": 38,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/613/684/original/GZ0653.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/613/684/original/GZ0653.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/613/684/original/GZ0653.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/marvel-x-fortarun-i-spider-man-gz0653",
+                "flightClub": "https://flightclub.com/marvel-x-fortarun-i-spider-man-gz0653",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "dffbb296-51ff-4aa9-bf0c-19f28503c778",
+            "sku": "GZ3965",
+            "brand": "adidas",
+            "name": "Stan Smith I 'Paint Drip - White Solid Green'",
+            "colorway": "Cloud White/Team Semi Solid Green/Core Black",
+            "gender": "infant",
+            "silhouette": "Stan Smith",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-19",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/613/688/original/GZ3965.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/613/688/original/GZ3965.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/613/688/original/GZ3965.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/stan-smith-i-paint-drip-white-solid-green-gz3965",
+                "flightClub": "https://flightclub.com/stan-smith-i-paint-drip-white-solid-green-gz3965",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0433bd7d-6b13-493a-bd4a-873d231c5351",
+            "sku": "GW8125",
+            "brand": "adidas",
+            "name": "Lego x Sport Pro I 'Black Equipment Yellow'",
+            "colorway": "Core Black/Core Black/Equipment Yellow",
+            "gender": "infant",
+            "silhouette": "Adidas Sport",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-18",
+            "retailPrice": 52,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/613/652/original/GW8125.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/613/652/original/GW8125.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/613/652/original/GW8125.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lego-x-sport-pro-i-black-equipment-yellow-gw8125",
+                "flightClub": "https://flightclub.com/lego-x-sport-pro-i-black-equipment-yellow-gw8125",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4cc97809-88ca-46f7-862e-b093e398b683",
+            "sku": "GZ3355",
+            "brand": "adidas",
+            "name": "RapidaZen I 'Black Vivid Red'",
+            "colorway": "Core Black/Vivid Red/Carbon",
+            "gender": "infant",
+            "silhouette": "RapidaZen",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-15",
+            "retailPrice": 50,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/302/130/original/GZ3355.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/302/130/original/GZ3355.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/302/130/original/GZ3355.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rapidazen-i-black-vivid-red-gz3355",
+                "flightClub": "https://flightclub.com/rapidazen-i-black-vivid-red-gz3355",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7120df21-54b9-43f7-bf4a-31e1c07ba748",
+            "sku": "GV7953",
+            "brand": "adidas",
+            "name": "Superstar I 'White Royal Blue'",
+            "colorway": "Cloud White/Royal Blue/Cloud White",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-15",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/302/098/original/GV7953.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/302/098/original/GV7953.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/302/098/original/GV7953.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/superstar-i-white-royal-blue-gv7953",
+                "flightClub": "https://flightclub.com/superstar-i-white-royal-blue-gv7953",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ff39879c-21dc-4d99-8a2f-75ab531d128c",
+            "sku": "GY1849",
+            "brand": "adidas",
+            "name": "adidas JS Wings 4.0 Black (Infant)",
+            "colorway": "Core Black/Core Black/Footwear White",
+            "gender": "infant",
+            "silhouette": "Jeremy Scott Wings",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-14",
+            "retailPrice": 90,
+            "estimatedMarketValue": 111,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/416/684/original/GY1849.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/416/684/original/GY1849.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/416/684/original/GY1849.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-js-wings-40-black-infant",
+                "goat": "https://goat.com/sneakers/jeremy-scott-wings-4-0-i-black-gy1849",
+                "flightClub": "https://flightclub.com/jeremy-scott-wings-4-0-i-black-gy1849",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f662e978-90ec-4692-a5c6-a348742ecb48",
+            "sku": "GX3294",
+            "brand": "adidas",
+            "name": "Kevin Lyons x Superstar 360 I 'Monster'",
+            "colorway": "Light Pink/Shadow Navy/Cloud White",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-09",
+            "retailPrice": 45,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/999/749/original/GX3294.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/999/749/original/GX3294.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/999/749/original/GX3294.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/kevin-lyons-x-superstar-360-i-monster-gx3294",
+                "flightClub": "https://flightclub.com/kevin-lyons-x-superstar-360-i-monster-gx3294",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3b3a05d9-1b7d-4856-acd2-62cdcda1e99a",
+            "sku": "GX0839",
+            "brand": "adidas",
+            "name": "Disney x Forum 360 Mid I 'Mickey and Friends'",
+            "colorway": "Cloud White/Vivid Red/Cloud White",
+            "gender": "infant",
+            "silhouette": "Forum",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/999/739/original/GX0839.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/999/739/original/GX0839.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/999/739/original/GX0839.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-forum-360-mid-i-mickey-and-friends-gx0839",
+                "flightClub": "https://flightclub.com/disney-x-forum-360-mid-i-mickey-and-friends-gx0839",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "48f6b891-8914-483c-b83f-7871695141e5",
+            "sku": "GV6991",
+            "brand": "adidas",
+            "name": "Superstar I 'White Hi-Res Green'",
+            "colorway": "Cloud White/Hi-Res Green/Turbo",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-07",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/999/718/original/GV6991.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/999/718/original/GV6991.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/999/718/original/GV6991.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/superstar-i-white-hi-res-green-gv6991",
+                "flightClub": "https://flightclub.com/superstar-i-white-hi-res-green-gv6991",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d1f1c218-279c-49bd-abc1-21906f083db5",
+            "sku": "GX3270",
+            "brand": "adidas",
+            "name": "Superstar 360 I 'Dinosaur'",
+            "colorway": "Team Shock Pink/Wild Pink/Cloud White",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-07",
+            "retailPrice": 45,
+            "estimatedMarketValue": 82,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/999/748/original/GX3270.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/999/748/original/GX3270.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/999/748/original/GX3270.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/superstar-360-i-dinosaur-gx3270",
+                "flightClub": "https://flightclub.com/superstar-360-i-dinosaur-gx3270",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3d35ed04-bdfd-4151-91d9-f43516bd2119",
+            "sku": "GZ6183",
+            "brand": "adidas",
+            "name": "Adidas Flex I 'Flowers - Clear Pink'",
+            "colorway": "Clear Pink/Cloud White/Almost Lime",
+            "gender": "infant",
+            "silhouette": "Adidas Flex",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-01",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/603/906/original/GZ6183.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/603/906/original/GZ6183.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/603/906/original/GZ6183.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/adidas-flex-i-flowers-clear-pink-gz6183",
+                "flightClub": "https://flightclub.com/adidas-flex-i-flowers-clear-pink-gz6183",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "526a0055-a06a-4969-864c-ebc20bbaa8a0",
+            "sku": "H04179",
+            "brand": "adidas",
+            "name": "Fortarun CF I 'Grey Shock Pink'",
+            "colorway": "Grey Two/Cloud White/Shock Pink",
+            "gender": "infant",
+            "silhouette": "FortaRun",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-01",
+            "retailPrice": 38,
+            "estimatedMarketValue": 38,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/603/917/original/H04179.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/603/917/original/H04179.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/603/917/original/H04179.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/fortarun-cf-i-grey-shock-pink-h04179",
+                "flightClub": "https://flightclub.com/fortarun-cf-i-grey-shock-pink-h04179",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "98ce2933-c570-4c1f-8469-8c0a362c5b2f",
+            "sku": "GZ1079",
+            "brand": "adidas",
+            "name": "Grand Court I 'Tiger-Print'",
+            "colorway": "Cloud White/Core Black/Acid Red",
+            "gender": "infant",
+            "silhouette": "Grand Court",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-01",
+            "retailPrice": 38,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/656/911/original/GZ1079.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/656/911/original/GZ1079.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/656/911/original/GZ1079.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/grand-court-i-tiger-print-gz1079",
+                "flightClub": "https://flightclub.com/grand-court-i-tiger-print-gz1079",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "aca2fe34-2976-44b2-a902-86f38c703f83",
+            "sku": "GY1848",
+            "brand": "adidas",
+            "name": "adidas JS Wings 4.0 White Black (Infant)",
+            "colorway": "Footwear White/Footwear White/Core Black",
+            "gender": "infant",
+            "silhouette": "Jeremy Scott Wings",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-01",
+            "retailPrice": 90,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/999/767/original/GY1848.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/999/767/original/GY1848.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/999/767/original/GY1848.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-js-wings-40-white-black-infant",
+                "goat": "https://goat.com/sneakers/jeremy-scott-wings-4-0-i-white-black-gy1848",
+                "flightClub": "https://flightclub.com/jeremy-scott-wings-4-0-i-white-black-gy1848",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e3468f0f-ff42-4356-97e8-92fe47578b8a",
+            "sku": "GX3269",
+            "brand": "adidas",
+            "name": "Superstar 360 I 'Dinosaur'",
+            "colorway": "Team Solar Green/Team Green/Cloud White",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-01",
+            "retailPrice": 45,
+            "estimatedMarketValue": 83,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/715/159/original/GX3269.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/715/159/original/GX3269.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/715/159/original/GX3269.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/superstar-360-i-dinosaur-gx3269",
+                "flightClub": "https://flightclub.com/superstar-360-i-dinosaur-gx3269",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e9c5d966-7686-443b-ac8c-5ca373b7f39f",
+            "sku": "GV7809",
+            "brand": "adidas",
+            "name": "AltaVenture I 'Acid Red Sky Rush'",
+            "colorway": "Acid Red/Sky Rush/Cloud White",
+            "gender": "infant",
+            "silhouette": "AltaVenture",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-23",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/374/883/original/GV7809.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/374/883/original/GV7809.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/374/883/original/GV7809.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/altaventure-i-acid-red-sky-rush-gv7809",
+                "flightClub": "https://flightclub.com/altaventure-i-acid-red-sky-rush-gv7809",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ae4b26ec-9d99-4c9d-9a8d-6cb8d1a4f813",
+            "sku": "GY8211",
+            "brand": "adidas",
+            "name": "Forum Low I 'Fruits & Rainbow Patches'",
+            "colorway": "Cloud White/Light Purple/Magic Lilac",
+            "gender": "infant",
+            "silhouette": "Forum",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-22",
+            "retailPrice": 55,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/254/651/original/GY8211.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/254/651/original/GY8211.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/254/651/original/GY8211.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/forum-low-i-fruits-rainbow-patches-gy8211",
+                "flightClub": "https://flightclub.com/forum-low-i-fruits-rainbow-patches-gy8211",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "470b4676-ce95-42da-b047-bfc6167625be",
+            "sku": "GW8163",
+            "brand": "adidas",
+            "name": "The Simpsons x Stan Smith I 'Donut Sprinkles'",
+            "colorway": "Semi Solar Pink/Cloud White/Semi Solar Pink",
+            "gender": "infant",
+            "silhouette": "Stan Smith",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-19",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/254/631/original/GW8163.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/254/631/original/GW8163.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/254/631/original/GW8163.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/the-simpsons-x-stan-smith-i-donut-sprinkles-gw8163",
+                "flightClub": "https://flightclub.com/the-simpsons-x-stan-smith-i-donut-sprinkles-gw8163",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "458f520e-120c-43f6-b8a9-51dffbcbfc07",
+            "sku": "GX3287",
+            "brand": "adidas",
+            "name": "LEGO x Superstar 360 I 'All Over Print'",
+            "colorway": "Cloud White/Cloud White/Cloud White",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-14",
+            "retailPrice": 45,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/924/272/original/GX3287.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/924/272/original/GX3287.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/924/272/original/GX3287.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lego-x-superstar-360-i-all-over-print-gx3287",
+                "flightClub": "https://flightclub.com/lego-x-superstar-360-i-all-over-print-gx3287",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a166a39c-643b-49df-a5c9-8bb6af1d73de",
+            "sku": "GY3326",
+            "brand": "adidas",
+            "name": "LEGO x Superstar I 'Black Green'",
+            "colorway": "Core Black/Cloud White/Cloud White",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-14",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/924/292/original/GY3326.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/924/292/original/GY3326.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/924/292/original/GY3326.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lego-x-superstar-i-black-green-gy3326",
+                "flightClub": "https://flightclub.com/lego-x-superstar-i-black-green-gy3326",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d8acc5a0-997a-491c-bd42-9586f3479e19",
+            "sku": "GZ1086",
+            "brand": "adidas",
+            "name": "Grand Court I 'Camo'",
+            "colorway": "Cloud White/Core Black/Carbon",
+            "gender": "infant",
+            "silhouette": "Grand Court",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-13",
+            "retailPrice": 38,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/924/305/original/GZ1086.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/924/305/original/GZ1086.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/924/305/original/GZ1086.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/grand-court-i-camo-gz1086",
+                "flightClub": "https://flightclub.com/grand-court-i-camo-gz1086",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c2b76d85-ad9d-45c4-9599-c7d3106d42ec",
+            "sku": "GZ6178",
+            "brand": "adidas",
+            "name": "LEGO x Originals Flex I 'Pantone'",
+            "colorway": "Pantone/Cloud White/Pantone",
+            "gender": "infant",
+            "silhouette": "Adidas Flex",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-10",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/924/310/original/GZ6178.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/924/310/original/GZ6178.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/924/310/original/GZ6178.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lego-x-originals-flex-i-pantone-gz6178",
+                "flightClub": "https://flightclub.com/lego-x-originals-flex-i-pantone-gz6178",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "232ac44d-c273-4ee4-9f81-4895949a8678",
+            "sku": "GW2778",
+            "brand": "adidas",
+            "name": "Lite Racer Adapt 4.0 I 'Black'",
+            "colorway": "Core Black/Core Black/Cloud White",
+            "gender": "infant",
+            "silhouette": "Lite Racer Adapt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-09",
+            "retailPrice": 43,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/841/381/original/GW2778.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/841/381/original/GW2778.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/841/381/original/GW2778.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lite-racer-adapt-4-0-i-black-gw2778",
+                "flightClub": "https://flightclub.com/lite-racer-adapt-4-0-i-black-gw2778",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4b423b07-dfda-4115-adde-8ab8ea77d818",
+            "sku": "GY1061",
+            "brand": "adidas",
+            "name": "Lite Racer Adapt 4.0 I 'White Dark Blue Scarlet'",
+            "colorway": "Cloud White/Dark Blue/Scarlet",
+            "gender": "infant",
+            "silhouette": "Lite Racer Adapt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-09",
+            "retailPrice": 43,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/841/391/original/GY1061.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/841/391/original/GY1061.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/841/391/original/GY1061.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lite-racer-adapt-4-0-i-white-dark-blue-scarlet-gy1061",
+                "flightClub": "https://flightclub.com/lite-racer-adapt-4-0-i-white-dark-blue-scarlet-gy1061",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a85c9dce-8340-440a-ad4e-9ba143d573ff",
+            "sku": "GX3314",
+            "brand": "adidas",
+            "name": "NMD 360 I 'Core Black Silver Metallic'",
+            "colorway": "Core Black/Silver Metallic/Cloud White",
+            "gender": "infant",
+            "silhouette": "NMD 360",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-09",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/841/387/original/GX3314.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/841/387/original/GX3314.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/841/387/original/GX3314.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/nmd-360-i-core-black-silver-metallic-gx3314",
+                "flightClub": "https://flightclub.com/nmd-360-i-core-black-silver-metallic-gx3314",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f32f37b9-da2e-4c7a-b20f-349faad6d4d0",
+            "sku": "GX6338",
+            "brand": "adidas",
+            "name": "Superstar 360 I 'Chinese New Year'",
+            "colorway": "Scarlet/Core Black/Gold Metallic",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-09",
+            "retailPrice": 45,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/657/678/original/GX6338.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/657/678/original/GX6338.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/657/678/original/GX6338.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/superstar-360-i-chinese-new-year-gx6338",
+                "flightClub": "https://flightclub.com/superstar-360-i-chinese-new-year-gx6338",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "36aa227d-049e-4628-8301-25edc00b259f",
+            "sku": "GW6233",
+            "brand": "adidas",
+            "name": "Grand Court I 'Camo'",
+            "colorway": "Carbon/Grey Four/Core Black",
+            "gender": "infant",
+            "silhouette": "Grand Court",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-07",
+            "retailPrice": 38,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/657/665/original/GW6233.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/657/665/original/GW6233.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/657/665/original/GW6233.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/grand-court-i-camo-gw6233",
+                "flightClub": "https://flightclub.com/grand-court-i-camo-gw6233",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "76192916-5d0b-4e58-9cd0-c2dc3e791fd3",
+            "sku": "GY2940",
+            "brand": "adidas",
+            "name": "Lite Racer Adapt 4.0 I 'Grey Black'",
+            "colorway": "Grey Six/Grey Six/Core Black",
+            "gender": "infant",
+            "silhouette": "Lite Racer Adapt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-07",
+            "retailPrice": 43,
+            "estimatedMarketValue": 43,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/841/392/original/GY2940.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/841/392/original/GY2940.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/841/392/original/GY2940.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lite-racer-adapt-4-0-i-grey-black-gy2940",
+                "flightClub": "https://flightclub.com/lite-racer-adapt-4-0-i-grey-black-gy2940",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "91a55771-9c6e-4308-87fc-66080d378fc5",
+            "sku": "GW2777",
+            "brand": "adidas",
+            "name": "Lite Racer Adapt 4.0 I 'Grey Super Pop'",
+            "colorway": "Grey Two/Grey Two/Super Pop",
+            "gender": "infant",
+            "silhouette": "Lite Racer Adapt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-07",
+            "retailPrice": 43,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/841/380/original/GW2777.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/841/380/original/GW2777.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/841/380/original/GW2777.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lite-racer-adapt-4-0-i-grey-super-pop-gw2777",
+                "flightClub": "https://flightclub.com/lite-racer-adapt-4-0-i-grey-super-pop-gw2777",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "51fa9df0-0613-49da-9a3b-a443de5013e0",
+            "sku": "GY5534",
+            "brand": "adidas",
+            "name": "Marvel x Racer TR21 I 'Hulk'",
+            "colorway": "Semi Solar Green/Cloud White/Shock Purple",
+            "gender": "infant",
+            "silhouette": "Racer TR21",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-02",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/384/535/original/GY5534.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/384/535/original/GY5534.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/384/535/original/GY5534.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/marvel-x-racer-tr21-i-hulk-gy5534",
+                "flightClub": "https://flightclub.com/marvel-x-racer-tr21-i-hulk-gy5534",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "582dcd1d-b6c3-49d1-bf64-b5519450a4ae",
+            "sku": "FW2590",
+            "brand": "adidas",
+            "name": "Advantage I 'White Legend Ink'",
+            "colorway": "Cloud White/Legend Ink/Cloud White",
+            "gender": "infant",
+            "silhouette": "Advantage",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-02",
+            "retailPrice": 38,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/384/438/original/FW2590.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/384/438/original/FW2590.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/384/438/original/FW2590.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/advantage-i-white-legend-ink-fw2590",
+                "flightClub": "https://flightclub.com/advantage-i-white-legend-ink-fw2590",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b0caed76-3e78-4f61-89bc-932d81bcb81e",
+            "sku": "EF0301",
+            "brand": "adidas",
+            "name": "Advantage I 'White Green'",
+            "colorway": "Cloud White/Legend Ink/Cloud White",
+            "gender": "infant",
+            "silhouette": "Advantage",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-02",
+            "retailPrice": 38,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/384/433/original/EF0301.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/384/433/original/EF0301.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/384/433/original/EF0301.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/advantage-i-white-green-ef0301",
+                "flightClub": "https://flightclub.com/advantage-i-white-green-ef0301",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c52c6c21-bbee-4ebf-8376-2f3464316127",
+            "sku": "GX3291",
+            "brand": "adidas",
+            "name": "Superstar 360 I 'Hearts'",
+            "colorway": "Ecru Tint/Acid Red/Semi Mint Rush",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-02",
+            "retailPrice": 45,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/384/507/original/GX3291.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/384/507/original/GX3291.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/384/507/original/GX3291.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/superstar-360-i-hearts-gx3291",
+                "flightClub": "https://flightclub.com/superstar-360-i-hearts-gx3291",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0f0760e5-eb5a-40ce-8bec-6fbb625c85c4",
+            "sku": "GW0922",
+            "brand": "adidas",
+            "name": "LEGO x Racer TR I 'Real Magenta'",
+            "colorway": "Real Magenta/Core Black/Semi Solar Green",
+            "gender": "infant",
+            "silhouette": "Racer TR",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-01",
+            "retailPrice": 55,
+            "estimatedMarketValue": 45,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/384/465/original/GW0922.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/384/465/original/GW0922.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/384/465/original/GW0922.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lego-x-racer-tr-i-real-magenta-gw0922",
+                "flightClub": "https://flightclub.com/lego-x-racer-tr-i-real-magenta-gw0922",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "168a095c-854d-4738-8d63-c6ba341eae3e",
+            "sku": "GY3329",
+            "brand": "adidas",
+            "name": "Superstar Infant 'Paint Drip - White Turbo'",
+            "colorway": "Cloud White/Core Black/Turbo",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-01",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/384/523/original/GY3329.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/384/523/original/GY3329.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/384/523/original/GY3329.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/superstar-infant-paint-drip-white-turbo-gy3329",
+                "flightClub": "https://flightclub.com/superstar-infant-paint-drip-white-turbo-gy3329",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "239764db-072b-4ea5-bb06-874a44b5228d",
+            "sku": "GZ3293",
+            "brand": "adidas",
+            "name": "Marvel x Racer TR21 I 'Spider-Man'",
+            "colorway": "Solar Red/Cloud White/Blue Rush",
+            "gender": "infant",
+            "silhouette": "Racer TR21",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-31",
+            "retailPrice": 50,
+            "estimatedMarketValue": 109,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/345/762/original/GZ3293.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/345/762/original/GZ3293.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/345/762/original/GZ3293.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/marvel-x-racer-tr21-i-spider-man-gz3293",
+                "flightClub": "https://flightclub.com/marvel-x-racer-tr21-i-spider-man-gz3293",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b58a5427-481e-49d2-87ae-4c7fd6709800",
+            "sku": "GY4812",
+            "brand": "adidas",
+            "name": "adidas Yeezy Boost 700 MNVN Resin (Infant)",
+            "colorway": "Resin/Black",
+            "gender": "infant",
+            "silhouette": "Yeezy Boost 700",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-31",
+            "retailPrice": 140,
+            "estimatedMarketValue": 113,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/561/530/original/884789_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/561/530/original/884789_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/561/530/original/884789_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-yeezy-boost-700-mnvn-resin-infant",
+                "goat": "https://goat.com/sneakers/yeezy-boost-700-mnvn-infants-resin-gy4812",
+                "flightClub": "https://flightclub.com/yeezy-boost-700-mnvn-infants-resin-gy4812",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "26e7533d-2183-4234-bb5e-51aee2b6197e",
+            "sku": "FY9275",
+            "brand": "adidas",
+            "name": "VL Court 2.0 I 'White Royal Blue Vivid Red'",
+            "colorway": "Cloud White/Royal Blue/Vivid Red",
+            "gender": "infant",
+            "silhouette": "VL Court",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-23",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/025/947/original/FY9275.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/025/947/original/FY9275.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/025/947/original/FY9275.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/vl-court-2-0-i-white-royal-blue-vivid-red-fy9275",
+                "flightClub": "https://flightclub.com/vl-court-2-0-i-white-royal-blue-vivid-red-fy9275",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2838216e-d6ad-47c6-a800-5e012d27d440",
+            "sku": "GY3323",
+            "brand": "adidas",
+            "name": "The Simpsons x Superstar I 'Kang and Kodos'",
+            "colorway": "Cloud White/Cloud White/Core Black",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-19",
+            "retailPrice": 60,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/731/087/original/GY3323.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/731/087/original/GY3323.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/731/087/original/GY3323.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/the-simpsons-x-superstar-i-kang-and-kodos-gy3323",
+                "flightClub": "https://flightclub.com/the-simpsons-x-superstar-i-kang-and-kodos-gy3323",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e0a3a345-bc98-42c3-8a6e-01835908b84a",
+            "sku": "GX3166",
+            "brand": "adidas",
+            "name": "Stan Smith I 'White Wonder Mauve'",
+            "colorway": "Cloud White/Pulse Amber/Wonder Mauve",
+            "gender": "infant",
+            "silhouette": "Stan Smith",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-15",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/565/399/original/GX3166.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/565/399/original/GX3166.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/565/399/original/GX3166.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/stan-smith-i-white-wonder-mauve-gx3166",
+                "flightClub": "https://flightclub.com/stan-smith-i-white-wonder-mauve-gx3166",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c89674d5-4680-41e6-bd46-bdcad893fac4",
+            "sku": "GZ3592",
+            "brand": "adidas",
+            "name": "The Simpsons x Original Flex I 'Donuts'",
+            "colorway": "Semi Solar Pink/Cloud White/Semi Solar Pink",
+            "gender": "infant",
+            "silhouette": "Adidas Flex",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-06",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/998/998/original/GZ3592.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/998/998/original/GZ3592.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/998/998/original/GZ3592.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/the-simpsons-x-original-flex-i-donuts-gz3592",
+                "flightClub": "https://flightclub.com/the-simpsons-x-original-flex-i-donuts-gz3592",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7cb41d18-db79-40fc-ae09-e4487dbc5b2b",
+            "sku": "GX3222",
+            "brand": "adidas",
+            "name": "LEGO x Racer TR I 'Red Shock Blue'",
+            "colorway": "Red/Cloud White/Shock Blue",
+            "gender": "infant",
+            "silhouette": "Racer TR",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-03",
+            "retailPrice": 55,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/891/144/original/GX3222.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/891/144/original/GX3222.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/891/144/original/GX3222.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lego-x-racer-tr-i-red-shock-blue-gx3222",
+                "flightClub": "https://flightclub.com/lego-x-racer-tr-i-red-shock-blue-gx3222",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "068a491e-570e-4199-89d7-8bc003e947b9",
+            "sku": "GW5548",
+            "brand": "adidas",
+            "name": "Multix I 'Crystal White Solar Yellow'",
+            "colorway": "Crystal White/Solar Yellow/Grey Five",
+            "gender": "infant",
+            "silhouette": "Multix",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-01",
+            "retailPrice": 45,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/757/364/original/GW5548.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/757/364/original/GW5548.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/757/364/original/GW5548.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/multix-i-crystal-white-solar-yellow-gw5548",
+                "flightClub": "https://flightclub.com/multix-i-crystal-white-solar-yellow-gw5548",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "10f6155c-c772-4c7e-a64e-1769a88cf72e",
+            "sku": "GZ4685",
+            "brand": "adidas",
+            "name": "Racer TR21 I 'Wonder White Black'",
+            "colorway": "Wonder White/Core Black/Grey Four",
+            "gender": "infant",
+            "silhouette": "Racer TR21",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-01",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/757/442/original/GZ4685.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/757/442/original/GZ4685.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/757/442/original/GZ4685.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/racer-tr21-i-wonder-white-black-gz4685",
+                "flightClub": "https://flightclub.com/racer-tr21-i-wonder-white-black-gz4685",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "32258d05-88b2-415d-944c-6ed4eb67ed59",
+            "sku": "GZ4684",
+            "brand": "adidas",
+            "name": "Racer TR21 I 'Carbon Grey'",
+            "colorway": "Carbon/Grey Four/Carbon",
+            "gender": "infant",
+            "silhouette": "Racer TR21",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-01",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/757/440/original/GZ4684.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/757/440/original/GZ4684.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/757/440/original/GZ4684.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/racer-tr21-i-carbon-grey-gz4684",
+                "flightClub": "https://flightclub.com/racer-tr21-i-carbon-grey-gz4684",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "358d6225-6c8c-4442-bb61-dbcd0ca6dcf7",
+            "sku": "GX4132",
+            "brand": "adidas",
+            "name": "Kevin Lyons x Originals Flex I 'Black Clear Sky'",
+            "colorway": "Core Black/Clear Sky/Cloud White",
+            "gender": "infant",
+            "silhouette": "Adidas Flex",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-01",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/757/385/original/GX4132.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/757/385/original/GX4132.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/757/385/original/GX4132.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/kevin-lyons-x-originals-flex-i-black-clear-sky-gx4132",
+                "flightClub": "https://flightclub.com/kevin-lyons-x-originals-flex-i-black-clear-sky-gx4132",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4abaea10-0188-40e3-81f4-77736a0b8436",
+            "sku": "GX4133",
+            "brand": "adidas",
+            "name": "Kevin Lyons x Originals Flex I 'Grey Light Purple'",
+            "colorway": "Grey Three/Light Purple/Cloud White",
+            "gender": "infant",
+            "silhouette": "Adidas Flex",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-01",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/757/386/original/GX4133.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/757/386/original/GX4133.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/757/386/original/GX4133.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/kevin-lyons-x-originals-flex-i-grey-light-purple-gx4133",
+                "flightClub": "https://flightclub.com/kevin-lyons-x-originals-flex-i-grey-light-purple-gx4133",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ba938d79-e497-4f1b-b0eb-9d02b20a4977",
+            "sku": "GW0391",
+            "brand": "adidas",
+            "name": "Summer Closed Toe Water Sandal I 'Black White'",
+            "colorway": "Core Black/Cloud White/Core Black",
+            "gender": "infant",
+            "silhouette": "Summer Closed Toe Water Sandal",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-01",
+            "retailPrice": 30,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/757/355/original/GW0391.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/757/355/original/GW0391.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/757/355/original/GW0391.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/summer-closed-toe-water-sandal-i-black-white-gw0391",
+                "flightClub": "https://flightclub.com/summer-closed-toe-water-sandal-i-black-white-gw0391",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f92a302d-9a5d-457b-945b-136ef5303ad6",
+            "sku": "GW0388",
+            "brand": "adidas",
+            "name": "Summer Closed Toe Water Sandal I 'White Black'",
+            "colorway": "Cloud White/Core Black/Cloud White",
+            "gender": "infant",
+            "silhouette": "Summer Closed Toe Water Sandal",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-01",
+            "retailPrice": 30,
+            "estimatedMarketValue": 30,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/757/354/original/GW0388.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/757/354/original/GW0388.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/757/354/original/GW0388.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/summer-closed-toe-water-sandal-i-white-black-gw0388",
+                "flightClub": "https://flightclub.com/summer-closed-toe-water-sandal-i-white-black-gw0388",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2ae32089-c24b-47ff-abe3-3e4548fd72b7",
+            "sku": "GW0929",
+            "brand": "adidas",
+            "name": "LEGO x Racer TR I 'Shock Blue Green'",
+            "colorway": "Shockblue/Green/Eqt Yellow",
+            "gender": "infant",
+            "silhouette": "Racer TR",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-31",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/891/141/original/GW0929.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/891/141/original/GW0929.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/891/141/original/GW0929.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lego-x-racer-tr-i-shock-blue-green-gw0929",
+                "flightClub": "https://flightclub.com/lego-x-racer-tr-i-shock-blue-green-gw0929",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0475616b-f3e6-4a38-b347-81be0be33c2c",
+            "sku": "GX3280",
+            "brand": "adidas",
+            "name": "Disney x Superstar 360 I 'Daisy'",
+            "colorway": "Cloud White/Cloud White/Cloud White",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-30",
+            "retailPrice": 45,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/998/951/original/GX3280.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/998/951/original/GX3280.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/998/951/original/GX3280.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-superstar-360-i-daisy-duck-gx3280",
+                "flightClub": "https://flightclub.com/disney-x-superstar-360-i-daisy-duck-gx3280",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3f37ac8c-27b3-4662-9805-9f87edd9e6a8",
+            "sku": "GZ0652",
+            "brand": "adidas",
+            "name": "Duramo 10 Elastic Lace I 'Core Black'",
+            "colorway": "Core Black/Cloud White/Core Black",
+            "gender": "infant",
+            "silhouette": "Duramo",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-26",
+            "retailPrice": 43,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/464/301/original/GZ0652.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/464/301/original/GZ0652.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/464/301/original/GZ0652.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/duramo-10-elastic-lace-i-core-black-gz0652",
+                "flightClub": "https://flightclub.com/duramo-10-elastic-lace-i-core-black-gz0652",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c6bfb067-325b-4a1f-9be8-b25d3f6d323f",
+            "sku": "GW8185",
+            "brand": "adidas",
+            "name": "Swift Run 22 I 'True Pink'",
+            "colorway": "True Pink/Cloud White/Vivid Pink",
+            "gender": "infant",
+            "silhouette": "Swift Run",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-22",
+            "retailPrice": 55,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/226/110/original/GW8185.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/226/110/original/GW8185.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/226/110/original/GW8185.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/swift-run-22-i-true-pink-gw8185",
+                "flightClub": "https://flightclub.com/swift-run-22-i-true-pink-gw8185",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "598caee2-11ba-469a-85f4-0f18babf2db8",
+            "sku": "GW8131",
+            "brand": "adidas",
+            "name": "Ozelia I 'Clear Pink'",
+            "colorway": "Clear Pink/Core Black/Clear Pink",
+            "gender": "infant",
+            "silhouette": "Ozelia",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-21",
+            "retailPrice": 55,
+            "estimatedMarketValue": 64,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/902/354/original/878922_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/902/354/original/878922_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/902/354/original/878922_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ozelia-i-clear-pink-gw8131",
+                "flightClub": "https://flightclub.com/ozelia-i-clear-pink-gw8131",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a2559608-1d1d-4aa2-8b46-119102095cdb",
+            "sku": "GX3233",
+            "brand": "adidas",
+            "name": "Superstar 360 I 'Black White'",
+            "colorway": "Core Black/Cloud White/Gold Metallic",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-21",
+            "retailPrice": 45,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/226/118/original/GX3233.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/226/118/original/GX3233.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/226/118/original/GX3233.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/superstar-360-i-black-white-gx3233",
+                "flightClub": "https://flightclub.com/superstar-360-i-black-white-gx3233",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7c64b904-97a3-4300-ba53-addad0b4b7eb",
+            "sku": "H04747",
+            "brand": "adidas",
+            "name": "Ozelia I 'Triple Black'",
+            "colorway": "Core Black/Core Black/Core Black",
+            "gender": "infant",
+            "silhouette": "Ozelia",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-19",
+            "retailPrice": 55,
+            "estimatedMarketValue": 69,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/226/129/original/H04747.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/226/129/original/H04747.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/226/129/original/H04747.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ozelia-i-triple-black-h04747",
+                "flightClub": "https://flightclub.com/ozelia-i-triple-black-h04747",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0b2c5870-7ef5-464b-951d-01719d730e0a",
+            "sku": "GW8186",
+            "brand": "adidas",
+            "name": "Swift Run 22 I 'Grey'",
+            "colorway": "Grey Three/Cloud White/Grey Four",
+            "gender": "infant",
+            "silhouette": "Swift Run",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-14",
+            "retailPrice": 55,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/893/117/original/GW8186.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/893/117/original/GW8186.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/893/117/original/GW8186.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/swift-run-22-i-grey-gw8186",
+                "flightClub": "https://flightclub.com/swift-run-22-i-grey-gw8186",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "15a573b3-7a73-4562-b6cd-328baef98527",
+            "sku": "GW8184",
+            "brand": "adidas",
+            "name": "Swift Run 22 I 'Black White'",
+            "colorway": "Core Black/Cloud White/Grey Five",
+            "gender": "infant",
+            "silhouette": "Swift Run",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-14",
+            "retailPrice": 55,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/893/116/original/GW8184.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/893/116/original/GW8184.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/893/116/original/GW8184.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/swift-run-22-i-black-white-gw8184",
+                "flightClub": "https://flightclub.com/swift-run-22-i-black-white-gw8184",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b1dbe57f-ec80-4230-acf3-ea05e9939033",
+            "sku": "GW8187",
+            "brand": "adidas",
+            "name": "Swift Run 22 I 'White Grey'",
+            "colorway": "Cloud White/Core Black/Grey Two",
+            "gender": "infant",
+            "silhouette": "Swift Run",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-14",
+            "retailPrice": 55,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/893/118/original/GW8187.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/893/118/original/GW8187.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/893/118/original/GW8187.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/swift-run-22-i-white-grey-gw8187",
+                "flightClub": "https://flightclub.com/swift-run-22-i-white-grey-gw8187",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2045c597-281c-4245-97e3-04a25ad456fd",
+            "sku": "GZ3303",
+            "brand": "adidas",
+            "name": "Disney x Breaknet I 'The Lion King - Simba'",
+            "colorway": "Orange Tint/Core Black/Cloud White",
+            "gender": "infant",
+            "silhouette": "Breaknet",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-09",
+            "retailPrice": 38,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/690/355/original/GZ3303.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/690/355/original/GZ3303.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/690/355/original/GZ3303.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-breaknet-i-the-lion-king-simba-gz3303",
+                "flightClub": "https://flightclub.com/disney-x-breaknet-i-the-lion-king-simba-gz3303",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b091be59-d763-481d-bdad-e60d7aa7c57b",
+            "sku": "GW8756",
+            "brand": "adidas",
+            "name": "Duram 10 I 'Vivid Red'",
+            "colorway": "Vivid Red/Cloud White/Core Black",
+            "gender": "infant",
+            "silhouette": "Duramo",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-07",
+            "retailPrice": 43,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/470/295/original/GW8756.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/470/295/original/GW8756.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/470/295/original/GW8756.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/duram-10-i-vivid-red-gw8756",
+                "flightClub": "https://flightclub.com/duram-10-i-vivid-red-gw8756",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cd66871b-51a9-4b68-808b-6568ea3035a3",
+            "sku": "GZ3302",
+            "brand": "adidas",
+            "name": "Disney x Breaknet I 'Princesses'",
+            "colorway": "Clear Pink/Rose Tone/Cloud White",
+            "gender": "infant",
+            "silhouette": "Breaknet",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-02",
+            "retailPrice": 38,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/395/601/original/GZ3302.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/395/601/original/GZ3302.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/395/601/original/GZ3302.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-breaknet-i-princesses-gz3302",
+                "flightClub": "https://flightclub.com/disney-x-breaknet-i-princesses-gz3302",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "379fbe86-9bcb-4e6e-a5db-af4916232e50",
+            "sku": "GZ3295",
+            "brand": "adidas",
+            "name": "Disney x Breaknet I 'Nemo'",
+            "colorway": "Orange Rush/Cloud White/Core Black",
+            "gender": "infant",
+            "silhouette": "Breaknet",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-01",
+            "retailPrice": 38,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/395/600/original/GZ3295.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/395/600/original/GZ3295.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/395/600/original/GZ3295.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-breaknet-i-nemo-gz3295",
+                "flightClub": "https://flightclub.com/disney-x-breaknet-i-nemo-gz3295",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "357971cc-d114-4e59-a01d-f964dc712fb2",
+            "sku": "Q47142",
+            "brand": "adidas",
+            "name": "Her Studio London x Original Flex I 'Colorful Blossoms'",
+            "colorway": "Haze Coral/Cloud White/Clear Sky",
+            "gender": "infant",
+            "silhouette": "Adidas Flex",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-06",
+            "retailPrice": 50,
+            "estimatedMarketValue": 88,
+            "story": "Launching as part of a capsule collection with the UK design agency, the Her Studio London x adidas Original Flex ‘Colorful Blossoms’ delivers a running-inspired silhouette made for little feet. A soft shade of blue is executed on the shiny mesh upper, accented with serrated white three-stripes and a multicolor floral-print tongue. Elastic no-tie laces and a webbing heel loop provide easy on and off. The sneaker sits atop a white EVA sole unit with deep flex grooves for a smooth, natural ride.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/062/904/226/original/Q47142.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/062/904/226/original/Q47142.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/062/904/226/original/Q47142.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/her-studio-london-x-original-flex-i-colorful-blossoms-q47142",
+                "flightClub": "https://flightclub.com/her-studio-london-x-original-flex-i-colorful-blossoms-q47142",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "987bfa36-c6f3-4f7f-b0c4-b6e941db460a",
+            "sku": "Q46178",
+            "brand": "adidas",
+            "name": "Superstar 360 I 'Black Teddy Bear Fur'",
+            "colorway": "Core Black/Core Black/Cloud White",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-06",
+            "retailPrice": 45,
+            "estimatedMarketValue": 90,
+            "story": "The adidas Superstar 360 ‘Black Teddy Bear Fur’ transforms the iconic shell-toed sneaker into a cozy slip-on made for toddlers. The upper replaces traditional leather construction with plush black textile that resembles teddy bear fur. adidas Trefoil branding decorates the woven tongue tag and leather heel tab, the latter accompanied by a patterned pull tab for easy on and off. The sneaker sits atop a solid white EVA sole unit, featuring a hexagonal traction pattern underfoot.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/062/904/223/original/Q46178.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/062/904/223/original/Q46178.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/062/904/223/original/Q46178.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/superstar-360-i-teddy-bear-q46178",
+                "flightClub": "https://flightclub.com/superstar-360-i-teddy-bear-q46178",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4410e32e-0c0a-4fb4-b975-553ffe470556",
+            "sku": "H05274",
+            "brand": "adidas",
+            "name": "Stan Smith I 'Grl Power'",
+            "colorway": "Cloud White/Cloud White/Supplier Colour",
+            "gender": "infant",
+            "silhouette": "Stan Smith",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-01",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/321/372/original/H05274.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/321/372/original/H05274.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/321/372/original/H05274.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/stan-smith-i-grl-power-h05274",
+                "flightClub": "https://flightclub.com/stan-smith-i-grl-power-h05274",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d621fbaa-f4f0-4ccb-a14b-06193d6b7391",
+            "sku": "S24020",
+            "brand": "adidas",
+            "name": "Her Studio London x ZX 1K I 'Colorful Blossoms'",
+            "colorway": "Clear Sky/Cloud White/Haze Coral",
+            "gender": "infant",
+            "silhouette": "ZX 1K",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-01",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/321/392/original/S24020.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/321/392/original/S24020.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/321/392/original/S24020.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/her-studio-london-x-zx-1k-i-colorful-blossoms-s24020",
+                "flightClub": "https://flightclub.com/her-studio-london-x-zx-1k-i-colorful-blossoms-s24020",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6234d6e5-c31c-452e-a1c0-ab5a08cd3c18",
+            "sku": "GW0841",
+            "brand": "adidas",
+            "name": "Monsters Inc. x Forum Low Infant 'George Sanderson'",
+            "colorway": "Solar Gold/Footwear White",
+            "gender": "infant",
+            "silhouette": "Forum",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-25",
+            "retailPrice": 0,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/902/066/original/GW0841.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/902/066/original/GW0841.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/902/066/original/GW0841.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/monsters-inc-x-forum-low-infant-george-sanderson-gw0841",
+                "flightClub": "https://flightclub.com/monsters-inc-x-forum-low-infant-george-sanderson-gw0841",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6f691ad6-4a23-4ec6-a81f-9345890a21fc",
+            "sku": "GW0838",
+            "brand": "adidas",
+            "name": "Monsters Inc. x NMD_R1 Infant 'Boo'",
+            "colorway": "Cloud White/Violet Tone/Light Purple",
+            "gender": "infant",
+            "silhouette": "NMD Runner",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-25",
+            "retailPrice": 80,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/062/390/781/original/824721_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/062/390/781/original/824721_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/062/390/781/original/824721_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/monsters-inc-x-nmd_r1-infant-boo-gw0838",
+                "flightClub": "https://flightclub.com/monsters-inc-x-nmd_r1-infant-boo-gw0838",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0738459a-6721-43c3-8e60-773367d03e79",
+            "sku": "GZ8357",
+            "brand": "adidas",
+            "name": "Forum 360 Infant 'White Haze Coral'",
+            "colorway": "Cloud White/Haze Coral/Cloud White",
+            "gender": "infant",
+            "silhouette": "Forum",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-19",
+            "retailPrice": 45,
+            "estimatedMarketValue": 45,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/794/476/original/GZ8357.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/794/476/original/GZ8357.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/794/476/original/GZ8357.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/forum-360-infant-white-haze-coral-gz8357",
+                "flightClub": "https://flightclub.com/forum-360-infant-white-haze-coral-gz8357",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4e15a455-87ef-4cd6-a35e-bbafe97fb9a0",
+            "sku": "H01505",
+            "brand": "adidas",
+            "name": "LEGO x Sport Infant 'Red'",
+            "colorway": "Red/Cloud White/Equipment Yellow",
+            "gender": "infant",
+            "silhouette": "Adidas Sport",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-19",
+            "retailPrice": 52,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/752/937/original/H01505.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/752/937/original/H01505.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/752/937/original/H01505.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lego-x-sport-infant-red-h01505",
+                "flightClub": "https://flightclub.com/lego-x-sport-infant-red-h01505",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cd12f39b-e365-4e8b-9734-6f0385fbb976",
+            "sku": "FZ5443",
+            "brand": "adidas",
+            "name": "LEGO x Sport Infant 'Shock Blue'",
+            "colorway": "Shock Blue/Cloud White/Red",
+            "gender": "infant",
+            "silhouette": "Adidas Sport",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-19",
+            "retailPrice": 52,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/752/904/original/FZ5443.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/752/904/original/FZ5443.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/752/904/original/FZ5443.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lego-x-sport-infant-shock-blue-fz5443",
+                "flightClub": "https://flightclub.com/lego-x-sport-infant-shock-blue-fz5443",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d22343c7-5d15-4ac1-b45d-dddf5d3d0ab2",
+            "sku": "GZ8356",
+            "brand": "adidas",
+            "name": "Forum 360 Infant 'White Bold Blue'",
+            "colorway": "Cloud White/Bold Blue/Cloud White",
+            "gender": "infant",
+            "silhouette": "Forum",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-19",
+            "retailPrice": 45,
+            "estimatedMarketValue": 75,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/794/475/original/GZ8356.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/794/475/original/GZ8356.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/794/475/original/GZ8356.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/forum-360-infant-white-bold-blue-gz8356",
+                "flightClub": "https://flightclub.com/forum-360-infant-white-bold-blue-gz8356",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0fc3567c-fa9b-4521-af9c-0326b25a6328",
+            "sku": "FZ5444",
+            "brand": "adidas",
+            "name": "LEGO x Sport Infant 'Black Green'",
+            "colorway": "Core Black/Green/Equipment Yellow",
+            "gender": "infant",
+            "silhouette": "Adidas Sport",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-18",
+            "retailPrice": 52,
+            "estimatedMarketValue": 109,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/752/906/original/FZ5444.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/752/906/original/FZ5444.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/752/906/original/FZ5444.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/lego-x-sport-infant-black-green-fz5444",
+                "flightClub": "https://flightclub.com/lego-x-sport-infant-black-green-fz5444",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "10a49147-6156-40b3-b8c4-ecc20bcf9c9e",
+            "sku": "GZ9929",
+            "brand": "adidas",
+            "name": "Stan Smith Infant 'White Focus Olive'",
+            "colorway": "Cloud White/Focus Olive/Cloud White",
+            "gender": "infant",
+            "silhouette": "Stan Smith",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-18",
+            "retailPrice": 50,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/752/930/original/GZ9929.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/752/930/original/GZ9929.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/752/930/original/GZ9929.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/stan-smith-infant-white-focus-olive-gz9929",
+                "flightClub": "https://flightclub.com/stan-smith-infant-white-focus-olive-gz9929",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "447e4b31-f10f-4d39-a506-dc684bf87909",
+            "sku": "GZ9928",
+            "brand": "adidas",
+            "name": "Stan Smith Infant 'White Bold Blue'",
+            "colorway": "Cloud White/Bold Blue/Cloud White",
+            "gender": "infant",
+            "silhouette": "Stan Smith",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-18",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/752/928/original/GZ9928.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/752/928/original/GZ9928.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/752/928/original/GZ9928.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/stan-smith-infant-white-bold-blue-gz9928",
+                "flightClub": "https://flightclub.com/stan-smith-infant-white-bold-blue-gz9928",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9218e12a-51ac-4d35-a609-eb0c114f295e",
+            "sku": "H03175",
+            "brand": "adidas",
+            "name": "Flex Infant 'Core Black'",
+            "colorway": "Core Black/Supplier Colour/Core Black",
+            "gender": "infant",
+            "silhouette": "Flex",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-08",
+            "retailPrice": 50,
+            "estimatedMarketValue": 263,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/230/008/original/H03175.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/230/008/original/H03175.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/230/008/original/H03175.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/flex-infant-core-black-h03175",
+                "flightClub": "https://flightclub.com/flex-infant-core-black-h03175",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "600837b5-a010-4ef0-b67e-e1c9ff97a187",
+            "sku": "H04230",
+            "brand": "adidas",
+            "name": "Racer TR21 Infant 'Grey Acid Orange'",
+            "colorway": "Grey One/Cloud White/Acid Orange",
+            "gender": "infant",
+            "silhouette": "Racer TR21",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-01",
+            "retailPrice": 50,
+            "estimatedMarketValue": 68,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/059/885/455/original/H04230.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/059/885/455/original/H04230.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/059/885/455/original/H04230.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/racer-tr21-infant-grey-acid-orange-h04230",
+                "flightClub": "https://flightclub.com/racer-tr21-infant-grey-acid-orange-h04230",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f38eb9bd-fcfc-46a9-9143-4000956ec4de",
+            "sku": "S23970",
+            "brand": "adidas",
+            "name": "Superstar 360 Rain Boot Infant 'Black Bright Red'",
+            "colorway": "Core Black/Bright Red/Focus Blue",
+            "gender": "infant",
+            "silhouette": "Superstar Boot",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-31",
+            "retailPrice": 45,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/059/821/216/original/S23970.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/059/821/216/original/S23970.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/059/821/216/original/S23970.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/superstar-360-rain-boot-infant-black-bright-red-s23970",
+                "flightClub": "https://flightclub.com/superstar-360-rain-boot-infant-black-bright-red-s23970",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6f003c8e-031c-462e-8e5a-7aeeb7e0b93e",
+            "sku": "GY3440",
+            "brand": "adidas",
+            "name": "adidas Yeezy Boost 350 V2 Light (Infant)",
+            "colorway": "Light/Light/Light",
+            "gender": "infant",
+            "silhouette": "Yeezy Boost 350",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-28",
+            "retailPrice": 140,
+            "estimatedMarketValue": 165,
+            "story": "The adidas Yeezy Boost 350 V2 Infants ‘Light’ carries a re-engineered Primeknit upper in a muted ivory finish, accented with a post-dyed monofilament side stripe that adds a see-through element to the sock-like build. The shoe is updated with UV-sensitive technology, meaning direct sunlight causes the Primeknit construction to become tinged in pink, while the side stripe reveals a dark amber hue. The lightweight build is mounted on a responsive Boost midsole, wrapped in a rubber cage for added support and durability.",
+            "image": {
+                "360": [
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img02.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img03.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img04.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img05.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img06.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img07.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img08.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img09.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img10.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img11.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img12.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img13.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img14.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img15.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img16.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img17.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img18.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img19.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img20.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img21.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img22.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img23.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img24.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img25.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img26.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img27.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img28.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img29.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img30.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img31.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img32.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img33.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img34.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img35.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181",
+                    "https://images.stockx.com/360/adidas-Yeezy-Boost-350-V2-Light-Infant/Images/adidas-Yeezy-Boost-350-V2-Light-Infant/Lv2/img36.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1633110181"
+                ],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/210/388/original/808894_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/210/388/original/808894_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/210/388/original/808894_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/adidas-yeezy-boost-350-v2-light-infant",
+                "goat": "https://goat.com/sneakers/yeezy-boost-350-v2-infants-light-gy3440",
+                "flightClub": "https://flightclub.com/yeezy-boost-350-v2-infants-light-gy3440",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2a9c3f38-1abd-4f62-a471-30bc95854ff9",
+            "sku": "Q46175",
+            "brand": "adidas",
+            "name": "Superstar 360 I 'Panda'",
+            "colorway": "Cloud White/Core Black/Crystal White",
+            "gender": "infant",
+            "silhouette": "Superstar",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-25",
+            "retailPrice": 45,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/059/672/576/original/Q46175.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/059/672/576/original/Q46175.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/059/672/576/original/Q46175.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/superstar-360-i-panda-q46175",
+                "flightClub": "https://flightclub.com/superstar-360-i-panda-q46175",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}

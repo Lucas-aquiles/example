@@ -1,0 +1,2641 @@
+{
+    "results": [
+        {
+            "id": "acaf05ce-e67f-4669-859d-5dc2a9a2b4bb",
+            "sku": "W5740VDA",
+            "brand": "New Balance",
+            "name": "Wmns 57/40 'Valentine's Day'",
+            "colorway": "Natural Pink/Natural Pink",
+            "gender": "women",
+            "silhouette": "57/40",
+            "releaseYear": "2022",
+            "releaseDate": "2022-07-02",
+            "retailPrice": 100,
+            "estimatedMarketValue": 164,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/302/156/original/W5740VDA.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/302/156/original/W5740VDA.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/302/156/original/W5740VDA.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-57-40-valentine-s-day-w5740vda",
+                "flightClub": "https://flightclub.com/wmns-57-40-valentine-s-day-w5740vda",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0f8828ad-eea9-4ffd-8964-93ccc210217c",
+            "sku": "WNRGSFK1",
+            "brand": "New Balance",
+            "name": "Wmns Nergize 'Black Green'",
+            "colorway": "Black/Green",
+            "gender": "women",
+            "silhouette": "Nergize",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-01",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/663/208/original/WNRGSFK1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/663/208/original/WNRGSFK1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/663/208/original/WNRGSFK1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nergize-black-green-wnrgsfk1",
+                "flightClub": "https://flightclub.com/wmns-nergize-black-green-wnrgsfk1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4519e78b-0f9f-4ce6-8b74-673d7d11ba13",
+            "sku": "WNRGSFK1-D",
+            "brand": "New Balance",
+            "name": "Wmns Nergize Wide 'Black Green'",
+            "colorway": "Black/Green",
+            "gender": "women",
+            "silhouette": "Nergize",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-01",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/663/207/original/WNRGSFK1_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/663/207/original/WNRGSFK1_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/663/207/original/WNRGSFK1_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nergize-wide-black-green-wnrgsfk1-d",
+                "flightClub": "https://flightclub.com/wmns-nergize-wide-black-green-wnrgsfk1-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5932b599-9dee-4dfe-a593-0a7b6e7da0b3",
+            "sku": "WS237FA",
+            "brand": "New Balance",
+            "name": "Wmns 237 'Sea Salt Ocean Haze'",
+            "colorway": "Sea Salt/Ocean Haze",
+            "gender": "women",
+            "silhouette": "237",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-01",
+            "retailPrice": 80,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/663/210/original/WS237FA.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/663/210/original/WS237FA.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/663/210/original/WS237FA.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-237-sea-salt-ocean-haze-ws237fa",
+                "flightClub": "https://flightclub.com/wmns-237-sea-salt-ocean-haze-ws237fa",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "62316dd4-68b8-4c27-8d8f-8e46228fa10d",
+            "sku": "WS237FC",
+            "brand": "New Balance",
+            "name": "Wmns 237 'Calm Taupe White'",
+            "colorway": "Calm Taupe/White",
+            "gender": "women",
+            "silhouette": "237",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-01",
+            "retailPrice": 80,
+            "estimatedMarketValue": 117,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/663/211/original/WS237FC.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/663/211/original/WS237FC.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/663/211/original/WS237FC.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-237-calm-taupe-white-ws237fc",
+                "flightClub": "https://flightclub.com/wmns-237-calm-taupe-white-ws237fc",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3bc3b1d6-c9c3-443a-bc41-1e94f0d5a936",
+            "sku": "SWF360A1",
+            "brand": "New Balance",
+            "name": "Wmns 360 Sandal 'White Magenta Pop'",
+            "colorway": "White/Vibrant Spring/Magenta Pop",
+            "gender": "women",
+            "silhouette": "360",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-30",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/663/200/original/SWF360A1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/663/200/original/SWF360A1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/663/200/original/SWF360A1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-360-sandal-white-magenta-pop-swf360a1",
+                "flightClub": "https://flightclub.com/wmns-360-sandal-white-magenta-pop-swf360a1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6c93bd20-2586-4579-b830-69bfb0a073a9",
+            "sku": "SWF360W1",
+            "brand": "New Balance",
+            "name": "Wmns 360 Sandal 'White Vibrant Pink'",
+            "colorway": "White/Vibrant Pink/Vibrant Apricot",
+            "gender": "women",
+            "silhouette": "360",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-30",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/663/201/original/SWF360W1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/663/201/original/SWF360W1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/663/201/original/SWF360W1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-360-sandal-white-vibrant-pink-swf360w1",
+                "flightClub": "https://flightclub.com/wmns-360-sandal-white-vibrant-pink-swf360w1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7a38c045-dccb-4811-9cfc-7cfdef090c16",
+            "sku": "WXMTRBO1",
+            "brand": "New Balance",
+            "name": "Wmns Minimus TR BOA 'Blue Light Mango'",
+            "colorway": "Blue/Pale Blue Chill/Light Mango",
+            "gender": "women",
+            "silhouette": "Minimus TR",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-30",
+            "retailPrice": 150,
+            "estimatedMarketValue": 220,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/663/213/original/WXMTRBO1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/663/213/original/WXMTRBO1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/663/213/original/WXMTRBO1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-minimus-tr-boa-blue-light-mango-wxmtrbo1",
+                "flightClub": "https://flightclub.com/wmns-minimus-tr-boa-blue-light-mango-wxmtrbo1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "eb47ed84-4013-4655-b6e8-3d0953053045",
+            "sku": "WXMTRBO1-D",
+            "brand": "New Balance",
+            "name": "Wmns Minimus TR BOA Wide 'Blue Light Mango'",
+            "colorway": "Blue/Pale Blue Chill/Light Mango",
+            "gender": "women",
+            "silhouette": "Minimus TR",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-30",
+            "retailPrice": 150,
+            "estimatedMarketValue": 220,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/663/212/original/WXMTRBO1_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/663/212/original/WXMTRBO1_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/663/212/original/WXMTRBO1_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-minimus-tr-boa-wide-blue-light-mango-wxmtrbo1-d",
+                "flightClub": "https://flightclub.com/wmns-minimus-tr-boa-wide-blue-light-mango-wxmtrbo1-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9c83b0fd-8039-4e9a-8b80-0761e1d60f05",
+            "sku": "W5740GVB",
+            "brand": "New Balance",
+            "name": "Wmns 57/40 'Daydream'",
+            "colorway": "Daydream/Sea Salt",
+            "gender": "women",
+            "silhouette": "57/40",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-29",
+            "retailPrice": 100,
+            "estimatedMarketValue": 134,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-57-40-daydream-w5740gvb",
+                "flightClub": "https://flightclub.com/wmns-57-40-daydream-w5740gvb",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b54dea68-14f5-440c-8609-b06fcfaeb549",
+            "sku": "WXNRGLG3-D",
+            "brand": "New Balance",
+            "name": "Wmns DynaSoft Nergize v3 Wide 'Grey White'",
+            "colorway": "Grey/White",
+            "gender": "women",
+            "silhouette": "Nergize",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-23",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/663/214/original/WXNRGLG3_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/663/214/original/WXNRGLG3_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/663/214/original/WXNRGLG3_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-dynasoft-nergize-v3-wide-grey-white-wxnrglg3-d",
+                "flightClub": "https://flightclub.com/wmns-dynasoft-nergize-v3-wide-grey-white-wxnrglg3-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d2e1c622-87cf-415d-afa9-90b7a3d5b67a",
+            "sku": "WXNRGLG3",
+            "brand": "New Balance",
+            "name": "Wmns DynaSoft Nergize v3 'Grey White'",
+            "colorway": "Grey/White",
+            "gender": "women",
+            "silhouette": "Nergize",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-23",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/663/215/original/WXNRGLG3.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/663/215/original/WXNRGLG3.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/663/215/original/WXNRGLG3.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-dynasoft-nergize-v3-grey-white-wxnrglg3",
+                "flightClub": "https://flightclub.com/wmns-dynasoft-nergize-v3-grey-white-wxnrglg3",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ab612b54-bc12-4515-8d11-dfd53127b9a2",
+            "sku": "WBKLSGB2",
+            "brand": "New Balance",
+            "name": "New Balance KAWHI 2 Goosebumps (W)",
+            "colorway": "Black/Vibrant Spring/Dynomite",
+            "gender": "women",
+            "silhouette": "KAWHI 2",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-20",
+            "retailPrice": 160,
+            "estimatedMarketValue": 226,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/333/061/original/926975_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/333/061/original/926975_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/333/061/original/926975_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/new-balance-kawhi-2-goosebumps-w",
+                "goat": "https://goat.com/sneakers/goosebumps-x-wmns-kawhi-2-wbklsgb2",
+                "flightClub": "https://flightclub.com/goosebumps-x-wmns-kawhi-2-wbklsgb2",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7db8b05e-677f-4669-8dfa-cec6525347c1",
+            "sku": "SWF200FG",
+            "brand": "New Balance",
+            "name": "Wmns 200 Slide 'White Vibrant Violet'",
+            "colorway": "White/Vibrant Violet/Surf",
+            "gender": "women",
+            "silhouette": "200 Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-18",
+            "retailPrice": 30,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/347/original/SWF200FG.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/347/original/SWF200FG.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/347/original/SWF200FG.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-200-slide-white-vibrant-violet-swf200fg",
+                "flightClub": "https://flightclub.com/wmns-200-slide-white-vibrant-violet-swf200fg",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ff48fdf6-b3b3-4cdd-982e-d0a5d202f347",
+            "sku": "SWF200ZP",
+            "brand": "New Balance",
+            "name": "Wmns 200 Slide 'Blue Vibrant Spring Glow'",
+            "colorway": "Blue/Vibrant Spring Glow/White",
+            "gender": "women",
+            "silhouette": "200 Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-18",
+            "retailPrice": 30,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/348/original/SWF200ZP.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/348/original/SWF200ZP.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/348/original/SWF200ZP.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-200-slide-blue-vibrant-spring-glow-swf200zp",
+                "flightClub": "https://flightclub.com/wmns-200-slide-blue-vibrant-spring-glow-swf200zp",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f09d9382-8251-4e8b-b7fe-02bf11f68406",
+            "sku": "WMORWH3-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam More v3 Wide 'Washed Henna'",
+            "colorway": "Washed Henna/White",
+            "gender": "women",
+            "silhouette": "Fresh Foam More",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-15",
+            "retailPrice": 165,
+            "estimatedMarketValue": 235,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/351/original/WMORWH3_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/351/original/WMORWH3_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/351/original/WMORWH3_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-more-v3-wide-washed-henna-wmorwh3-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-more-v3-wide-washed-henna-wmorwh3-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f6431732-dbff-4b95-ba26-fe67408853da",
+            "sku": "WMORWH3",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam More v3 'Washed Henna'",
+            "colorway": "Washed Henna/White",
+            "gender": "women",
+            "silhouette": "Fresh Foam More",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-15",
+            "retailPrice": 165,
+            "estimatedMarketValue": 235,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/355/original/WMORWH3.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/355/original/WMORWH3.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/355/original/WMORWH3.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-more-v3-washed-henna-wmorwh3",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-more-v3-washed-henna-wmorwh3",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "43e88dca-0096-4619-a00b-20dc83dd6322",
+            "sku": "W991DSM",
+            "brand": "New Balance",
+            "name": "New Balance 991 Dover Street Market MiUK 40th Anniversary Grey (W)",
+            "colorway": "Grey/Grey/White/Taupe",
+            "gender": "women",
+            "silhouette": "991",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-14",
+            "retailPrice": 270,
+            "estimatedMarketValue": 302,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/130/616/original/W991DSM.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/130/616/original/W991DSM.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/130/616/original/W991DSM.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/new-balance-991-dover-street-market-miuk-40th-anniversary-grey-w",
+                "goat": "https://goat.com/sneakers/dover-street-market-x-wmns-991-made-in-england-40th-anniversary-w991dsm",
+                "flightClub": "https://flightclub.com/dover-street-market-x-wmns-991-made-in-england-40th-anniversary-w991dsm",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1f6742f6-73fa-4c4f-939c-f3af0bd030a4",
+            "sku": "SWF200B1",
+            "brand": "New Balance",
+            "name": "Wmns 200 Slide 'Black White'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "200 Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 30,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/975/original/SWF200B1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/975/original/SWF200B1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/975/original/SWF200B1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-200-slide-black-white-swf200b1",
+                "flightClub": "https://flightclub.com/wmns-200-slide-black-white-swf200b1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5fc645ec-b58d-48b6-8075-8133a93935c3",
+            "sku": "SWF200P1",
+            "brand": "New Balance",
+            "name": "Wmns 200 Slide 'Black Pink'",
+            "colorway": "Black/Pink",
+            "gender": "women",
+            "silhouette": "200 Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 30,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/977/original/SWF200P1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/977/original/SWF200P1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/977/original/SWF200P1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-200-slide-black-pink-swf200p1",
+                "flightClub": "https://flightclub.com/wmns-200-slide-black-pink-swf200p1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "78a02d56-6f60-4da3-9896-d33b76e4f5fb",
+            "sku": "SWF200W1",
+            "brand": "New Balance",
+            "name": "Wmns 200 Slide 'White'",
+            "colorway": "White",
+            "gender": "women",
+            "silhouette": "200 Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 30,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/978/original/SWF200W1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/978/original/SWF200W1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/978/original/SWF200W1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-200-slide-white-swf200w1",
+                "flightClub": "https://flightclub.com/wmns-200-slide-white-swf200w1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8ce6ec7e-d2d9-4153-ad37-85a9e758afcd",
+            "sku": "SWF200K1",
+            "brand": "New Balance",
+            "name": "Wmns 200 Slide 'Black'",
+            "colorway": "Black",
+            "gender": "women",
+            "silhouette": "200 Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 30,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/976/original/SWF200K1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/976/original/SWF200K1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/976/original/SWF200K1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-200-slide-black-swf200k1",
+                "flightClub": "https://flightclub.com/wmns-200-slide-black-swf200k1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1587b43d-1e7c-426d-8ad8-362f19d85cb5",
+            "sku": "SWT340L1",
+            "brand": "New Balance",
+            "name": "Wmns 340 Slide 'Black Clear Amethyst'",
+            "colorway": "Black/Clear Amethyst/Silver Metallic",
+            "gender": "women",
+            "silhouette": "340 Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 28,
+            "estimatedMarketValue": 95,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/981/original/SWT340L1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/981/original/SWT340L1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/981/original/SWT340L1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-340-slide-black-clear-amethyst-swt340l1",
+                "flightClub": "https://flightclub.com/wmns-340-slide-black-clear-amethyst-swt340l1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1cae803d-0c8d-473d-a9ad-4b5852374ab9",
+            "sku": "W860D12-2E",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam 860v12 2E Wide 'Libra Night Sky",
+            "colorway": "Libra/Night Air/Night Sky",
+            "gender": "women",
+            "silhouette": "860",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 135,
+            "estimatedMarketValue": 205,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/986/original/W860D12_2E.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/986/original/W860D12_2E.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/986/original/W860D12_2E.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v12-2e-wide-libra-night-sky-w860d12-2e",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-860v12-2e-wide-libra-night-sky-w860d12-2e",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "38efbab9-5143-4bd9-a5b7-4502b3c1d9fd",
+            "sku": "SWT340K1",
+            "brand": "New Balance",
+            "name": "Wmns 340 Slide 'Black Magnet'",
+            "colorway": "Black/Magnet",
+            "gender": "women",
+            "silhouette": "340 Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 28,
+            "estimatedMarketValue": 95,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/980/original/SWT340K1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/980/original/SWT340K1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/980/original/SWT340K1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-340-slide-black-magnet-swt340k1",
+                "flightClub": "https://flightclub.com/wmns-340-slide-black-magnet-swt340k1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "39308a95-cf17-49f6-a0f9-8c1351ed55e6",
+            "sku": "SWT340W1",
+            "brand": "New Balance",
+            "name": "Wmns 340 Slide 'White Summer Fog'",
+            "colorway": "White/Summer Fog",
+            "gender": "women",
+            "silhouette": "340 Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 28,
+            "estimatedMarketValue": 95,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/982/original/SWT340W1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/982/original/SWT340W1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/982/original/SWT340W1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-340-slide-white-summer-fog-swt340w1",
+                "flightClub": "https://flightclub.com/wmns-340-slide-white-summer-fog-swt340w1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4c5c991c-5b18-49ae-bb4c-c0e994b864d0",
+            "sku": "WTMPOLL2",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Tempo v2 'Pink White'",
+            "colorway": "Pink/White",
+            "gender": "women",
+            "silhouette": "Fresh Foam Tempo",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 120,
+            "estimatedMarketValue": 190,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/991/original/WTMPOLL2.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/991/original/WTMPOLL2.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/991/original/WTMPOLL2.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-tempo-v2-pink-white-wtmpoll2",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-tempo-v2-pink-white-wtmpoll2",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "740bda58-c043-42ab-9626-2cd2dc350987",
+            "sku": "WTMPOLL2-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Tempo v2 Wide 'Pink White'",
+            "colorway": "Pink/White",
+            "gender": "women",
+            "silhouette": "Fresh Foam Tempo",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 120,
+            "estimatedMarketValue": 190,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/990/original/WTMPOLL2_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/990/original/WTMPOLL2_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/990/original/WTMPOLL2_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-tempo-v2-wide-pink-white-wtmpoll2-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-tempo-v2-wide-pink-white-wtmpoll2-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9743fde1-9ef4-4b5d-bd6b-511d3a407ef6",
+            "sku": "SWT340A1",
+            "brand": "New Balance",
+            "name": "Wmns 340 Slide 'Light Aluminum Light Reef'",
+            "colorway": "Light Aluminum/White/Light Reef",
+            "gender": "women",
+            "silhouette": "340 Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 28,
+            "estimatedMarketValue": 95,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/979/original/SWT340A1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/979/original/SWT340A1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/979/original/SWT340A1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-340-slide-light-aluminum-light-reef-swt340a1",
+                "flightClub": "https://flightclub.com/wmns-340-slide-light-aluminum-light-reef-swt340a1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9fc15b5d-b677-4dbd-b6b7-6e4e2ae85726",
+            "sku": "W860D12",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam 860v12 'Libra Night Sky",
+            "colorway": "Libra/Night Air/Night Sky",
+            "gender": "women",
+            "silhouette": "860",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 135,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/989/original/W860D12.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/989/original/W860D12.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/989/original/W860D12.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v12-libra-night-sky-w860d12",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-860v12-libra-night-sky-w860d12",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "dc1bff8e-d65f-44c6-876a-9e811759e3b4",
+            "sku": "W860D12-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam 860v12 Wide 'Libra Night Sky",
+            "colorway": "Libra/Night Air/Night Sky",
+            "gender": "women",
+            "silhouette": "860",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 135,
+            "estimatedMarketValue": 136,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/988/original/W860D12_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/988/original/W860D12_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/988/original/W860D12_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-860v12-wide-purple-silver-w860d12-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-860v12-wide-purple-silver-w860d12-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2408844b-663a-4c48-9043-bf552bd0e39d",
+            "sku": "WTHIERA6",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Hierro v6 GTX 'Pace Pink Au Lait'",
+            "colorway": "Pace Pink/Au Lait/Bleached Lime Glow",
+            "gender": "women",
+            "silhouette": "Fresh Foam Hierro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 160,
+            "estimatedMarketValue": 179,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/201/original/WTHIERA6.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/201/original/WTHIERA6.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/201/original/WTHIERA6.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-hierro-v6-gtx-pace-pink-au-lait-wthiera6",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-hierro-v6-gtx-pace-pink-au-lait-wthiera6",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "256de091-f159-42fe-95c1-ad10d65fa825",
+            "sku": "WARISMN3-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Arishi v3 Wide 'Night Tide Pigment'",
+            "colorway": "Night Tide/Pigment/Morning Tide",
+            "gender": "women",
+            "silhouette": "Fresh Foam Arishi",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 70,
+            "estimatedMarketValue": 269,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/189/original/WARISMN3_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/189/original/WARISMN3_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/189/original/WARISMN3_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-arishi-v3-wide-night-tide-pigment-warismn3-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-arishi-v3-wide-night-tide-pigment-warismn3-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "29b5a480-4298-40db-8ab7-962fb4d72d95",
+            "sku": "NBGW4002R-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Breathe Wide 'Grey Pink'",
+            "colorway": "Grey/Pink",
+            "gender": "women",
+            "silhouette": "Fresh Foam Breathe",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/152/original/NBGW4002R_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/152/original/NBGW4002R_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/152/original/NBGW4002R_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-breathe-wide-grey-pink-nbgw4002r-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-breathe-wide-grey-pink-nbgw4002r-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2c9c3376-f738-40da-a7d6-4331b6eb996f",
+            "sku": "WARISMW3",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Arishi v3 'Angora Timberwolf'",
+            "colorway": "Angora/Timberwolf/Whisper Grey",
+            "gender": "women",
+            "silhouette": "Fresh Foam Arishi",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 70,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/196/original/WARISMW3.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/196/original/WARISMW3.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/196/original/WARISMW3.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-arishi-v3-angora-timberwolf-warismw3",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-arishi-v3-angora-timberwolf-warismw3",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3711429f-b880-4d77-a7c2-f371f970c35b",
+            "sku": "WARISMK3-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Arishi v3 Wide 'Black Phantom'",
+            "colorway": "Black/Phantom/Angora",
+            "gender": "women",
+            "silhouette": "Fresh Foam Arishi",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/187/original/WARISMK3_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/187/original/WARISMK3_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/187/original/WARISMK3_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-arishi-v3-wide-black-phantom-warismk3-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-arishi-v3-wide-black-phantom-warismk3-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3ce6954f-3750-498b-8ecc-d132aebe083d",
+            "sku": "WARISMN3",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Arishi v3 'Night Tide Pigment'",
+            "colorway": "Night Tide/Pigment/Morning Tide",
+            "gender": "women",
+            "silhouette": "Fresh Foam Arishi",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 70,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/190/original/WARISMN3.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/190/original/WARISMN3.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/190/original/WARISMN3.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-arishi-v3-night-tide-pigment-warismn3",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3f47c4a3-985e-423f-8ba2-5c06c225a907",
+            "sku": "NBGW4006W-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam LinksSL v2 Wide 'White Pink Leopard'",
+            "colorway": "White/Pink",
+            "gender": "women",
+            "silhouette": "Fresh Foam LinksSL",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/162/original/NBGW4006W_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/162/original/NBGW4006W_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/162/original/NBGW4006W_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-linkssl-v2-wide-white-pink-leopard-nbgw4006w-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-linkssl-v2-wide-white-pink-leopard-nbgw4006w-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4625337b-ee05-44da-a377-01c4ad435986",
+            "sku": "WARISMW3-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Arishi v3 Wide 'Angora Timberwolf'",
+            "colorway": "Angora/Timberwolf/Whisper Grey",
+            "gender": "women",
+            "silhouette": "Fresh Foam Arishi",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 70,
+            "estimatedMarketValue": 269,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/195/original/WARISMW3_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/195/original/WARISMW3_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/195/original/WARISMW3_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-arishi-v3-wide-angora-timberwolf-warismw3-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-arishi-v3-wide-angora-timberwolf-warismw3-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "52d393cb-f4de-49e3-a7fb-d2f0f99d06b9",
+            "sku": "WTHIERA6-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Hierro v6 GTX Wide 'Pace Pink Au Lait'",
+            "colorway": "Pace Pink/Au Lait/Bleached Lime Glow",
+            "gender": "women",
+            "silhouette": "Fresh Foam Hierro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 160,
+            "estimatedMarketValue": 230,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/199/original/WTHIERA6_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/199/original/WTHIERA6_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/199/original/WTHIERA6_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-hierro-v6-gtx-wide-pace-pink-au-lait-wthiera6-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-hierro-v6-gtx-wide-pace-pink-au-lait-wthiera6-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5e3b31c8-8d65-45f8-9da6-92a413580c87",
+            "sku": "WTHIERP6-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Hierro v6 Wide 'Garnet Pink Glow'",
+            "colorway": "Garnet/Pink Glow",
+            "gender": "women",
+            "silhouette": "Fresh Foam Hierro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 140,
+            "estimatedMarketValue": 339,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/202/original/WTHIERP6_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/202/original/WTHIERP6_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/202/original/WTHIERP6_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-hierro-v6-wide-garnet-pink-glow-wthierp6-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-hierro-v6-wide-garnet-pink-glow-wthierp6-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7b771177-4566-4431-b8f6-f650ec11db48",
+            "sku": "WARISMK3",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Arishi v3 'Black Phantom'",
+            "colorway": "Black/Phantom/Angora",
+            "gender": "women",
+            "silhouette": "Fresh Foam Arishi",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 70,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/188/original/WARISMK3.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/188/original/WARISMK3.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/188/original/WARISMK3.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-arishi-v3-black-phantom-warismk3",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-arishi-v3-black-phantom-warismk3",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "82630043-03ce-4c44-8d1b-0318921dd66a",
+            "sku": "NBGW4002S",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Breathe 'Sand'",
+            "colorway": "Sand/Black",
+            "gender": "women",
+            "silhouette": "Fresh Foam Breathe",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 80,
+            "estimatedMarketValue": 80,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/157/original/NBGW4002S.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/157/original/NBGW4002S.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/157/original/NBGW4002S.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-breathe-sand-nbgw4002s",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-breathe-sand-nbgw4002s",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8450ff2c-586e-4085-bd83-c8b7c677810c",
+            "sku": "WS327FK",
+            "brand": "New Balance",
+            "name": "Wmns 327 'Vintage Rose'",
+            "colorway": "Vintage Rose/Vibrant Orange",
+            "gender": "women",
+            "silhouette": "327",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/197/original/WS327FK.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/197/original/WS327FK.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/197/original/WS327FK.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-327-vintage-rose-ws327fk",
+                "flightClub": "https://flightclub.com/wmns-327-vintage-rose-ws327fk",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "902c1dd0-7424-4624-a9df-926a479140ac",
+            "sku": "WARISMR3-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Arishi v3 Wide 'Deep Earth Red'",
+            "colorway": "Deep Earth Red/Earth Red/Harvest Gold",
+            "gender": "women",
+            "silhouette": "Fresh Foam Arishi",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/191/original/WARISMR3_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/191/original/WARISMR3_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/191/original/WARISMR3_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-arishi-v3-wide-deep-earth-red-warismr3-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-arishi-v3-wide-deep-earth-red-warismr3-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a125564e-60f8-4d88-9c0f-4d3e3e4f424d",
+            "sku": "NBGW4002R",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Breathe 'Grey Pink'",
+            "colorway": "Grey/Pink",
+            "gender": "women",
+            "silhouette": "Fresh Foam Breathe",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 80,
+            "estimatedMarketValue": 80,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/153/original/NBGW4002R.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/153/original/NBGW4002R.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/153/original/NBGW4002R.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-breathe-grey-pink-nbgw4002r",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-breathe-grey-pink-nbgw4002r",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b2f5e875-c3d7-452b-b518-9bbac4c52aaa",
+            "sku": "WS327FM",
+            "brand": "New Balance",
+            "name": "Wmns 327 'Summer Fog Light Surf'",
+            "colorway": "Summer Fog/Light Surf",
+            "gender": "women",
+            "silhouette": "327",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 100,
+            "estimatedMarketValue": 149,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/198/original/WS327FM.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/198/original/WS327FM.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/198/original/WS327FM.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-327-summer-fog-light-surf-ws327fm",
+                "flightClub": "https://flightclub.com/wmns-327-summer-fog-light-surf-ws327fm",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b6f83d4d-fa57-4861-a512-74483782c385",
+            "sku": "NBGW4006W",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam LinksSL v2 'White Pink Leopard'",
+            "colorway": "White/Pink",
+            "gender": "women",
+            "silhouette": "Fresh Foam LinksSL",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 90,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/163/original/NBGW4006W.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/163/original/NBGW4006W.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/163/original/NBGW4006W.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-linkssl-v2-white-pink-leopard-nbgw4006w",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-linkssl-v2-white-pink-leopard-nbgw4006w",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c028324a-f215-4331-ae9b-ec36bd6418a3",
+            "sku": "NBGW4002S-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Breathe Wide 'Sand'",
+            "colorway": "Sand/Black",
+            "gender": "women",
+            "silhouette": "Fresh Foam Breathe",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 80,
+            "estimatedMarketValue": 80,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/155/original/NBGW4002S_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/155/original/NBGW4002S_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/155/original/NBGW4002S_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-breathe-wide-sand-nbgw4002s-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-breathe-wide-sand-nbgw4002s-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "df48f8b0-d0f8-426b-b3d4-6040aca7ee76",
+            "sku": "WTHIERP6",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Hierro v6 'Garnet Pink Glow'",
+            "colorway": "Garnet/Pink Glow",
+            "gender": "women",
+            "silhouette": "Fresh Foam Hierro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 140,
+            "estimatedMarketValue": 156,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/203/original/WTHIERP6.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/203/original/WTHIERP6.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/203/original/WTHIERP6.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-hierro-v6-garnet-pink-glow-wthierp6",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-hierro-v6-garnet-pink-glow-wthierp6",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e5dfafbc-3019-4814-b7e6-3602aa96bb3f",
+            "sku": "WARISMR3",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Arishi v3 'Deep Earth Red'",
+            "colorway": "Deep Earth Red/Earth Red/Harvest Gold",
+            "gender": "women",
+            "silhouette": "Fresh Foam Arishi",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-11",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/192/original/WARISMR3.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/192/original/WARISMR3.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/192/original/WARISMR3.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-arishi-v3-deep-earth-red-warismr3",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-arishi-v3-deep-earth-red-warismr3",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "03a93fd2-de56-4296-8bb0-f7411dd3d837",
+            "sku": "WL574EVG",
+            "brand": "New Balance",
+            "name": "Wmns 574 Core 'Grey White'",
+            "colorway": "Grey/White",
+            "gender": "women",
+            "silhouette": "574",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 85,
+            "estimatedMarketValue": 116,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/661/original/WL574EVG.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/661/original/WL574EVG.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/661/original/WL574EVG.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-574-core-grey-white-wl574evg",
+                "flightClub": "https://flightclub.com/wmns-574-core-grey-white-wl574evg",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0d839431-55d0-4de0-b778-5515f60be5d8",
+            "sku": "W1080L12-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 1080v12 Wide 'Night Sky'",
+            "colorway": "Night Sky/Vibrant Orange/Vibrant Pink",
+            "gender": "women",
+            "silhouette": "1080",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 160,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/633/original/W1080L12_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/633/original/W1080L12_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/633/original/W1080L12_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-1080v12-wide-night-sky-w1080l12-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-1080v12-wide-night-sky-w1080l12-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0e9c9fff-96fd-4d8e-bd82-0d8913c63998",
+            "sku": "WL574EVG-D",
+            "brand": "New Balance",
+            "name": "Wmns 574 Core Wide 'Grey White'",
+            "colorway": "Grey/White",
+            "gender": "women",
+            "silhouette": "574",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/660/original/WL574EVG_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/660/original/WL574EVG_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/660/original/WL574EVG_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-574-core-wide-grey-white-wl574evg-d",
+                "flightClub": "https://flightclub.com/wmns-574-core-wide-grey-white-wl574evg-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "25a666de-a124-4a53-b25d-7f41676b0647",
+            "sku": "W1080B12-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 1080v12 Wide 'Black Thunder'",
+            "colorway": "Black/Thunder/Violet Haze",
+            "gender": "women",
+            "silhouette": "1080",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 160,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/629/original/W1080B12_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/629/original/W1080B12_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/629/original/W1080B12_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-1080v12-wide-black-thunder-w1080b12-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-1080v12-wide-black-thunder-w1080b12-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2ac9bcab-9e99-4c08-bdce-3a634636d835",
+            "sku": "WROAVLP2",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Roav v2 'Space Pink'",
+            "colorway": "Space Pink/Sea Salt",
+            "gender": "women",
+            "silhouette": "Fresh Foam Roav",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 85,
+            "estimatedMarketValue": 85,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/668/original/WROAVLP2.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/668/original/WROAVLP2.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/668/original/WROAVLP2.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-roav-v2-space-pink-wroavlp2",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-roav-v2-space-pink-wroavlp2",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2fb0f587-6561-4ed9-9cd5-653020564786",
+            "sku": "W1080L12-2E",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 1080v12 2E Wide 'Night Sky'",
+            "colorway": "Night Sky/Vibrant Orange/Vibrant Pink",
+            "gender": "women",
+            "silhouette": "1080",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 160,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/632/original/W1080L12_2E.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/632/original/W1080L12_2E.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/632/original/W1080L12_2E.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-1080v12-2e-wide-night-sky-w1080l12-2e",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-1080v12-2e-wide-night-sky-w1080l12-2e",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "40db4724-3faf-437c-9797-33b87936286a",
+            "sku": "W1080B12-2A",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 1080v12 2A Wide 'Black Thunder'",
+            "colorway": "Black/Thunder/Violet Haze",
+            "gender": "women",
+            "silhouette": "1080",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 160,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/627/original/W1080B12_2A.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/627/original/W1080B12_2A.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/627/original/W1080B12_2A.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-1080v12-2a-wide-black-thunder-w1080b12-2a",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-1080v12-2a-wide-black-thunder-w1080b12-2a",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "56511aa5-d021-4945-8378-1f4d6cf80eff",
+            "sku": "WROAVLG2-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Roav v2 Wide 'Light Aluminum Sea Salt'",
+            "colorway": "Light Aluminum/Sea Salt",
+            "gender": "women",
+            "silhouette": "Fresh Foam Roav",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/664/original/WROAVLG2_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/664/original/WROAVLG2_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/664/original/WROAVLG2_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-roav-v2-wide-light-aluminum-sea-salt-wroavlg2-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-roav-v2-wide-light-aluminum-sea-salt-wroavlg2-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8b0d1109-30b4-4253-8952-88d42c8690f1",
+            "sku": "W1080L12",
+            "brand": "New Balance",
+            "name": "New Balance Fresh Foam X 1080v12 Night Sky (W)",
+            "colorway": "Night Sky/Vibrant Orange/Vibrant Pink",
+            "gender": "women",
+            "silhouette": "1080",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 160,
+            "estimatedMarketValue": 234,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/634/original/W1080L12.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/634/original/W1080L12.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/634/original/W1080L12.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/new-balance-fresh-foam-1080v12-night-sky-w",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-1080v12-night-sky-w1080l12",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-1080v12-night-sky-w1080l12",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8e33dd73-93c6-4863-b3db-3800b96a7142",
+            "sku": "W1080L12-2A",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 1080v12 2A Wide 'Night Sky'",
+            "colorway": "Night Sky/Vibrant Orange/Vibrant Pink",
+            "gender": "women",
+            "silhouette": "1080",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 160,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/631/original/W1080L12_2A.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/631/original/W1080L12_2A.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/631/original/W1080L12_2A.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-1080v12-2a-wide-night-sky-w1080l12-2a",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-1080v12-2a-wide-night-sky-w1080l12-2a",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ad694d90-8cbb-4187-941a-d5ddfba8509c",
+            "sku": "WROAVLG2",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Roav v2 'Light Aluminum Sea Salt'",
+            "colorway": "Light Aluminum/Sea Salt",
+            "gender": "women",
+            "silhouette": "Fresh Foam Roav",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 85,
+            "estimatedMarketValue": 85,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/665/original/WROAVLG2.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/665/original/WROAVLG2.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/665/original/WROAVLG2.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-roav-v2-light-aluminum-sea-salt-wroavlg2",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-roav-v2-light-aluminum-sea-salt-wroavlg2",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bd0dd763-5002-4289-8d03-a0301c17f29f",
+            "sku": "WROAVLP2-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Roav v2 Wide 'Space Pink'",
+            "colorway": "Space Pink/Sea Salt",
+            "gender": "women",
+            "silhouette": "Fresh Foam Roav",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/667/original/WROAVLP2_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/667/original/WROAVLP2_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/667/original/WROAVLP2_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-roav-v2-wide-space-pink-wroavlp2-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-roav-v2-wide-space-pink-wroavlp2-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e9ec4b72-4a7c-4ee7-9d01-f78a330a2609",
+            "sku": "W1080B12",
+            "brand": "New Balance",
+            "name": "New Balance Fresh Foam X 1080v12 Black Thunder Violet Haze (W)",
+            "colorway": "Black/Thunder/Violet Haze",
+            "gender": "women",
+            "silhouette": "1080",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 160,
+            "estimatedMarketValue": 156,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/630/original/W1080B12.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/630/original/W1080B12.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/630/original/W1080B12.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/new-balance-fresh-foam-1080v12-black-thunder-violet-haze-w",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-1080v12-black-thunder-w1080b12",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-1080v12-black-thunder-w1080b12",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f5e20c8a-3303-4206-9a77-9b9ba4912d7b",
+            "sku": "W1080B12-2E",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 1080v12 2E Wide 'Black Thunder'",
+            "colorway": "Black/Thunder/Violet Haze",
+            "gender": "women",
+            "silhouette": "1080",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 160,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/628/original/W1080B12_2E.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/628/original/W1080B12_2E.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/628/original/W1080B12_2E.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-1080v12-2e-wide-black-thunder-w1080b12-2e",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-1080v12-2e-wide-black-thunder-w1080b12-2e",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "097faac4-5330-4757-a6f8-078508cac2c6",
+            "sku": "W880G12-2A",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 880v12 2A Wide 'Libra Vibrant Pink'",
+            "colorway": "Libra/Vibrant Pink/Vibrant Orange",
+            "gender": "women",
+            "silhouette": "880",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 135,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/647/original/W880G12_2A.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/647/original/W880G12_2A.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/647/original/W880G12_2A.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-880v12-2a-wide-libra-vibrant-pink-w880g12-2a",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-880v12-2a-wide-libra-vibrant-pink-w880g12-2a",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "13eeae66-1e18-40c7-a246-0f05bb7223a2",
+            "sku": "W880L12-2A",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 880v12 2A Wide 'Night Air Libra'",
+            "colorway": "Night Air/Libra/Night Sky",
+            "gender": "women",
+            "silhouette": "880",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 135,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/651/original/W880L12_2A.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/651/original/W880L12_2A.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/651/original/W880L12_2A.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-880v12-2a-wide-night-air-libra-w880l12-2a",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-880v12-2a-wide-night-air-libra-w880l12-2a",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2684cfb4-841e-4bdb-b64e-2650bb9f1b7f",
+            "sku": "W880L12-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 880v12 Wide 'Night Air Libra'",
+            "colorway": "Night Air/Libra/Night Sky",
+            "gender": "women",
+            "silhouette": "880",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 135,
+            "estimatedMarketValue": 158,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/654/original/W880L12_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/654/original/W880L12_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/654/original/W880L12_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-880v12-wide-night-air-libra-w880l12-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-880v12-wide-night-air-libra-w880l12-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "298be4b7-8391-4bf9-ae4d-7f9400e8f719",
+            "sku": "W880L12",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 880v12 'Night Air Libra'",
+            "colorway": "Night Air/Libra/Night Sky",
+            "gender": "women",
+            "silhouette": "880",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 135,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/655/original/W880L12.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/655/original/W880L12.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/655/original/W880L12.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-880v12-night-air-libra-w880l12",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-880v12-night-air-libra-w880l12",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4935fa9f-b63d-4484-b53f-e4ac9f35a64e",
+            "sku": "W880B12",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 880v12 'Black Steel'",
+            "colorway": "Black/Violet Haze/Steel",
+            "gender": "women",
+            "silhouette": "880",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 135,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/644/original/W880B12.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/644/original/W880B12.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/644/original/W880B12.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-880v12-black-steel-w880b12",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-880v12-black-steel-w880b12",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "565834bc-6079-427d-b701-dfc208693576",
+            "sku": "W880B12-2E",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 880v12 2E Wide 'Black Steel'",
+            "colorway": "Black/Violet Haze/Steel",
+            "gender": "women",
+            "silhouette": "880",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 135,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/642/original/W880B12_2E.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/642/original/W880B12_2E.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/642/original/W880B12_2E.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-880v12-2e-wide-black-steel-w880b12-2e",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-880v12-2e-wide-black-steel-w880b12-2e",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "58d5643c-e3aa-47b0-84e1-f4444d38327f",
+            "sku": "W880B12-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 880v12 Wide 'Black Steel'",
+            "colorway": "Black/Violet Haze/Steel",
+            "gender": "women",
+            "silhouette": "880",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 135,
+            "estimatedMarketValue": 148,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/643/original/W880B12_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/643/original/W880B12_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/643/original/W880B12_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-880v12-wide-black-steel-w880b12-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-880v12-wide-black-steel-w880b12-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "59f0a768-226a-4c28-a7de-522189339e02",
+            "sku": "W880G12-2E",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 880v12 2E Wide 'Libra Vibrant Pink'",
+            "colorway": "Libra/Vibrant Pink/Vibrant Orange",
+            "gender": "women",
+            "silhouette": "880",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 135,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/648/original/W880G12_2E.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/648/original/W880G12_2E.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/648/original/W880G12_2E.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-880v12-2e-wide-libra-vibrant-pink-w880g12-2e",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-880v12-2e-wide-libra-vibrant-pink-w880g12-2e",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8758b0f7-20c4-462c-8475-65069005d169",
+            "sku": "W880L12-2E",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 880v12 2E Wide 'Night Air Libra'",
+            "colorway": "Night Air/Libra/Night Sky",
+            "gender": "women",
+            "silhouette": "880",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 135,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/652/original/W880L12_2E.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/652/original/W880L12_2E.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/652/original/W880L12_2E.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-880v12-2e-wide-night-air-libra-w880l12-2e",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-880v12-2e-wide-night-air-libra-w880l12-2e",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8ac266a1-a497-48f1-a187-6b35b7f84ce0",
+            "sku": "W880B12-2A",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 880v12 2A Wide 'Black Steel'",
+            "colorway": "Black/Violet Haze/Steel",
+            "gender": "women",
+            "silhouette": "880",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 135,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/641/original/W880B12_2A.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/641/original/W880B12_2A.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/641/original/W880B12_2A.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-880v12-2a-wide-black-steel-w880b12-2a",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-880v12-2a-wide-black-steel-w880b12-2a",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b83d7f71-0636-4e44-b642-088f0c3d92b4",
+            "sku": "W880G12",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 880v12 'Libra Vibrant Pink'",
+            "colorway": "Libra/Vibrant Pink/Vibrant Orange",
+            "gender": "women",
+            "silhouette": "880",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 135,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/650/original/W880G12.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/650/original/W880G12.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/650/original/W880G12.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-880v12-libra-vibrant-pink-w880g12",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-880v12-libra-vibrant-pink-w880g12",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cf1c516d-9efc-41c6-8ad4-e7bc255985d1",
+            "sku": "W880G12-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X 880v12 Wide 'Libra Vibrant Pink'",
+            "colorway": "Libra/Vibrant Pink/Vibrant Orange",
+            "gender": "women",
+            "silhouette": "880",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 135,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/649/original/W880G12_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/649/original/W880G12_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/649/original/W880G12_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-880v12-wide-libra-vibrant-pink-w880g12-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-880v12-wide-libra-vibrant-pink-w880g12-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4e4448ff-6595-4406-8f74-d73766893cfe",
+            "sku": "NBGW4006B-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam LinksSL v2 Wide 'Black Zebra'",
+            "colorway": "Black",
+            "gender": "women",
+            "silhouette": "Fresh Foam LinksSL",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-28",
+            "retailPrice": 90,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/158/original/NBGW4006B_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/158/original/NBGW4006B_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/158/original/NBGW4006B_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-linkssl-v2-wide-black-zebra-nbgw4006b-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-linkssl-v2-wide-black-zebra-nbgw4006b-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8a944547-8219-492f-8170-e64e95f449c2",
+            "sku": "NBGW4006G-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam LinksSL v2 Wide 'Grey Pink Leopard'",
+            "colorway": "Grey/Pink",
+            "gender": "women",
+            "silhouette": "Fresh Foam LinksSL",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-28",
+            "retailPrice": 90,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/160/original/NBGW4006G_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/160/original/NBGW4006G_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/160/original/NBGW4006G_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-linkssl-v2-wide-grey-pink-leopard-nbgw4006g-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-linkssl-v2-wide-grey-pink-leopard-nbgw4006g-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "93712c54-93e0-4d2e-861e-b34361c40ff2",
+            "sku": "NBGW4006B",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam LinksSL v2 'Black Zebra'",
+            "colorway": "Black",
+            "gender": "women",
+            "silhouette": "Fresh Foam LinksSL",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-28",
+            "retailPrice": 90,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/159/original/NBGW4006B.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/159/original/NBGW4006B.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/159/original/NBGW4006B.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-linkssl-v2-black-zebra-nbgw4006b",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-linkssl-v2-black-zebra-nbgw4006b",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9efe6b58-21ac-4e73-9b43-5f4482478228",
+            "sku": "WROAVWC",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Roav 'Washed Henna'",
+            "colorway": "Washed Henna/Champagne Metallic/Black",
+            "gender": "women",
+            "silhouette": "Fresh Foam Roav",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-28",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/010/257/original/WROAVWC.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/010/257/original/WROAVWC.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/010/257/original/WROAVWC.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-roav-washed-henna-wroavwc",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-roav-washed-henna-wroavwc",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a267be36-13bf-489f-a932-147ab2c386e5",
+            "sku": "WROAVNB",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam Roav 'Night Tide Light Aluminum'",
+            "colorway": "Night Tide/Bleached Lime Glow/Light Aluminum",
+            "gender": "women",
+            "silhouette": "Fresh Foam Roav",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-28",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/010/256/original/WROAVNB.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/010/256/original/WROAVNB.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/010/256/original/WROAVNB.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-roav-night-tide-light-aluminum-wroavnb",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-roav-night-tide-light-aluminum-wroavnb",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "badb90b1-9dce-4ad5-bf17-febf7e37747d",
+            "sku": "NBGW4006G",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam LinksSL v2 'Grey Pink Leopard'",
+            "colorway": "Grey/Pink",
+            "gender": "women",
+            "silhouette": "Fresh Foam LinksSL",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-28",
+            "retailPrice": 90,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/791/161/original/NBGW4006G.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/791/161/original/NBGW4006G.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/791/161/original/NBGW4006G.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-linkssl-v2-grey-pink-leopard-nbgw4006g",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-linkssl-v2-grey-pink-leopard-nbgw4006g",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "221795ca-91ce-4984-834b-9c01e133bcaf",
+            "sku": "WW840BK3-D",
+            "brand": "New Balance",
+            "name": "Wmns 840v3 Wide 'Black'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "840",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/658/804/original/WW840BK3_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/658/804/original/WW840BK3_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/658/804/original/WW840BK3_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-840v3-wide-black-ww840bk3-d",
+                "flightClub": "https://flightclub.com/wmns-840v3-wide-black-ww840bk3-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2da56af2-3dd4-4761-abc2-d58e645de06b",
+            "sku": "WW840GP3-2E",
+            "brand": "New Balance",
+            "name": "Wmns 840v3 2E Wide 'White Silent Grey'",
+            "colorway": "White/Silent Grey",
+            "gender": "women",
+            "silhouette": "840",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/658/808/original/WW840GP3_2E.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/658/808/original/WW840GP3_2E.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/658/808/original/WW840GP3_2E.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-840v3-2e-wide-white-silent-grey-ww840gp3-2e",
+                "flightClub": "https://flightclub.com/wmns-840v3-2e-wide-white-silent-grey-ww840gp3-2e",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2f8db6eb-425a-420e-b19a-ceccef459b83",
+            "sku": "WTMORLG2-D",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X More Trail v2 Wide 'Garnet'",
+            "colorway": "Garnet/Harvest Gold",
+            "gender": "women",
+            "silhouette": "Fresh Foam X More",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 165,
+            "estimatedMarketValue": 235,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/658/798/original/WTMORLG2_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/658/798/original/WTMORLG2_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/658/798/original/WTMORLG2_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-more-trail-v2-wide-garnet-wtmorlg2-d",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-more-trail-v2-wide-garnet-wtmorlg2-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "333f9db1-625e-43b9-b5c5-045a4955aade",
+            "sku": "WW840BK3-2E",
+            "brand": "New Balance",
+            "name": "Wmns 840v3 2E Wide 'Black'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "840",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/658/802/original/WW840BK3_2E.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/658/802/original/WW840BK3_2E.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/658/802/original/WW840BK3_2E.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-840v3-2e-wide-black-ww840bk3-2e",
+                "flightClub": "https://flightclub.com/wmns-840v3-2e-wide-black-ww840bk3-2e",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3f021fed-8036-4029-ad5f-a3dfadf3134e",
+            "sku": "CW997HCY",
+            "brand": "New Balance",
+            "name": "Wmns 997H 'Black Bubblegum'",
+            "colorway": "Black/Bubblegum",
+            "gender": "women",
+            "silhouette": "997H",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 90,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/613/588/original/CW997HCY.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/613/588/original/CW997HCY.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/613/588/original/CW997HCY.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-997h-black-bubblegum-cw997hcy",
+                "flightClub": "https://flightclub.com/wmns-997h-black-bubblegum-cw997hcy",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "51290bd9-73ca-42a6-aac0-810eecdc3014",
+            "sku": "WS327PAB",
+            "brand": "New Balance",
+            "name": "New Balance 327 Morning Fog (W)",
+            "colorway": "White/Morning Fog",
+            "gender": "women",
+            "silhouette": "327",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 100,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/385/931/original/917166_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/385/931/original/917166_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/385/931/original/917166_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/new-balance-327-morning-fog-w",
+                "goat": "https://goat.com/sneakers/wmns-327-white-morning-fog-gum-ws327pab",
+                "flightClub": "https://flightclub.com/wmns-327-white-morning-fog-gum-ws327pab",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5d99ce5b-43fc-41ef-ae91-dbce01fcff66",
+            "sku": "CW997HCV",
+            "brand": "New Balance",
+            "name": "Wmns 997H 'Natural Indigo Libra'",
+            "colorway": "Natural Indigo/Libra",
+            "gender": "women",
+            "silhouette": "997H",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 90,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/613/586/original/CW997HCV.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/613/586/original/CW997HCV.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/613/586/original/CW997HCV.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-997h-natural-indigo-libra-cw997hcv",
+                "flightClub": "https://flightclub.com/wmns-997h-natural-indigo-libra-cw997hcv",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "81547272-e5c9-48bd-a17a-d690a326a340",
+            "sku": "WXMTRCS1-D",
+            "brand": "New Balance",
+            "name": "Wmns Minimus TR Wide 'Team Red Black'",
+            "colorway": "Team Red/Black/White",
+            "gender": "women",
+            "silhouette": "Minimus TR",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/658/813/original/WXMTRCS1_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/658/813/original/WXMTRCS1_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/658/813/original/WXMTRCS1_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-minimus-tr-wide-team-red-black-wxmtrcs1-d",
+                "flightClub": "https://flightclub.com/wmns-minimus-tr-wide-team-red-black-wxmtrcs1-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "957f81f5-8ff6-4180-bdb0-0b78f1b27dc2",
+            "sku": "WW840GP3",
+            "brand": "New Balance",
+            "name": "Wmns 840v3 'White Silent Grey'",
+            "colorway": "White/Silent Grey",
+            "gender": "women",
+            "silhouette": "840",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/658/811/original/WW840GP3.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/658/811/original/WW840GP3.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/658/811/original/WW840GP3.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-840v3-white-silent-grey-ww840gp3",
+                "flightClub": "https://flightclub.com/wmns-840v3-white-silent-grey-ww840gp3",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "99b436d9-7634-4e7d-8ede-eb886a723e19",
+            "sku": "WTMORLG2",
+            "brand": "New Balance",
+            "name": "Wmns Fresh Foam X More Trail v2 'Garnet'",
+            "colorway": "Garnet/Harvest Gold",
+            "gender": "women",
+            "silhouette": "Fresh Foam X More",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 165,
+            "estimatedMarketValue": 235,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/658/800/original/WTMORLG2.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/658/800/original/WTMORLG2.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/658/800/original/WTMORLG2.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fresh-foam-x-more-trail-v2-garnet-wtmorlg2",
+                "flightClub": "https://flightclub.com/wmns-fresh-foam-x-more-trail-v2-garnet-wtmorlg2",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bcab2538-4640-4b8d-8ff0-4fba5989442f",
+            "sku": "WXMTRCS1",
+            "brand": "New Balance",
+            "name": "Wmns Minimus TR 'Team Red Black'",
+            "colorway": "Team Red/Black/White",
+            "gender": "women",
+            "silhouette": "Minimus TR",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/613/738/original/WXMTRCS1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/613/738/original/WXMTRCS1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/613/738/original/WXMTRCS1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-minimus-tr-team-red-black-wxmtrcs1",
+                "flightClub": "https://flightclub.com/wmns-minimus-tr-team-red-black-wxmtrcs1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d1e45d89-a3ec-461d-8228-f38d23a10b0d",
+            "sku": "WW840GP3-D",
+            "brand": "New Balance",
+            "name": "Wmns 840v3 Wide 'White Silent Grey'",
+            "colorway": "White/Silent Grey",
+            "gender": "women",
+            "silhouette": "840",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/658/810/original/WW840GP3_D.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/658/810/original/WW840GP3_D.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/658/810/original/WW840GP3_D.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-840v3-wide-white-silent-grey-ww840gp3-d",
+                "flightClub": "https://flightclub.com/wmns-840v3-wide-white-silent-grey-ww840gp3-d",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f50ee254-4b45-4a5d-a6ab-6e944f1ef823",
+            "sku": "WS327PAA",
+            "brand": "New Balance",
+            "name": "New Balance 327 Natural Indigo Raw Amethyst (W)",
+            "colorway": "Natural Indigo/Raw Amethyst",
+            "gender": "women",
+            "silhouette": "327",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 100,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/385/945/original/917163_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/385/945/original/917163_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/385/945/original/917163_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/new-balance-327-natural-indigo-raw-amethyst-w",
+                "goat": "https://goat.com/sneakers/wmns-327-natural-indigo-raw-amethyst-ws327paa",
+                "flightClub": "https://flightclub.com/wmns-327-natural-indigo-raw-amethyst-ws327paa",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fcc26047-5320-4614-a7f5-fee071e8de57",
+            "sku": "WW840BK3",
+            "brand": "New Balance",
+            "name": "Wmns 840v3 'Black'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "840",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/658/806/original/WW840BK3.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/658/806/original/WW840BK3.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/658/806/original/WW840BK3.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-840v3-black-ww840bk3",
+                "flightClub": "https://flightclub.com/wmns-840v3-black-ww840bk3",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1b8bade7-69a4-410e-919d-5050293fd89d",
+            "sku": "MTMORLH2",
+            "brand": "New Balance",
+            "name": "New Balance X More Trail v2 Harvest Gold (W)",
+            "colorway": "Harvest Gold/Mountain Teal",
+            "gender": "women",
+            "silhouette": "Fresh Foam X More",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-18",
+            "retailPrice": 165,
+            "estimatedMarketValue": 94,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/613/724/original/MTMORLH2.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/613/724/original/MTMORLH2.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/613/724/original/MTMORLH2.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/new-balance-more-trail-v2-harvest-gold-w",
+                "goat": "https://goat.com/sneakers/fresh-foam-x-more-trail-v2-harvest-gold-mountain-teal-mtmorlh2",
+                "flightClub": "https://flightclub.com/fresh-foam-x-more-trail-v2-harvest-gold-mountain-teal-mtmorlh2",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "205ad4c1-63d8-4470-a6ec-3e0db0bfabe6",
+            "sku": "W991SNS",
+            "brand": "New Balance",
+            "name": "New Balance 991 SNS Yellow Blue (W)",
+            "colorway": "White/Blue/Yellow",
+            "gender": "women",
+            "silhouette": "991",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-16",
+            "retailPrice": 259,
+            "estimatedMarketValue": 293,
+            "story": "The Sneakersnstuff x New Balance women’s 991 Made in England ‘Secret Colorway’ is inspired by the Swedish retailer’s first ever collaboration with New Balance: two 577 colorways developed in 2005 by SNS founders Peter and Erik. The latter’s design was color-adjusted following an initial batch of 96 pairs, which was released by SNS as a ‘Secret Colorway.’ Modeled after that shoe, this pair combines a white leather base with contrasting overlays in mint green suede and yellow leather. The sneaker is finished with a two-tone ABZORB midsole.",
+            "image": {
+                "360": [
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img02.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img03.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img04.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img05.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img06.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img07.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img08.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img09.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img10.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img11.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img12.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img13.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img14.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img15.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img16.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img17.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img18.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img19.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img20.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img21.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img22.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img23.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img24.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img25.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img26.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img27.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img28.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img29.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img30.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img31.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img32.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img33.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img34.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img35.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320",
+                    "https://images.stockx.com/360/New-Balance-991-SNS-Yellow-Blue-W/Images/New-Balance-991-SNS-Yellow-Blue-W/Lv2/img36.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647617320"
+                ],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/049/550/original/W991SNS.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/049/550/original/W991SNS.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/049/550/original/W991SNS.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/new-balance-991-sns-yellow-blue-w",
+                "goat": "https://goat.com/sneakers/sneakersnstuff-x-wmns-991-made-in-england-secret-colorway-w991sns",
+                "flightClub": "https://flightclub.com/sneakersnstuff-x-wmns-991-made-in-england-secret-colorway-w991sns",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4af0f47d-dd7f-4263-aa5b-ed2877a3cbfa",
+            "sku": "SPFUSEK3",
+            "brand": "New Balance",
+            "name": "Wmns FuelCell Fuse v3 Molded 'Black White'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "FuelCell Fuse",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-16",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/678/original/SPFUSEK3.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/678/original/SPFUSEK3.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/678/original/SPFUSEK3.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fuelcell-fuse-v3-molded-black-white-spfusek3",
+                "flightClub": "https://flightclub.com/wmns-fuelcell-fuse-v3-molded-black-white-spfusek3",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}

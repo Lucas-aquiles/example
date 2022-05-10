@@ -1,0 +1,2604 @@
+{
+    "results": [
+        {
+            "id": "0e6c6139-3379-4790-b1c7-777183cd0089",
+            "sku": "GW5355",
+            "brand": "Reebok",
+            "name": "Wmns Freestyle High '40th Anniversary - Pale Pink Gum''",
+            "colorway": "Pale Pink/Rose Dust/Rubber Gum'",
+            "gender": "women",
+            "silhouette": "Freestyle",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-01",
+            "retailPrice": 100,
+            "estimatedMarketValue": 139,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/704/original/GW5355.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/704/original/GW5355.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/704/original/GW5355.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-freestyle-high-40th-anniversary-pale-pink-gum-gw5355",
+                "flightClub": "https://flightclub.com/wmns-freestyle-high-40th-anniversary-pale-pink-gum-gw5355",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4c4d56c6-2f3f-4a76-8c7e-aaace302e0de",
+            "sku": "GX2793",
+            "brand": "Reebok",
+            "name": "Wmns Freestyle Low '40th Anniversary - White Gum'",
+            "colorway": "Footwear White/Rubber Gum/Always Blue",
+            "gender": "women",
+            "silhouette": "Freestyle",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-01",
+            "retailPrice": 90,
+            "estimatedMarketValue": 149,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/722/original/GX2793.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/722/original/GX2793.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/722/original/GX2793.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-freestyle-low-40th-anniversary-white-gum-gx2793",
+                "flightClub": "https://flightclub.com/wmns-freestyle-low-40th-anniversary-white-gum-gx2793",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7311cc93-1863-488c-bbea-880c6c4dffcc",
+            "sku": "GX6198",
+            "brand": "Reebok",
+            "name": "Wmns Classic Leather SP 'Pure Grey Light Sage'",
+            "colorway": "Pure Grey 2/Pure Grey 2/Light Sage",
+            "gender": "women",
+            "silhouette": "Reebok Classic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-01",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/745/original/GX6198.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/745/original/GX6198.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/745/original/GX6198.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-leather-sp-pure-grey-light-sage-gx6198",
+                "flightClub": "https://flightclub.com/wmns-classic-leather-sp-pure-grey-light-sage-gx6198",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a631c2e4-03de-4d22-b385-7edf128b9197",
+            "sku": "GX2789",
+            "brand": "Reebok",
+            "name": "Wmns Freestyle High '40th Anniversary - Chalk Gum'",
+            "colorway": "Chalk/Digital Blue/Rubber Gum",
+            "gender": "women",
+            "silhouette": "Freestyle",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-01",
+            "retailPrice": 100,
+            "estimatedMarketValue": 149,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/720/original/GX2789.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/720/original/GX2789.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/720/original/GX2789.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-freestyle-high-40th-anniversary-chalk-gum-gx2789",
+                "flightClub": "https://flightclub.com/wmns-freestyle-high-40th-anniversary-chalk-gum-gx2789",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c18e2ec4-d5cd-45d3-9774-8e8707746e73",
+            "sku": "GX2794",
+            "brand": "Reebok",
+            "name": "Wmns Freestyle Low '40th Anniversary - Glass Blue Gum'",
+            "colorway": "Glass Blue/Rubber Gum/Digital Blue",
+            "gender": "women",
+            "silhouette": "Freestyle",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-01",
+            "retailPrice": 90,
+            "estimatedMarketValue": 149,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/724/original/GX2794.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/724/original/GX2794.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/724/original/GX2794.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-freestyle-low-40th-anniversary-glass-blue-gum-gx2794",
+                "flightClub": "https://flightclub.com/wmns-freestyle-low-40th-anniversary-glass-blue-gum-gx2794",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2d866557-e99e-40d6-9b21-d692c4b02aab",
+            "sku": "GX8689",
+            "brand": "Reebok",
+            "name": "Wmns Classic Leather SP 'White Porcelain Pink'",
+            "colorway": "Cloud White/Cloud White/Porcelain Pink",
+            "gender": "women",
+            "silhouette": "Reebok Classic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-30",
+            "retailPrice": 0,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/751/original/GX8689.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/751/original/GX8689.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/751/original/GX8689.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-leather-sp-white-porcelain-pink-gx8689",
+                "flightClub": "https://flightclub.com/wmns-classic-leather-sp-white-porcelain-pink-gx8689",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "420f3ec9-9e63-4f5c-9512-b4f1392df6cf",
+            "sku": "GZ6425",
+            "brand": "Reebok",
+            "name": "Wmns Classic Leather SP 'Chalk Moonstone'",
+            "colorway": "Chalk/Moonstone/Light Sage",
+            "gender": "women",
+            "silhouette": "Reebok Classic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-30",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/637/572/original/GZ6425.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/637/572/original/GZ6425.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/637/572/original/GZ6425.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-leather-sp-chalk-moonstone-gz6425",
+                "flightClub": "https://flightclub.com/wmns-classic-leather-sp-chalk-moonstone-gz6425",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "faec5cf5-b1dd-412c-b43b-6a9069e105ef",
+            "sku": "GX8690",
+            "brand": "Reebok",
+            "name": "Wmns Classic Leather SP 'Chalk Glass Blue'",
+            "colorway": "Chalk/Chalk/Glass Blue",
+            "gender": "women",
+            "silhouette": "Reebok Classic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-30",
+            "retailPrice": 0,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/752/original/GX8690.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/752/original/GX8690.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/752/original/GX8690.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-leather-sp-chalk-glass-blue-gx8690",
+                "flightClub": "https://flightclub.com/wmns-classic-leather-sp-chalk-glass-blue-gx8690",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0f73142f-71bf-4554-8060-feec5edccca8",
+            "sku": "GZ3633",
+            "brand": "Reebok",
+            "name": "Wmns Classic Leather 'Alabaster'",
+            "colorway": "Alabaster/Chalk/Quartz Glow",
+            "gender": "women",
+            "silhouette": "Reebok Classic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-29",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/637/563/original/GZ3633.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/637/563/original/GZ3633.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/637/563/original/GZ3633.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-leather-alabaster-gz3633",
+                "flightClub": "https://flightclub.com/wmns-classic-leather-alabaster-gz3633",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4b5dfe91-6200-4de5-af19-0afba6e51ee8",
+            "sku": "GZ5614",
+            "brand": "Reebok",
+            "name": "Wmns DailyFit DMX 2 'Pure Grey Atomic Pink'",
+            "colorway": "Pure Grey 2/Atomic Pink/Footwear White",
+            "gender": "women",
+            "silhouette": "DailyFit",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-27",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/460/929/original/GZ5614.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/460/929/original/GZ5614.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/460/929/original/GZ5614.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-dailyfit-dmx-2-pure-grey-atomic-pink-gz5614",
+                "flightClub": "https://flightclub.com/wmns-dailyfit-dmx-2-pure-grey-atomic-pink-gz5614",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "193c1949-31ac-4cdd-886c-e95f9bd1e620",
+            "sku": "FU7356",
+            "brand": "Reebok",
+            "name": "Wmns Work N Cushion 4.0 Wide 'White Cold Grey'",
+            "colorway": "White/Cold Grey 2/White",
+            "gender": "women",
+            "silhouette": "Work N Cushion",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-22",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/352/297/original/FU7356.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/352/297/original/FU7356.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/352/297/original/FU7356.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-work-n-cushion-4-0-wide-white-cold-grey-fu7356",
+                "flightClub": "https://flightclub.com/wmns-work-n-cushion-4-0-wide-white-cold-grey-fu7356",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a7ff37f6-9660-4ff0-ab02-92e9e214c4a0",
+            "sku": "GZ6449",
+            "brand": "Reebok",
+            "name": "Wmns DailyFit DMX 2 'Pure Grey'",
+            "colorway": "Pure Grey 7/Pure Grey 8/Pure Grey 7",
+            "gender": "women",
+            "silhouette": "DailyFit",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-22",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/352/305/original/GZ6449.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/352/305/original/GZ6449.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/352/305/original/GZ6449.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-dailyfit-dmx-2-pure-grey-gz6449",
+                "flightClub": "https://flightclub.com/wmns-dailyfit-dmx-2-pure-grey-gz6449",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "dd4b65cb-caf1-49c1-9ea5-2898e6915ff2",
+            "sku": "FU7357",
+            "brand": "Reebok",
+            "name": "Wmns Work N Cushion 4.0 Wide 'Black Cold Grey'",
+            "colorway": "Black/Cold Grey/Black",
+            "gender": "women",
+            "silhouette": "Work N Cushion",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-21",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/352/299/original/FU7357.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/352/299/original/FU7357.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/352/299/original/FU7357.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-work-n-cushion-4-0-wide-black-cold-grey-fu7357",
+                "flightClub": "https://flightclub.com/wmns-work-n-cushion-4-0-wide-black-cold-grey-fu7357",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1bdb6a97-9353-4da5-b0c4-8ddce6042be0",
+            "sku": "GZ0237",
+            "brand": "Reebok",
+            "name": "Wmns Lite 3.0 'Black Atomic Pink'",
+            "colorway": "Core Black/Atomic Pink/Pure Grey 7",
+            "gender": "women",
+            "silhouette": "Lite 3.0",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-18",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/257/original/GZ0237.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/257/original/GZ0237.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/257/original/GZ0237.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-lite-3-0-black-atomic-pink-gz0237",
+                "flightClub": "https://flightclub.com/wmns-lite-3-0-black-atomic-pink-gz0237",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "656b606c-8797-4884-9b11-ca7be38da3f7",
+            "sku": "GZ0258",
+            "brand": "Reebok",
+            "name": "Wmns Nanoflex TR 'Soft Ecru Orange Flare'",
+            "colorway": "Soft Ecru/Canyon Coral/Orange Flare",
+            "gender": "women",
+            "silhouette": "Nanoflex",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-18",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/258/original/GZ0258.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/258/original/GZ0258.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/258/original/GZ0258.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nanoflex-tr-soft-ecru-orange-flare-gz0258",
+                "flightClub": "https://flightclub.com/wmns-nanoflex-tr-soft-ecru-orange-flare-gz0258",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0add0675-f3b3-4220-871f-bd04dd315f07",
+            "sku": "GW3362",
+            "brand": "Reebok",
+            "name": "Wmns Nanoflex TR 'Floral'",
+            "colorway": "Chalk/Quartz Glow/Blue Slate",
+            "gender": "women",
+            "silhouette": "Nanoflex",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-17",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/223/original/GW3362.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/223/original/GW3362.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/223/original/GW3362.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nanoflex-tr-floral-gw3362",
+                "flightClub": "https://flightclub.com/wmns-nanoflex-tr-floral-gw3362",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "20a86011-07d2-4c03-a548-9ebbfdbadaca",
+            "sku": "GY5192",
+            "brand": "Reebok",
+            "name": "Wmns Energen Plus 'Glass Blue Orange Flare'",
+            "colorway": "Glass Blue/Footwear White/Orange Flare",
+            "gender": "women",
+            "silhouette": "Energen Plus",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-17",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/249/original/GY5192.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/249/original/GY5192.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/249/original/GY5192.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-energen-plus-glass-blue-orange-flare-gy5192",
+                "flightClub": "https://flightclub.com/wmns-energen-plus-glass-blue-orange-flare-gy5192",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "710ab8c9-f7e4-4582-b59d-4eb0c96c2b04",
+            "sku": "GZ0281",
+            "brand": "Reebok",
+            "name": "Wmns Flexagon Force 3 'White Silver Metallic'",
+            "colorway": "Footwear White/Silver Metallic/Pure Grey 2",
+            "gender": "women",
+            "silhouette": "Flexagon",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-16",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/259/original/GZ0281.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/259/original/GZ0281.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/259/original/GZ0281.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-flexagon-force-3-white-silver-metallic-gz0281",
+                "flightClub": "https://flightclub.com/wmns-flexagon-force-3-white-silver-metallic-gz0281",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fdf73849-795a-4f14-9cd4-1505cc766778",
+            "sku": "GZ5618",
+            "brand": "Reebok",
+            "name": "Wmns DailyFit DMX Slip-On 'Pure Grey Atomic Pink'",
+            "colorway": "Pure Grey 2/Footwear White/Atomic Pink",
+            "gender": "women",
+            "silhouette": "DailyFit",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-16",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/266/original/GZ5618.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/266/original/GZ5618.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/266/original/GZ5618.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-dailyfit-dmx-slip-on-pure-grey-atomic-pink-gz5618",
+                "flightClub": "https://flightclub.com/wmns-dailyfit-dmx-slip-on-pure-grey-atomic-pink-gz5618",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "13a5160b-0775-45e5-9dc3-abdf9e625c5b",
+            "sku": "3025058-103",
+            "brand": "Reebok",
+            "name": "Wmns Charged Breathe Lace TR 'White Opal Blue'",
+            "colorway": "White/Opal Blue",
+            "gender": "women",
+            "silhouette": "Charged Breathe",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-15",
+            "retailPrice": 85,
+            "estimatedMarketValue": 85,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/964/321/original/3025058_103.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/964/321/original/3025058_103.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/964/321/original/3025058_103.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-charged-breathe-lace-tr-white-opal-blue-3025058-103",
+                "flightClub": "https://flightclub.com/wmns-charged-breathe-lace-tr-white-opal-blue-3025058-103",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8e5e7e61-f4f9-4202-b989-cb455305c4ff",
+            "sku": "GY6812",
+            "brand": "Reebok",
+            "name": "Wmns Classic Leather 'Cold Grey'",
+            "colorway": "Cold Grey 2/Cold Grey 2/Footwear White",
+            "gender": "women",
+            "silhouette": "Reebok Classic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-15",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/254/original/GY6812.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/254/original/GY6812.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/254/original/GY6812.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-leather-cold-grey-gy6812",
+                "flightClub": "https://flightclub.com/wmns-classic-leather-cold-grey-gy6812",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bab3f7d6-a14f-4e71-a181-72effc4c24e0",
+            "sku": "3025059-100",
+            "brand": "Reebok",
+            "name": "Wmns Charged Breathe Lace TR 'White Pale Olive'",
+            "colorway": "White/Pale Olive",
+            "gender": "women",
+            "silhouette": "Charged Breathe",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-15",
+            "retailPrice": 85,
+            "estimatedMarketValue": 85,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/964/322/original/3025059_100.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/964/322/original/3025059_100.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/964/322/original/3025059_100.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-charged-breathe-lace-tr-white-pale-olive-3025059-100",
+                "flightClub": "https://flightclub.com/wmns-charged-breathe-lace-tr-white-pale-olive-3025059-100",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "54bdf60a-c1a3-4ec9-aa64-373146b5c561",
+            "sku": "GX0391",
+            "brand": "Reebok",
+            "name": "Wmns DailyFit DMX Slip-On 'Black Silver Metallic'",
+            "colorway": "Core Black/Footwear White/Silver Metallic",
+            "gender": "women",
+            "silhouette": "DailyFit",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-14",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/228/original/GX0391.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/228/original/GX0391.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/228/original/GX0391.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-dailyfit-dmx-slip-on-black-silver-metallic-gx0391",
+                "flightClub": "https://flightclub.com/wmns-dailyfit-dmx-slip-on-black-silver-metallic-gx0391",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9973ff56-d3d6-4f63-9b84-43819801a958",
+            "sku": "GX6201",
+            "brand": "Reebok",
+            "name": "Wmns Classic Leather 'Chalk Cold Grey'",
+            "colorway": "Chalk/Cold Grey/Footwear White",
+            "gender": "women",
+            "silhouette": "Reebok Classic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 85,
+            "estimatedMarketValue": 119,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/344/423/original/GX6201.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/344/423/original/GX6201.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/344/423/original/GX6201.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-leather-chalk-cold-grey-gx6201",
+                "flightClub": "https://flightclub.com/wmns-classic-leather-chalk-cold-grey-gx6201",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c2fb5398-0406-4898-9bfd-deab13c0727d",
+            "sku": "GX6200",
+            "brand": "Reebok",
+            "name": "Wmns Classic Leather 'White Rhodonite'",
+            "colorway": "Footwear White/Pure Grey 4/Rhodonite",
+            "gender": "women",
+            "silhouette": "Reebok Classic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 85,
+            "estimatedMarketValue": 119,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/344/422/original/GX6200.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/344/422/original/GX6200.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/344/422/original/GX6200.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-leather-white-rhodonite-gx6200",
+                "flightClub": "https://flightclub.com/wmns-classic-leather-white-rhodonite-gx6200",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "71ccbeaa-5aa8-45f4-818b-b73daa3af0b2",
+            "sku": "GZ1960",
+            "brand": "Reebok",
+            "name": "Wmns Flexagon Force 3 Wide 'Black Pure Grey'",
+            "colorway": "Core Black/Core Black/Pure Grey 8",
+            "gender": "women",
+            "silhouette": "Flexagon",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/778/original/GZ1960.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/778/original/GZ1960.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/778/original/GZ1960.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-flexagon-force-3-wide-black-pure-grey-gz1960",
+                "flightClub": "https://flightclub.com/wmns-flexagon-force-3-wide-black-pure-grey-gz1960",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9b93cd43-16a1-4237-b293-b33fd2004ecd",
+            "sku": "GX2659",
+            "brand": "Reebok",
+            "name": "Wmns DailyFit DMX 'White Quartz Glow'",
+            "colorway": "Footwear White/Quartz Glow/Pure Grey 6",
+            "gender": "women",
+            "silhouette": "DailyFit",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 80,
+            "estimatedMarketValue": 80,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/754/original/GX2659.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/754/original/GX2659.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/754/original/GX2659.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-dailyfit-dmx-white-quartz-glow-gx2659",
+                "flightClub": "https://flightclub.com/wmns-dailyfit-dmx-white-quartz-glow-gx2659",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a6e74198-57ab-489e-91d8-eee99583feba",
+            "sku": "GZ0381",
+            "brand": "Reebok",
+            "name": "Wmns Fluxlite 'Canyon Coral'",
+            "colorway": "Canyon Coral/Chalk/Canyon Coral",
+            "gender": "women",
+            "silhouette": "Fluxlite",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/774/original/GZ0381.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/774/original/GZ0381.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/774/original/GZ0381.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluxlite-canyon-coral-gz0381",
+                "flightClub": "https://flightclub.com/wmns-fluxlite-canyon-coral-gz0381",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f25e708b-24e9-4b89-8b81-d4ab7bea4df4",
+            "sku": "GZ0383",
+            "brand": "Reebok",
+            "name": "Wmns Fluxlite 'White Glass Blue'",
+            "colorway": "Footwear White/Glass Blue/Footwear White",
+            "gender": "women",
+            "silhouette": "Fluxlite",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/531/original/GZ0383.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/531/original/GZ0383.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/531/original/GZ0383.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluxlite-white-glass-blue-gz0383",
+                "flightClub": "https://flightclub.com/wmns-fluxlite-white-glass-blue-gz0383",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "49547267-8b83-4db4-bc6a-d443e122da14",
+            "sku": "GY6522",
+            "brand": "Reebok",
+            "name": "Wmns Flexagon Force 3 Wide 'Black Maroon'",
+            "colorway": "Core Black/Maroon/Pursuit Pink",
+            "gender": "women",
+            "silhouette": "Flexagon",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/765/original/GY6522.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/765/original/GY6522.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/765/original/GY6522.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-flexagon-force-3-wide-black-pursuit-pink-gy6522",
+                "flightClub": "https://flightclub.com/wmns-flexagon-force-3-wide-black-pursuit-pink-gy6522",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "62b24e25-1dc5-44e7-81a1-31fbc83b389f",
+            "sku": "GZ6819",
+            "brand": "Reebok",
+            "name": "Wmns Zig Sky 'Opal Glow Floral'",
+            "colorway": "Opal Glow/Chalk/Light Sage",
+            "gender": "women",
+            "silhouette": "Zig Sky",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 80,
+            "estimatedMarketValue": 80,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/443/117/original/GZ6819.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/443/117/original/GZ6819.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/443/117/original/GZ6819.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-zig-sky-opal-glow-floral-gz6819",
+                "flightClub": "https://flightclub.com/wmns-zig-sky-opal-glow-floral-gz6819",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "11492de7-ed5b-4e06-82bf-12eb96ed08c0",
+            "sku": "GY1972",
+            "brand": "Reebok",
+            "name": "Wmns Nano X1 'Pure Grey Hint Mint'",
+            "colorway": "Pure Grey 1/Hint Mint/Pure Grey 3",
+            "gender": "women",
+            "silhouette": "Nano X1",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 135,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/011/994/original/924479_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/011/994/original/924479_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/011/994/original/924479_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nano-x1-pure-grey-hint-mint-gy1972",
+                "flightClub": "https://flightclub.com/wmns-nano-x1-pure-grey-hint-mint-gy1972",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "822c4912-294e-4275-ae76-132d7e458136",
+            "sku": "GY1973",
+            "brand": "Reebok",
+            "name": "Wmns Nano X1 'Quartz Glow Pure Grey'",
+            "colorway": "Quartz Glow/Pure Grey 5/Footwear White",
+            "gender": "women",
+            "silhouette": "Nano X1",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 135,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/416/685/original/GY1973.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/416/685/original/GY1973.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/416/685/original/GY1973.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nano-x1-quartz-glow-pure-grey-gy1973",
+                "flightClub": "https://flightclub.com/wmns-nano-x1-quartz-glow-pure-grey-gy1973",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "15059e6b-c48f-43b6-b779-cf656681bc9c",
+            "sku": "GY6811",
+            "brand": "Reebok",
+            "name": "Wmns Classic Leather 'Canyon Coral Melon'",
+            "colorway": "Canyon Coral Melon/Canyon Coral Melon/Footwear White",
+            "gender": "women",
+            "silhouette": "Reebok Classic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-03",
+            "retailPrice": 85,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/344/429/original/GY6811.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/344/429/original/GY6811.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/344/429/original/GY6811.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-leather-canyon-coral-melon-gy6811",
+                "flightClub": "https://flightclub.com/wmns-classic-leather-canyon-coral-melon-gy6811",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9d348900-85b0-49dd-9b7f-963208e9a8d3",
+            "sku": "GW0851",
+            "brand": "Reebok",
+            "name": "Wmns DayStart OnLux 'Canyon Coral'",
+            "colorway": "Canyon Coral/Canyon Coral/Footwear White",
+            "gender": "women",
+            "silhouette": "DayStart",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-03",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/416/679/original/GW0851.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/416/679/original/GW0851.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/416/679/original/GW0851.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-daystart-onlux-canyon-coral-gw0851",
+                "flightClub": "https://flightclub.com/wmns-daystart-onlux-canyon-coral-gw0851",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "25e145e0-82e4-43e6-9238-5e38e22412ab",
+            "sku": "GZ6437",
+            "brand": "Reebok",
+            "name": "Wmns Nano X2 'White Acid Yellow'",
+            "colorway": "Footwear White/Essential Blue/Acid Yellow",
+            "gender": "women",
+            "silhouette": "Nano X2",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 135,
+            "estimatedMarketValue": 205,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/613/692/original/GZ6437.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/613/692/original/GZ6437.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/613/692/original/GZ6437.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nano-x2-white-acid-yellow-gz6437",
+                "flightClub": "https://flightclub.com/wmns-nano-x2-white-acid-yellow-gz6437",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "39af4801-963e-42c2-8553-7c9d77723957",
+            "sku": "GX6593",
+            "brand": "Reebok",
+            "name": "Wmns Nano X2 'Orange Flare'",
+            "colorway": "Orange Flare/Footwear White/Core Black",
+            "gender": "women",
+            "silhouette": "Nano X2",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 135,
+            "estimatedMarketValue": 205,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/613/667/original/GX6593.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/613/667/original/GX6593.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/613/667/original/GX6593.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nano-x2-orange-flare-gx6593",
+                "flightClub": "https://flightclub.com/wmns-nano-x2-orange-flare-gx6593",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "afe1a921-d23a-4050-8586-1a9632f23a34",
+            "sku": "GZ6438",
+            "brand": "Reebok",
+            "name": "Wmns Nano X2 'White Pure Grey Gum'",
+            "colorway": "Footwear White/Footwear White/Pure Grey 2",
+            "gender": "women",
+            "silhouette": "Nano X2",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 135,
+            "estimatedMarketValue": 119,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/613/693/original/GZ6438.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/613/693/original/GZ6438.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/613/693/original/GZ6438.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nano-x2-white-pure-grey-gum-gz6438",
+                "flightClub": "https://flightclub.com/wmns-nano-x2-white-pure-grey-gum-gz6438",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f1df5148-9e81-41f9-89a1-0401e71a8d52",
+            "sku": "GW5150",
+            "brand": "Reebok",
+            "name": "Wmns Nano X2 'Black Pure Grey'",
+            "colorway": "Footwear White/Core Black/Pure Grey 6",
+            "gender": "women",
+            "silhouette": "Nano X2",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 135,
+            "estimatedMarketValue": 168,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/613/648/original/GW5150.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/613/648/original/GW5150.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/613/648/original/GW5150.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nano-x2-black-pure-grey-gw5150",
+                "flightClub": "https://flightclub.com/wmns-nano-x2-black-pure-grey-gw5150",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4c7e511e-7f05-40de-a15d-1b024f6aa434",
+            "sku": "GX8510",
+            "brand": "Reebok",
+            "name": "Wmns Club Memory Tech Bold 2 'Floral'",
+            "colorway": "Footwear White/Porcelain Pink/Silver Metallic",
+            "gender": "women",
+            "silhouette": "Club Memory Tech",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/604/original/GX8510.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/604/original/GX8510.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/604/original/GX8510.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-club-memory-tech-bold-2-floral-gx8510",
+                "flightClub": "https://flightclub.com/wmns-club-memory-tech-bold-2-floral-gx8510",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4f539cb2-81b2-4a0b-be30-725183128bdf",
+            "sku": "GY0960",
+            "brand": "Reebok",
+            "name": "Wmns Classic Leather 'Black Pure Grey'",
+            "colorway": "Core Black/Core Black/Pure Grey 5",
+            "gender": "women",
+            "silhouette": "Reebok Classic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 80,
+            "estimatedMarketValue": 119,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/010/186/original/GY0960.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/010/186/original/GY0960.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/010/186/original/GY0960.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-leather-black-pure-grey-gy0960",
+                "flightClub": "https://flightclub.com/wmns-classic-leather-black-pure-grey-gy0960",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "be9721b4-1971-4689-8581-9994eac47187",
+            "sku": "GY0957",
+            "brand": "Reebok",
+            "name": "Wmns Classic Leather 'White Pure Grey'",
+            "colorway": "Footwear White/Footwear White/Pure Grey 3",
+            "gender": "women",
+            "silhouette": "Reebok Classic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 80,
+            "estimatedMarketValue": 119,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/010/184/original/GY0957.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/010/184/original/GY0957.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/010/184/original/GY0957.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-leather-white-pure-grey-gy0957",
+                "flightClub": "https://flightclub.com/wmns-classic-leather-white-pure-grey-gy0957",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ceb960d0-c402-4c47-96d2-d1aa567033f1",
+            "sku": "GY0956",
+            "brand": "Reebok",
+            "name": "Wmns Classic Leather 'White Grey Gum'",
+            "colorway": "Footwear White/Pure Grey 3/Rubber Gum 03",
+            "gender": "women",
+            "silhouette": "Reebok Classic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 80,
+            "estimatedMarketValue": 119,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/010/183/original/GY0956.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/010/183/original/GY0956.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/010/183/original/GY0956.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-leather-white-grey-gum-gy0956",
+                "flightClub": "https://flightclub.com/wmns-classic-leather-white-grey-gum-gy0956",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e69f9188-12c6-405e-874d-02fad1b97b81",
+            "sku": "GY8434",
+            "brand": "Reebok",
+            "name": "Wmns Legacy Lifter 2 'White Black'",
+            "colorway": "Footwear White/Footwear White/Black",
+            "gender": "women",
+            "silhouette": "Legacy Lifter",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 200,
+            "estimatedMarketValue": 270,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/609/original/GY8434.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/609/original/GY8434.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/609/original/GY8434.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-legacy-lifter-2-white-black-gy8434",
+                "flightClub": "https://flightclub.com/wmns-legacy-lifter-2-white-black-gy8434",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1b4270b8-f0c2-4468-a167-2a8f499c9337",
+            "sku": "H00680",
+            "brand": "Reebok",
+            "name": "Wmns Club MEMT Bold 'White'",
+            "colorway": "White/True Grey 1/Gum 5",
+            "gender": "women",
+            "silhouette": "Club MEMT",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-30",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/056/903/original/H00680.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/056/903/original/H00680.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/056/903/original/H00680.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-club-memt-bold-white-h00680",
+                "flightClub": "https://flightclub.com/wmns-club-memt-bold-white-h00680",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e33320b3-6528-4c06-8620-42de78314f8f",
+            "sku": "GY8433",
+            "brand": "Reebok",
+            "name": "Wmns Legacy Lifter 2 'Quartz Glow Atomic Pink'",
+            "colorway": "Quartz Glow/Atomic Pink/Core Black",
+            "gender": "women",
+            "silhouette": "Legacy Lifter",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-29",
+            "retailPrice": 200,
+            "estimatedMarketValue": 270,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/607/original/GY8433.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/607/original/GY8433.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/607/original/GY8433.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-legacy-lifter-2-quartz-glow-atomic-pink-gy8433",
+                "flightClub": "https://flightclub.com/wmns-legacy-lifter-2-quartz-glow-atomic-pink-gy8433",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f43f7766-9be3-448d-acd6-db9d5d609ec5",
+            "sku": "GW5381",
+            "brand": "Reebok",
+            "name": "Reebok Zig Kinetica Victoria Beckham Solar Yellow",
+            "colorway": "Solar Yellow",
+            "gender": "women",
+            "silhouette": "Zig Kinetica",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-29",
+            "retailPrice": 220,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/056/866/original/GW5381.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/056/866/original/GW5381.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/056/866/original/GW5381.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/reebok-zig-kinetica-victoria-beckham-solar-yellow",
+                "goat": "https://goat.com/sneakers/victoria-beckham-x-zig-kinetica-solar-yellow-gw5381",
+                "flightClub": "https://flightclub.com/victoria-beckham-x-zig-kinetica-solar-yellow-gw5381",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "32443958-6f0b-4eba-9e1f-a5c30c0839cd",
+            "sku": "GZ8281",
+            "brand": "Reebok",
+            "name": "Wmns Flexagon Force 3 'Black Maroon'",
+            "colorway": "Core Black/Maroon/Pursuit Pink",
+            "gender": "women",
+            "silhouette": "Flexagon",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-27",
+            "retailPrice": 65,
+            "estimatedMarketValue": 74,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/010/221/original/GZ8281.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/010/221/original/GZ8281.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/010/221/original/GZ8281.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-flexagon-force-3-black-maroon-gz8281",
+                "flightClub": "https://flightclub.com/wmns-flexagon-force-3-black-maroon-gz8281",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bd6ce84a-c2b4-41a8-b03e-9b47e923582f",
+            "sku": "GV8325",
+            "brand": "Reebok",
+            "name": "Wmns Energen Plus 'Floral'",
+            "colorway": "Chalk/Quartz Glow/Blue Slate",
+            "gender": "women",
+            "silhouette": "Energen Plus",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-27",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/010/135/original/GV8325.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/010/135/original/GV8325.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/010/135/original/GV8325.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-energen-plus-floral-gv8325",
+                "flightClub": "https://flightclub.com/wmns-energen-plus-floral-gv8325",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e00e502c-1230-4720-a1d8-337f7294413e",
+            "sku": "GV8324",
+            "brand": "Reebok",
+            "name": "Wmns Energen Plus 'Black Orange Flare'",
+            "colorway": "Core Black/Canyon Coral/Orange Flare",
+            "gender": "women",
+            "silhouette": "Energen Plus",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-27",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/010/134/original/GV8324.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/010/134/original/GV8324.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/010/134/original/GV8324.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-energen-plus-black-orange-flare-gv8324",
+                "flightClub": "https://flightclub.com/wmns-energen-plus-black-orange-flare-gv8324",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "384378c3-2652-4760-8003-5d77cb473954",
+            "sku": "GY5191",
+            "brand": "Reebok",
+            "name": "Wmns Energen Plus 'White Cold Grey'",
+            "colorway": "Footwear White/Cold Grey/Acid Yellow",
+            "gender": "women",
+            "silhouette": "Energen Plus",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-26",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/010/196/original/GY5191.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/010/196/original/GY5191.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/010/196/original/GY5191.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-energen-plus-white-cold-grey-gy5191",
+                "flightClub": "https://flightclub.com/wmns-energen-plus-white-cold-grey-gy5191",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1187ff34-1230-48c3-9a04-1f2b4c484207",
+            "sku": "GW0852",
+            "brand": "Reebok",
+            "name": "Wmns DayStart OnLux 'Pure Grey Atomic Pink'",
+            "colorway": "Pure Grey 2/Atomic Pink/Footwear White",
+            "gender": "women",
+            "silhouette": "DayStart",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-24",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/769/470/original/GW0852.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/769/470/original/GW0852.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/769/470/original/GW0852.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-daystart-onlux-pure-grey-atomic-pink-gw0852",
+                "flightClub": "https://flightclub.com/wmns-daystart-onlux-pure-grey-atomic-pink-gw0852",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "77b28c6a-e38f-419a-a7b7-5fb11643f184",
+            "sku": "GX3016",
+            "brand": "Reebok",
+            "name": "Wmns Floatride Energy 4 'Chalk Stucco Gum'",
+            "colorway": "Chalk/Stucco/Reebok Rubber Gum-04",
+            "gender": "women",
+            "silhouette": "Floatride",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-24",
+            "retailPrice": 110,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/769/477/original/GX3016.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/769/477/original/GX3016.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/769/477/original/GX3016.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-floatride-energy-4-chalk-stucco-gum-gx3016",
+                "flightClub": "https://flightclub.com/wmns-floatride-energy-4-chalk-stucco-gum-gx3016",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "99822b8d-ecea-4e00-9673-60134e034658",
+            "sku": "GZ0254",
+            "brand": "Reebok",
+            "name": "Wmns Nanoflex TR 'Vector Navy Hint Mint'",
+            "colorway": "Vector Navy/Opal Glow/Hint Mint",
+            "gender": "women",
+            "silhouette": "Nanoflex",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-24",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/010/203/original/GZ0254.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/010/203/original/GZ0254.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/010/203/original/GZ0254.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nanoflex-tr-vector-navy-hint-mint-gz0254",
+                "flightClub": "https://flightclub.com/wmns-nanoflex-tr-vector-navy-hint-mint-gz0254",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ae1b974c-88b1-4442-a860-acea1c7e4ce6",
+            "sku": "GX0380",
+            "brand": "Reebok",
+            "name": "Wmns Floatride Energy Daily 'Canyon Coral'",
+            "colorway": "Canyon Coral/Soft Ecru/Chalk",
+            "gender": "women",
+            "silhouette": "Floatride",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-24",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/769/475/original/GX0380.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/769/475/original/GX0380.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/769/475/original/GX0380.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-floatride-energy-daily-canyon-coral-gx0380",
+                "flightClub": "https://flightclub.com/wmns-floatride-energy-daily-canyon-coral-gx0380",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "aff74134-5dcd-4cfb-971e-6eb5b7b562b3",
+            "sku": "GZ0256",
+            "brand": "Reebok",
+            "name": "Wmns Nanoflex TR 'Grey Footwear White'",
+            "colorway": "Pure Grey 2/Footwear White/Pure Grey 3",
+            "gender": "women",
+            "silhouette": "Nanoflex",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-23",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/769/488/original/GZ0256.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/769/488/original/GZ0256.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/769/488/original/GZ0256.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nanoflex-tr-grey-footwear-white-gz0256",
+                "flightClub": "https://flightclub.com/wmns-nanoflex-tr-grey-footwear-white-gz0256",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "430842f0-fa3a-4388-8782-171463a94a3a",
+            "sku": "GY4567",
+            "brand": "Reebok",
+            "name": "Wmns Floatride Energy 3 'Quartz Glow Atomic Pink'",
+            "colorway": "Quartz Glow/Atomic Pink/Acid Yellow",
+            "gender": "women",
+            "silhouette": "Floatride",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-22",
+            "retailPrice": 110,
+            "estimatedMarketValue": 180,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/658/751/original/GY4567.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/658/751/original/GY4567.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/658/751/original/GY4567.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-floatride-energy-3-quartz-glow-atomic-pink-gy4567",
+                "flightClub": "https://flightclub.com/wmns-floatride-energy-3-quartz-glow-atomic-pink-gy4567",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7846c737-8ba0-475b-b90d-aaddd0de7cf7",
+            "sku": "GY5908",
+            "brand": "Reebok",
+            "name": "Wmns Slip 2 'Core Black'",
+            "colorway": "Core Black/Core Black/Footwear White",
+            "gender": "women",
+            "silhouette": "Slip 2",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-22",
+            "retailPrice": 55,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/658/756/original/GY5908.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/658/756/original/GY5908.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/658/756/original/GY5908.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-slip-2-core-black-gy5908",
+                "flightClub": "https://flightclub.com/wmns-slip-2-core-black-gy5908",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d1324116-de71-49f3-b792-30332bf0da38",
+            "sku": "GZ0235",
+            "brand": "Reebok",
+            "name": "Wmns Lite 3 'Vector Navy Quartz Glow'",
+            "colorway": "Vector Navy/Opal Glow/Quartz Glow",
+            "gender": "women",
+            "silhouette": "Lite 3.0",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-18",
+            "retailPrice": 60,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/613/681/original/GZ0235.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/613/681/original/GZ0235.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/613/681/original/GZ0235.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-lite-3-vector-navy-quartz-glow-gz0235",
+                "flightClub": "https://flightclub.com/wmns-lite-3-vector-navy-quartz-glow-gz0235",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6a9fdd4d-eee6-45a5-9b47-3460bf884eaa",
+            "sku": "GX2745",
+            "brand": "Reebok",
+            "name": "Wmns Floatride Energy 3 Adventure 'Quartz Glow Army Green'",
+            "colorway": "Quartz Glow/Army Green/Core Black",
+            "gender": "women",
+            "silhouette": "Floatride",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-16",
+            "retailPrice": 120,
+            "estimatedMarketValue": 190,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/356/823/original/GX2745.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/356/823/original/GX2745.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/356/823/original/GX2745.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-floatride-energy-3-adventure-quartz-glow-army-green-gx2745",
+                "flightClub": "https://flightclub.com/wmns-floatride-energy-3-adventure-quartz-glow-army-green-gx2745",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3613eef3-d6ea-4087-8aae-aafea8e976e9",
+            "sku": "GV6724",
+            "brand": "Reebok",
+            "name": "Wmns Freestyle High 'Vector Red'",
+            "colorway": "Vector Red/Vector Red/Footwear White",
+            "gender": "women",
+            "silhouette": "Freestyle",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-13",
+            "retailPrice": 85,
+            "estimatedMarketValue": 75,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/253/354/original/GV6724.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/253/354/original/GV6724.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/253/354/original/GV6724.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-freestyle-high-vector-red-gv6724",
+                "flightClub": "https://flightclub.com/wmns-freestyle-high-vector-red-gv6724",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "648fbbef-d81e-4edd-bbc4-aa87d7fe2240",
+            "sku": "GX5284",
+            "brand": "Reebok",
+            "name": "Wmns Endless Road 3 'Cold Grey Purple Abyss'",
+            "colorway": "Cold Grey/Cold Grey 2/Purple Abyss",
+            "gender": "women",
+            "silhouette": "Endless Road",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-13",
+            "retailPrice": 80,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/253/379/original/GX5284.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/253/379/original/GX5284.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/253/379/original/GX5284.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-endless-road-3-cold-grey-purple-abyss-gx5284",
+                "flightClub": "https://flightclub.com/wmns-endless-road-3-cold-grey-purple-abyss-gx5284",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8241344b-2c97-4baf-9a16-1651fd74cc71",
+            "sku": "GY4378",
+            "brand": "Reebok",
+            "name": "Wmns Flexagon Force 3 Wide 'White Silver Metallic'",
+            "colorway": "Footwear White/Silver Metallic/Pure Grey 2",
+            "gender": "women",
+            "silhouette": "Flexagon",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-13",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/253/383/original/GY4378.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/253/383/original/GY4378.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/253/383/original/GY4378.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-flexagon-force-3-wide-white-silver-metallic-gy4378",
+                "flightClub": "https://flightclub.com/wmns-flexagon-force-3-wide-white-silver-metallic-gy4378",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a66edc3b-7b5e-412b-839d-1b9985074117",
+            "sku": "GW8517",
+            "brand": "Reebok",
+            "name": "Wmns HIIT 2 'Black Dynamic Red'",
+            "colorway": "Core Black/Pure Grey 7/Dynamic Red",
+            "gender": "women",
+            "silhouette": "HIIT",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-13",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/253/369/original/GW8517.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/253/369/original/GW8517.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/253/369/original/GW8517.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-hiit-2-black-dynamic-red-gw8517",
+                "flightClub": "https://flightclub.com/wmns-hiit-2-black-dynamic-red-gw8517",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c93f8dae-2830-45e3-8795-9148183f5203",
+            "sku": "2240",
+            "brand": "Reebok",
+            "name": "Wmns Freestyle High 'Triple Black'",
+            "colorway": "Black",
+            "gender": "women",
+            "silhouette": "Freestyle",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-13",
+            "retailPrice": 85,
+            "estimatedMarketValue": 85,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/253/244/original/2240.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/253/244/original/2240.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/253/244/original/2240.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-freestyle-high-triple-black-2240",
+                "flightClub": "https://flightclub.com/wmns-freestyle-high-triple-black-2240",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e7d0ef79-3f15-477f-a3bd-589c333fb7b8",
+            "sku": "GZ2288",
+            "brand": "Reebok",
+            "name": "Wmns Club High 'White Black'",
+            "colorway": "Footwear White/Core Black/Footwear White",
+            "gender": "women",
+            "silhouette": "Club",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-13",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/253/390/original/GZ2288.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/253/390/original/GZ2288.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/253/390/original/GZ2288.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-club-high-white-black-gz2288",
+                "flightClub": "https://flightclub.com/wmns-club-high-white-black-gz2288",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "24b30691-e505-4ac3-935a-f04ce2d21bb1",
+            "sku": "GW4409",
+            "brand": "Reebok",
+            "name": "Wmns Club High 'White Fierce Gold'",
+            "colorway": "Footwear White/Fierce Gold/Chalk",
+            "gender": "women",
+            "silhouette": "Club",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-12",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/253/363/original/GW4409.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/253/363/original/GW4409.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/253/363/original/GW4409.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-club-high-white-fierce-gold-gw4409",
+                "flightClub": "https://flightclub.com/wmns-club-high-white-fierce-gold-gw4409",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5f9d70ee-1d2c-4846-b422-556334cd7dda",
+            "sku": "GX4052",
+            "brand": "Reebok",
+            "name": "Wmns Floatride Energy Symmetros 'Opal Glow Essential Blue'",
+            "colorway": "Opal Glow/Essential Blue/Acid Yellow",
+            "gender": "women",
+            "silhouette": "Floatride",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-12",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/253/377/original/GX4052.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/253/377/original/GX4052.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/253/377/original/GX4052.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-floatride-energy-symmetros-opal-glow-essential-blue-gx4052",
+                "flightClub": "https://flightclub.com/wmns-floatride-energy-symmetros-opal-glow-essential-blue-gx4052",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e6572680-5a09-4d78-9099-fc5d47bcf0bf",
+            "sku": "GX1990",
+            "brand": "Reebok",
+            "name": "Wmns Club High 'White Frost Berry'",
+            "colorway": "Footwear White/Frost Berry/Baked Earth",
+            "gender": "women",
+            "silhouette": "Club",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-12",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/253/374/original/GX1990.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/253/374/original/GX1990.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/253/374/original/GX1990.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-club-high-white-frost-berry-gx1990",
+                "flightClub": "https://flightclub.com/wmns-club-high-white-frost-berry-gx1990",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ef4be89c-f85f-4601-ab47-c91171a974d5",
+            "sku": "FW9392",
+            "brand": "Reebok",
+            "name": "Wmns Floatride Energy Symmetros 'White Twisted Coral'",
+            "colorway": "Footwear White/Core Black/Twisted Coral",
+            "gender": "women",
+            "silhouette": "Floatride",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-12",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/253/351/original/FW9392.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/253/351/original/FW9392.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/253/351/original/FW9392.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-floatride-energy-symmetros-white-twisted-coral-fw9392",
+                "flightClub": "https://flightclub.com/wmns-floatride-energy-symmetros-white-twisted-coral-fw9392",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b91e9d97-85c9-4dde-b489-855234289ceb",
+            "sku": "FW9390",
+            "brand": "Reebok",
+            "name": "Wmns Floatride Energy Symmetros 'Digital Glow Neon Mint'",
+            "colorway": "Digital Glow/Chalk Blue/Neon Mint",
+            "gender": "women",
+            "silhouette": "Floatride",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-11",
+            "retailPrice": 130,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/253/349/original/FW9390.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/253/349/original/FW9390.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/253/349/original/FW9390.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-floatride-energy-symmetros-digital-glow-neon-mint-fw9390",
+                "flightClub": "https://flightclub.com/wmns-floatride-energy-symmetros-digital-glow-neon-mint-fw9390",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "07a0fc03-e213-44f1-b3da-e3185da9e44b",
+            "sku": "GZ3663",
+            "brand": "Reebok",
+            "name": "Wmns Club C 85 Vegan 'White Atomic Pink'",
+            "colorway": "Footwear White/Atomic Pink/Vector Red",
+            "gender": "women",
+            "silhouette": "Club C",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/999/782/original/GZ3663.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/999/782/original/GZ3663.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/999/782/original/GZ3663.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-club-c-85-vegan-white-atomic-pink-gz3663",
+                "flightClub": "https://flightclub.com/wmns-club-c-85-vegan-white-atomic-pink-gz3663",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f83b4fd4-9153-4d0e-889f-d77872df8a21",
+            "sku": "GZ3661",
+            "brand": "Reebok",
+            "name": "Wmns Club C 85 Vegan 'Chalk Gable Grey'",
+            "colorway": "Chalk/Gable Grey/Quartz Glow",
+            "gender": "women",
+            "silhouette": "Club C",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 80,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/999/781/original/GZ3661.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/999/781/original/GZ3661.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/999/781/original/GZ3661.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-club-c-85-vegan-chalk-gable-grey-gz3661",
+                "flightClub": "https://flightclub.com/wmns-club-c-85-vegan-chalk-gable-grey-gz3661",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1d7f7000-d3d6-416c-b372-0b785007eb6d",
+            "sku": "GZ3634",
+            "brand": "Reebok",
+            "name": "Wmns Classic Legacy AZ 'Gable Grey'",
+            "colorway": "Pure Grey 1/Footwear White/Gable Grey",
+            "gender": "women",
+            "silhouette": "Reebok Classic Legacy",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-06",
+            "retailPrice": 85,
+            "estimatedMarketValue": 119,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/947/161/original/GZ3634.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/947/161/original/GZ3634.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/947/161/original/GZ3634.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-legacy-az-gable-grey-gz3634",
+                "flightClub": "https://flightclub.com/wmns-classic-legacy-az-gable-grey-gz3634",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fd861c60-06b6-49b1-af64-9f4d8d8d29aa",
+            "sku": "GZ0239",
+            "brand": "Reebok",
+            "name": "Wmns Lite 3 'Black Silver Metallic'",
+            "colorway": "Core Black/Silver Metallic/Pure Grey 7",
+            "gender": "women",
+            "silhouette": "Lite 3.0",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-05",
+            "retailPrice": 60,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/894/332/original/GZ0239.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/894/332/original/GZ0239.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/894/332/original/GZ0239.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-lite-3-black-silver-metallic-gz0239",
+                "flightClub": "https://flightclub.com/wmns-lite-3-black-silver-metallic-gz0239",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "01914c8c-7639-4bcd-8405-b17fdf1047ce",
+            "sku": "GX3686",
+            "brand": "Reebok",
+            "name": "Reebok Club C 85 Vintage Chalk Green (W)",
+            "colorway": "Vintage Chalk/Green",
+            "gender": "women",
+            "silhouette": "Club C",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-03",
+            "retailPrice": 85,
+            "estimatedMarketValue": 99,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/393/501/original/909156_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/393/501/original/909156_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/393/501/original/909156_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/reebok-club-c-85-vintage-chalk-green-w",
+                "goat": "https://goat.com/sneakers/wmns-club-c-85-chalk-glen-green-gx3686",
+                "flightClub": "https://flightclub.com/wmns-club-c-85-chalk-glen-green-gx3686",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "05063f48-5a03-45c6-86cf-820ceae289bf",
+            "sku": "GX8766",
+            "brand": "Reebok",
+            "name": "Wmns Club C Double Geo 'White Moonstone'",
+            "colorway": "Footwear White/Footwear White/Moonstone",
+            "gender": "women",
+            "silhouette": "Club C",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-03",
+            "retailPrice": 90,
+            "estimatedMarketValue": 109,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/333/191/original/909163_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/333/191/original/909163_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/333/191/original/909163_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-club-c-double-geo-white-moonstone-gx8766",
+                "flightClub": "https://flightclub.com/wmns-club-c-double-geo-white-moonstone-gx8766",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2cdb9f33-0715-4594-85ba-f9d380dc9e69",
+            "sku": "GW9036",
+            "brand": "Reebok",
+            "name": "Wmns OnLux Slip-On 'Black Leopard'",
+            "colorway": "Core Black/Pure Grey 6/Quartz Glow",
+            "gender": "women",
+            "silhouette": "OnLux Slip-On",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-03",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/715/137/original/GW9036.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/715/137/original/GW9036.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/715/137/original/GW9036.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-onlux-slip-on-black-leopard-gw9036",
+                "flightClub": "https://flightclub.com/wmns-onlux-slip-on-black-leopard-gw9036",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "aea18d6b-fbc7-42f3-923e-984f0520ecec",
+            "sku": "GV8216",
+            "brand": "Reebok",
+            "name": "Wmns Flexagon Energy Train 3 'White Atomic Pink'",
+            "colorway": "Footwear White/Atomic Pink/Cold Grey 2",
+            "gender": "women",
+            "silhouette": "Flexagon",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-03",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/715/110/original/GV8216.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/715/110/original/GV8216.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/715/110/original/GV8216.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-flexagon-energy-train-3-white-atomic-pink-gv8216",
+                "flightClub": "https://flightclub.com/wmns-flexagon-energy-train-3-white-atomic-pink-gv8216",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f4252bdc-4e58-42bd-8569-95b83f255da9",
+            "sku": "GY3257",
+            "brand": "Reebok",
+            "name": "Wmns OnLux Slip-On 'Stucco'",
+            "colorway": "Stucco/Chalk/Footwear White",
+            "gender": "women",
+            "silhouette": "OnLux Slip-On",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-03",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/715/189/original/GY3257.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/715/189/original/GY3257.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/715/189/original/GY3257.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-onlux-slip-on-stucco-gy3257",
+                "flightClub": "https://flightclub.com/wmns-onlux-slip-on-stucco-gy3257",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "61aa4072-1efc-49b9-b2da-741c41d9eca9",
+            "sku": "GY8442",
+            "brand": "Reebok",
+            "name": "Wmns Nano X1 'Quartz Glow Atomic Pink'",
+            "colorway": "Quartz Glow/Core Black/Atomic Pink",
+            "gender": "women",
+            "silhouette": "Nano X1",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-02",
+            "retailPrice": 135,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/715/192/original/GY8442.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/715/192/original/GY8442.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/715/192/original/GY8442.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nano-x1-quartz-glow-atomic-pink-gy8442",
+                "flightClub": "https://flightclub.com/wmns-nano-x1-quartz-glow-atomic-pink-gy8442",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0bd4926b-b8fb-486e-8b97-8ff016f3ccbe",
+            "sku": "GZ0295",
+            "brand": "Reebok",
+            "name": "Wmns Flexagon Energy Train 3 'Black Rose Gold'",
+            "colorway": "Core Black/Rose Gold/Soft Ecru",
+            "gender": "women",
+            "silhouette": "Flexagon",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-01",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/656/897/original/GZ0295.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/656/897/original/GZ0295.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/656/897/original/GZ0295.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-flexagon-energy-train-3-black-rose-gold-gz0295",
+                "flightClub": "https://flightclub.com/wmns-flexagon-energy-train-3-black-rose-gold-gz0295",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9041a420-b479-4875-8f13-4d19e4e6f01e",
+            "sku": "GZ1535",
+            "brand": "Reebok",
+            "name": "Wmns Reebok Classic Legacy AZ 'Soft Ecru'",
+            "colorway": "Soft Ecru/Canyon Coral/Chalk",
+            "gender": "women",
+            "silhouette": "Reebok Classic Legacy",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-26",
+            "retailPrice": 85,
+            "estimatedMarketValue": 119,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/494/238/original/GZ1535.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/494/238/original/GZ1535.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/494/238/original/GZ1535.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-reebok-classic-legacy-az-soft-ecru-gz1535",
+                "flightClub": "https://flightclub.com/wmns-reebok-classic-legacy-az-soft-ecru-gz1535",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a8bd18f5-bc9f-4fa1-8b4f-60f37991d94f",
+            "sku": "GX4060",
+            "brand": "Reebok",
+            "name": "Wmns Nano X1 Grit 'Footwear White Pure Grey'",
+            "colorway": "Footwear White/Pure Grey 2/Essential Blue",
+            "gender": "women",
+            "silhouette": "Nano X1",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-26",
+            "retailPrice": 135,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/494/218/original/GX4060.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/494/218/original/GX4060.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/494/218/original/GX4060.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nano-x1-grit-footwear-white-pure-grey-gx4060",
+                "flightClub": "https://flightclub.com/wmns-nano-x1-grit-footwear-white-pure-grey-gx4060",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a98811ed-f144-4fb4-aadf-a71b7f605d7e",
+            "sku": "S42571",
+            "brand": "Reebok",
+            "name": "Wmns Nano X1 Grit 'Footwear White Black'",
+            "colorway": "Footwear White/Core Black/Pure Grey 5",
+            "gender": "women",
+            "silhouette": "Nano X1",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-26",
+            "retailPrice": 135,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/494/260/original/S42571.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/494/260/original/S42571.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/494/260/original/S42571.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nano-x1-grit-footwear-white-black-s42571",
+                "flightClub": "https://flightclub.com/wmns-nano-x1-grit-footwear-white-black-s42571",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5270c041-34cf-42f6-bfb1-e2c8e27d67e0",
+            "sku": "GZ0257",
+            "brand": "Reebok",
+            "name": "Wmns Nanoflex TR 'Black Footwear White'",
+            "colorway": "Core Black/Footwear White/Pure Grey 4",
+            "gender": "women",
+            "silhouette": "Nanoflex",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-24",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/374/900/original/GZ0257.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/374/900/original/GZ0257.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/374/900/original/GZ0257.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nanoflex-tr-black-footwear-white-gz0257",
+                "flightClub": "https://flightclub.com/wmns-nanoflex-tr-black-footwear-white-gz0257",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "943f9381-2209-4520-888a-47d90e2ed1f4",
+            "sku": "GX2819",
+            "brand": "Reebok",
+            "name": "Wmns Classic Legacy AZ 'Footwear White Orange Flare'",
+            "colorway": "Footwear White/Moonstone/Orange Flare",
+            "gender": "women",
+            "silhouette": "Reebok Classic Legacy",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-22",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/254/637/original/GX2819.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/254/637/original/GX2819.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/254/637/original/GX2819.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-legacy-az-footwear-white-orange-flare-gx2819",
+                "flightClub": "https://flightclub.com/wmns-classic-legacy-az-footwear-white-orange-flare-gx2819",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c56d77de-e8c7-4c2a-bd62-9284348a2606",
+            "sku": "GZ1812",
+            "brand": "Reebok",
+            "name": "Wmns Nano X1 'Navy Seal Foundation'",
+            "colorway": "Vector Navy/Red Ember/Classic White",
+            "gender": "women",
+            "silhouette": "Nano X1",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-22",
+            "retailPrice": 130,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/254/667/original/GZ1812.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/254/667/original/GZ1812.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/254/667/original/GZ1812.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nano-x1-navy-seal-foundation-gz1812",
+                "flightClub": "https://flightclub.com/wmns-nano-x1-navy-seal-foundation-gz1812",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6e514683-25bf-4a7f-88d9-55ad0e91f519",
+            "sku": "GZ6132",
+            "brand": "Reebok",
+            "name": "National Geographic x Wmns Floatride Energy Grow 'Snakeskin",
+            "colorway": "Glass Blue/Footeawr White/Boldly Yellow",
+            "gender": "women",
+            "silhouette": "Floatride",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-18",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/254/675/original/GZ6132.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/254/675/original/GZ6132.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/254/675/original/GZ6132.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/national-geographic-x-wmns-floatride-energy-grow-snakeskin-gz6132",
+                "flightClub": "https://flightclub.com/national-geographic-x-wmns-floatride-energy-grow-snakeskin-gz6132",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0a71f785-92d7-4204-9a10-8f4d52a66b8b",
+            "sku": "GX3687",
+            "brand": "Reebok",
+            "name": "Reebok Club C 85 Chalk Alabaster (W)",
+            "colorway": "Chalk/Alabaster/Sky Blue",
+            "gender": "women",
+            "silhouette": "Club C",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-16",
+            "retailPrice": 85,
+            "estimatedMarketValue": 94,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/959/375/original/903253_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/959/375/original/903253_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/959/375/original/903253_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/reebok-club-c-85-chalk-alabaster-w",
+                "goat": "https://goat.com/sneakers/wmns-club-c-85-chalk-sky-blue-gx3687",
+                "flightClub": "https://flightclub.com/wmns-club-c-85-chalk-sky-blue-gx3687",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b546587d-b9d7-4230-ad80-825a67b896f0",
+            "sku": "G58556",
+            "brand": "Reebok",
+            "name": "Wmns Endless Road 3 'Black Silver Metallic'",
+            "colorway": "Core Black/Silver Metallic/Footwear White",
+            "gender": "women",
+            "silhouette": "Endless Road",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-15",
+            "retailPrice": 80,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/924/238/original/G58556.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/924/238/original/G58556.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/924/238/original/G58556.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-endless-road-3-black-silver-metallic-g58556",
+                "flightClub": "https://flightclub.com/wmns-endless-road-3-black-silver-metallic-g58556",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cc6303b4-d712-4755-8f75-ed8d7bce68e2",
+            "sku": "H00872",
+            "brand": "Reebok",
+            "name": "Wmns Liquifect 180 3 'Blue Slate'",
+            "colorway": "Blue Slate/Glass Blue/Footwear White",
+            "gender": "women",
+            "silhouette": "Liquifect 180",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-15",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/924/318/original/H00872.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/924/318/original/H00872.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/924/318/original/H00872.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-liquifect-180-3-blue-slate-h00872",
+                "flightClub": "https://flightclub.com/wmns-liquifect-180-3-blue-slate-h00872",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "29d5d5aa-1033-40f3-83d5-97653e3ee96c",
+            "sku": "GX3915",
+            "brand": "Reebok",
+            "name": "Wmns Zig Sky 'Canyon Coral Soft Ecru'",
+            "colorway": "Canyon Coral/Soft Ecru/Footwear White",
+            "gender": "women",
+            "silhouette": "Zig Sky",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-14",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/924/275/original/GX3915.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/924/275/original/GX3915.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/924/275/original/GX3915.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-zig-sky-canyon-coral-soft-ecru-gx3915",
+                "flightClub": "https://flightclub.com/wmns-zig-sky-canyon-coral-soft-ecru-gx3915",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9ffa751d-f190-4d6d-bf5d-7e584455f385",
+            "sku": "GX7534",
+            "brand": "Reebok",
+            "name": "Wmns Liquifect 180 3 'Frost Berry'",
+            "colorway": "Frost Berry/Neon Cherry/Footwear White",
+            "gender": "women",
+            "silhouette": "Liquifect 180",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-09",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/657/680/original/GX7534.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/657/680/original/GX7534.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/657/680/original/GX7534.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-liquifect-180-3-frost-berry-gx7534",
+                "flightClub": "https://flightclub.com/wmns-liquifect-180-3-frost-berry-gx7534",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2c477290-bafc-480e-8d18-3b053cd03904",
+            "sku": "H00833",
+            "brand": "Reebok",
+            "name": "Wmns Energen Plus 'Vector Navy'",
+            "colorway": "Vector Navy/Footwear White/Glass Blue",
+            "gender": "women",
+            "silhouette": "Energen Plus",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-08",
+            "retailPrice": 65,
+            "estimatedMarketValue": 65,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/657/704/original/H00833.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/657/704/original/H00833.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/657/704/original/H00833.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-energen-plus-vector-navy-h00833",
+                "flightClub": "https://flightclub.com/wmns-energen-plus-vector-navy-h00833",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "80cd2608-af7d-489f-ac9b-1690e9655c07",
+            "sku": "GZ3635",
+            "brand": "Reebok",
+            "name": "Wmns Classic Legacy AZ 'Alabaster Leopard'",
+            "colorway": "Alabaster/Chalk/Quartz Glow",
+            "gender": "women",
+            "silhouette": "Reebok Classic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-08",
+            "retailPrice": 85,
+            "estimatedMarketValue": 99,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/657/701/original/GZ3635.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/657/701/original/GZ3635.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/657/701/original/GZ3635.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-legacy-az-alabaster-leopard-gz3635",
+                "flightClub": "https://flightclub.com/wmns-classic-legacy-az-alabaster-leopard-gz3635",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b221dd2c-8c33-44a6-8088-e85753c15208",
+            "sku": "H67593",
+            "brand": "Reebok",
+            "name": "Wmns Energen Plus 'Black Pursuit Pink'",
+            "colorway": "Core Black/Footwear White/Pursuit Pink",
+            "gender": "women",
+            "silhouette": "Energen Plus",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-08",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/657/708/original/H67593.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/657/708/original/H67593.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/657/708/original/H67593.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-energen-plus-black-pursuit-pink-h67593",
+                "flightClub": "https://flightclub.com/wmns-energen-plus-black-pursuit-pink-h67593",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b4e0ee81-6f04-4ca7-8fad-a32426d16223",
+            "sku": "H02839",
+            "brand": "Reebok",
+            "name": "Wmns Nano X1 'Gable Grey'",
+            "colorway": "Gable Grey/Blue Slate/Vector Navy",
+            "gender": "women",
+            "silhouette": "Nano X1",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-08",
+            "retailPrice": 135,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/657/705/original/H02839.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/657/705/original/H02839.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/657/705/original/H02839.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-nano-x1-gable-grey-h02839",
+                "flightClub": "https://flightclub.com/wmns-nano-x1-gable-grey-h02839",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "04998f15-190e-49f1-9538-68b27c046dda",
+            "sku": "GW0853",
+            "brand": "Reebok",
+            "name": "Wmns DayStart OnLux 'Core Black'",
+            "colorway": "Core Black/Core Black/Footwear White",
+            "gender": "women",
+            "silhouette": "DayStart",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-07",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/657/652/original/GW0853.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/657/652/original/GW0853.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/657/652/original/GW0853.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-daystart-onlux-core-black-gw0853",
+                "flightClub": "https://flightclub.com/wmns-daystart-onlux-core-black-gw0853",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f36ff8b2-1022-49d0-b299-02979605e49a",
+            "sku": "GW0845",
+            "brand": "Reebok",
+            "name": "Wmns Walkawhile 'Core Black'",
+            "colorway": "Core Black/Footwear White/Core Black",
+            "gender": "women",
+            "silhouette": "Walkawhile",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-07",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/657/650/original/GW0845.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/657/650/original/GW0845.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/657/650/original/GW0845.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-walkawhile-core-black-gw0845",
+                "flightClub": "https://flightclub.com/wmns-walkawhile-core-black-gw0845",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,472 @@
+{
+    "results": [
+        {
+            "id": "5c3f705d-8e86-49a3-a05f-03bc656047f0",
+            "sku": "3024637-105",
+            "brand": "Under Armour",
+            "name": "Assert 9 A TD 'Mod Grey High-Vis Yellow'",
+            "colorway": "Mod Grey/High-Vis Yellow",
+            "gender": "infant",
+            "silhouette": "Assert",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 43,
+            "estimatedMarketValue": 43,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/831/original/3024637_105.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/831/original/3024637_105.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/831/original/3024637_105.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/assert-9-a-td-mod-grey-high-vis-yellow-3024637-105",
+                "flightClub": "https://flightclub.com/assert-9-a-td-mod-grey-high-vis-yellow-3024637-105",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d7ce3cc5-b814-4938-814c-ec7c5f9d98e7",
+            "sku": "3024637-001",
+            "brand": "Under Armour",
+            "name": "Assert 9 AC TD 'Black White'",
+            "colorway": "Black/White",
+            "gender": "infant",
+            "silhouette": "Assert",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-28",
+            "retailPrice": 43,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/282/892/original/3024637_001.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/282/892/original/3024637_001.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/282/892/original/3024637_001.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/assert-9-ac-td-black-white-3024637-001",
+                "flightClub": "https://flightclub.com/assert-9-ac-td-black-white-3024637-001",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f753ef29-f461-4c74-b9a5-55556641f899",
+            "sku": "3024637-002",
+            "brand": "Under Armour",
+            "name": "Assert 9 AC TD 'Black'",
+            "colorway": "Black",
+            "gender": "infant",
+            "silhouette": "Assert",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-28",
+            "retailPrice": 43,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/282/893/original/3024637_002.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/282/893/original/3024637_002.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/282/893/original/3024637_002.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/assert-9-ac-td-black-3024637-002",
+                "flightClub": "https://flightclub.com/assert-9-ac-td-black-3024637-002",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "88fd7bfc-3f69-48b2-a948-594062cfc287",
+            "sku": "3024637-600",
+            "brand": "Under Armour",
+            "name": "Assert 9 AC TD 'Red White'",
+            "colorway": "Red/White",
+            "gender": "infant",
+            "silhouette": "Assert",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-19",
+            "retailPrice": 43,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/282/894/original/3024637_600.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/282/894/original/3024637_600.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/282/894/original/3024637_600.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/assert-9-ac-td-red-white-3024637-600",
+                "flightClub": "https://flightclub.com/assert-9-ac-td-red-white-3024637-600",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2c9340fc-5e4a-4998-ada1-60aee70ac729",
+            "sku": "3024638-300",
+            "brand": "Under Armour",
+            "name": "Assert 9 AC TD 'Sky Blue'",
+            "colorway": "Sky Blue/White",
+            "gender": "infant",
+            "silhouette": "Assert",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-30",
+            "retailPrice": 43,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/525/790/original/3024638_300.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/525/790/original/3024638_300.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/525/790/original/3024638_300.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/assert-9-ac-td-sky-blue-3024638-300",
+                "flightClub": "https://flightclub.com/assert-9-ac-td-sky-blue-3024638-300",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a73f6745-4d75-4e3b-bb9f-fa968e6cae02",
+            "sku": "3024638-600",
+            "brand": "Under Armour",
+            "name": "Assert 9 AC TD 'Cool Pink'",
+            "colorway": "Cool Pink/White",
+            "gender": "infant",
+            "silhouette": "Assert",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-30",
+            "retailPrice": 43,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/525/792/original/3024638_600.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/525/792/original/3024638_600.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/525/792/original/3024638_600.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/assert-9-ac-td-cool-pink-3024638-600",
+                "flightClub": "https://flightclub.com/assert-9-ac-td-cool-pink-3024638-600",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2ea451a7-c585-476a-9d47-5f5a7215889b",
+            "sku": "3024638-100",
+            "brand": "Under Armour",
+            "name": "Assert 9 AC TD 'Grey Wolf'",
+            "colorway": "Grey Wolf/White",
+            "gender": "infant",
+            "silhouette": "Assert",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-07",
+            "retailPrice": 43,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/525/789/original/3024638_100.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/525/789/original/3024638_100.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/525/789/original/3024638_100.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/assert-9-ac-td-grey-wolf-3024638-100",
+                "flightClub": "https://flightclub.com/assert-9-ac-td-grey-wolf-3024638-100",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "068a9f19-cb16-43e2-8c86-502ac6357364",
+            "sku": "3023872-100",
+            "brand": "Under Armour",
+            "name": "Assert 8 TD 'Halo Grey Cerise'",
+            "colorway": "Halo Grey/White/Cerise",
+            "gender": "infant",
+            "silhouette": "Assert",
+            "releaseYear": "2020",
+            "releaseDate": "2020-12-22",
+            "retailPrice": 43,
+            "estimatedMarketValue": 43,
+            "story": "Built for toddlers, the Under Armour Assert 8 TD ‘Halo Grey Cerise’ features a ventilated grey mesh upper reinforced with tonal synthetic overlays at the toe and heel. No-tie stretch bungee laces combine with an adjustable hook and loop strap to deliver easy on and off. The convenient slip-on silhouette rides on a soft midsole made with Under Armour’s Charged Cushioning, good for impact absorption and a smooth ride.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/047/923/450/original/3023872_100.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/047/923/450/original/3023872_100.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/047/923/450/original/3023872_100.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/assert-8-td-halo-grey-cerise-3023872-100",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1836fa97-21ce-4773-9dd9-8e48136019a4",
+            "sku": "3023871-400",
+            "brand": "Under Armour",
+            "name": "Assert 8 TD 'Electric Blue'",
+            "colorway": "Electric Blue/Halo Gray",
+            "gender": "infant",
+            "silhouette": "Assert",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 43,
+            "estimatedMarketValue": 43,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/039/244/118/original/3023871_400.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/039/244/118/original/3023871_400.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/039/244/118/original/3023871_400.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/assert-8-td-electric-blue-3023871-400",
+                "flightClub": "https://flightclub.com/assert-8-td-electric-blue-3023871-400",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1d2b7d33-101d-49a7-b350-974ce5e0e583",
+            "sku": "1286153-035",
+            "brand": "Under Armour",
+            "name": "Curry 2 TD 'Electric Blue'",
+            "colorway": "Steel/Electric Blue/Midnight Navy",
+            "gender": "infant",
+            "silhouette": "Curry 2",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/006/755/original/1286153_035.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/006/755/original/1286153_035.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/006/755/original/1286153_035.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/curry-2-td-electric-blue-1286153-035",
+                "flightClub": "https://flightclub.com/curry-2-td-electric-blue-1286153-035",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2f6866b1-898e-4152-81c9-0738d524bcbf",
+            "sku": "1276276-400",
+            "brand": "Under Armour",
+            "name": "Curry 3 TD 'Away'",
+            "colorway": "Blue/Yellow/White",
+            "gender": "infant",
+            "silhouette": "Curry 3",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 60,
+            "estimatedMarketValue": 109,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/008/998/original/1276276_400.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/008/998/original/1276276_400.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/008/998/original/1276276_400.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/curry-3-td-away-1276276-400",
+                "flightClub": "https://flightclub.com/curry-3-td-away-1276276-400",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "315eb97b-4192-4f81-adbf-6c962dfd3f63",
+            "sku": "1276334-400",
+            "brand": "Under Armour",
+            "name": "Curry 2.5 TD 'Dub Nation'",
+            "colorway": "Royal Blue/Yellow",
+            "gender": "infant",
+            "silhouette": "Curry 2.5",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/297/712/original/1276334_400.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/297/712/original/1276334_400.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/297/712/original/1276334_400.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/infant-curry-2-5-td-1276334-400",
+                "flightClub": "https://flightclub.com/infant-curry-2-5-td-1276334-400",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4363453e-69eb-4e9e-8a6d-53a060619a8f",
+            "sku": "1295997-402",
+            "brand": "Under Armour",
+            "name": "Curry 4 Mid TD 'Royal Blue'",
+            "colorway": "Royal Blue/Academy/Academy",
+            "gender": "infant",
+            "silhouette": "Curry 4",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 60,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/035/932/196/original/1295997_402.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/035/932/196/original/1295997_402.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/035/932/196/original/1295997_402.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/curry-4-mid-td-royal-blue-1295997-402",
+                "flightClub": "https://flightclub.com/curry-4-mid-td-royal-blue-1295997-402",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "77a45cdb-4cc6-46a7-8a8f-8bac5bf4bf6c",
+            "sku": "3022874-001",
+            "brand": "Under Armour",
+            "name": "Surge 2 AC Infant 'Black White'",
+            "colorway": "Black/White",
+            "gender": "infant",
+            "silhouette": "Surge",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 43,
+            "estimatedMarketValue": 43,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/037/965/122/original/3022874_001.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/037/965/122/original/3022874_001.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/037/965/122/original/3022874_001.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/surge-2-ac-infant-black-white-3022874-001",
+                "flightClub": "https://flightclub.com/surge-2-ac-infant-black-white-3022874-001",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c2eb2fd6-d8c8-4e78-9b77-db62daac91e2",
+            "sku": "1276276-102",
+            "brand": "Under Armour",
+            "name": "Curry 3 TD 'Dub Nation Home'",
+            "colorway": "White/Royal/Taxi",
+            "gender": "infant",
+            "silhouette": "Curry 3",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/curry-3-td-dub-nation-home-1276276-102",
+                "flightClub": "https://flightclub.com/curry-3-td-dub-nation-home-1276276-102",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cba58820-5746-40c9-af98-f5cb70b77b04",
+            "sku": "1258776-601",
+            "brand": "Under Armour",
+            "name": "Thrill TD 'Red'",
+            "colorway": "Red",
+            "gender": "infant",
+            "silhouette": "Thrill",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 34,
+            "story": "Designed for flexibility and cushioning, the Under Armour Thrill TD &#39;Red&#39; sneaker is engineered for supportive movement. A scaled-down version of the adult-sized silhouette, the shoe features a ventilated mesh upper and anti-odor footbed to help keep small feet cool and fresh. Responsive, lightweight foam and a flex-grooved outsole deliver comfortable, natural strides.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/018/158/011/original/1258776_601.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/018/158/011/original/1258776_601.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/018/158/011/original/1258776_601.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/thrill-td-red-1258776-601",
+                "flightClub": "https://flightclub.com/thrill-td-red-1258776-601",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ce3a7758-c737-46db-bae5-d314e7d7212e",
+            "sku": "1303610-001",
+            "brand": "Under Armour",
+            "name": "Curry 3 TD 'All-Star Weekend'",
+            "colorway": "Black",
+            "gender": "infant",
+            "silhouette": "Curry 3",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/038/470/863/original/1303610_001.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/038/470/863/original/1303610_001.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/038/470/863/original/1303610_001.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/curry-3-td-all-star-weekend-1303610-001",
+                "flightClub": "https://flightclub.com/curry-3-td-all-star-weekend-1303610-001",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e15f625e-08be-461d-9136-df76749f0ada",
+            "sku": "1276276-106",
+            "brand": "Under Armour",
+            "name": "Curry 3 TD 'Opal Blue'",
+            "colorway": "White/Opal Blue/Black",
+            "gender": "infant",
+            "silhouette": "Curry 3",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 25,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/016/149/501/original/1276276_106.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/016/149/501/original/1276276_106.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/016/149/501/original/1276276_106.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/curry-3-td-opal-blue-1276276-106",
+                "flightClub": "https://flightclub.com/curry-3-td-opal-blue-1276276-106",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}

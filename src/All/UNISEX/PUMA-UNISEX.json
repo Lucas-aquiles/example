@@ -1,0 +1,160 @@
+{
+    "results": [
+        {
+            "id": "c94eaada-2164-4f8e-85e5-7f50192b9da1",
+            "sku": "380173-03",
+            "brand": "Puma",
+            "name": "Puma Speedcat LS Cloud Pink",
+            "colorway": "Cloud Pink/Puma White",
+            "gender": "unisex",
+            "silhouette": "Speedcat",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-07",
+            "retailPrice": 100,
+            "estimatedMarketValue": 77,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/063/013/246/original/380173_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/063/013/246/original/380173_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/063/013/246/original/380173_03.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/puma-speedcat-ls-cloud-pink",
+                "goat": "https://goat.com/sneakers/speedcat-ls-cloud-pink-380173-03",
+                "flightClub": "https://flightclub.com/speedcat-ls-cloud-pink-380173-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a812e3f5-34bb-49de-86da-f4e76ee7f3ac",
+            "sku": "381905-01",
+            "brand": "Puma",
+            "name": "Puma Suede Santa Cruz Shark",
+            "colorway": "Puma Black/Green Flash/Deep Wisteria",
+            "gender": "unisex",
+            "silhouette": "Suede",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-26",
+            "retailPrice": 110,
+            "estimatedMarketValue": 80,
+            "story": "The Santa Cruz x PUMA Suede ‘Shark’ channels the West Coast sensibilities of the iconic skateboarding brand. The upper is crafted from black suede with stitched Formstrips in mismatched colors: purple on the right sight of each shoe, and lime green on the left. The latter hue is repeated on the interior lining of the tongue and collar. A colorful Santa Cruz ‘Shark’ graphic decorates the TPU tongue tag and the lateral side panel. A tan rubber cupsole underpins the vintage low-top.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/063/656/364/original/834375_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/063/656/364/original/834375_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/063/656/364/original/834375_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/puma-suede-santa-cruz-shark",
+                "goat": "https://goat.com/sneakers/santa-cruz-x-suede-shark-381905-01",
+                "flightClub": "https://flightclub.com/santa-cruz-x-suede-shark-381905-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bb7dff1a-19f1-4fb0-9bcd-ef90d8813285",
+            "sku": "382740-01",
+            "brand": "Puma",
+            "name": "Puma Future Rider Double Spectra",
+            "colorway": "White/Sunblaze/Green Glare",
+            "gender": "unisex",
+            "silhouette": "Future Rider",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-19",
+            "retailPrice": 80,
+            "estimatedMarketValue": 68,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/143/577/original/382740_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/143/577/original/382740_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/143/577/original/382740_01.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/puma-future-rider-double-spectra",
+                "goat": "https://goat.com/sneakers/future-rider-double-spectra-382740-01",
+                "flightClub": "https://flightclub.com/future-rider-double-spectra-382740-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c2423158-b0a2-4296-ba5d-95b9e88bfb5f",
+            "sku": "382045-03",
+            "brand": "Puma",
+            "name": "Puma City Rider Electric Black Blue Red",
+            "colorway": "Black/Bluemazing",
+            "gender": "unisex",
+            "silhouette": "City Rider",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-02",
+            "retailPrice": 80,
+            "estimatedMarketValue": 71,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/058/927/584/original/382045_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/058/927/584/original/382045_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/058/927/584/original/382045_03.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/puma-city-rider-electric-black-blue-red",
+                "goat": "https://goat.com/sneakers/city-rider-electric-black-bluemazing-382045-03",
+                "flightClub": "https://flightclub.com/city-rider-electric-black-bluemazing-382045-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4abc826b-b3e2-434d-8dbe-7368408b1f82",
+            "sku": "306975-02",
+            "brand": "Puma",
+            "name": "Puma City Rider BMW M Motorsport White Orange",
+            "colorway": "Puma White/Orange Glow",
+            "gender": "unisex",
+            "silhouette": "City Rider",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 90,
+            "estimatedMarketValue": 74,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/155/017/original/306975_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/155/017/original/306975_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/155/017/original/306975_02.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/puma-city-rider-bmw-m-motorsport-white-orange",
+                "goat": "https://goat.com/sneakers/bmw-motorsport-x-city-rider-white-orange-glow-306975-02",
+                "flightClub": "https://flightclub.com/bmw-motorsport-x-city-rider-white-orange-glow-306975-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9801ad0b-b2e3-4422-b686-bdb279b86c35",
+            "sku": "371149-72",
+            "brand": "Puma",
+            "name": "Puma Future Rider Spellbound",
+            "colorway": "Spellbound/White/Ultra Blue",
+            "gender": "unisex",
+            "silhouette": "Future Rider",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 80,
+            "estimatedMarketValue": 75,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/155/025/original/371149_72.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/155/025/original/371149_72.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/155/025/original/371149_72.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/puma-future-rider-spellbound",
+                "goat": "https://goat.com/sneakers/future-rider-spellbound-371149-72",
+                "flightClub": "https://flightclub.com/future-rider-spellbound-371149-72",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}

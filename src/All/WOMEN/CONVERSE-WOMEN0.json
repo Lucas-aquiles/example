@@ -1,0 +1,2715 @@
+{
+    "results": [
+        {
+            "id": "84572781-9116-44fb-9791-84e85ca93b52",
+            "sku": "A00559C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star 2X Lift Platform Low 'Gradient'",
+            "colorway": "Pale Putty/White/Baltic Blue",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-01",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/682/030/original/A00559C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/682/030/original/A00559C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/682/030/original/A00559C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-2x-lift-platform-low-gradient-a00559c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-2x-lift-platform-low-gradient-a00559c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9600a7f5-820a-4a8f-88fd-b4aa5f5af08b",
+            "sku": "A00474C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 Low 'Crafted Stripe'",
+            "colorway": "Mineral Clay/Slate Sage/Egret",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-26",
+            "retailPrice": 80,
+            "estimatedMarketValue": 122,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/413/027/original/A00474C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/413/027/original/A00474C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/413/027/original/A00474C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-low-crafted-stripe-a00474c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-low-crafted-stripe-a00474c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bdaf439a-38ab-4fe3-8ec3-106b20d0e338",
+            "sku": "A02566C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lift Platform Low 'Floral Embroidery'",
+            "colorway": "Black/Multi/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-26",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/413/035/original/A02566C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/413/035/original/A02566C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/413/035/original/A02566C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-platform-low-floral-embroidery-a02566c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-platform-low-floral-embroidery-a02566c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ff72d430-3fb6-4e80-a7d0-2de6ec4e76cd",
+            "sku": "A01183C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 High 'Polka Dots'",
+            "colorway": "Egret/White/Egret",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-26",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/413/030/original/A01183C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/413/030/original/A01183C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/413/030/original/A01183C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-high-polka-dots-a01183c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-high-polka-dots-a01183c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2e7a19a5-3e8e-41ce-b055-645c54bf808c",
+            "sku": "A00538C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 Low 'Crafted Florals'",
+            "colorway": "Cyber Mango/Egret/Black",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-22",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/413/028/original/A00538C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/413/028/original/A00538C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/413/028/original/A00538C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-low-crafted-florals-a00538c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-low-crafted-florals-a00538c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a494dc79-7197-453e-ac00-7dabb977ca37",
+            "sku": "A00533C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 High 'Pastel Gradient - Pink Foam'",
+            "colorway": "Pink Foam/Beyond Pink/Egret",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-17",
+            "retailPrice": 85,
+            "estimatedMarketValue": 85,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/091/original/A00533C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/091/original/A00533C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/091/original/A00533C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-high-pastel-gradient-pink-foam-a00533c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-high-pastel-gradient-pink-foam-a00533c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "66b8012c-3eee-4219-9e37-0be1daec5db3",
+            "sku": "A02198C",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star Hi Lift Egret Floral Embroidery (W)",
+            "colorway": "Egret/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/816/864/original/A02198C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/816/864/original/A02198C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/816/864/original/A02198C.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-hi-lift-egret-floral-embroidery-w",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-platform-high-floral-embroidery-egret-a02198c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-platform-high-floral-embroidery-egret-a02198c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bf2084b5-622b-4609-8b5d-662f51e6dbeb",
+            "sku": "A01188C",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star Crafted Florals Egret (W)",
+            "colorway": "Egret/Cyber Mango/Egret",
+            "gender": "women",
+            "silhouette": "Converse Chuck Taylor All-Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 80,
+            "estimatedMarketValue": 224,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Converse-Chuck-Taylor-All-Star-Crafted-Florals-Egret-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1650487577",
+                "small": "https://images.stockx.com/images/Converse-Chuck-Taylor-All-Star-Crafted-Florals-Egret-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1650487577",
+                "thumbnail": "https://images.stockx.com/images/Converse-Chuck-Taylor-All-Star-Crafted-Florals-Egret-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1650487577"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-crafted-florals-egret-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3e597930-6adf-4962-8b90-51913e1848fa",
+            "sku": "A02564C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lugged High 'Paint Splatter'",
+            "colorway": "Black/Ash Stone/Beyond Pink",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 85,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/702/original/A02564C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/702/original/A02564C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/702/original/A02564C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lugged-high-paint-splatter-a02564c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lugged-high-paint-splatter-a02564c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "426bdea3-89a3-41b2-8879-0e5e28970ef8",
+            "sku": "572614F",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Crafted Canvas High 'Egret Hemp'",
+            "colorway": "Egret/Hemp/String",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 65,
+            "estimatedMarketValue": 65,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/691/original/572614F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/691/original/572614F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/691/original/572614F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-crafted-canvas-high-egret-hemp-572614f",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-crafted-canvas-high-egret-hemp-572614f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5a8c9e7e-5585-4c99-ab99-9083a6dc7ca6",
+            "sku": "A00562C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Move Platform High 'Seasonal Color - Slate Sage Gum'",
+            "colorway": "Slate Sage/White/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 75,
+            "estimatedMarketValue": 108,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/693/original/A00562C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/693/original/A00562C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/693/original/A00562C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-move-platform-high-seasonal-color-slate-sage-gum-a00562c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-move-platform-high-seasonal-color-slate-sage-gum-a00562c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "833f8a5b-0ceb-464a-b08f-46fc52fb515b",
+            "sku": "A01656C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Seasonal Lugged - Desert Sand'",
+            "colorway": "Desert Sand/White/Black",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 80,
+            "estimatedMarketValue": 220,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/697/original/A01656C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/697/original/A01656C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/697/original/A01656C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-seasonal-lugged-desert-sand-a01656c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-seasonal-lugged-desert-sand-a01656c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b4ae4152-bb92-493a-931f-dfa22f9b9dee",
+            "sku": "A02201C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 High 'Floral Embroidery'",
+            "colorway": "Desert Sand/Egret",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 90,
+            "estimatedMarketValue": 151,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/699/original/A02201C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/699/original/A02201C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/699/original/A02201C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-high-floral-embroidery-a02201c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-high-floral-embroidery-a02201c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5ceb5325-bb3f-4804-82c4-7a1576aa7bd6",
+            "sku": "A02565C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lugged High 'Seasonal Color - Mineral Clay'",
+            "colorway": "Mineral Clay/White/Black",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 80,
+            "estimatedMarketValue": 144,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/416/636/original/A02565C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/416/636/original/A02565C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/416/636/original/A02565C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lugged-high-seasonal-color-mineral-clay-a02565c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lugged-high-seasonal-color-mineral-clay-a02565c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "caef328c-ab6f-4f6b-a429-d69a5c654408",
+            "sku": "A00560F",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lift Platform Low 'Seasonal Color - Lemon Drop'",
+            "colorway": "Lemon Drop/Black/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/416/623/original/A00560F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/416/623/original/A00560F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/416/623/original/A00560F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-platform-low-seasonal-color-lemon-drop-a00560f",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-platform-low-seasonal-color-lemon-drop-a00560f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e7d46709-f5bf-4d36-aeed-909d7945ccc7",
+            "sku": "A02549C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Move High 'Storm Pink'",
+            "colorway": "Storm Pink/White/Storm Pink",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/416/634/original/A02549C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/416/634/original/A02549C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/416/634/original/A02549C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-move-high-storm-pink-a02549c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-move-high-storm-pink-a02549c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a476f8d1-b88b-4857-8dec-d7aa89829bed",
+            "sku": "A01655C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Seasonal Lugged - Treeline'",
+            "colorway": "Treeline/White/Black",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-24",
+            "retailPrice": 70,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/897/917/original/A01655C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/897/917/original/A01655C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/897/917/original/A01655C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-seasonal-lugged-treeline-a01655c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-seasonal-lugged-treeline-a01655c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b97c993b-3cfd-473b-91d7-b3ac03e70f28",
+            "sku": "A01733C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lift Platform Low 'We Are Stronger Together'",
+            "colorway": "Olive Aura/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-07",
+            "retailPrice": 65,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/947/062/original/A01733C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/947/062/original/A01733C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/947/062/original/A01733C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-platform-low-we-are-stronger-together-a01733c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-platform-low-we-are-stronger-together-a01733c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "332a5abc-34e3-4d42-8bd1-191f1988ac44",
+            "sku": "572953C",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star Lift 2X Desert Sand (W)",
+            "colorway": "Desert Sand/Light Pink",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-03",
+            "retailPrice": 80,
+            "estimatedMarketValue": 117,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/106/471/original/909176_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/106/471/original/909176_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/106/471/original/909176_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-lift-2x-desert-sand-w",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-2x-platform-high-desert-sand-572953c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-2x-platform-high-desert-sand-572953c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "76e64f25-5509-4606-9475-9373bc062a62",
+            "sku": "A02076C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lift Platform High 'Embroidered Floral - Pale Amethyst'",
+            "colorway": "Pale Amethyst/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-03",
+            "retailPrice": 85,
+            "estimatedMarketValue": 85,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/840/539/original/A02076C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/840/539/original/A02076C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/840/539/original/A02076C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-platform-high-embroidered-floral-pale-amethyst-a02076c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-platform-high-embroidered-floral-pale-amethyst-a02076c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9e3a3229-e840-4983-9073-a2a29b858107",
+            "sku": "A01730C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 High 'We Are Stronger Together'",
+            "colorway": "Olive Aura/Black",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-03",
+            "retailPrice": 90,
+            "estimatedMarketValue": 134,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/840/532/original/A01730C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/840/532/original/A01730C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/840/532/original/A01730C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-high-we-are-stronger-together-a01730c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-high-we-are-stronger-together-a01730c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ecf72914-986f-4146-b671-86f492348b4f",
+            "sku": "A01732C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lift 2X Platform High 'We Are Stronger Together'",
+            "colorway": "Egret/Egret/Serene Saphire",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-01",
+            "retailPrice": 80,
+            "estimatedMarketValue": 131,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/603/692/original/A01732C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/603/692/original/A01732C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/603/692/original/A01732C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-2x-platform-high-we-are-stronger-together-a01732c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-2x-platform-high-we-are-stronger-together-a01732c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "175e4ae6-c1f6-494c-b2c9-cfdb62e5b14a",
+            "sku": "572911F",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star 'You Are on The Right Path'",
+            "colorway": "White/Bold Mandarin",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-26",
+            "retailPrice": 70,
+            "estimatedMarketValue": 118,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/494/120/original/572911F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/494/120/original/572911F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/494/120/original/572911F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-you-are-on-the-right-path-572911f",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-you-are-on-the-right-path-572911f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "82a392fa-ac27-45ac-ae43-40ff2417a294",
+            "sku": "572910F",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star 'You Are on The Right Path'",
+            "colorway": "Black/White/Shadowberry",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-26",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/494/119/original/572910F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/494/119/original/572910F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/494/119/original/572910F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-you-are-on-the-right-path-572910f",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-you-are-on-the-right-path-572910f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7062574d-d6dd-4f10-ac58-c70cb187f25b",
+            "sku": "A01599C",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star Lift Hi White Red (W)",
+            "colorway": "White/Red/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-21",
+            "retailPrice": 100,
+            "estimatedMarketValue": 80,
+            "story": "",
+            "image": {
+                "360": [
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img02.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img03.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img04.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img05.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img06.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img07.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img08.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img09.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img10.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img11.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img12.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img13.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img14.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img15.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img16.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img17.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img18.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img19.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img20.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img21.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img22.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img23.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img24.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img25.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img26.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img27.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img28.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img29.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img30.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img31.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img32.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img33.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img34.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img35.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Images/Converse-Chuck-Taylor-All-Star-Lift-Hi-White-Red-W/Lv2/img36.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1647013407"
+                ],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/187/601/original/891465_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/187/601/original/891465_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/187/601/original/891465_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-lift-hi-white-red-w",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-platform-high-embroidered-hearts-white-a01599c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-platform-high-embroidered-hearts-white-a01599c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "99fbd4a3-d0c9-4d70-a8ae-102bb1f52de6",
+            "sku": "A01584C",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star 70 Hi Embroidered Floral Pale Amethyst",
+            "colorway": "Pale Amethyst/Multi/Egret",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-21",
+            "retailPrice": 95,
+            "estimatedMarketValue": 92,
+            "story": "",
+            "image": {
+                "360": [
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img02.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img03.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img04.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img05.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img06.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img07.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img08.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img09.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img10.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img11.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img12.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img13.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img14.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img15.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img16.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img17.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img18.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img19.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img20.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img21.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img22.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img23.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img24.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img25.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img26.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img27.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img28.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img29.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img30.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img31.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img32.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img33.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img34.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img35.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Images/Converse-Chuck-Taylor-All-Star-70-Hi-Embroidered-Floral-Pale-Amethyst/Lv2/img36.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1649427685"
+                ],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/041/001/original/889831_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/041/001/original/889831_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/041/001/original/889831_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-70-hi-embroidered-floral-pale-amethyst",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-high-embroidered-floral-print-pale-amethyst-a01584c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-high-embroidered-floral-print-pale-amethyst-a01584c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bb29654c-3bcb-47b4-928d-935916136b22",
+            "sku": "571086C",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star Platform It's Okay to Wander (W)",
+            "colorway": "Egret/Multicolor",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-17",
+            "retailPrice": 100,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/053/769/391/original/749558_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/769/391/original/749558_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/053/769/391/original/749558_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-platform-its-okay-to-wander-w",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-platform-high-it-s-okay-to-wander-egret-571086c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-platform-high-it-s-okay-to-wander-egret-571086c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b38d0f12-0d83-45ff-a373-e0f24e290f5c",
+            "sku": "A02033C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lift Platform High 'Marble'",
+            "colorway": "Light Dew/Egret/Silver",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-16",
+            "retailPrice": 70,
+            "estimatedMarketValue": 131,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/981/050/original/A02033C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/981/050/original/A02033C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/981/050/original/A02033C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-platform-high-marble-a02033c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-platform-high-marble-a02033c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "18b52f22-5ef4-4853-86e3-f69de977018a",
+            "sku": "573110C",
+            "brand": "Converse",
+            "name": "Wmns Run Star Hike Platform High 'Sherpa - Black Egret'",
+            "colorway": "Black/Egret/Black",
+            "gender": "women",
+            "silhouette": "Run Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-14",
+            "retailPrice": 120,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/889/740/original/573110C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/889/740/original/573110C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/889/740/original/573110C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-run-star-hike-platform-high-sherpa-black-egret-573110c",
+                "flightClub": "https://flightclub.com/wmns-run-star-hike-platform-high-sherpa-black-egret-573110c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f1e3182c-1230-4d12-a79c-841148f812f6",
+            "sku": "571211C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lugged High By You",
+            "colorway": "Multi-Color/Multi-Color",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-09",
+            "retailPrice": 100,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/714/571/original/571211C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/714/571/original/571211C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/714/571/original/571211C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lugged-high-by-you-571211c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lugged-high-by-you-571211c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "304cc44e-9dec-42d2-9526-97884b6d1f1c",
+            "sku": "572722C",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star Move Platform Pale Amethyst (W)",
+            "colorway": "Pale Amethyst (W)",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-08",
+            "retailPrice": 75,
+            "estimatedMarketValue": 92,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/987/577/original/899146_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/987/577/original/899146_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/987/577/original/899146_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-move-platform-pale-amethyst-w",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-move-platform-high-seasonal-color-pale-amethyst-572722c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-move-platform-high-seasonal-color-pale-amethyst-572722c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6aefb7ac-77af-4ce4-a0b6-7cca17bb9667",
+            "sku": "572955C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lift Platform Ombre High 'Egret'",
+            "colorway": "Egret/Slate Sage/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-08",
+            "retailPrice": 70,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/657/552/original/572955C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/657/552/original/572955C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/657/552/original/572955C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-platform-ombre-high-egret-572955c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-platform-ombre-high-egret-572955c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9d9ac03c-0044-49f2-8105-c5c52e4623b5",
+            "sku": "572721F",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lift Platform High 'Seasonal Color - Pink Clay'",
+            "colorway": "Pink Clay/Black/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-08",
+            "retailPrice": 70,
+            "estimatedMarketValue": 89,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/301/373/original/899153_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/301/373/original/899153_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/301/373/original/899153_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-platform-high-seasonal-color-pink-clay-572721f",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-platform-high-seasonal-color-pink-clay-572721f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c2fcfa66-b7e6-43a6-9670-d0367d01da1a",
+            "sku": "A01585C",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star Hi Embroidered Floral (W)",
+            "colorway": "Black/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-08",
+            "retailPrice": 70,
+            "estimatedMarketValue": 75,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/959/410/original/899148_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/959/410/original/899148_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/959/410/original/899148_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-hi-embroidered-floral-w",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-embroidered-floral-black-a01585c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-embroidered-floral-black-a01585c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "83e338bb-067c-4142-afbe-43065d36d6d0",
+            "sku": "A01595C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Low 'Embroidered Floral - Egret'",
+            "colorway": "Egret/Multi/Black",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-07",
+            "retailPrice": 65,
+            "estimatedMarketValue": 89,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/012/075/original/898939_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/012/075/original/898939_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/012/075/original/898939_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-low-embroidered-floral-egret-a01595c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-low-embroidered-floral-egret-a01595c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "17eb3545-507a-4990-b751-3799fb7d6df7",
+            "sku": "A01603F",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star Hi Embroidered Hearts Pink (W)",
+            "colorway": "Pink/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-05",
+            "retailPrice": 110,
+            "estimatedMarketValue": 78,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/269/483/original/891463_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/269/483/original/891463_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/269/483/original/891463_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-hi-embroidered-hearts-pink-w",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-embroidered-hearts-cherry-blossom-a01603f",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-embroidered-hearts-cherry-blossom-a01603f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5856815c-80a6-4dbd-a92e-a8a4f385f53e",
+            "sku": "A01586C",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star Lift Hi Things To Grow Egret",
+            "colorway": "Egret/Multi/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-04",
+            "retailPrice": 80,
+            "estimatedMarketValue": 85,
+            "story": "",
+            "image": {
+                "360": [
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img02.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img03.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img04.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img05.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img06.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img07.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img08.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img09.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img10.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img11.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img12.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img13.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img14.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img15.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img16.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img17.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img18.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img19.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img20.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img21.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img22.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img23.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img24.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img25.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img26.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img27.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img28.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img29.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img30.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img31.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img32.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img33.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img34.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img35.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709",
+                    "https://images.stockx.com/360/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Images/Converse-Chuck-Taylor-All-Star-Liftt-Hi-Things-To-Grow-Egret/Lv2/img36.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1648131709"
+                ],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/829/150/original/899006_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/829/150/original/899006_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/829/150/original/899006_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-lift-hi-things-to-grow-egret",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-platform-embroidered-floral-egret-a01586c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-platform-embroidered-floral-egret-a01586c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "279d7136-6526-453d-88f0-e424b18e52c7",
+            "sku": "572723C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Move Platform 'Seasonal Color - Bright Madder'",
+            "colorway": "Bright Madder/White/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-02",
+            "retailPrice": 70,
+            "estimatedMarketValue": 133,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/384/352/original/572723C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/384/352/original/572723C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/384/352/original/572723C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-move-platform-seasonal-color-bright-madder-572723c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-move-platform-seasonal-color-bright-madder-572723c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bc686040-9e20-42fe-a747-86abb8ecd2ba",
+            "sku": "A01657C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Move Platform High 'Seasonal Color - Brazil Nut'",
+            "colorway": "Brazil Nut/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-28",
+            "retailPrice": 75,
+            "estimatedMarketValue": 118,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/251/278/original/A01657C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/251/278/original/A01657C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/251/278/original/A01657C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-move-platform-high-seasonal-color-brazil-nut-a01657c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-move-platform-high-seasonal-color-brazil-nut-a01657c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "eb33d5fd-2994-4250-9bbe-464ccdb7e3a2",
+            "sku": "A01594C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Floral Print - Egret'",
+            "colorway": "Egret/Multi/Black",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-27",
+            "retailPrice": 60,
+            "estimatedMarketValue": 128,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/177/978/original/A01594C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/177/978/original/A01594C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/177/978/original/A01594C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-floral-print-egret-a01594c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-floral-print-egret-a01594c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "58bcdf5f-b61c-4311-ae88-fb7b9dbfa46e",
+            "sku": "572702F",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Crafted High 'Abstract Stripes'",
+            "colorway": "Egret/Pink Clay/Indigo Oxide",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-25",
+            "retailPrice": 65,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/177/961/original/572702F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/177/961/original/572702F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/177/961/original/572702F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-crafted-high-abstract-stripes-572702f",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-crafted-high-abstract-stripes-572702f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3c676ac5-7f69-4cba-a2aa-d40236eaa799",
+            "sku": "572720F",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Seasonal Color - Light Silver'",
+            "colorway": "Light Silver/Black/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-20",
+            "retailPrice": 70,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/736/194/original/572720F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/736/194/original/572720F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/736/194/original/572720F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-seasonal-color-light-silver-572720f",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-seasonal-color-light-silver-572720f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3d7bb714-6055-4a1d-addd-a39498687438",
+            "sku": "A01602F",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Embroidered Hearts - Black'",
+            "colorway": "Black/Vintage White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-20",
+            "retailPrice": 65,
+            "estimatedMarketValue": 82,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/269/472/original/891461_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/269/472/original/891461_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/269/472/original/891461_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-embroidered-hearts-black-a01602f",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-embroidered-hearts-black-a01602f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6e937b5a-d356-4a32-bf23-b12cab5d5cf6",
+            "sku": "572708C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lift Platform Crafted Canvas High 'Brazil Nut Indigo Oxide'",
+            "colorway": "Brazil Nut/Indigo Oxide/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-20",
+            "retailPrice": 70,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/736/193/original/572708C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/736/193/original/572708C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/736/193/original/572708C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-platform-crafted-canvas-high-brazil-nut-indigo-oxide-572708c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-platform-crafted-canvas-high-brazil-nut-indigo-oxide-572708c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c9cf9779-1c91-4aab-a52e-ccc8dac0e99f",
+            "sku": "A01592C",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star Lift Hi Black Floral Embroidery (W)",
+            "colorway": "Black/Multi/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-19",
+            "retailPrice": 70,
+            "estimatedMarketValue": 122,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/251/010/original/894113_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/251/010/original/894113_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/251/010/original/894113_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-lift-hi-black-floral-embroidery-w",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-platform-high-embroidered-floral-black-a01592c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-platform-high-embroidered-floral-black-a01592c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "30786771-3a1a-4c45-8b5e-70f579a124e2",
+            "sku": "573079C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Authentic Glam - Snakeskin'",
+            "colorway": "Black/Vintage White/Black",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-16",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/565/234/original/573079C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/565/234/original/573079C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/565/234/original/573079C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-authentic-glam-snakeskin-573079c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-authentic-glam-snakeskin-573079c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "98355e0a-df09-4741-a49b-2f6d5ecf3808",
+            "sku": "A01593C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Move Platform High 'Floral'",
+            "colorway": "Egret/Multi/Black",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-16",
+            "retailPrice": 75,
+            "estimatedMarketValue": 98,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/565/255/original/A01593C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/565/255/original/A01593C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/565/255/original/A01593C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-move-platform-high-floral-a01593c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-move-platform-high-floral-a01593c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c66c3890-5bbb-44aa-8875-1ac6a345eb73",
+            "sku": "572931F",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Crafted High 'Floral'",
+            "colorway": "Pink Clay/Indigo Oxide/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-16",
+            "retailPrice": 60,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/565/233/original/572931F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/565/233/original/572931F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/565/233/original/572931F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-crafted-high-floral-572931f",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-crafted-high-floral-572931f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d141ddb9-4335-4fc9-8e4e-7d99e160c4f2",
+            "sku": "572701C",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star 70 Hi Striped Terry Cloth Egret Pink Clay (W)",
+            "colorway": "Egret/Pink Clay/Black",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-06",
+            "retailPrice": 95,
+            "estimatedMarketValue": 144,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/998/806/original/572701C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/998/806/original/572701C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/998/806/original/572701C.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-70-hi-striped-terry-cloth-egret-pink-clay-w",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-striped-high-terry-cloth-572701c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-striped-high-terry-cloth-572701c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "39003ddf-d573-4c7c-9928-a14ad5fdd263",
+            "sku": "A01581C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Tri-Panel High 'Color Block - Hemp Desert Sand'",
+            "colorway": "Hemp/Desert Sand/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-04",
+            "retailPrice": 70,
+            "estimatedMarketValue": 165,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/891/022/original/A01581C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/891/022/original/A01581C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/891/022/original/A01581C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-tri-panel-high-color-block-hemp-desert-sand-a01581c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-tri-panel-high-color-block-hemp-desert-sand-a01581c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8a70f36e-4920-4df6-88a4-de3db46f3866",
+            "sku": "560845F/560845C",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star Hi Platform Black White (W)",
+            "colorway": "Black/White/White",
+            "gender": "women",
+            "silhouette": "Converse Chuck Taylor All-Star Hi",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-27",
+            "retailPrice": 70,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Converse-Chuck-Taylor-All-Star-Hi-Platform-Black-White-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1645209176",
+                "small": "https://images.stockx.com/images/Converse-Chuck-Taylor-All-Star-Hi-Platform-Black-White-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1645209176",
+                "thumbnail": "https://images.stockx.com/images/Converse-Chuck-Taylor-All-Star-Hi-Platform-Black-White-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1645209176"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-hi-platform-black-white-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e511edb7-9b4b-414c-8f7b-b42bc594cef7",
+            "sku": "560846C/560846F",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star Hi Platform White Black (W)",
+            "colorway": "White/Black/White",
+            "gender": "women",
+            "silhouette": "Converse Chuck Taylor All-Star Hi",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-27",
+            "retailPrice": 70,
+            "estimatedMarketValue": 74,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Converse-Chuck-Taylor-All-Star-Hi-Platform-White-Black-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1645209176",
+                "small": "https://images.stockx.com/images/Converse-Chuck-Taylor-All-Star-Hi-Platform-White-Black-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1645209176",
+                "thumbnail": "https://images.stockx.com/images/Converse-Chuck-Taylor-All-Star-Hi-Platform-White-Black-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1645209176"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-hi-platform-white-black-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e5593f04-b123-408e-ae9d-7b695ff6ad96",
+            "sku": "560845F",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lift High 'Black White'",
+            "colorway": "Black/White/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-27",
+            "retailPrice": 70,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/343/918/original/880567_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/343/918/original/880567_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/343/918/original/880567_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lift-high-black-white-560845f",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lift-high-black-white-560845f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "27312699-f584-4b93-b122-4ab353b847aa",
+            "sku": "573111C",
+            "brand": "Converse",
+            "name": "Wmns Run Star Hike High 'Sherpa - Nomad Khaki'",
+            "colorway": "Nomad Khaki/Egret/Wheat",
+            "gender": "women",
+            "silhouette": "Run Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-19",
+            "retailPrice": 120,
+            "estimatedMarketValue": 129,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/905/448/original/877456_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/905/448/original/877456_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/905/448/original/877456_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-run-star-hike-high-sherpa-nomad-khaki-573111c",
+                "flightClub": "https://flightclub.com/wmns-run-star-hike-high-sherpa-nomad-khaki-573111c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cb9f1a7d-eab0-4a66-b0eb-d29515bea2ad",
+            "sku": "572235C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Black'",
+            "colorway": "Black/Black/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-08",
+            "retailPrice": 70,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/548/113/original/572235C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/548/113/original/572235C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/548/113/original/572235C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-black-572235c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-black-572235c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e6d099b0-50c8-4ff6-9d47-f56a438d9432",
+            "sku": "573191C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Raw Edge Platform High 'Black Champagne Tan'",
+            "colorway": "Black/Egret/Champagne Tan",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-08",
+            "retailPrice": 75,
+            "estimatedMarketValue": 96,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/942/401/original/863236_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/942/401/original/863236_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/942/401/original/863236_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-raw-edge-platform-high-black-champagne-tan-573191c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-raw-edge-platform-high-black-champagne-tan-573191c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "554d56aa-3d02-40b3-a4b1-6d4b3f74f967",
+            "sku": "573076C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lugged High 'Egret'",
+            "colorway": "Egret/Vintage White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-05",
+            "retailPrice": 75,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/060/487/original/863231_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/060/487/original/863231_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/060/487/original/863231_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lugged-high-egret-573076c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lugged-high-egret-573076c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "06381512-7ed2-4f55-988d-3e69a96b325c",
+            "sku": "572428C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Platform High 'Mystic World - Multi Leopard'",
+            "colorway": "Egret/Multi-Color/Black",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-01",
+            "retailPrice": 70,
+            "estimatedMarketValue": 113,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/097/048/original/572428C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/097/048/original/572428C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/097/048/original/572428C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-platform-high-mystic-world-multi-leopard-572428c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-platform-high-mystic-world-multi-leopard-572428c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "10690de7-02a9-4239-a4c8-0eb8ea669714",
+            "sku": "572427C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Platform High 'Mystic World - Zodiac Sign'",
+            "colorway": "Black/Egret/Multi-Color",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-01",
+            "retailPrice": 70,
+            "estimatedMarketValue": 128,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/097/045/original/572427C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/097/045/original/572427C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/097/045/original/572427C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-platform-high-mystic-world-zodiac-sign-572427c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-platform-high-mystic-world-zodiac-sign-572427c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3406f657-d773-4fce-aec6-2a68a3c66bde",
+            "sku": "572366F",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Welcome to the Wild - Leopard'",
+            "colorway": "Egret/Black/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-01",
+            "retailPrice": 60,
+            "estimatedMarketValue": 99,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/097/044/original/572366F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/097/044/original/572366F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/097/044/original/572366F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-welcome-to-the-wild-leopard-572366f",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-welcome-to-the-wild-leopard-572366f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "580143dd-2f2e-4797-aacd-1ec9864fb376",
+            "sku": "572432C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Mystic World - Leopard'",
+            "colorway": "Wheat/Black/Pink",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-01",
+            "retailPrice": 60,
+            "estimatedMarketValue": 80,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/155/041/original/572432C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/155/041/original/572432C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/155/041/original/572432C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-mystic-world-leopard-572432c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-mystic-world-leopard-572432c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e958a4ed-7642-4955-9292-0e51491cc2cd",
+            "sku": "572507C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Dainty Mule 'Welcome to the Wild - Field Surplus'",
+            "colorway": "Field Surplus/Egret/Black",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-01",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/097/049/original/572507C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/097/049/original/572507C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/097/049/original/572507C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-dainty-mule-welcome-to-the-wild-field-surplus-572507c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-dainty-mule-welcome-to-the-wild-field-surplus-572507c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "04673b5a-9ea3-459f-b42c-0d1e0d5d41e9",
+            "sku": "572044C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Platform Low 'Authentic Glam - Gold Leopard'",
+            "colorway": "Gold/Black/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-30",
+            "retailPrice": 70,
+            "estimatedMarketValue": 199,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/097/040/original/572044C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/097/040/original/572044C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/097/040/original/572044C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-platform-low-authentic-glam-gold-leopard-572044c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-platform-low-authentic-glam-gold-leopard-572044c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "51e615da-27f7-412b-ac0f-1e02cd381db9",
+            "sku": "573082C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Platform 'Authentic Glam - Orange Snakeskin'",
+            "colorway": "Vintage White/Black/Orange",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-30",
+            "retailPrice": 75,
+            "estimatedMarketValue": 144,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/097/054/original/573082C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/097/054/original/573082C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/097/054/original/573082C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-platform-authentic-glam-orange-snakeskin-573082c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-platform-authentic-glam-orange-snakeskin-573082c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "75531984-8355-4372-95de-ae131bd02da4",
+            "sku": "572229C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Platform 'Shadowberry'",
+            "colorway": "Shadowberry/Black/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-30",
+            "retailPrice": 75,
+            "estimatedMarketValue": 103,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/097/042/original/572229C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/097/042/original/572229C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/097/042/original/572229C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-platform-shadowberry-572229c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-platform-shadowberry-572229c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b5595bee-b2ff-4bc7-89a6-bd19659358d0",
+            "sku": "571082C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Platform High 'Digital Powder - Egret'",
+            "colorway": "Pure Silver/Pure Silver/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-30",
+            "retailPrice": 75,
+            "estimatedMarketValue": 96,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/684/888/original/857538_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/684/888/original/857538_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/684/888/original/857538_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-platform-high-digital-powder-egret-571082c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-platform-high-digital-powder-egret-571082c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3406943d-15d7-4991-afa2-a63188f07175",
+            "sku": "571753C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lugged High 'It's Okay To Wander - Black'",
+            "colorway": "Black/Multi/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-29",
+            "retailPrice": 75,
+            "estimatedMarketValue": 99,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/393/877/original/856986_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/393/877/original/856986_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/393/877/original/856986_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lugged-high-it-s-okay-to-wander-black-571753c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lugged-high-it-s-okay-to-wander-black-571753c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4be0c80e-0911-44a6-847e-07fe1d79c06e",
+            "sku": "572369C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 High 'Welcome To The Wild Eggs'",
+            "colorway": "Egret/Black/Lime Twist",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-29",
+            "retailPrice": 90,
+            "estimatedMarketValue": 138,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/554/original/572369C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/554/original/572369C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/554/original/572369C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-high-welcome-to-the-wild-eggs-572369c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-high-welcome-to-the-wild-eggs-572369c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2e0fd793-b5a0-407f-b70f-172db438d18f",
+            "sku": "A01775C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Lace - Egret'",
+            "colorway": "Egret/Egret/Gold",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-22",
+            "retailPrice": 70,
+            "estimatedMarketValue": 164,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/063/706/181/original/A01775C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/063/706/181/original/A01775C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/063/706/181/original/A01775C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-lace-egret-a01775c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-lace-egret-a01775c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "892027ec-96e8-45fb-9d62-3ccfd3f53e1d",
+            "sku": "A01773C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Lace - Farro'",
+            "colorway": "Farro/Egret/Gold",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-22",
+            "retailPrice": 70,
+            "estimatedMarketValue": 153,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/063/706/180/original/A01773C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/063/706/180/original/A01773C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/063/706/180/original/A01773C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-lace-farro-a01773c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-lace-farro-a01773c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9e1caee6-59b1-47be-9b47-6b5d9d0ad78c",
+            "sku": "573102C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lugged Winter 2.0 'Hummus'",
+            "colorway": "Hummus/Hummus/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-18",
+            "retailPrice": 110,
+            "estimatedMarketValue": 133,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/063/706/165/original/573102C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/063/706/165/original/573102C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/063/706/165/original/573102C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lugged-winter-2-0-hummus-573102c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lugged-winter-2-0-hummus-573102c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "55308364-f16c-4c24-9ddd-fbfeddbe5e77",
+            "sku": "572506C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Dainty Mule 'Welcome to the Wild'",
+            "colorway": "Deep Bordeaux/Egret/Black",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-06",
+            "retailPrice": 55,
+            "estimatedMarketValue": 88,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/062/903/925/original/572506C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/062/903/925/original/572506C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/062/903/925/original/572506C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-dainty-mule-welcome-to-the-wild-572506c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-dainty-mule-welcome-to-the-wild-572506c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e4c251fb-63a2-4a22-adde-d824e0ce8c26",
+            "sku": "573073C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star 2X Platform High 'Cozy Sherpa - Vachetta Beige'",
+            "colorway": "Vachetta Beige/Vintage White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-21",
+            "retailPrice": 85,
+            "estimatedMarketValue": 119,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/062/253/342/original/573073C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/062/253/342/original/573073C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/062/253/342/original/573073C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-2x-platform-high-cozy-sherpa-vachetta-beige-573073c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-2x-platform-high-cozy-sherpa-vachetta-beige-573073c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6c365f23-55f3-4e63-88f1-4a0ea9b191b4",
+            "sku": "572240C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Platform High 'Cozy Sherpa - Ghost'",
+            "colorway": "Ghost/Steel/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-12",
+            "retailPrice": 75,
+            "estimatedMarketValue": 54,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/804/069/original/572240C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/804/069/original/572240C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/804/069/original/572240C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-platform-high-cozy-sherpa-ghost-572240c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-platform-high-cozy-sherpa-ghost-572240c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c3c5fd2b-7aef-4b11-82f9-86d01f8d3685",
+            "sku": "572201C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Platform Low 'Cozy Sherpa - Violet Ore'",
+            "colorway": "Violet Ore/Vapor Mauve/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-12",
+            "retailPrice": 70,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/335/061/original/834380_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/335/061/original/834380_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/335/061/original/834380_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-platform-low-cozy-sherpa-violet-ore-572201c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-platform-low-cozy-sherpa-violet-ore-572201c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "55f0a11d-2dbd-4672-a3a2-0a6e6d0868ae",
+            "sku": "572042C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Low 'Glitter Leopard Spots - Silver'",
+            "colorway": "Silver/White/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-10",
+            "retailPrice": 60,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/419/original/572042C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/419/original/572042C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/419/original/572042C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-low-glitter-leopard-spots-silver-572042c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-low-glitter-leopard-spots-silver-572042c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "64359c94-5043-4d28-9d5e-2e069330fb3f",
+            "sku": "572041C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Low 'Glitter Leopard Spots - Saturn Gold'",
+            "colorway": "Saturn Gold/White/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-10",
+            "retailPrice": 60,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/418/original/572041C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/418/original/572041C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/418/original/572041C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-low-glitter-leopard-spots-saturn-gold-572041c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-low-glitter-leopard-spots-saturn-gold-572041c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7d281dfb-94a9-4f37-afa7-8c274adf9c31",
+            "sku": "572043C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Platform High 'Glitter Leopard Spots'",
+            "colorway": "Silver/Black/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-10",
+            "retailPrice": 75,
+            "estimatedMarketValue": 108,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/422/original/572043C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/422/original/572043C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/422/original/572043C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-platform-high-glitter-leopard-spots-572043c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-platform-high-glitter-leopard-spots-572043c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a11f7f3e-ea47-4078-8e79-97c6debce770",
+            "sku": "572232C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star 2X Platform High 'Welcome to the Wild'",
+            "colorway": "Egret/Black/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-09",
+            "retailPrice": 80,
+            "estimatedMarketValue": 139,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/425/original/572232C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/425/original/572232C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/425/original/572232C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-2x-platform-high-welcome-to-the-wild-572232c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-2x-platform-high-welcome-to-the-wild-572232c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "91c441b2-0406-45b6-a526-b5faa3ec528c",
+            "sku": "572233C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star 2X Platform Low 'Welcome to the Wild'",
+            "colorway": "Egret/Multi/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-08",
+            "retailPrice": 75,
+            "estimatedMarketValue": 79,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/426/original/572233C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/426/original/572233C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/426/original/572233C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-2x-platform-low-welcome-to-the-wild-572233c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-2x-platform-low-welcome-to-the-wild-572233c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1071c00b-a726-4a7a-8504-5ce590b2ac99",
+            "sku": "572265C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 High 'Icy Shine - Black'",
+            "colorway": "Black/Gold/Egret",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-07",
+            "retailPrice": 90,
+            "estimatedMarketValue": 99,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/427/original/572265C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/427/original/572265C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/427/original/572265C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-high-icy-shine-black-572265c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-high-icy-shine-black-572265c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1f00fa7e-148e-4949-84e9-eef7a88a262e",
+            "sku": "572228C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Platform High 'Cold Fusion - Egret'",
+            "colorway": "Egret/Black/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-07",
+            "retailPrice": 75,
+            "estimatedMarketValue": 149,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/334/749/original/833435_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/334/749/original/833435_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/334/749/original/833435_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-platform-high-cold-fusion-egret-572228c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-platform-high-cold-fusion-egret-572228c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2b58f609-ab17-4d61-a406-15d110ff0405",
+            "sku": "572040C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Glitter Leopard Spots'",
+            "colorway": "Saturn Gold/White/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-07",
+            "retailPrice": 65,
+            "estimatedMarketValue": 139,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/417/original/572040C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/417/original/572040C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/417/original/572040C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-glitter-leopard-spots-572040c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-glitter-leopard-spots-572040c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "712db791-4626-4bff-b3bf-d4f63877ca82",
+            "sku": "573071C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Perfect Is Not Perfect - Vintage White'",
+            "colorway": "Vintage White/Dusk Pink",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-07",
+            "retailPrice": 65,
+            "estimatedMarketValue": 132,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/428/original/573071C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/428/original/573071C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/428/original/573071C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-perfect-is-not-perfect-vintage-white-573071c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-perfect-is-not-perfect-vintage-white-573071c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "960c90d7-b5c6-4beb-b998-656920d5fd30",
+            "sku": "572072C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Move Low 'Lime Twist'",
+            "colorway": "Lime Twist/White/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-07",
+            "retailPrice": 70,
+            "estimatedMarketValue": 109,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/423/original/572072C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/423/original/572072C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/423/original/572072C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-move-low-lime-twist-572072c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-move-low-lime-twist-572072c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bfeea2d9-7164-4905-ab50-3af9aac90734",
+            "sku": "573072C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Perfect Is Not Perfect - Champagne Tan'",
+            "colorway": "Champagne Tan/Dusk Pink",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-07",
+            "retailPrice": 65,
+            "estimatedMarketValue": 156,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/431/original/573072C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/431/original/573072C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/431/original/573072C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-perfect-is-not-perfect-champagne-tan-573072c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-perfect-is-not-perfect-champagne-tan-573072c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d115a409-d5ad-4b36-961c-2618a676c8b1",
+            "sku": "572038C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 High 'Icy Shine - Silver'",
+            "colorway": "Silver/Black/Egret",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-07",
+            "retailPrice": 90,
+            "estimatedMarketValue": 96,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/416/original/572038C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/416/original/572038C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/416/original/572038C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-high-icy-shine-silver-572038c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-high-icy-shine-silver-572038c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6b3a9c38-c7f9-4abe-900a-e9a6c4c20e6a",
+            "sku": "572431C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 High 'Mystic World - Future is Bright'",
+            "colorway": "Egret/Egret/Black",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-05",
+            "retailPrice": 0,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/056/766/original/572431C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/056/766/original/572431C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/056/766/original/572431C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-high-mystic-world-future-is-bright-572431c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-high-mystic-world-future-is-bright-572431c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1525aa82-f436-4566-b783-96870b95866e",
+            "sku": "573075C",
+            "brand": "Converse",
+            "name": "Converse Chuck Taylor All-Star Move Hi Future Utility Vapor Mauve (W)",
+            "colorway": "Vapor Mauve/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-03",
+            "retailPrice": 80,
+            "estimatedMarketValue": 109,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/433/original/573075C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/433/original/573075C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/433/original/573075C.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/converse-chuck-taylor-all-star-move-hi-future-utility-vapor-mauve-w",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-move-high-future-utility-vapor-mauve-573075c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-move-high-future-utility-vapor-mauve-573075c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c9fcff6f-ce10-41c0-a13e-504b84bfe53f",
+            "sku": "573074C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Move High 'Perfect Is Not Perfect - Egret'",
+            "colorway": "Egret/Dusk Pink/Vintage White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-02",
+            "retailPrice": 80,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/432/original/573074C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/432/original/573074C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/432/original/573074C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-move-high-perfect-is-not-perfect-egret-573074c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-move-high-perfect-is-not-perfect-egret-573074c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0174c22e-0cb8-47a9-b1aa-53d0d17b1db5",
+            "sku": "571352C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 Low 'Hybrid Texture - Saturn Gold'",
+            "colorway": "Saturn Gold/Egret/Egret",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-24",
+            "retailPrice": 0,
+            "estimatedMarketValue": 85,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-low-hybrid-texture-saturn-gold-571352c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-low-hybrid-texture-saturn-gold-571352c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c776420d-b413-47e4-9f49-594fdc4afca3",
+            "sku": "570634C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Lugged High By You",
+            "colorway": "Multi-Color/Multi-Color/Multi-Color",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-16",
+            "retailPrice": 100,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/752/858/original/570634C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/752/858/original/570634C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/752/858/original/570634C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-lugged-high-by-you-570634c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-lugged-high-by-you-570634c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "599d98cb-9db3-4fab-b9ac-b08d74612015",
+            "sku": "572423C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 High 'Metallic Floral'",
+            "colorway": "Egret/Multi/Black",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-02",
+            "retailPrice": 90,
+            "estimatedMarketValue": 123,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/056/285/original/572423C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/056/285/original/572423C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/056/285/original/572423C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-high-metallic-floral-572423c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-high-metallic-floral-572423c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "139f01e9-dd0e-41ee-981e-5ceaf77f9a7e",
+            "sku": "572547C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Platform High 'Egret'",
+            "colorway": "Egret/Egret/Light Gold",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-01",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/056/286/original/572547C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/056/286/original/572547C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/056/286/original/572547C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-platform-high-egret-572547c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-platform-high-egret-572547c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f573b9da-b6f5-4b05-b4ed-c0818164318b",
+            "sku": "572548C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star Platform High 'String'",
+            "colorway": "String/Pale Putty/Egret",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-01",
+            "retailPrice": 75,
+            "estimatedMarketValue": 75,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/556/662/original/816333_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/556/662/original/816333_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/556/662/original/816333_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-platform-high-string-572548c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-platform-high-string-572548c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "20ddf10a-bc39-43a0-a216-6cdd316fe883",
+            "sku": "570985F",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Metallic Shimmer - Black'",
+            "colorway": "Black/Silver/White",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-31",
+            "retailPrice": 65,
+            "estimatedMarketValue": 65,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/056/284/original/570985F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/056/284/original/570985F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/056/284/original/570985F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-metallic-shimmer-black-570985f",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-metallic-shimmer-black-570985f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3cfb22d8-9e5b-43c2-994f-79d220cc9ed9",
+            "sku": "572544C",
+            "brand": "Converse",
+            "name": "Wmns Chuck Taylor All Star High 'Paisley'",
+            "colorway": "Egret/Healing Clay/Black",
+            "gender": "women",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-30",
+            "retailPrice": 65,
+            "estimatedMarketValue": 104,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/172/846/original/572544C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/172/846/original/572544C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/172/846/original/572544C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-taylor-all-star-high-paisley-572544c",
+                "flightClub": "https://flightclub.com/wmns-chuck-taylor-all-star-high-paisley-572544c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "175bfb73-7b16-4aa8-9b5a-d48fc29e71f4",
+            "sku": "572545C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 High 'Fall Florals - Egret'",
+            "colorway": "Egret/Field Surplus/Wheat",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-27",
+            "retailPrice": 90,
+            "estimatedMarketValue": 198,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/059/672/403/original/572545C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/059/672/403/original/572545C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/059/672/403/original/572545C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-high-fall-florals-egret-572545c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-high-fall-florals-egret-572545c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6a22155e-dbf3-43a0-91ec-d4223bd281c0",
+            "sku": "571431C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 Zip High 'Surface Fusion - White'",
+            "colorway": "White/Prime Pink/White",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-27",
+            "retailPrice": 100,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/059/672/401/original/571431C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/059/672/401/original/571431C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/059/672/401/original/571431C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-zip-high-surface-fusion-white-571431c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-zip-high-surface-fusion-white-571431c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f571250f-34ba-45e2-ac02-b08d68e35ce9",
+            "sku": "572546C",
+            "brand": "Converse",
+            "name": "Wmns Chuck 70 High 'Fall Florals - Black'",
+            "colorway": "Deep Bordeaux/Black/Wheat",
+            "gender": "women",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-27",
+            "retailPrice": 90,
+            "estimatedMarketValue": 113,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/059/672/404/original/572546C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/059/672/404/original/572546C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/059/672/404/original/572546C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-chuck-70-high-fall-florals-black-572546c",
+                "flightClub": "https://flightclub.com/wmns-chuck-70-high-fall-florals-black-572546c",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}

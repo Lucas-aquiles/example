@@ -1,0 +1,2604 @@
+{
+    "results": [
+        {
+            "id": "00c107ea-7712-475d-b22d-7ba97682b57a",
+            "sku": "385684-01",
+            "brand": "Puma",
+            "name": "Slipstream Lo Reprise Infant 'White Dark Slate'",
+            "colorway": "White/Dark Slate",
+            "gender": "infant",
+            "silhouette": "Slipstream",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-18",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/065/original/385684_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/065/original/385684_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/065/original/385684_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/slipstream-lo-reprise-infant-white-dark-slate-385684-01",
+                "flightClub": "https://flightclub.com/slipstream-lo-reprise-infant-white-dark-slate-385684-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "de38d894-51bd-4fa0-9084-73a2d90b9241",
+            "sku": "384927-01",
+            "brand": "Puma",
+            "name": "SmileyWorld x Future Rider Infant 'Black Royal Blue'",
+            "colorway": "Black/Royal Blue",
+            "gender": "infant",
+            "silhouette": "Future Rider",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 55,
+            "estimatedMarketValue": 76,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/762/332/original/384927_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/762/332/original/384927_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/762/332/original/384927_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/smileyworld-x-future-rider-infant-black-royal-blue-384927-01",
+                "flightClub": "https://flightclub.com/smileyworld-x-future-rider-infant-black-royal-blue-384927-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7dc0049b-6bcb-4a8e-a282-4f21b3671a4d",
+            "sku": "307124-01",
+            "brand": "Puma",
+            "name": "BMW Motorsport x Roma Infant 'Black Estate Blue'",
+            "colorway": "Black/Estate Blue",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 50,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/762/305/original/307124_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/762/305/original/307124_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/762/305/original/307124_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/bmw-motorsport-x-roma-infant-black-estate-blue-307124-01",
+                "flightClub": "https://flightclub.com/bmw-motorsport-x-roma-infant-black-estate-blue-307124-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cddfb357-131e-40ea-834e-bfde1be935ce",
+            "sku": "307124-02",
+            "brand": "Puma",
+            "name": "BMW Motorsport x Roma Infant 'White Estate Blue'",
+            "colorway": "White/Estate Blue",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-12",
+            "retailPrice": 45,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/762/306/original/307124_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/762/306/original/307124_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/762/306/original/307124_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/bmw-motorsport-x-roma-infant-white-estate-blue-307124-02",
+                "flightClub": "https://flightclub.com/bmw-motorsport-x-roma-infant-white-estate-blue-307124-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1a3cfea4-4ead-4433-97e6-e6f769ae8e40",
+            "sku": "307129-01",
+            "brand": "Puma",
+            "name": "Scuderia Ferrari x Roma Infant 'Black Rosso Corsa'",
+            "colorway": "Black/Rosso Corsa",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 45,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/762/308/original/307129_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/762/308/original/307129_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/762/308/original/307129_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/scuderia-ferrari-x-roma-infant-black-rosso-corsa-307129-01",
+                "flightClub": "https://flightclub.com/scuderia-ferrari-x-roma-infant-black-rosso-corsa-307129-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9dbc1326-a33f-4d3d-9c32-fb74dba4afa8",
+            "sku": "381856-03",
+            "brand": "Puma",
+            "name": "Future Rider Splash Infant 'Grey Violet'",
+            "colorway": "Grey Violet/Victoria Blue",
+            "gender": "infant",
+            "silhouette": "Future Rider",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-09",
+            "retailPrice": 50,
+            "estimatedMarketValue": 43,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/231/579/original/928210_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/231/579/original/928210_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/231/579/original/928210_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/future-rider-splash-infant-grey-violet-381856-03",
+                "flightClub": "https://flightclub.com/future-rider-splash-infant-grey-violet-381856-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "134b358b-63b2-477c-8538-9e294f1de2f4",
+            "sku": "381856-05",
+            "brand": "Puma",
+            "name": "Future Rider Splash Infant 'Grey Violet Classic Green'",
+            "colorway": "Grey Violet/Classic Green",
+            "gender": "infant",
+            "silhouette": "Future Rider",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/762/322/original/381856_05.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/762/322/original/381856_05.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/762/322/original/381856_05.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/future-rider-splash-infant-grey-violet-classic-green-381856-05",
+                "flightClub": "https://flightclub.com/future-rider-splash-infant-grey-violet-classic-green-381856-05",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7ac5c6f8-aedd-47b3-a728-1e743bc2bf26",
+            "sku": "381856-04",
+            "brand": "Puma",
+            "name": "Future Rider Splash Infant 'White Prism Pink'",
+            "colorway": "White/Prism Pink",
+            "gender": "infant",
+            "silhouette": "Future Rider",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 50,
+            "estimatedMarketValue": 43,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/762/321/original/381856_04.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/762/321/original/381856_04.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/762/321/original/381856_04.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/future-rider-splash-infant-white-prism-pink-381856-04",
+                "flightClub": "https://flightclub.com/future-rider-splash-infant-white-prism-pink-381856-04",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a08ca87c-7dbf-4647-8296-f8fcfe292de9",
+            "sku": "359842-15",
+            "brand": "Puma",
+            "name": "Roma Basic Summer Infant 'Pearl Gum'",
+            "colorway": "Pearl/White",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/416/600/original/359842_15.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/416/600/original/359842_15.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/416/600/original/359842_15.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/roma-basic-summer-infant-pearl-gum-359842-15",
+                "flightClub": "https://flightclub.com/roma-basic-summer-infant-pearl-gum-359842-15",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e0b50c0b-3074-4028-86a7-2778e57aea92",
+            "sku": "359842-21",
+            "brand": "Puma",
+            "name": "Roma Basic Summer Infant 'Black Gum'",
+            "colorway": "Black/White",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/416/601/original/359842_21.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/416/601/original/359842_21.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/416/601/original/359842_21.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/roma-basic-summer-infant-black-gum-359842-21",
+                "flightClub": "https://flightclub.com/roma-basic-summer-infant-black-gum-359842-21",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "87278e06-8e90-4d7b-a27b-1fdeff6ac39f",
+            "sku": "385833-01",
+            "brand": "Puma",
+            "name": "DC Comics x Cali Star Infant 'Wonder Woman'",
+            "colorway": "White/Intense Red",
+            "gender": "infant",
+            "silhouette": "Cali",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-14",
+            "retailPrice": 60,
+            "estimatedMarketValue": 99,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/537/original/385833_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/537/original/385833_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/537/original/385833_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/dc-comics-x-cali-star-infant-wonder-woman-385833-01",
+                "flightClub": "https://flightclub.com/dc-comics-x-cali-star-infant-wonder-woman-385833-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a9596d5b-7977-443a-a1c0-448d560a4d4c",
+            "sku": "383192-02",
+            "brand": "Puma",
+            "name": "Light-Flex Summer Infant 'Cherry Tomato'",
+            "colorway": "Cherry Tomato/White",
+            "gender": "infant",
+            "silhouette": "Light-Flex",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/773/original/383192_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/773/original/383192_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/773/original/383192_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/light-flex-summer-infant-cherry-tomato-383192-02",
+                "flightClub": "https://flightclub.com/light-flex-summer-infant-cherry-tomato-383192-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "12153f7a-6477-44c7-b955-973502bd7432",
+            "sku": "383181-01",
+            "brand": "Puma",
+            "name": "Mirage Sport Infant 'Foodies'",
+            "colorway": "White/Spectra Yellow",
+            "gender": "infant",
+            "silhouette": "Mirage Sport",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-04",
+            "retailPrice": 60,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/253/268/original/383181_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/253/268/original/383181_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/253/268/original/383181_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/mirage-sport-infant-foodies-383181-01",
+                "flightClub": "https://flightclub.com/mirage-sport-infant-foodies-383181-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4b639f70-c75a-41d4-859f-126c2aacc22a",
+            "sku": "385652-02",
+            "brand": "Puma",
+            "name": "Minecraft x RS-Z Infant 'Diamond Block'",
+            "colorway": "Griffin/Hawaiian Ocean",
+            "gender": "infant",
+            "silhouette": "RS-Z",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-01",
+            "retailPrice": 65,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/196/original/385652_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/196/original/385652_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/196/original/385652_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/minecraft-x-rs-z-infant-diamond-block-385652-02",
+                "flightClub": "https://flightclub.com/minecraft-x-rs-z-infant-diamond-block-385652-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6a374582-a308-4ae7-8b96-d954cb472b8a",
+            "sku": "384487-01",
+            "brand": "Puma",
+            "name": "Minecraft x Suede Infant 'Grass Block'",
+            "colorway": "Friar Brown/Fern Green",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-01",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/186/original/384487_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/186/original/384487_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/186/original/384487_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/minecraft-x-suede-infant-grass-block-384487-01",
+                "flightClub": "https://flightclub.com/minecraft-x-suede-infant-grass-block-384487-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e3343a58-24b4-444d-8455-69ba05d4c688",
+            "sku": "385652-01",
+            "brand": "Puma",
+            "name": "Minecraft x RS-Z Infant 'Grass Block'",
+            "colorway": "Amazon Green/Castlerock",
+            "gender": "infant",
+            "silhouette": "RS-Z",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-01",
+            "retailPrice": 65,
+            "estimatedMarketValue": 102,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/195/original/385652_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/195/original/385652_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/195/original/385652_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/minecraft-x-rs-z-infant-grass-block-385652-01",
+                "flightClub": "https://flightclub.com/minecraft-x-rs-z-infant-grass-block-385652-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a24df29b-7dd1-4605-9ce0-56dd7d0ecf75",
+            "sku": "385117-13",
+            "brand": "Puma",
+            "name": "MB.01 Infant 'Buzz City'",
+            "colorway": "Black/Blue Atoll",
+            "gender": "infant",
+            "silhouette": "MB.01",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-02",
+            "retailPrice": 65,
+            "estimatedMarketValue": 79,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/060/442/original/884695_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/060/442/original/884695_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/060/442/original/884695_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/mb-01-infant-buzz-city-385117-13",
+                "flightClub": "https://flightclub.com/mb-01-infant-buzz-city-385117-13",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "017af41a-fcef-430d-afa1-bc8910340108",
+            "sku": "385084-01",
+            "brand": "Puma",
+            "name": "L.O.L. Surprise! x Cali Star Infant 'Beats'",
+            "colorway": "Black/Silver",
+            "gender": "infant",
+            "silhouette": "Cali",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-01",
+            "retailPrice": 60,
+            "estimatedMarketValue": 107,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/063/985/249/original/385084_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/063/985/249/original/385084_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/063/985/249/original/385084_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/l-o-l-surprise-x-cali-star-infant-beats-385084-01",
+                "flightClub": "https://flightclub.com/l-o-l-surprise-x-cali-star-infant-beats-385084-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "55f55cba-26cd-4209-b6ed-0b3363237bad",
+            "sku": "385080-01",
+            "brand": "Puma",
+            "name": "L.O.L. Surprise! x Suede Infant 'Kitty Queen'",
+            "colorway": "Pink Lady",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-01",
+            "retailPrice": 60,
+            "estimatedMarketValue": 104,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/063/985/246/original/385080_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/063/985/246/original/385080_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/063/985/246/original/385080_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/l-o-l-surprise-x-suede-infant-kitty-queen-385080-01",
+                "flightClub": "https://flightclub.com/l-o-l-surprise-x-suede-infant-kitty-queen-385080-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3fa7e11d-0363-4a96-9e3a-b3a98934a52c",
+            "sku": "384523-02",
+            "brand": "Puma",
+            "name": "Cali Dream Infant 'White Nimbus Cloud'",
+            "colorway": "White/Nimbus Cloud/Whisper White",
+            "gender": "infant",
+            "silhouette": "Cali",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-30",
+            "retailPrice": 55,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/714/559/original/384523_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/714/559/original/384523_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/714/559/original/384523_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/cali-dream-infant-white-nimbus-cloud-384523-02",
+                "flightClub": "https://flightclub.com/cali-dream-infant-white-nimbus-cloud-384523-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ad314df1-ab3b-4e61-b762-ab41e4356655",
+            "sku": "385829-01",
+            "brand": "Puma",
+            "name": "DC Comics x Suede Infant 'Justice League'",
+            "colorway": "Black/Bluemazing",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-27",
+            "retailPrice": 50,
+            "estimatedMarketValue": 88,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/565/213/original/385829_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/565/213/original/385829_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/565/213/original/385829_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/dc-comics-x-suede-infant-justice-league-385829-01",
+                "flightClub": "https://flightclub.com/dc-comics-x-suede-infant-justice-league-385829-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "85169f5a-6a82-44f4-a9e7-e5cdd96ec8bb",
+            "sku": "382684-03",
+            "brand": "Puma",
+            "name": "RS-Z College Infant 'Grenadine White'",
+            "colorway": "Grenadine/White",
+            "gender": "infant",
+            "silhouette": "RS-Z",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-13",
+            "retailPrice": 60,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/359/621/original/382684_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/359/621/original/382684_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/359/621/original/382684_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rs-z-college-infant-grenadine-white-382684-03",
+                "flightClub": "https://flightclub.com/rs-z-college-infant-grenadine-white-382684-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bebf8f70-505c-4ef0-a4ab-ee34f82f17ba",
+            "sku": "382684-02",
+            "brand": "Puma",
+            "name": "RS-Z College Infant 'Amazon Green White'",
+            "colorway": "Amazon Green/White",
+            "gender": "infant",
+            "silhouette": "RS-Z",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-13",
+            "retailPrice": 60,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/359/620/original/382684_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/359/620/original/382684_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/359/620/original/382684_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rs-z-college-infant-amazon-green-white-382684-02",
+                "flightClub": "https://flightclub.com/rs-z-college-infant-amazon-green-white-382684-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e7e6c960-cbc9-40b9-ba32-6cf8e86ca80e",
+            "sku": "382684-01",
+            "brand": "Puma",
+            "name": "RS-Z College Infant 'Royal White'",
+            "colorway": "Royal/White",
+            "gender": "infant",
+            "silhouette": "RS-Z",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-13",
+            "retailPrice": 60,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/359/617/original/382684_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/359/617/original/382684_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/359/617/original/382684_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rs-z-college-infant-royal-white-382684-01",
+                "flightClub": "https://flightclub.com/rs-z-college-infant-royal-white-382684-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "002c3660-2a78-4704-b16b-f79784a7e82a",
+            "sku": "383192-01",
+            "brand": "Puma",
+            "name": "Light-Flex Summer Infant 'Black White'",
+            "colorway": "Black/White",
+            "gender": "infant",
+            "silhouette": "Light-Flex",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-12",
+            "retailPrice": 40,
+            "estimatedMarketValue": 65,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/772/original/383192_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/772/original/383192_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/772/original/383192_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/light-flex-summer-infant-black-white-383192-01",
+                "flightClub": "https://flightclub.com/light-flex-summer-infant-black-white-383192-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "311de2fe-38b7-483b-981c-aa0af817b140",
+            "sku": "367137-13",
+            "brand": "Puma",
+            "name": "ST Runner V2 Mesh AC Infant 'Peacoat Vibrant Orange'",
+            "colorway": "Peacoat/White/Vibrant Orange",
+            "gender": "infant",
+            "silhouette": "ST Runner",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-12",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/359/589/original/367137_13.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/359/589/original/367137_13.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/359/589/original/367137_13.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/st-runner-v2-mesh-ac-infant-peacoat-vibrant-orange-367137-13",
+                "flightClub": "https://flightclub.com/st-runner-v2-mesh-ac-infant-peacoat-vibrant-orange-367137-13",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "63694b09-d397-4c14-87a3-a5ec9d921bff",
+            "sku": "380549-01",
+            "brand": "Puma",
+            "name": "CA Pro Infant 'Heritage'",
+            "colorway": "White/White/Black",
+            "gender": "infant",
+            "silhouette": "CA Pro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-12",
+            "retailPrice": 55,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/359/601/original/380549_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/359/601/original/380549_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/359/601/original/380549_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ca-pro-infant-heritage-380549-01",
+                "flightClub": "https://flightclub.com/ca-pro-infant-heritage-380549-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "684c597a-1d28-4fa1-bf28-d5e61e24d100",
+            "sku": "380925-02",
+            "brand": "Puma",
+            "name": "CA Pro Infant 'Astronauts - Black'",
+            "colorway": "Black/Black",
+            "gender": "infant",
+            "silhouette": "CA Pro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-12",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/359/605/original/380925_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/359/605/original/380925_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/359/605/original/380925_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ca-pro-infant-astronauts-black-380925-02",
+                "flightClub": "https://flightclub.com/ca-pro-infant-astronauts-black-380925-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7d408548-7193-4e3e-9e24-2e884a74476e",
+            "sku": "381924-01",
+            "brand": "Puma",
+            "name": "PEANUTS x Future Rider Infant 'Black Maize'",
+            "colorway": "Black/Maize",
+            "gender": "infant",
+            "silhouette": "Future Rider",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-12",
+            "retailPrice": 60,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/359/607/original/381924_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/359/607/original/381924_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/359/607/original/381924_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/peanuts-x-future-rider-infant-black-maize-381924-01",
+                "flightClub": "https://flightclub.com/peanuts-x-future-rider-infant-black-maize-381924-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d3091248-fb63-457b-8f01-99c697c3a6ba",
+            "sku": "380572-02",
+            "brand": "Puma",
+            "name": "Basket Classic 21 Infant 'White Black'",
+            "colorway": "White/Black",
+            "gender": "infant",
+            "silhouette": "Basket",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-12",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/359/602/original/380572_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/359/602/original/380572_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/359/602/original/380572_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/basket-classic-21-infant-white-black-380572-02",
+                "flightClub": "https://flightclub.com/basket-classic-21-infant-white-black-380572-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0433f338-ba3f-43d6-8e9c-18620aa7fb05",
+            "sku": "382687-01",
+            "brand": "Puma",
+            "name": "Suede Triplex Infant 'Black Steel Grey'",
+            "colorway": "Black/Steel Grey/White",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-11",
+            "retailPrice": 45,
+            "estimatedMarketValue": 45,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/172/original/382687_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/172/original/382687_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/172/original/382687_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-triplex-infant-black-steel-grey-382687-01",
+                "flightClub": "https://flightclub.com/suede-triplex-infant-black-steel-grey-382687-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0d3c8e53-af18-4c00-8c90-91df888588aa",
+            "sku": "365174-02",
+            "brand": "Puma",
+            "name": "Smash V2 Infant 'White'",
+            "colorway": "White/White",
+            "gender": "infant",
+            "silhouette": "Smash",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-11",
+            "retailPrice": 40,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/359/581/original/365174_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/359/581/original/365174_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/359/581/original/365174_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/smash-v2-infant-white-365174-02",
+                "flightClub": "https://flightclub.com/smash-v2-infant-white-365174-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "173899fe-9edd-48ca-a313-a31d98197677",
+            "sku": "369541-04",
+            "brand": "Puma",
+            "name": "Vista Infant 'Elderberry'",
+            "colorway": "Elderberry/White",
+            "gender": "infant",
+            "silhouette": "Vista",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-11",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/359/590/original/369541_04.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/359/590/original/369541_04.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/359/590/original/369541_04.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/vista-infant-elderberry-369541-04",
+                "flightClub": "https://flightclub.com/vista-infant-elderberry-369541-04",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1d873d07-21f8-4b5c-a979-9a89088266f4",
+            "sku": "365174-01",
+            "brand": "Puma",
+            "name": "Smash V2 Infant 'Black'",
+            "colorway": "Black/Black",
+            "gender": "infant",
+            "silhouette": "Smash",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-11",
+            "retailPrice": 40,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/359/579/original/365174_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/359/579/original/365174_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/359/579/original/365174_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/smash-v2-infant-black-365174-01",
+                "flightClub": "https://flightclub.com/smash-v2-infant-black-365174-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5be34f18-6b91-4895-b223-ee9d6c4eaf9f",
+            "sku": "380935-01",
+            "brand": "Puma",
+            "name": "PEANUTS x Suede Classic 21 Infant 'Snoopy, Woodstock and Charlie Brown'",
+            "colorway": "Black/White",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-11",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/164/original/380935_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/164/original/380935_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/164/original/380935_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/peanuts-x-suede-classic-21-infant-snoopy-woodstock-and-charlie-brown-380935-01",
+                "flightClub": "https://flightclub.com/peanuts-x-suede-classic-21-infant-snoopy-woodstock-and-charlie-brown-380935-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9827998e-e966-4d72-a83a-c81ef81a419f",
+            "sku": "380564-02",
+            "brand": "Puma",
+            "name": "Suede Classic 21 AC Infant 'High Risk Red White'",
+            "colorway": "High Risk Red/White",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-11",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/152/original/380564_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/152/original/380564_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/152/original/380564_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-classic-21-ac-infant-high-risk-red-white-380564-02",
+                "flightClub": "https://flightclub.com/suede-classic-21-ac-infant-high-risk-red-white-380564-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c7ca4346-b2d9-4f3e-b710-b82516e0b4d5",
+            "sku": "380564-01",
+            "brand": "Puma",
+            "name": "Suede Classic 21 AC Infant 'Black White'",
+            "colorway": "Black/White",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-11",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/151/original/380564_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/151/original/380564_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/151/original/380564_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-classic-21-ac-infant-black-white-380564-01",
+                "flightClub": "https://flightclub.com/suede-classic-21-ac-infant-black-white-380564-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cba9307a-4ced-40d4-8247-295f763a60e5",
+            "sku": "383474-01",
+            "brand": "Puma",
+            "name": "Haribo x RS-X3 Infant 'White Team Gold'",
+            "colorway": "White/Team Gold",
+            "gender": "infant",
+            "silhouette": "RS-X3",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-11",
+            "retailPrice": 70,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/359/623/original/383474_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/359/623/original/383474_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/359/623/original/383474_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/haribo-x-rs-x3-infant-white-team-gold-383474-01",
+                "flightClub": "https://flightclub.com/haribo-x-rs-x3-infant-white-team-gold-383474-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0270c991-4c60-4c2c-8a40-66fd0a64ce11",
+            "sku": "354260-12",
+            "brand": "Puma",
+            "name": "Roma Basic Infant 'Black'",
+            "colorway": "Black/Black",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-10",
+            "retailPrice": 40,
+            "estimatedMarketValue": 32,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/139/original/354260_12.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/139/original/354260_12.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/139/original/354260_12.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/roma-basic-infant-black-354260-12",
+                "flightClub": "https://flightclub.com/roma-basic-infant-black-354260-12",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0dcea5af-b426-4393-9e1d-6750f3854d5b",
+            "sku": "380891-01",
+            "brand": "Puma",
+            "name": "Suede Street Art Infant 'Black Vibrant Orange'",
+            "colorway": "Black/Vibrant Orange",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-10",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/160/original/380891_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/160/original/380891_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/160/original/380891_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-street-art-infant-black-vibrant-orange-380891-01",
+                "flightClub": "https://flightclub.com/suede-street-art-infant-black-vibrant-orange-380891-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3d0aef2a-1cfd-4671-827a-b00ffd53cd1f",
+            "sku": "382841-01",
+            "brand": "Puma",
+            "name": "Haribo x Suede Triplex Infant 'Gold Bears'",
+            "colorway": "Mimosa/Whisper White",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-10",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/174/original/382841_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/174/original/382841_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/174/original/382841_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/haribo-x-suede-triplex-infant-gold-bears-382841-01",
+                "flightClub": "https://flightclub.com/haribo-x-suede-triplex-infant-gold-bears-382841-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5e915591-9203-4e9a-b192-a98bf7feee51",
+            "sku": "385700-02",
+            "brand": "Puma",
+            "name": "Mayze Wild Infant 'Tiger's Eye'",
+            "colorway": "Black/Tiger'S Eye",
+            "gender": "infant",
+            "silhouette": "Mayze",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-10",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/199/original/385700_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/199/original/385700_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/199/original/385700_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/mayze-wild-infant-tiger-s-eye-385700-02",
+                "flightClub": "https://flightclub.com/mayze-wild-infant-tiger-s-eye-385700-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9045c928-722b-4c63-bfb1-b7401a854711",
+            "sku": "354260-01",
+            "brand": "Puma",
+            "name": "Roma Basic Infant 'Black White'",
+            "colorway": "Black/White/Silver",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-10",
+            "retailPrice": 40,
+            "estimatedMarketValue": 32,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/137/original/354260_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/137/original/354260_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/137/original/354260_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/roma-basic-infant-black-white-354260-01",
+                "flightClub": "https://flightclub.com/roma-basic-infant-black-white-354260-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "92451c4a-5bfe-4244-8bd3-c8c5a9ef7f31",
+            "sku": "385686-02",
+            "brand": "Puma",
+            "name": "Mayze Leather Infant 'Black Team Gold'",
+            "colorway": "Black/Team Gold",
+            "gender": "infant",
+            "silhouette": "Mayze",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-10",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/198/original/385686_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/198/original/385686_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/198/original/385686_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/mayze-leather-infant-black-team-gold-385686-02",
+                "flightClub": "https://flightclub.com/mayze-leather-infant-black-team-gold-385686-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bf7f0a0a-405f-4bd3-9a5d-a07e3b3f2a28",
+            "sku": "382681-04",
+            "brand": "Puma",
+            "name": "RS-Z Infant 'White Black'",
+            "colorway": "White/Black",
+            "gender": "infant",
+            "silhouette": "RS-Z",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-10",
+            "retailPrice": 60,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/359/609/original/382681_04.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/359/609/original/382681_04.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/359/609/original/382681_04.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rs-z-infant-white-black-382681-04",
+                "flightClub": "https://flightclub.com/rs-z-infant-white-black-382681-04",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e4eca263-fdd8-4128-829e-61524d1a8b48",
+            "sku": "385686-01",
+            "brand": "Puma",
+            "name": "Mayze Leather Infant 'White Team Gold'",
+            "colorway": "White/Team Gold",
+            "gender": "infant",
+            "silhouette": "Mayze",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-10",
+            "retailPrice": 50,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/197/original/385686_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/197/original/385686_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/197/original/385686_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/mayze-leather-infant-white-team-gold-385686-01",
+                "flightClub": "https://flightclub.com/mayze-leather-infant-white-team-gold-385686-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "feb3e99d-9926-48fb-9921-785b096bec50",
+            "sku": "354260-14",
+            "brand": "Puma",
+            "name": "Roma Basic Infant 'White Light Grey'",
+            "colorway": "White/Light Grey",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-10",
+            "retailPrice": 40,
+            "estimatedMarketValue": 37,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/140/original/354260_14.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/140/original/354260_14.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/140/original/354260_14.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/roma-basic-infant-white-light-grey-354260-14",
+                "flightClub": "https://flightclub.com/roma-basic-infant-white-light-grey-354260-14",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a9283f9c-7c3c-488b-821f-e1aae21cd27f",
+            "sku": "380572-01",
+            "brand": "Puma",
+            "name": "Basket Classic 21 Infant 'White'",
+            "colorway": "White/White",
+            "gender": "infant",
+            "silhouette": "Basket",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-06",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/153/original/380572_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/153/original/380572_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/153/original/380572_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/basket-classic-21-infant-white-380572-01",
+                "flightClub": "https://flightclub.com/basket-classic-21-infant-white-380572-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d2fa5859-cc5f-43e4-b7a5-0483897b8b83",
+            "sku": "385739-05",
+            "brand": "Puma",
+            "name": "Fluff Slide Little Kid 'Lavender Fog'",
+            "colorway": "Lavender Fog/Opera Mauve",
+            "gender": "infant",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-06",
+            "retailPrice": 25,
+            "estimatedMarketValue": 25,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/202/004/original/385739_05.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/202/004/original/385739_05.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/202/004/original/385739_05.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/fluff-slide-little-kid-lavender-fog-385739-05",
+                "flightClub": "https://flightclub.com/fluff-slide-little-kid-lavender-fog-385739-05",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "59e11d11-e0e8-464f-bf44-f74c222c21f1",
+            "sku": "381576-01",
+            "brand": "Puma",
+            "name": "Suede Classic LFS Infant 'Black'",
+            "colorway": "Black",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-05",
+            "retailPrice": 40,
+            "estimatedMarketValue": 95,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/167/original/381576_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/167/original/381576_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/167/original/381576_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-classic-lfs-infant-black-381576-01",
+                "flightClub": "https://flightclub.com/suede-classic-lfs-infant-black-381576-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d1347ef1-4565-44a0-ad4e-bd56a5475dd7",
+            "sku": "380891-02",
+            "brand": "Puma",
+            "name": "Suede Street Art Infant 'Nimbus Cloud Nebulas Blue'",
+            "colorway": "Nimbus Cloud/Nebulas Blue",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-05",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/293/162/original/380891_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/293/162/original/380891_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/293/162/original/380891_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-street-art-infant-nimbus-cloud-nebulas-blue-380891-02",
+                "flightClub": "https://flightclub.com/suede-street-art-infant-nimbus-cloud-nebulas-blue-380891-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e67edeca-15ad-436a-b153-7b2fd1ba0e40",
+            "sku": "385383-01",
+            "brand": "Puma",
+            "name": "RS-X Infant 'Global Futurism'",
+            "colorway": "Black/Spellbound/Saffron/Bluemazing",
+            "gender": "infant",
+            "silhouette": "RS-X",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-04",
+            "retailPrice": 60,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/890/968/original/385383_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/890/968/original/385383_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/890/968/original/385383_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rs-x-infant-global-futurism-385383-01",
+                "flightClub": "https://flightclub.com/rs-x-infant-global-futurism-385383-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9da62d95-46a5-43f8-8b95-5d49a0a98887",
+            "sku": "384512-03",
+            "brand": "Puma",
+            "name": "Mirage Sport Infant 'Black High Risk Red'",
+            "colorway": "Black/Dark Shadow/High Risk Red",
+            "gender": "infant",
+            "silhouette": "Mirage Sport",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-03",
+            "retailPrice": 60,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/890/955/original/384512_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/890/955/original/384512_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/890/955/original/384512_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/mirage-sport-infant-black-high-risk-red-384512-03",
+                "flightClub": "https://flightclub.com/mirage-sport-infant-black-high-risk-red-384512-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fc64f8ec-d99f-4d71-bb08-e94ceb8c1444",
+            "sku": "384512-04",
+            "brand": "Puma",
+            "name": "Mirage Sport Infant 'White Deep Orchid'",
+            "colorway": "White/Parisian Night/Deep Orchid",
+            "gender": "infant",
+            "silhouette": "Mirage Sport",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-03",
+            "retailPrice": 60,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/890/956/original/384512_04.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/890/956/original/384512_04.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/890/956/original/384512_04.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/mirage-sport-infant-white-deep-orchid-384512-04",
+                "flightClub": "https://flightclub.com/mirage-sport-infant-white-deep-orchid-384512-04",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "93d5b1cf-94a4-4cc0-b649-32bc720d558d",
+            "sku": "385809-01",
+            "brand": "Puma",
+            "name": "L.O.L. Surprise! x Cruise Rider Infant 'Bon Bon'",
+            "colorway": "Purple Rose/White",
+            "gender": "infant",
+            "silhouette": "Cruise Rider",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-29",
+            "retailPrice": 50,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/042/424/original/385809_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/042/424/original/385809_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/042/424/original/385809_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/l-o-l-surprise-x-cruise-rider-infant-bon-bon-385809-01",
+                "flightClub": "https://flightclub.com/l-o-l-surprise-x-cruise-rider-infant-bon-bon-385809-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5624f564-60f7-4e2e-a52f-2db065aa2fa7",
+            "sku": "385085-01",
+            "brand": "Puma",
+            "name": "L.O.L. Surprise! x Future Rider Infant 'VRQT'",
+            "colorway": "Aruba Blue/Luminous Pink",
+            "gender": "infant",
+            "silhouette": "Future Rider",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-26",
+            "retailPrice": 50,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/042/418/original/385085_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/042/418/original/385085_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/042/418/original/385085_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/l-o-l-surprise-x-future-rider-infant-vrqt-385085-01",
+                "flightClub": "https://flightclub.com/l-o-l-surprise-x-future-rider-infant-vrqt-385085-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cb073ff3-e466-40fc-914c-89e6650ad62c",
+            "sku": "382835-01",
+            "brand": "Puma",
+            "name": "Tinycottons x Suede Infant 'Tiny Ants'",
+            "colorway": "Baja Blue/Whisper White",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-26",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/062/413/560/original/382835_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/062/413/560/original/382835_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/062/413/560/original/382835_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/tinycottons-x-suede-infant-tiny-ants-382835-01",
+                "flightClub": "https://flightclub.com/tinycottons-x-suede-infant-tiny-ants-382835-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ec24e39b-67ac-4910-b167-28f0de9125c4",
+            "sku": "384523-01",
+            "brand": "Puma",
+            "name": "Cali Dream Infant 'White Chalk Pink'",
+            "colorway": "White/Marshmallow/Chalk Pink",
+            "gender": "infant",
+            "silhouette": "Cali",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-26",
+            "retailPrice": 55,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/714/558/original/384523_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/714/558/original/384523_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/714/558/original/384523_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/cali-dream-infant-white-chalk-pink-384523-01",
+                "flightClub": "https://flightclub.com/cali-dream-infant-white-chalk-pink-384523-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "125acfca-304b-4949-a2f0-ff90e82c13ac",
+            "sku": "375868-02",
+            "brand": "Puma",
+            "name": "RS-X Infant 'T3CH - Asphalt Red Blast'",
+            "colorway": "Asphalt/Red Blast/Black",
+            "gender": "infant",
+            "silhouette": "RS-X",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-22",
+            "retailPrice": 60,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/042/403/original/375868_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/042/403/original/375868_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/042/403/original/375868_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rs-x-infant-t3ch-asphalt-red-blast-375868-02",
+                "flightClub": "https://flightclub.com/rs-x-infant-t3ch-asphalt-red-blast-375868-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "77ccadd4-3df0-4fee-bcec-5077b5952e79",
+            "sku": "382832-01",
+            "brand": "Puma",
+            "name": "Tinycottons x Future Rider Infant 'Cowhide Pheasant'",
+            "colorway": "Cowhide/Pheasant",
+            "gender": "infant",
+            "silhouette": "Future Rider",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-26",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/062/413/557/original/382832_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/062/413/557/original/382832_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/062/413/557/original/382832_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/tinycottons-x-future-rider-infant-cowhide-pheasant-382832-01",
+                "flightClub": "https://flightclub.com/tinycottons-x-future-rider-infant-cowhide-pheasant-382832-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4218fee2-0687-445c-8e73-46af3f0559d6",
+            "sku": "382838-01",
+            "brand": "Puma",
+            "name": "Tinycottons x CA Pro Infant 'Dusty Coral Grenadine'",
+            "colorway": "Dusty Coral/Grenadine",
+            "gender": "infant",
+            "silhouette": "CA Pro",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-22",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/062/413/563/original/382838_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/062/413/563/original/382838_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/062/413/563/original/382838_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/tinycottons-x-ca-pro-infant-dusty-coral-grenadine-382838-01",
+                "flightClub": "https://flightclub.com/tinycottons-x-ca-pro-infant-dusty-coral-grenadine-382838-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "884b5210-4afc-46fe-8d25-6370789fa7fd",
+            "sku": "375699-11",
+            "brand": "Puma",
+            "name": "RS-Fast Infant 'Black Urban Red'",
+            "colorway": "Black/Peony/Paradise Pink",
+            "gender": "infant",
+            "silhouette": "RS-Fast",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-01",
+            "retailPrice": 60,
+            "estimatedMarketValue": 30,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/561/915/original/835290_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/561/915/original/835290_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/561/915/original/835290_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rs-fast-infant-black-urban-red-375699-11",
+                "flightClub": "https://flightclub.com/rs-fast-infant-black-urban-red-375699-11",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "da57ccd9-f9d9-48fa-8970-d9af1be93414",
+            "sku": "375699-10",
+            "brand": "Puma",
+            "name": "RS-Fast Infant 'Black Urban Red'",
+            "colorway": "Black/Urban Red/Future Blue",
+            "gender": "infant",
+            "silhouette": "RS-Fast",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-01",
+            "retailPrice": 60,
+            "estimatedMarketValue": 26,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/848/116/original/835289_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/848/116/original/835289_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/848/116/original/835289_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rs-fast-infant-black-urban-red-375699-10",
+                "flightClub": "https://flightclub.com/rs-fast-infant-black-urban-red-375699-10",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5635d28d-1673-4a1d-b04b-32f22b060d32",
+            "sku": "383075-01",
+            "brand": "Puma",
+            "name": "Animal Crossing x Suede Infant 'New Horizons'",
+            "colorway": "Whisper White/Whisper White/Light Sky",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-18",
+            "retailPrice": 50,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/752/845/original/383075_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/752/845/original/383075_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/752/845/original/383075_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/animal-crossing-x-suede-infant-new-horizons-383075-01",
+                "flightClub": "https://flightclub.com/animal-crossing-x-suede-infant-new-horizons-383075-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b9754e6e-add2-4305-bf8b-155699bdc356",
+            "sku": "383072-01",
+            "brand": "Puma",
+            "name": "Animal Crossing x Wild Rider Infant 'New Horizons'",
+            "colorway": "Light Sky/Whisper White",
+            "gender": "infant",
+            "silhouette": "Wild Rider",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-18",
+            "retailPrice": 70,
+            "estimatedMarketValue": 94,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/752/840/original/383072_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/752/840/original/383072_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/752/840/original/383072_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/animal-crossing-x-wild-rider-infant-new-horizons-383072-01",
+                "flightClub": "https://flightclub.com/animal-crossing-x-wild-rider-infant-new-horizons-383072-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bf1518df-1994-4b1a-96c6-1d8c4611e999",
+            "sku": "383078-01",
+            "brand": "Puma",
+            "name": "Animal Crossing x Future Rider Infant 'New Horizons'",
+            "colorway": "Bok Choy/White/Rosewater",
+            "gender": "infant",
+            "silhouette": "Future Rider",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-18",
+            "retailPrice": 60,
+            "estimatedMarketValue": 63,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/752/848/original/383078_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/752/848/original/383078_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/752/848/original/383078_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/animal-crossing-x-future-rider-infant-new-horizons-383078-01",
+                "flightClub": "https://flightclub.com/animal-crossing-x-future-rider-infant-new-horizons-383078-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "af3acd46-68d8-4353-b626-670b692f8a05",
+            "sku": "384444-01",
+            "brand": "Puma",
+            "name": "Wild Rider Toddler 'Rollin' - Pink Glow Yellow'",
+            "colorway": "White/Pink Glow/Yellow",
+            "gender": "infant",
+            "silhouette": "Wild Rider",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-16",
+            "retailPrice": 60,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/680/080/original/384444_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/680/080/original/384444_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/680/080/original/384444_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wild-rider-toddler-rollin-pink-glow-yellow-384444-01",
+                "flightClub": "https://flightclub.com/wild-rider-toddler-rollin-pink-glow-yellow-384444-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fb57c04d-1776-4502-928d-4d0410bf2d44",
+            "sku": "306861-03",
+            "brand": "Puma",
+            "name": "Scuderia Ferrari x Roma Toddler 'Rosso Corsa'",
+            "colorway": "Rosso Corsa/Rosso Corsa",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-16",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/705/626/original/306861_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/705/626/original/306861_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/705/626/original/306861_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/scuderia-ferrari-x-roma-toddler-rosso-corsa-306861-03",
+                "flightClub": "https://flightclub.com/scuderia-ferrari-x-roma-toddler-rosso-corsa-306861-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "701fa6ea-ab92-47b0-8daf-b2650dde623e",
+            "sku": "306861-02",
+            "brand": "Puma",
+            "name": "Scuderia Ferrari x Roma Toddler 'White'",
+            "colorway": "White/White",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-15",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/705/625/original/306861_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/705/625/original/306861_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/705/625/original/306861_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/scuderia-ferrari-x-roma-toddler-white-306861-02",
+                "flightClub": "https://flightclub.com/scuderia-ferrari-x-roma-toddler-white-306861-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "da28da67-54a6-4652-b2d4-54dff35392ca",
+            "sku": "306861-01",
+            "brand": "Puma",
+            "name": "Scuderia Ferrari x Roma Toddler 'Black'",
+            "colorway": "Black/Black",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-15",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "Inspired by motorsport, the Scuderia Ferrari x PUMA Roma Toddler ‘Black’ dresses the sleek low-top in a leather upper with perforated Formstrip branding. A low-cut mesh collar combines with a foam-lined leather tongue to provide a comfortable fit. A yellow Ferrari badge decorates the lateral heel, while PUMA’s jumping cat logo adorns the woven tongue tag and heel overlay. The sneaker rides on a black EVA midsole and color-matched herringbone-traction rubber outsole.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/705/624/original/306861_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/705/624/original/306861_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/705/624/original/306861_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/scuderia-ferrari-x-roma-toddler-black-306861-01",
+                "flightClub": "https://flightclub.com/scuderia-ferrari-x-roma-toddler-black-306861-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2b60f806-2647-429b-9430-56ea57deb956",
+            "sku": "382953-01",
+            "brand": "Puma",
+            "name": "Roma Toddler 'Art of Sport'",
+            "colorway": "Black/High Risk Red",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-14",
+            "retailPrice": 40,
+            "estimatedMarketValue": 114,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/680/074/original/382953_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/680/074/original/382953_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/680/074/original/382953_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/roma-toddler-art-of-sport-382953-01",
+                "flightClub": "https://flightclub.com/roma-toddler-art-of-sport-382953-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "14059ae9-dce0-4611-a75b-cfe822a49d34",
+            "sku": "384574-01",
+            "brand": "Puma",
+            "name": "Bratz x Cruise Rider Little Infant 'White Spring Crocus'",
+            "colorway": "White/Spring Crocus",
+            "gender": "infant",
+            "silhouette": "Cruise Rider",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-26",
+            "retailPrice": 65,
+            "estimatedMarketValue": 65,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/059/737/635/original/384574_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/059/737/635/original/384574_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/059/737/635/original/384574_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/bratz-x-cruise-rider-little-infant-white-spring-crocus-384574-01",
+                "flightClub": "https://flightclub.com/bratz-x-cruise-rider-little-infant-white-spring-crocus-384574-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "735293b1-e6a2-4df7-831b-f43f234a1be2",
+            "sku": "380734-03",
+            "brand": "Puma",
+            "name": "Suede Lil Infant 'Bird'",
+            "colorway": "Lotus/White",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-24",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/059/737/604/original/380734_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/059/737/604/original/380734_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/059/737/604/original/380734_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-lil-infant-bird-380734-03",
+                "flightClub": "https://flightclub.com/suede-lil-infant-bird-380734-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e88b5daa-5716-42b0-999c-e0af4bfa6e74",
+            "sku": "380734-02",
+            "brand": "Puma",
+            "name": "Suede Lil Infant 'Shark'",
+            "colorway": "Blue Fog/White",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-24",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/059/737/603/original/380734_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/059/737/603/original/380734_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/059/737/603/original/380734_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-lil-infant-shark-380734-02",
+                "flightClub": "https://flightclub.com/suede-lil-infant-shark-380734-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fd827e54-2aef-4332-8c00-724fff4ab620",
+            "sku": "380734-01",
+            "brand": "Puma",
+            "name": "Suede Lil Infant 'Cat'",
+            "colorway": "Black/Asphalt",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-24",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/059/737/602/original/380734_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/059/737/602/original/380734_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/059/737/602/original/380734_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-lil-infant-cat-380734-01",
+                "flightClub": "https://flightclub.com/suede-lil-infant-cat-380734-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5abcf295-82b9-4fc5-9925-6643c8dd6f87",
+            "sku": "382030-03",
+            "brand": "Puma",
+            "name": "Wild Rider Infant 'Rollin - Ebony White'",
+            "colorway": "Ebony/White",
+            "gender": "infant",
+            "silhouette": "Wild Rider",
+            "releaseYear": "2021",
+            "releaseDate": "2021-06-05",
+            "retailPrice": 60,
+            "estimatedMarketValue": 42,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/025/144/original/382030_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/025/144/original/382030_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/025/144/original/382030_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wild-rider-infant-rollin-ebony-white-382030-03",
+                "flightClub": "https://flightclub.com/wild-rider-infant-rollin-ebony-white-382030-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5050af65-9ae2-4f4a-bf38-2b2a3416dc3e",
+            "sku": "382765-01",
+            "brand": "Puma",
+            "name": "RS-X Infant 'Airbrush - Luminous Blue'",
+            "colorway": "White/Red Blast/Luminous Blue",
+            "gender": "infant",
+            "silhouette": "RS-X",
+            "releaseYear": "2021",
+            "releaseDate": "2021-05-18",
+            "retailPrice": 60,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/056/003/955/original/778176_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/056/003/955/original/778176_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/056/003/955/original/778176_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rs-x-infant-airbrush-luminous-blue-382765-01",
+                "flightClub": "https://flightclub.com/rs-x-infant-airbrush-luminous-blue-382765-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "83737832-fd16-4b00-a163-792a0f6f7a92",
+            "sku": "382765-02",
+            "brand": "Puma",
+            "name": "RS-X Infant 'Airbrush - Elektro Green'",
+            "colorway": "White/Luminous Blue/Fizzy Yellow/Elektro Green",
+            "gender": "infant",
+            "silhouette": "RS-X",
+            "releaseYear": "2021",
+            "releaseDate": "2021-05-18",
+            "retailPrice": 60,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/055/271/840/original/382765_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/055/271/840/original/382765_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/055/271/840/original/382765_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rs-x-infant-airbrush-elektro-green-382765-02",
+                "flightClub": "https://flightclub.com/rs-x-infant-airbrush-elektro-green-382765-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f439a491-a6f5-436a-815e-35ac8ef53e5d",
+            "sku": "380840-01",
+            "brand": "Puma",
+            "name": "Cruise Rider Infant 'Ocean Queen'",
+            "colorway": "Eggnog/Silver/Cloud Pink",
+            "gender": "infant",
+            "silhouette": "Cruise Rider",
+            "releaseYear": "2021",
+            "releaseDate": "2021-04-07",
+            "retailPrice": 85,
+            "estimatedMarketValue": 85,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/055/890/379/original/758709_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/055/890/379/original/758709_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/055/890/379/original/758709_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/cruise-rider-infant-ocean-queen-380840-01",
+                "flightClub": "https://flightclub.com/cruise-rider-infant-ocean-queen-380840-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9dd0109e-e5ce-4a91-b63b-cb3d1103d476",
+            "sku": "381961-01",
+            "brand": "Puma",
+            "name": "RS-X Infant 'Spring'",
+            "colorway": "White/Sun Kissed Coral/Aruba Blue",
+            "gender": "infant",
+            "silhouette": "RS-X",
+            "releaseYear": "2021",
+            "releaseDate": "2021-04-05",
+            "retailPrice": 60,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/052/994/816/original/381961_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/994/816/original/381961_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/052/994/816/original/381961_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rs-x-infant-spring-381961-01",
+                "flightClub": "https://flightclub.com/rs-x-infant-spring-381961-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a7e74b81-b384-44e3-8ab2-cc5582382755",
+            "sku": "368704-03",
+            "brand": "Puma",
+            "name": "RS 2.0 Infant 'Arcade Amuse - Nimbus Cloud'",
+            "colorway": "Nimbus Cloud/Nimbus Cloud",
+            "gender": "infant",
+            "silhouette": "RS 2.0",
+            "releaseYear": "2021",
+            "releaseDate": "2021-03-31",
+            "retailPrice": 55,
+            "estimatedMarketValue": 46,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/055/535/514/original/368704_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/055/535/514/original/368704_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/055/535/514/original/368704_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rs-2-0-infant-arcade-amuse-nimbus-cloud-368704-03",
+                "flightClub": "https://flightclub.com/rs-2-0-infant-arcade-amuse-nimbus-cloud-368704-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d860276b-29ff-42f7-b477-333b74e2d1dc",
+            "sku": "368704-02",
+            "brand": "Puma",
+            "name": "RS 2.0 Infant 'Arcade Amuse - Elektro Blue'",
+            "colorway": "Elektro Blue",
+            "gender": "infant",
+            "silhouette": "RS 2.0",
+            "releaseYear": "2021",
+            "releaseDate": "2021-03-31",
+            "retailPrice": 55,
+            "estimatedMarketValue": 48,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/055/535/512/original/368704_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/055/535/512/original/368704_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/055/535/512/original/368704_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rs-2-0-infant-arcade-amuse-elektro-blue-368704-02",
+                "flightClub": "https://flightclub.com/rs-2-0-infant-arcade-amuse-elektro-blue-368704-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2abe7757-c8d9-4c70-adb2-b382624269d6",
+            "sku": "359842-31",
+            "brand": "Puma",
+            "name": "Roma Basic Summer Infant 'Castlerock'",
+            "colorway": "Castlerock/White",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2021",
+            "releaseDate": "2021-03-21",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "The PUMA Roma Basic Summer Infant ‘Castlerock’ delivers a neutral colorway of the training shoe designed to celebrate Italy’s 1968 Euro Cup championship in Rome. Shaped for little feet, the sneaker makes use of a grey textile upper with tonal synthetic leather overlays. The monotone finish is interrupted by a white leather Formstrip and ‘PUMA Roma’ inscribed in metallic gold on the lateral quarter panel. An unexpected pop of neon yellow lands on the foam midsole, supported underfoot by a tacky gum rubber outsole.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/052/186/363/original/359842_31.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/186/363/original/359842_31.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/052/186/363/original/359842_31.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/roma-basic-summer-infant-castlerock-359842-31",
+                "flightClub": "https://flightclub.com/roma-basic-summer-infant-castlerock-359842-31",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "72180325-d477-4171-9ecd-ece9b6998bfc",
+            "sku": "359842-30",
+            "brand": "Puma",
+            "name": "Roma Basic Summer Infant 'Black Star Sapphire'",
+            "colorway": "Black/Star Sapphire",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2021",
+            "releaseDate": "2021-03-21",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "Drawn from the brand’s 1960s archive, the PUMA Roma Basic Summer Infant ‘Black Star Sapphire’ presents a scaled-down version of the retro trainer for little feet. Black textile is utilized on the upper, reinforced with tonal leather overlays and accented with a contrasting blue Formstrip. A matching blue heel tab displays PUMA’s signature jumping cat logo. The low-top rides on a two-tone foam midsole, reinforced with a gum rubber outsole that extends up and around the toe.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/052/186/362/original/359842_30.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/186/362/original/359842_30.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/052/186/362/original/359842_30.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/roma-basic-summer-infant-black-star-sapphire-359842-30",
+                "flightClub": "https://flightclub.com/roma-basic-summer-infant-black-star-sapphire-359842-30",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "add27cb3-7618-4dba-bbdb-130005940278",
+            "sku": "359842-32",
+            "brand": "Puma",
+            "name": "Roma Basic Summer Infant 'Pink Lady Poppy Red'",
+            "colorway": "Pink Lady/Poppy Red",
+            "gender": "infant",
+            "silhouette": "Roma",
+            "releaseYear": "2021",
+            "releaseDate": "2021-03-21",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "The PUMA Roma Basic Summer Infant ‘Pink Lady Poppy Red’ showcases bright candy colors on a scaled-down version of the vintage silhouette. A vibrant pink finish is applied to a textile upper with tonal leather overlays at the toe and heel. Branding elements include a scarlet leather Formstrip and ‘PUMA Roma’ stamped in metallic gold on the lateral quarter panel. Underfoot, a herringbone-tread gum rubber outsole delivers grippy traction.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/052/186/364/original/359842_32.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/186/364/original/359842_32.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/052/186/364/original/359842_32.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/roma-basic-summer-infant-pink-lady-poppy-red-359842-32",
+                "flightClub": "https://flightclub.com/roma-basic-summer-infant-pink-lady-poppy-red-359842-32",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ba1e91f7-45b1-4b29-92d8-2a746c2dc1a2",
+            "sku": "380568-03",
+            "brand": "Puma",
+            "name": "Suede Teams Infant 'Los Angeles Lakers'",
+            "colorway": "Prism Violet/Spectra Yellow",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2021",
+            "releaseDate": "2021-03-14",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/052/186/397/original/380568_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/186/397/original/380568_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/052/186/397/original/380568_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-teams-infant-los-angeles-lakers-380568-03",
+                "flightClub": "https://flightclub.com/suede-teams-infant-los-angeles-lakers-380568-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d62659f9-ad80-4dea-9271-114b06216e7a",
+            "sku": "380568-01",
+            "brand": "Puma",
+            "name": "Suede Teams Infant 'Knicks'",
+            "colorway": "Royal/Vibrant Orange",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2021",
+            "releaseDate": "2021-03-14",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/052/186/396/original/380568_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/186/396/original/380568_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/052/186/396/original/380568_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-teams-infant-knicks-380568-01",
+                "flightClub": "https://flightclub.com/suede-teams-infant-knicks-380568-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "83687529-251c-4334-b446-c4de0dcc1f56",
+            "sku": "375094-02",
+            "brand": "Puma",
+            "name": "Ralph Sampson Low Infant 'Time4Change - Peachskin'",
+            "colorway": "Peachskin/Black",
+            "gender": "infant",
+            "silhouette": "Ralph Sampson",
+            "releaseYear": "2021",
+            "releaseDate": "2021-02-20",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "The PUMA Ralph Sampson Low Infant ‘Peachskin’ is drawn from the Time4Change collection, featuring kids’ shoes and apparel made with sustainable materials. This scaled-down iteration of the vintage hoops shoe replaces traditional lace closure with dual hook-and-loop straps. They secure a peach-hued recycled cotton upper, fortified with tonal synthetic leather at the toe and heel. Time4Change branding adorns a midfoot overlay constructed from recycled polyurethane.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/050/830/570/original/375094_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/830/570/original/375094_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/050/830/570/original/375094_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ralph-sampson-low-infant-time4change-peachskin-375094-02",
+                "flightClub": "https://flightclub.com/ralph-sampson-low-infant-time4change-peachskin-375094-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e5b43af2-c5f1-40d9-86e9-358311fc41f3",
+            "sku": "375094-01",
+            "brand": "Puma",
+            "name": "Ralph Sampson Low Infant 'Time4Change - Peacoat'",
+            "colorway": "Peacoat/Peacoat",
+            "gender": "infant",
+            "silhouette": "Ralph Sampson",
+            "releaseYear": "2021",
+            "releaseDate": "2021-02-20",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "The PUMA Ralph Sampson Low Infant ‘Peacoat’ is taken from the brand’s ‘Time4Change’ collection, an eco-friendly assortment of apparel and footwear built with sustainable materials. This mini version of the retro hoops shoe features dual hook-and-loops straps and a navy textile upper constructed from recycled cotton. The sneaker’s uniform palette is enlivened by a striped detailing on the collar lining and Ralph Sampson’s gold-foil signature on the lateral quarter panel. Time4Change branding adorns an accompanying midfoot overlay.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/050/830/569/original/375094_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/830/569/original/375094_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/050/830/569/original/375094_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ralph-sampson-low-infant-time4change-peacoat-375094-01",
+                "flightClub": "https://flightclub.com/ralph-sampson-low-infant-time4change-peacoat-375094-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "40087756-bbbc-487d-a2c7-e91b4048e7c4",
+            "sku": "381792-01",
+            "brand": "Puma",
+            "name": "Cruise Rider Infant 'Viridian Green'",
+            "colorway": "Viridian Green/Aquamarine",
+            "gender": "infant",
+            "silhouette": "Cruise Rider",
+            "releaseYear": "2021",
+            "releaseDate": "2021-02-19",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "The PUMA Cruise Rider Infant ‘Viridian Green’ combines exaggerated tooling with a layered, retro-inspired build. Emerald mesh on the upper is fortified with overlays in textile and synthetic suede, as well as a hint of patent leather wrapped around the heel. The sneaker is mounted on a stacked injection-molded EVA midsole, good for lightweight cushioning with each step. Underfoot, the rubber outsole features a waffle-style tread for reliable traction.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/050/830/610/original/381792_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/830/610/original/381792_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/050/830/610/original/381792_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/cruise-rider-infant-viridian-green-381792-01",
+                "flightClub": "https://flightclub.com/cruise-rider-infant-viridian-green-381792-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "44019585-eba4-4741-8c37-61e64ee0cd56",
+            "sku": "380825-01",
+            "brand": "Puma",
+            "name": "Suede Classic 21 Infant 'Black White'",
+            "colorway": "Black/White",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2021",
+            "releaseDate": "2021-02-18",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "The PUMA Suede Classic 21 Infant ‘Black White’ delivers a scaled-down version of the classic silhouette, featuring a lightly refreshed build made for the 21st century. The upper is constructed from the sneaker’s eponymous material, unheard of for use in a basketball shoe in 1968 — the year the low-top originally released. In addition to an off-white suede Formstrip, contrast-hued branding elements include an archival tongue tag and a gold-foil PUMA Suede wordmark on the lateral side panel.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/050/830/593/original/380825_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/830/593/original/380825_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/050/830/593/original/380825_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-classic-21-infant-black-white-380825-01",
+                "flightClub": "https://flightclub.com/suede-classic-21-infant-black-white-380825-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5375cd2a-6098-439a-80a0-318641814b14",
+            "sku": "380825-02",
+            "brand": "Puma",
+            "name": "Suede Classic 21 Infant 'High Risk Red'",
+            "colorway": "High Risk Red/White",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2021",
+            "releaseDate": "2021-02-18",
+            "retailPrice": 40,
+            "estimatedMarketValue": 105,
+            "story": "The PUMA Suede Classic 21 Infant ‘High Risk Red’ brings back the 1968 basketball shoe in a lightly redesigned iteration made for little feet. The upper is immersed in an eye-catching shade of crimson, contrasted by an off-white suede Formstrip and metallic gold PUMA Suede branding. A removable foam sockliner combines with a textile-lined interior to deliver a comfortable fit. Underfoot, a non-marking rubber outsole provides durable traction.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/056/004/451/original/739765_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/056/004/451/original/739765_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/056/004/451/original/739765_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-classic-21-infant-high-risk-red-380825-02",
+                "flightClub": "https://flightclub.com/suede-classic-21-infant-high-risk-red-380825-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c53e2e2e-a35c-4e53-a49e-fc14004b8663",
+            "sku": "380825-04",
+            "brand": "Puma",
+            "name": "Suede Classic 21 Infant 'Black'",
+            "colorway": "Black/Black",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2021",
+            "releaseDate": "2021-02-18",
+            "retailPrice": 40,
+            "estimatedMarketValue": 105,
+            "story": "The PUMA Suede Classic 21 Infant ‘Black’ retrieves a vintage basketball shoe from the brand’s late ‘60s archive, scaled down and dipped in ebony for little feet. The one-note finish on the suede upper is disrupted by the sneaker’s branding hits, including a woven tongue tag and ‘PUMA Suede’ stamped in gold lettering on the lateral side panel. The sneaker is mounted on a matching black rubber cupsole, featuring textured sidewalls and a grid-like traction pattern underfoot.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/861/663/original/739768_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/861/663/original/739768_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/861/663/original/739768_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-classic-21-infant-black-380825-04",
+                "flightClub": "https://flightclub.com/suede-classic-21-infant-black-380825-04",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d3029968-6326-421c-883d-6249adf7c420",
+            "sku": "380825-05",
+            "brand": "Puma",
+            "name": "Suede Classic 21 Infant 'Pink Lady'",
+            "colorway": "Pink Lady/White",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2021",
+            "releaseDate": "2021-02-18",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "The PUMA Suede Classic 21 Infant ‘Pink Lady’ features a pastel finish throughout the sneaker’s eponymous upper. The subtle pink hue is contrasted by an off-white suede Formstrip and a PUMA Suede callout in metallic gold lettering. Soft textile lines the interior, which pairs with a removable foam sockliner to provide a comfortable fit for growing feet. The rubber cupsole is undergirded with a traction pattern originally developed for the hardwood.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/055/688/868/original/739769_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/055/688/868/original/739769_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/055/688/868/original/739769_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-classic-21-infant-pink-lady-380825-05",
+                "flightClub": "https://flightclub.com/suede-classic-21-infant-pink-lady-380825-05",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fb6b8375-200f-444e-8b2d-c22ae0590159",
+            "sku": "380825-03",
+            "brand": "Puma",
+            "name": "Suede Classic 21 Infant 'Peacoat'",
+            "colorway": "Peacoat/White",
+            "gender": "infant",
+            "silhouette": "Suede",
+            "releaseYear": "2021",
+            "releaseDate": "2021-02-18",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "The PUMA Suede Classic 21 Infant ‘Peacoat’ features a classic two-tone palette on a scaled down edition of the vintage hoops shoe originally released in 1968. Lightly refreshed for the 21st century, the low-top makes use of a navy suede upper with a contrasting off-white Formstrip. A PUMA Suede wordmark in gold foil lettering shines on the lateral quarter panel. Soft textile lines the interior, while a removable Kinder-Fit sockliner provides step-in comfort.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/053/600/370/original/739766_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/600/370/original/739766_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/053/600/370/original/739766_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/suede-classic-21-infant-peacoat-380825-03",
+                "flightClub": "https://flightclub.com/suede-classic-21-infant-peacoat-380825-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3c864fee-7b21-4b1a-8f8f-1c5d5fb9ea72",
+            "sku": "374438-01",
+            "brand": "Puma",
+            "name": "Cali Sport Infant 'Fireworks'",
+            "colorway": "White/Sun Kissed Coral",
+            "gender": "infant",
+            "silhouette": "Cali",
+            "releaseYear": "2021",
+            "releaseDate": "2021-02-14",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/050/476/989/original/374438_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/476/989/original/374438_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/050/476/989/original/374438_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/cali-sport-infant-fireworks-374438-01",
+                "flightClub": "https://flightclub.com/cali-sport-infant-fireworks-374438-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0d2bbf2a-d727-4345-93bd-5369e41f6c3a",
+            "sku": "368692-01",
+            "brand": "Puma",
+            "name": "Ralph Sampson Low Infant 'Animals - Black Cat'",
+            "colorway": "Black/Black",
+            "gender": "infant",
+            "silhouette": "Ralph Sampson",
+            "releaseYear": "2021",
+            "releaseDate": "2021-01-27",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/049/708/636/original/368692_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/708/636/original/368692_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/049/708/636/original/368692_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ralph-sampson-low-infant-animals-black-cat-368692-01",
+                "flightClub": "https://flightclub.com/ralph-sampson-low-infant-animals-black-cat-368692-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "46edba40-db82-4b63-b07a-c26b3086c6da",
+            "sku": "380161-01",
+            "brand": "Puma",
+            "name": "RS-Fast Infant 'International Game'",
+            "colorway": "White/Empire Yellow",
+            "gender": "infant",
+            "silhouette": "RS-Fast",
+            "releaseYear": "2021",
+            "releaseDate": "2021-01-27",
+            "retailPrice": 60,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/049/708/660/original/380161_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/708/660/original/380161_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/049/708/660/original/380161_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/rs-fast-infant-international-game-380161-01",
+                "flightClub": "https://flightclub.com/rs-fast-infant-international-game-380161-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4a50b786-3da1-4158-89d1-183993814b45",
+            "sku": "368742-02",
+            "brand": "Puma",
+            "name": "Future Rider Infant 'Animals - Panda'",
+            "colorway": "Black/White",
+            "gender": "infant",
+            "silhouette": "Future Rider",
+            "releaseYear": "2021",
+            "releaseDate": "2021-01-27",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/049/708/640/original/368742_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/708/640/original/368742_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/049/708/640/original/368742_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/future-rider-infant-animals-panda-368742-02",
+                "flightClub": "https://flightclub.com/future-rider-infant-animals-panda-368742-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4e1840e9-e84b-40bf-842d-cb2c045ced56",
+            "sku": "368692-03",
+            "brand": "Puma",
+            "name": "Ralph Sampson Low Infant 'Animals - Giraffe'",
+            "colorway": "Eggnog/Eggnog",
+            "gender": "infant",
+            "silhouette": "Ralph Sampson",
+            "releaseYear": "2021",
+            "releaseDate": "2021-01-27",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/049/708/637/original/368692_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/708/637/original/368692_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/049/708/637/original/368692_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ralph-sampson-low-infant-animals-giraffe-368692-03",
+                "flightClub": "https://flightclub.com/ralph-sampson-low-infant-animals-giraffe-368692-03",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}

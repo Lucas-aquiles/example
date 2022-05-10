@@ -1,0 +1,2604 @@
+{
+    "results": [
+        {
+            "id": "73f8e3ae-3bb8-490c-8bd0-380d2395de45",
+            "sku": "1202A040-028",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 3 'Pure Silver Aizuri Blue'",
+            "colorway": "Pure Silver/Aizuri Blue",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-03",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-3-pure-silver-aizuri-blue-1202a040-028",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c78bcd2a-946f-4919-b77d-94a8f35793e5",
+            "sku": "1202A040-001",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 3 'Black Whisper Green'",
+            "colorway": "Black/Whisper Green",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-03",
+            "retailPrice": 85,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-3-black-whisper-green-1202a040-001",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0bdc938c-b4f5-4f8b-aba2-d91fae2b586e",
+            "sku": "1012B068-500",
+            "brand": "ASICS",
+            "name": "Wmns Kinsei Blast 'Deep Plum Barely Rose'",
+            "colorway": "Deep Plum/Barely Rose",
+            "gender": "women",
+            "silhouette": "Kinsei Blast",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 180,
+            "estimatedMarketValue": 250,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://cdn.flightclub.com/missing.png?w=1600",
+                "small": "https://cdn.flightclub.com/missing.png?w=750",
+                "thumbnail": "https://cdn.flightclub.com/missing.png?w=360"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-kinsei-blast-deep-plum-barely-rose-1012b068-500",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1821577a-8d83-452d-b1e8-5b3b59c832b7",
+            "sku": "1202A040-021",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 3 'Piedmont Grey'",
+            "colorway": "Piedmont Grey/White",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 85,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-3-piedmont-grey-1202a040-021",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "29b024d7-276b-4b6d-a026-f7469fb18335",
+            "sku": "1202A040-400",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 3 'French Blue'",
+            "colorway": "French Blue/White",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 85,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-3-french-blue-1202a040-400",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2d9b117e-09b4-448a-a9a4-9e1c20ead21f",
+            "sku": "1012B197-001",
+            "brand": "ASICS",
+            "name": "Wmns GT 1000 11 'Black White'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "GT 1000",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gt-1000-11-black-white-1012b197-001",
+                "flightClub": "https://flightclub.com/wmns-gt-1000-11-black-white-1012b197-001",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3f2cd506-fd1f-4b32-9050-252ce7c04a67",
+            "sku": "1012B071-400",
+            "brand": "ASICS",
+            "name": "Wmns Gel Kayano Lite 2 'Thunder Blue Blazing Coral'",
+            "colorway": "Thunder Blue/Blazing Coral",
+            "gender": "women",
+            "silhouette": "Gel Kayano",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 160,
+            "estimatedMarketValue": 230,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-kayano-lite-2-thunder-blue-blazing-coral-1012b071-400",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "50837ec5-e530-4686-a3d0-4bc66f580d36",
+            "sku": "1012B197-400",
+            "brand": "ASICS",
+            "name": "Wmns GT 1000 11 'Mako Blue Barely Rose'",
+            "colorway": "Mako Blue/Barely Rose",
+            "gender": "women",
+            "silhouette": "GT 1000",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gt-1000-11-mako-blue-barely-rose-1012b197-400",
+                "flightClub": "https://flightclub.com/wmns-gt-1000-11-mako-blue-barely-rose-1012b197-400",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "617458b3-7b30-45c5-bac3-bc99bc5af065",
+            "sku": "1012B197-002",
+            "brand": "ASICS",
+            "name": "Wmns GT 1000 11 'Triple Black'",
+            "colorway": "Black/Black",
+            "gender": "women",
+            "silhouette": "GT 1000",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 100,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gt-1000-11-triple-black-1012b197-002",
+                "flightClub": "https://flightclub.com/wmns-gt-1000-11-triple-black-1012b197-002",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "746d51be-f2a4-4845-97ac-4875cc8f03f8",
+            "sku": "1012B284-100",
+            "brand": "ASICS",
+            "name": "Wmns Gel Nimbus 24 'Tropical'",
+            "colorway": "White/Pink Glow",
+            "gender": "women",
+            "silhouette": "Gel Nimbus",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 160,
+            "estimatedMarketValue": 230,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-nimbus-24-tropical-1012b284-100",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "75305e6a-ac12-46e1-96d6-bb4a307db7e3",
+            "sku": "1202A040-102",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 3 'White Pink Glow'",
+            "colorway": "White/Pink Glow",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 85,
+            "estimatedMarketValue": 135,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-3-white-pink-glow-1202a040-102",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7f969e13-cef4-40dc-8a72-7f3a8f89d93d",
+            "sku": "1202A040-401",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 3 'Aqua Angel Grand Shark'",
+            "colorway": "Aqua Angel/Grand Shark",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 85,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-3-aqua-angel-grand-shark-1202a040-401",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9456def1-c701-4192-b23e-d300f6bb06ba",
+            "sku": "1202A105-020",
+            "brand": "ASICS",
+            "name": "Wmns Gel Kayano 14 'Mink Cream'",
+            "colorway": "Mink/Cream",
+            "gender": "women",
+            "silhouette": "Gel Kayano",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 140,
+            "estimatedMarketValue": 210,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-kayano-14-mink-cream-1202a105-020",
+                "flightClub": "https://flightclub.com/wmns-gel-kayano-14-mink-cream-1202a105-020",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a6fb93f0-a8c3-42c2-9865-81cfe2e43e33",
+            "sku": "1202A040-104",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 3 'White Pure Silver'",
+            "colorway": "White/Pure Silver",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 85,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-3-white-pure-silver-1202a040-104",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c009e97e-2337-4d37-bd58-197936436bd5",
+            "sku": "1202A040-101",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 3 'White Black'",
+            "colorway": "White/Black",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 85,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-3-white-black-1202a040-101",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cbbf9e2c-ccda-4da2-9ef1-5807bec64c07",
+            "sku": "1202A040-020",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 3 'Piedmont Grey Fresh Ice'",
+            "colorway": "Piedmont Grey/Fresh Ice",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 85,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-3-piedmont-grey-fresh-ice-1202a040-020",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e667c487-2cbc-452a-81e4-d41be6e9c610",
+            "sku": "1012B071-020",
+            "brand": "ASICS",
+            "name": "Wmns Gel Kayano Lite 2 'Piedmont Grey Lake Drive'",
+            "colorway": "Piedmont Grey/Lake Drive",
+            "gender": "women",
+            "silhouette": "Gel Kayano",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 160,
+            "estimatedMarketValue": 230,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-kayano-lite-2-piedmont-grey-lake-drive-1012b071-020",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e8c7595b-c774-4387-99ac-22fa3ae20f30",
+            "sku": "1202A040-103",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 3 'White Sun Peach'",
+            "colorway": "White/Sun Peach",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 85,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-3-white-sun-peach-1202a040-103",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ed891822-810c-4053-878a-f12fd6abcdfd",
+            "sku": "1202A040-002",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 3 'Black Butter'",
+            "colorway": "Black/Butter",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-3-black-butter-1202a040-002",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "edece8a6-5bbe-4291-9499-2f903ab625f6",
+            "sku": "1202A040-200",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 3 'Birch Mink'",
+            "colorway": "Birch/Mink",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-02",
+            "retailPrice": 85,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-3-birch-mink-1202a040-200",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "55134c27-fa89-4b5c-89b8-05a7978f6907",
+            "sku": "1202A040-105",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 3 'White Thunder Blue'",
+            "colorway": "White/Thunder Blue",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-01",
+            "retailPrice": 85,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-3-white-thunder-blue-1202a040-105",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8f054b57-a832-4bd7-8f14-02661bfb5b49",
+            "sku": "1202A040-003",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 3 'Black Rose Gold'",
+            "colorway": "Black/Rose Gold",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-01",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-3-black-rose-gold-1202a040-003",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "608dd43d-3570-4ec8-8c53-be91338a4707",
+            "sku": "1012B281-100",
+            "brand": "ASICS",
+            "name": "Wmns Gel Excite 9 'Tropical'",
+            "colorway": "White/Black",
+            "gender": "women",
+            "silhouette": "Gel Excite",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-29",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-gel-excite-9-tropical-1012b281-100",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6d110995-34ce-4fa9-8a6e-cdf537fc060a",
+            "sku": "1012B178-401",
+            "brand": "ASICS",
+            "name": "Wmns Gel Kinsei Blast LE 'Clear Blue'",
+            "colorway": "Clear Blue/Black",
+            "gender": "women",
+            "silhouette": "Gel Kinsei",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-29",
+            "retailPrice": 180,
+            "estimatedMarketValue": 250,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-kinsei-blast-le-clear-blue-1012b178-401",
+                "flightClub": "https://flightclub.com/wmns-gel-kinsei-blast-le-clear-blue-1012b178-401",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0e988276-59a1-4206-b4cf-a2bc3711f58e",
+            "sku": "1012B068-002",
+            "brand": "ASICS",
+            "name": "Wmns Kinsei Blast 'Triple Black'",
+            "colorway": "Black/Black",
+            "gender": "women",
+            "silhouette": "Kinsei Blast",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-20",
+            "retailPrice": 180,
+            "estimatedMarketValue": 250,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "",
+                "flightClub": "https://flightclub.com/wmns-kinsei-blast-triple-black-1012b068-002",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1e40895b-111d-49c5-b8b7-80c1937a4145",
+            "sku": "1012B178-500",
+            "brand": "ASICS",
+            "name": "Wmns Gel Kinsei Blast LE 'Deep Plum Barely Rose'",
+            "colorway": "Deep Plum/Barely Rose",
+            "gender": "women",
+            "silhouette": "Gel Kinsei",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-20",
+            "retailPrice": 180,
+            "estimatedMarketValue": 250,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-kinsei-blast-le-deep-plum-barely-rose-1012b178-500",
+                "flightClub": "https://flightclub.com/wmns-gel-kinsei-blast-le-deep-plum-barely-rose-1012b178-500",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2ad745af-27a9-47a4-a018-21aad7cc2d69",
+            "sku": "1202A277-400",
+            "brand": "ASICS",
+            "name": "ASICS UB3-S Gel-Nimbus 9 Kiko Kostadinov Stonewash (W)",
+            "colorway": "Stonewash/Lint",
+            "gender": "women",
+            "silhouette": "Gel Nimbus",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-14",
+            "retailPrice": 160,
+            "estimatedMarketValue": 219,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/669/original/1202A277_400.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/669/original/1202A277_400.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/669/original/1202A277_400.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/asics-ub3-s-gel-nimbus-9-kiko-kostadinov-stonewash-w",
+                "goat": "https://goat.com/sneakers/wmns-ub3-s-gel-nimbus-9-stonewash-1202a277-400",
+                "flightClub": "https://flightclub.com/wmns-ub3-s-gel-nimbus-9-stonewash-1202a277-400",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "53173b7c-5a8d-4e86-b9c7-7b4e853a3e0f",
+            "sku": "1202A277-020",
+            "brand": "ASICS",
+            "name": "ASICS UB3-S Gel-Nimbus 9 Kiko Kostadinov Abbey Stone (W)",
+            "colorway": "Abbey Stone/Champagne",
+            "gender": "women",
+            "silhouette": "Gel Nimbus",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-14",
+            "retailPrice": 160,
+            "estimatedMarketValue": 236,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/106/591/original/926972_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/106/591/original/926972_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/106/591/original/926972_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/asics-ub3-s-gel-nimbus-9-kiko-kostadinov-abbey-stone-w",
+                "goat": "https://goat.com/sneakers/wmns-ub3-s-gel-nimbus-9-abbey-stone-1202a277-020",
+                "flightClub": "https://flightclub.com/wmns-ub3-s-gel-nimbus-9-abbey-stone-1202a277-020",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "84d92a6c-ca9b-4193-b8df-dfa62f54d1ec",
+            "sku": "1012B068-100",
+            "brand": "ASICS",
+            "name": "Wmns Kinsei Blast 'White'",
+            "colorway": "White/White",
+            "gender": "women",
+            "silhouette": "Kinsei Blast",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-14",
+            "retailPrice": 180,
+            "estimatedMarketValue": 250,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/024/original/1012B068_100.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/024/original/1012B068_100.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/024/original/1012B068_100.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-kinsei-blast-white-1012b068-100",
+                "flightClub": "https://flightclub.com/wmns-kinsei-blast-white-1012b068-100",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1286a4ff-e855-4a66-a727-5dac609bb254",
+            "sku": "1202A268-001",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 180 'Black'",
+            "colorway": "Black/Black",
+            "gender": "women",
+            "silhouette": "Gel Quantum 180",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 120,
+            "estimatedMarketValue": 190,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/440/original/1202A268_001.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/440/original/1202A268_001.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/440/original/1202A268_001.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-quantum-180-black-1202a268-001",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-180-black-1202a268-001",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3426bb4c-fb88-4325-9198-3a600fc685e2",
+            "sku": "1012B182-002",
+            "brand": "ASICS",
+            "name": "Wmns Gel Excite 9 'Black White'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "Gel Excite",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/410/original/1012B182_002.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/410/original/1012B182_002.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/410/original/1012B182_002.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-excite-9-black-white-1012b182-002",
+                "flightClub": "https://flightclub.com/wmns-gel-excite-9-black-white-1012b182-002",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "34ee7433-d497-4526-82b0-0c818f14b195",
+            "sku": "1012B182-700",
+            "brand": "ASICS",
+            "name": "Wmns Gel Excite 9 'Barely Rose'",
+            "colorway": "Barely Rose/White",
+            "gender": "women",
+            "silhouette": "Gel Excite",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/420/original/1012B182_700.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/420/original/1012B182_700.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/420/original/1012B182_700.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-excite-9-barely-rose-1012b182-700",
+                "flightClub": "https://flightclub.com/wmns-gel-excite-9-barely-rose-1012b182-700",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5dcdf8c1-ef40-43a6-b098-0caac364b380",
+            "sku": "1012B182-021",
+            "brand": "ASICS",
+            "name": "Wmns Gel Excite 9 'Sheet Rock Oasis Green'",
+            "colorway": "Sheet Rock/Oasis Green",
+            "gender": "women",
+            "silhouette": "Gel Excite",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/411/original/1012B182_021.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/411/original/1012B182_021.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/411/original/1012B182_021.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-excite-9-sheet-rock-oasis-green-1012b182-021",
+                "flightClub": "https://flightclub.com/wmns-gel-excite-9-sheet-rock-oasis-green-1012b182-021",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "71afa793-78d2-426f-ac72-531e39b7dd67",
+            "sku": "1012B203-400",
+            "brand": "ASICS",
+            "name": "Wmns Gel Nimbus Lite Show 'Mint'",
+            "colorway": "Lite Show/Mint",
+            "gender": "women",
+            "silhouette": "Gel Nimbus",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 160,
+            "estimatedMarketValue": 178,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/421/original/1012B203_400.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/421/original/1012B203_400.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/421/original/1012B203_400.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-nimbus-lite-show-mint-1012b203-400",
+                "flightClub": "https://flightclub.com/wmns-gel-nimbus-lite-show-mint-1012b203-400",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "907ff50b-8509-41dc-86ad-f9f8e0166583",
+            "sku": "1012B182-600",
+            "brand": "ASICS",
+            "name": "Wmns Gel Excite 9 'Fuchsia Red'",
+            "colorway": "Fuchsia Red/Pure Silver",
+            "gender": "women",
+            "silhouette": "Gel Excite",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/417/original/1012B182_600.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/417/original/1012B182_600.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/417/original/1012B182_600.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-excite-9-fuchsia-red-1012b182-600",
+                "flightClub": "https://flightclub.com/wmns-gel-excite-9-fuchsia-red-1012b182-600",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bce425a0-a06d-4107-b376-3730a3dc447a",
+            "sku": "1202A268-100",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 180 'White'",
+            "colorway": "White/White",
+            "gender": "women",
+            "silhouette": "Gel Quantum 180",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 120,
+            "estimatedMarketValue": 190,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/441/original/1202A268_100.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/441/original/1202A268_100.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/441/original/1202A268_100.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-quantum-180-white-1202a268-100",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-180-white-1202a268-100",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e2fc7af2-614b-48b5-8efa-e84400d7dc5e",
+            "sku": "1012B182-400",
+            "brand": "ASICS",
+            "name": "Wmns Gel Excite 9 'Mako Blue'",
+            "colorway": "Mako Blue/White",
+            "gender": "women",
+            "silhouette": "Gel Excite",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-06",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/415/original/1012B182_400.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/415/original/1012B182_400.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/415/original/1012B182_400.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-excite-9-mako-blue-1012b182-400",
+                "flightClub": "https://flightclub.com/wmns-gel-excite-9-mako-blue-1012b182-400",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "15c736d9-76db-4575-9686-ecf3e22c1653",
+            "sku": "1012A899-800",
+            "brand": "ASICS",
+            "name": "Wmns Hyper Speed 'Orange Pop'",
+            "colorway": "Orange Pop/White",
+            "gender": "women",
+            "silhouette": "Hyper Speed",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/408/original/1012A899_800.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/408/original/1012A899_800.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/408/original/1012A899_800.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-hyper-speed-orange-pop-1012a899-800",
+                "flightClub": "https://flightclub.com/wmns-hyper-speed-orange-pop-1012a899-800",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b757a92a-b82b-4f24-a10f-57cbc8ccaa00",
+            "sku": "1012B182-001",
+            "brand": "ASICS",
+            "name": "Wmns Gel Excite 9 'Black Carrier Grey'",
+            "colorway": "Black/Carrier Grey",
+            "gender": "women",
+            "silhouette": "Gel Excite",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/409/original/1012B182_001.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/409/original/1012B182_001.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/409/original/1012B182_001.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-excite-9-black-carrier-grey-1012b182-001",
+                "flightClub": "https://flightclub.com/wmns-gel-excite-9-black-carrier-grey-1012b182-001",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "99887f8d-c204-4c8d-887e-65ce228003df",
+            "sku": "1202A307-002",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 'Black Pure Silver'",
+            "colorway": "Black/Pure Silver",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-03",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/442/original/1202A307_002.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/442/original/1202A307_002.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/442/original/1202A307_002.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-quantum-90-black-pure-silver-1202a307-002",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-black-pure-silver-1202a307-002",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6b0bb9f9-2057-4499-8b57-46a345bda15f",
+            "sku": "1012A899-401",
+            "brand": "ASICS",
+            "name": "Wmns Hyper Speed 'Mako Blue'",
+            "colorway": "Mako Blue/Clear Blue",
+            "gender": "women",
+            "silhouette": "Hyper Speed",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/407/original/1012A899_401.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/407/original/1012A899_401.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/407/original/1012A899_401.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-hyper-speed-mako-blue-1012a899-401",
+                "flightClub": "https://flightclub.com/wmns-hyper-speed-mako-blue-1012a899-401",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "99f8d63f-8e10-4cde-9586-a23892b25f69",
+            "sku": "1012B182-100",
+            "brand": "ASICS",
+            "name": "Wmns Gel Excite 9 'White Orange Pop'",
+            "colorway": "White/Orange Pop",
+            "gender": "women",
+            "silhouette": "Gel Excite",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/412/original/1012B182_100.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/412/original/1012B182_100.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/412/original/1012B182_100.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-excite-9-white-orange-pop-1012b182-100",
+                "flightClub": "https://flightclub.com/wmns-gel-excite-9-white-orange-pop-1012b182-100",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cd6d8d18-55ef-4d83-9ca0-fe12ca020f1d",
+            "sku": "1012B182-300",
+            "brand": "ASICS",
+            "name": "Wmns Gel Excite 9 'Oasis Green'",
+            "colorway": "Oasis Green/White",
+            "gender": "women",
+            "silhouette": "Gel Excite",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/465/414/original/1012B182_300.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/465/414/original/1012B182_300.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/465/414/original/1012B182_300.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-excite-9-oasis-green-1012b182-300",
+                "flightClub": "https://flightclub.com/wmns-gel-excite-9-oasis-green-1012b182-300",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8664f132-82c0-4016-b648-9067b2058506",
+            "sku": "1112A017-500",
+            "brand": "ASICS",
+            "name": "Wmns Gel Course Glide 'Orchid White'",
+            "colorway": "Orchid/White",
+            "gender": "women",
+            "silhouette": "Gel Course",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-24",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/897/811/original/1112A017_500.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/897/811/original/1112A017_500.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/897/811/original/1112A017_500.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-course-glide-orchid-white-1112a017-500",
+                "flightClub": "https://flightclub.com/wmns-gel-course-glide-orchid-white-1112a017-500",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "174cc14a-47a2-4c3d-9fb3-5f999eeab9d3",
+            "sku": "1012B197-600",
+            "brand": "ASICS",
+            "name": "Wmns GT 1000 11 'Dried Berry Pink Glow'",
+            "colorway": "Dried Berry/Pink Glow",
+            "gender": "women",
+            "silhouette": "GT 1000",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-21",
+            "retailPrice": 100,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gt-1000-11-dried-berry-pink-glow-1012b197-600",
+                "flightClub": "https://flightclub.com/wmns-gt-1000-11-dried-berry-pink-glow-1012b197-600",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "305ff850-1bc9-484b-bdb1-5a79addb867f",
+            "sku": "1072A055-105",
+            "brand": "ASICS",
+            "name": "Wmns Upcourt 4 'White Periwinkle Blue'",
+            "colorway": "White/Periwinkle Blue",
+            "gender": "women",
+            "silhouette": "Upcourt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-17",
+            "retailPrice": 55,
+            "estimatedMarketValue": 89,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/512/original/1072A055_105.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/512/original/1072A055_105.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/512/original/1072A055_105.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-upcourt-4-white-periwinkle-blue-1072a055-105",
+                "flightClub": "https://flightclub.com/wmns-upcourt-4-white-periwinkle-blue-1072a055-105",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "63c6a98c-e338-4408-a3eb-fb2160321335",
+            "sku": "1012A908-708",
+            "brand": "ASICS",
+            "name": "Wmns Jolt 'Pink Glow'",
+            "colorway": "Pink Glow/White",
+            "gender": "women",
+            "silhouette": "Jolt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-17",
+            "retailPrice": 55,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/493/original/1012A908_708.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/493/original/1012A908_708.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/493/original/1012A908_708.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-jolt-pink-glow-1012a908-708",
+                "flightClub": "https://flightclub.com/wmns-jolt-pink-glow-1012a908-708",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a0d84ea9-8ddc-40d1-a085-822170890d10",
+            "sku": "1202A164-108",
+            "brand": "ASICS",
+            "name": "Wmns Gel 1130 'White Butter'",
+            "colorway": "White/Butter",
+            "gender": "women",
+            "silhouette": "Gel 1130",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-17",
+            "retailPrice": 85,
+            "estimatedMarketValue": 85,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/515/original/1202A164_108.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/515/original/1202A164_108.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/515/original/1202A164_108.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-1130-white-butter-1202a164-108",
+                "flightClub": "https://flightclub.com/wmns-gel-1130-white-butter-1202a164-108",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f61c6158-d332-4702-afa3-0b81dd6ab740",
+            "sku": "1052A033-100",
+            "brand": "ASICS",
+            "name": "Wmns Netburner Ballistic FF 2 'White Black'",
+            "colorway": "White/Black",
+            "gender": "women",
+            "silhouette": "Netburner Ballistic FF",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-17",
+            "retailPrice": 115,
+            "estimatedMarketValue": 175,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/505/original/1052A033_100.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/505/original/1052A033_100.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/505/original/1052A033_100.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-netburner-ballistic-ff-2-white-black-1052a033-100",
+                "flightClub": "https://flightclub.com/wmns-netburner-ballistic-ff-2-white-black-1052a033-100",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fd1d29f7-b4ed-4b15-8b64-88c4010d02e3",
+            "sku": "1072A055-013",
+            "brand": "ASICS",
+            "name": "Wmns Upcourt 4 'Black Fresh Ice'",
+            "colorway": "Black/Fresh Ice",
+            "gender": "women",
+            "silhouette": "Upcourt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-17",
+            "retailPrice": 55,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/510/original/1072A055_013.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/510/original/1072A055_013.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/510/original/1072A055_013.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-upcourt-4-black-fresh-ice-1072a055-013",
+                "flightClub": "https://flightclub.com/wmns-upcourt-4-black-fresh-ice-1072a055-013",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0629e3a4-527e-4738-9fa7-021aff45f10d",
+            "sku": "1012B199-020",
+            "brand": "ASICS",
+            "name": "Wmns Gel Nimbus 24 Wide 'Piedmont Grey Lime Green'",
+            "colorway": "Piedmont Grey/Lime Green",
+            "gender": "women",
+            "silhouette": "Gel Nimbus",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-16",
+            "retailPrice": 160,
+            "estimatedMarketValue": 230,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/494/original/1012B199_020.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/494/original/1012B199_020.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/494/original/1012B199_020.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-nimbus-24-wide-piedmont-grey-lime-green-1012b199-020",
+                "flightClub": "https://flightclub.com/wmns-gel-nimbus-24-wide-piedmont-grey-lime-green-1012b199-020",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0d5fa02f-7921-4cc1-8458-c87b320f0c7a",
+            "sku": "1012A911-402",
+            "brand": "ASICS",
+            "name": "Wmns Gel Contend 7 'Aqua Angel'",
+            "colorway": "Aqua Angel/White",
+            "gender": "women",
+            "silhouette": "Gel Contend",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-16",
+            "retailPrice": 65,
+            "estimatedMarketValue": 65,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-contend-7-aqua-angel-1012a911-402",
+                "flightClub": "https://flightclub.com/wmns-gel-contend-7-aqua-angel-1012a911-402",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4ec29821-3a49-4621-81f8-f73518a8863c",
+            "sku": "1012A911-001",
+            "brand": "ASICS",
+            "name": "Wmns Gel Contend 7 'Black Carrier Grey'",
+            "colorway": "Black/Carrier Grey",
+            "gender": "women",
+            "silhouette": "Gel Contend",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-16",
+            "retailPrice": 65,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-contend-7-black-carrier-grey-1012a911-001",
+                "flightClub": "https://flightclub.com/wmns-gel-contend-7-black-carrier-grey-1012a911-001",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "51a0d06d-4576-4fe6-bd01-5acbe5505f00",
+            "sku": "1012A911-407",
+            "brand": "ASICS",
+            "name": "Wmns Gel Contend 7 'French Blue'",
+            "colorway": "French Blue/Fresh Ice",
+            "gender": "women",
+            "silhouette": "Gel Contend",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-16",
+            "retailPrice": 65,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-contend-7-french-blue-1012a911-407",
+                "flightClub": "https://flightclub.com/wmns-gel-contend-7-french-blue-1012a911-407",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7686c6cf-4595-4f58-9dd3-0ee2725f2c91",
+            "sku": "1202A039-100",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 180 'Triple White'",
+            "colorway": "White/White",
+            "gender": "women",
+            "silhouette": "Gel Quantum 180",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-16",
+            "retailPrice": 120,
+            "estimatedMarketValue": 190,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-quantum-180-triple-white-1202a039-100",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-180-triple-white-1202a039-100",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a202af5b-8dc1-4787-ab96-e6752e9d20a8",
+            "sku": "1042A152-105",
+            "brand": "ASICS",
+            "name": "Wmns Gel Game 8 'White Light Indigo'",
+            "colorway": "White/Light Indigo",
+            "gender": "women",
+            "silhouette": "Gel Game 8",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-16",
+            "retailPrice": 80,
+            "estimatedMarketValue": 99,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/407/914/original/1042A152_105.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/407/914/original/1042A152_105.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/407/914/original/1042A152_105.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-game-8-white-light-indigo-1042a152-105",
+                "flightClub": "https://flightclub.com/wmns-gel-game-8-white-light-indigo-1042a152-105",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "157a1f58-7fff-48e9-816a-5f7b3b966fc2",
+            "sku": "1012A911-023",
+            "brand": "ASICS",
+            "name": "Wmns Gel Contend 7 'Graphite Grey'",
+            "colorway": "Graphite Grey/Digital Aqua",
+            "gender": "women",
+            "silhouette": "Gel Contend",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-15",
+            "retailPrice": 65,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-contend-7-graphite-grey-1012a911-023",
+                "flightClub": "https://flightclub.com/wmns-gel-contend-7-graphite-grey-1012a911-023",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "18f23296-84b8-4f38-959e-51c5f045a593",
+            "sku": "1012A911-101",
+            "brand": "ASICS",
+            "name": "Wmns Gel Contend 7 'White Digital Grape'",
+            "colorway": "White/Digital Grape",
+            "gender": "women",
+            "silhouette": "Gel Contend",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-15",
+            "retailPrice": 65,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-contend-7-white-digital-grape-1012a911-101",
+                "flightClub": "https://flightclub.com/wmns-gel-contend-7-white-digital-grape-1012a911-101",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1a419ecf-d918-41d3-99ff-985a7283ba31",
+            "sku": "1012A911-960",
+            "brand": "ASICS",
+            "name": "Wmns Gel Contend 7 'White Clear Blue'",
+            "colorway": "White/Clear Blue",
+            "gender": "women",
+            "silhouette": "Gel Contend",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-15",
+            "retailPrice": 65,
+            "estimatedMarketValue": 104,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-contend-7-white-clear-blue-1012a911-960",
+                "flightClub": "https://flightclub.com/wmns-gel-contend-7-white-clear-blue-1012a911-960",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "30d9f1e9-7af1-4378-90c8-b3acbd36b6b2",
+            "sku": "1012A911-406",
+            "brand": "ASICS",
+            "name": "Wmns Gel Contend 7 'Mist Blazing Coral'",
+            "colorway": "Mist/Blazing Coral",
+            "gender": "women",
+            "silhouette": "Gel Contend",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-15",
+            "retailPrice": 65,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-contend-7-mist-blazing-coral-1012a911-406",
+                "flightClub": "https://flightclub.com/wmns-gel-contend-7-mist-blazing-coral-1012a911-406",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3bc9ecc0-1bd2-436e-afd7-6e1cbbea46f6",
+            "sku": "1052A033-408",
+            "brand": "ASICS",
+            "name": "Wmns Netburner Ballistic FF 2 'Periwinkle Blue'",
+            "colorway": "Periwinkle Blue/Pure Silver",
+            "gender": "women",
+            "silhouette": "Netburner Ballistic FF",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-15",
+            "retailPrice": 115,
+            "estimatedMarketValue": 185,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/508/original/1052A033_408.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/508/original/1052A033_408.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/508/original/1052A033_408.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-netburner-ballistic-ff-2-periwinkle-blue-1052a033-408",
+                "flightClub": "https://flightclub.com/wmns-netburner-ballistic-ff-2-periwinkle-blue-1052a033-408",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3d9a8632-1127-4190-aca8-13cd755b5647",
+            "sku": "1012A911-401",
+            "brand": "ASICS",
+            "name": "Wmns Gel Contend 7 'French Blue Champagne'",
+            "colorway": "French Blue/Champagne",
+            "gender": "women",
+            "silhouette": "Gel Contend",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-15",
+            "retailPrice": 65,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-contend-7-french-blue-champagne-1012a911-401",
+                "flightClub": "https://flightclub.com/wmns-gel-contend-7-french-blue-champagne-1012a911-401",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "40897f40-55cd-4137-8c0d-83d427c4a1e9",
+            "sku": "1202A318-250",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 'Oatmeal Sienna'",
+            "colorway": "Oatmeal/Sienna",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-15",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-quantum-90-oatmeal-sienna-1202a318-250",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-oatmeal-sienna-1202a318-250",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "44d7b6b7-97d8-4d3b-bc4e-c6161d679b28",
+            "sku": "1012A911-410",
+            "brand": "ASICS",
+            "name": "Wmns Gel Contend 7 'French Blue Barely Rose'",
+            "colorway": "French Blue/Barely Rose",
+            "gender": "women",
+            "silhouette": "Gel Contend",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-15",
+            "retailPrice": 65,
+            "estimatedMarketValue": 87,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-contend-7-french-blue-barely-rose-1012a911-410",
+                "flightClub": "https://flightclub.com/wmns-gel-contend-7-french-blue-barely-rose-1012a911-410",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7bd147c9-0777-4716-978d-51d59bf405d5",
+            "sku": "1012B035-021",
+            "brand": "ASICS",
+            "name": "Wmns Gel Pulse 13 'Clay Grey'",
+            "colorway": "Clay Grey/Clear Blue",
+            "gender": "women",
+            "silhouette": "Gel Pulse",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-15",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-pulse-13-clay-grey-1012b035-021",
+                "flightClub": "https://flightclub.com/wmns-gel-pulse-13-clay-grey-1012b035-021",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8bbabd6a-1982-4703-9d66-ed4d1267e8d6",
+            "sku": "1012A911-103",
+            "brand": "ASICS",
+            "name": "Wmns Gel Contend 7 'White Mist'",
+            "colorway": "White/Mist",
+            "gender": "women",
+            "silhouette": "Gel Contend",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-15",
+            "retailPrice": 65,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-contend-7-white-mist-1012a911-103",
+                "flightClub": "https://flightclub.com/wmns-gel-contend-7-white-mist-1012a911-103",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e97440d8-f908-47f7-81e9-76c26ba0ff02",
+            "sku": "1112A044-001",
+            "brand": "ASICS",
+            "name": "Wmns Gel Lethal Field 'Black Pure Silver'",
+            "colorway": "Black/Pure Silver",
+            "gender": "women",
+            "silhouette": "Gel Lethal",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-15",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/513/original/1112A044_001.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/513/original/1112A044_001.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/513/original/1112A044_001.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-lethal-field-black-pure-silver-1112a044-001",
+                "flightClub": "https://flightclub.com/wmns-gel-lethal-field-black-pure-silver-1112a044-001",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0c021ed7-9adc-4583-882a-26660048bb49",
+            "sku": "1012A908-002",
+            "brand": "ASICS",
+            "name": "Wmns Jolt 'Black'",
+            "colorway": "Black/Graphite Grey",
+            "gender": "women",
+            "silhouette": "Jolt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-14",
+            "retailPrice": 55,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/492/original/1012A908_002.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/492/original/1012A908_002.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/492/original/1012A908_002.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-jolt-black-1012a908-002",
+                "flightClub": "https://flightclub.com/wmns-jolt-black-1012a908-002",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "47776d39-fbea-471d-b041-9867ae69753a",
+            "sku": "1202A024-020",
+            "brand": "ASICS",
+            "name": "Wmns Japan S Platform 'Oyster Grey'",
+            "colorway": "Oyster Grey/Oyster Grey",
+            "gender": "women",
+            "silhouette": "Japan",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-14",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/301/958/original/1202A024_020.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/301/958/original/1202A024_020.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/301/958/original/1202A024_020.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-japan-s-platform-oyster-grey-1202a024-020",
+                "flightClub": "https://flightclub.com/wmns-japan-s-platform-oyster-grey-1202a024-020",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "50cdda06-1ee0-4cf8-af86-4460db4949c2",
+            "sku": "1012B035-600",
+            "brand": "ASICS",
+            "name": "Wmns Gel Pulse 13 'Fuchsia Red Champagne'",
+            "colorway": "Fuchsia Red/Champagne",
+            "gender": "women",
+            "silhouette": "Gel Pulse",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-14",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/356/684/original/1012B035_600.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/356/684/original/1012B035_600.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/356/684/original/1012B035_600.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-pulse-13-fuchsia-red-champagne-1012b035-600",
+                "flightClub": "https://flightclub.com/wmns-gel-pulse-13-fuchsia-red-champagne-1012b035-600",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5648d2b3-5041-4846-adf0-92e983d74305",
+            "sku": "1202A024-001",
+            "brand": "ASICS",
+            "name": "Wmns Japan S Platform 'Black'",
+            "colorway": "Black/Black",
+            "gender": "women",
+            "silhouette": "Japan",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-14",
+            "retailPrice": 70,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/301/957/original/1202A024_001.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/301/957/original/1202A024_001.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/301/957/original/1202A024_001.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-japan-s-platform-black-1202a024-001",
+                "flightClub": "https://flightclub.com/wmns-japan-s-platform-black-1202a024-001",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5e0479c5-4f02-4e97-a73f-25ddd0b5ff2c",
+            "sku": "1202A147-021",
+            "brand": "ASICS",
+            "name": "Wmns Gel Jog MC 'Piedmont Grey Azure'",
+            "colorway": "Piedmont Grey/Azure",
+            "gender": "women",
+            "silhouette": "Gel Jog",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-14",
+            "retailPrice": 75,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/301/963/original/1202A147_021.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/301/963/original/1202A147_021.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/301/963/original/1202A147_021.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-jog-mc-piedmont-grey-azure-1202a147-021",
+                "flightClub": "https://flightclub.com/wmns-gel-jog-mc-piedmont-grey-azure-1202a147-021",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "788cf12e-0553-44f5-8ad8-31715bb05d85",
+            "sku": "1012A911-005",
+            "brand": "ASICS",
+            "name": "Wmns Gel Contend 7 'Black Lilac Opal'",
+            "colorway": "Black/Lilac Opal",
+            "gender": "women",
+            "silhouette": "Gel Contend",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-14",
+            "retailPrice": 65,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-contend-7-black-lilac-opal-1012a911-005",
+                "flightClub": "https://flightclub.com/wmns-gel-contend-7-black-lilac-opal-1012a911-005",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "81c70720-b264-40aa-b1d9-68b635edd4e8",
+            "sku": "1012B035-300",
+            "brand": "ASICS",
+            "name": "Wmns Gel Pulse 13 'Sage White'",
+            "colorway": "Sage/White",
+            "gender": "women",
+            "silhouette": "Gel Pulse",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-14",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/356/679/original/1012B035_300.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/356/679/original/1012B035_300.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/356/679/original/1012B035_300.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-pulse-13-sage-white-1012b035-300",
+                "flightClub": "https://flightclub.com/wmns-gel-pulse-13-sage-white-1012b035-300",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f477e1dc-324c-4595-9b89-b1b5736e8e5a",
+            "sku": "1012B035-101",
+            "brand": "ASICS",
+            "name": "Wmns Gel Pulse 13 'White Black'",
+            "colorway": "White/Black",
+            "gender": "women",
+            "silhouette": "Gel Pulse",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-14",
+            "retailPrice": 90,
+            "estimatedMarketValue": 159,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-pulse-13-white-black-1012b035-101",
+                "flightClub": "https://flightclub.com/wmns-gel-pulse-13-white-black-1012b035-101",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0a0747c9-85ec-4ac5-9a65-41bedb15d08b",
+            "sku": "1042A164-402",
+            "brand": "ASICS",
+            "name": "Wmns Gel Challenger 13 'Light Indigo Guava'",
+            "colorway": "Light Indigo/Guava",
+            "gender": "women",
+            "silhouette": "Gel Challenger",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-13",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/301/935/original/1042A164_402.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/301/935/original/1042A164_402.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/301/935/original/1042A164_402.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-challenger-13-light-indigo-guava-1042a164-402",
+                "flightClub": "https://flightclub.com/wmns-gel-challenger-13-light-indigo-guava-1042a164-402",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1dff160b-a3b8-40a7-b0b9-23e03e659498",
+            "sku": "1012B035-500",
+            "brand": "ASICS",
+            "name": "Wmns Gel Pulse 13 'Rose Quartz'",
+            "colorway": "Rose Quartz/White",
+            "gender": "women",
+            "silhouette": "Gel Pulse",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-13",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/356/683/original/1012B035_500.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/356/683/original/1012B035_500.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/356/683/original/1012B035_500.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-pulse-13-rose-quartz-1012b035-500",
+                "flightClub": "https://flightclub.com/wmns-gel-pulse-13-rose-quartz-1012b035-500",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1e5a85a9-7f96-4f27-8094-d5bb78aa1bb9",
+            "sku": "1202A147-102",
+            "brand": "ASICS",
+            "name": "Wmns Gel Jog MC 'White Piedmont Grey'",
+            "colorway": "White/Piedmont Grey",
+            "gender": "women",
+            "silhouette": "Gel Jog",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-13",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/301/965/original/1202A147_102.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/301/965/original/1202A147_102.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/301/965/original/1202A147_102.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-jog-mc-white-piedmont-grey-1202a147-102",
+                "flightClub": "https://flightclub.com/wmns-gel-jog-mc-white-piedmont-grey-1202a147-102",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c693f47a-03d0-4614-bfbf-d22da42eda02",
+            "sku": "1202A147-001",
+            "brand": "ASICS",
+            "name": "Wmns Gel Jog MC 'Black Rose Gold'",
+            "colorway": "Black/Rose Gold",
+            "gender": "women",
+            "silhouette": "Gel Jog",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-13",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/301/961/original/1202A147_001.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/301/961/original/1202A147_001.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/301/961/original/1202A147_001.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-jog-mc-black-rose-gold-1202a147-001",
+                "flightClub": "https://flightclub.com/wmns-gel-jog-mc-black-rose-gold-1202a147-001",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ee2ca61e-b606-4c1d-8421-dfd09c318d97",
+            "sku": "1202A147-400",
+            "brand": "ASICS",
+            "name": "Wmns Gel Jog MC 'Periwinkle Blue'",
+            "colorway": "Periwinkle Blue/Blazing Coral",
+            "gender": "women",
+            "silhouette": "Gel Jog",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-13",
+            "retailPrice": 75,
+            "estimatedMarketValue": 75,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/301/966/original/1202A147_400.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/301/966/original/1202A147_400.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/301/966/original/1202A147_400.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-jog-mc-periwinkle-blue-1202a147-400",
+                "flightClub": "https://flightclub.com/wmns-gel-jog-mc-periwinkle-blue-1202a147-400",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fc760a78-d3bf-4bd8-b875-30d8fa59e8bc",
+            "sku": "1202A147-002",
+            "brand": "ASICS",
+            "name": "Wmns Gel Jog MC 'Black Whisper Green'",
+            "colorway": "Black/Whisper Green",
+            "gender": "women",
+            "silhouette": "Gel Jog",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-13",
+            "retailPrice": 75,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/301/962/original/1202A147_002.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/301/962/original/1202A147_002.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/301/962/original/1202A147_002.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-jog-mc-black-whisper-green-1202a147-002",
+                "flightClub": "https://flightclub.com/wmns-gel-jog-mc-black-whisper-green-1202a147-002",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1e60689a-7427-401a-86e1-ad63df7fd0f4",
+            "sku": "1012B186-020",
+            "brand": "ASICS",
+            "name": "Wmns Gel Kayano 28 Platinum 'Carrier Grey'",
+            "colorway": "Carrier Grey/Pure Silver",
+            "gender": "women",
+            "silhouette": "Gel Kayano",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-12",
+            "retailPrice": 180,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/356/686/original/1012B186_020.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/356/686/original/1012B186_020.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/356/686/original/1012B186_020.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-kayano-28-platinum-carrier-grey-1012b186-020",
+                "flightClub": "https://flightclub.com/wmns-gel-kayano-28-platinum-carrier-grey-1012b186-020",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4d72bc16-aebd-49f4-b7b9-b74ee1339eb5",
+            "sku": "1042A080-701",
+            "brand": "ASICS",
+            "name": "Wmns Court Speed FF 'Pink Cameo'",
+            "colorway": "Pink Cameo/White",
+            "gender": "women",
+            "silhouette": "Court Speed",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-12",
+            "retailPrice": 110,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/407/911/original/1042A080_701.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/407/911/original/1042A080_701.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/407/911/original/1042A080_701.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-court-speed-ff-pink-cameo-1042a080-701",
+                "flightClub": "https://flightclub.com/wmns-court-speed-ff-pink-cameo-1042a080-701",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ad75ef39-7c7d-4690-b333-d4cdde6083c7",
+            "sku": "1012B035-001",
+            "brand": "ASICS",
+            "name": "Wmns Gel Pulse 13 'Black White'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "Gel Pulse",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-12",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-pulse-13-black-white-1012b035-001",
+                "flightClub": "https://flightclub.com/wmns-gel-pulse-13-black-white-1012b035-001",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e8818e0e-3ce8-4f73-b37e-da347d68ccd7",
+            "sku": "1012A911-704",
+            "brand": "ASICS",
+            "name": "Wmns Gel Contend 7 'Barely Rose'",
+            "colorway": "Barely Rose/Rose Quartz",
+            "gender": "women",
+            "silhouette": "Gel Contend",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-11",
+            "retailPrice": 65,
+            "estimatedMarketValue": 87,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-contend-7-barely-rose-1012a911-704",
+                "flightClub": "https://flightclub.com/wmns-gel-contend-7-barely-rose-1012a911-704",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2a27a928-e456-4cfa-b96e-a4d288410fce",
+            "sku": "1202A174-103",
+            "brand": "ASICS",
+            "name": "Wmns Tiger Runner 'White Sky'",
+            "colorway": "White/Sky",
+            "gender": "women",
+            "silhouette": "Tiger Runner",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-10",
+            "retailPrice": 60,
+            "estimatedMarketValue": 93,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-tiger-runner-white-sky-1202a174-103",
+                "flightClub": "https://flightclub.com/wmns-tiger-runner-white-sky-1202a174-103",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b1161554-d0b7-4637-9710-8e6be71f370b",
+            "sku": "1202A323-104",
+            "brand": "ASICS",
+            "name": "Wmns Japan S PF 'White Aqua Angel'",
+            "colorway": "White/Aqua Angel",
+            "gender": "women",
+            "silhouette": "Japan",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-10",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/301/969/original/1202A323_104.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/301/969/original/1202A323_104.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/301/969/original/1202A323_104.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-japan-s-pf-white-aqua-angel-1202a323-104",
+                "flightClub": "https://flightclub.com/wmns-japan-s-pf-white-aqua-angel-1202a323-104",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "46e68e49-3b63-44a9-b8d6-fe0a3125f34d",
+            "sku": "1012A708-700",
+            "brand": "ASICS",
+            "name": "Wmns Gel Venture 8 'Pink Glow'",
+            "colorway": "Pink Glow/Pink Glow",
+            "gender": "women",
+            "silhouette": "Gel Venture",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-09",
+            "retailPrice": 70,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/491/original/1012A708_700.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/491/original/1012A708_700.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/491/original/1012A708_700.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-venture-8-pink-glow-1012a708-700",
+                "flightClub": "https://flightclub.com/wmns-gel-venture-8-pink-glow-1012a708-700",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "98b8207f-cbbc-40c9-afc6-0f60e13cc876",
+            "sku": "1042A080-403",
+            "brand": "ASICS",
+            "name": "Wmns Court Speed FF 'Peacoat Pure Silver'",
+            "colorway": "Peacoat/Pure Silver",
+            "gender": "women",
+            "silhouette": "Court Speed",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-09",
+            "retailPrice": 110,
+            "estimatedMarketValue": 180,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/407/910/original/1042A080_403.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/407/910/original/1042A080_403.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/407/910/original/1042A080_403.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-court-speed-ff-peacoat-pure-silver-1042a080-403",
+                "flightClub": "https://flightclub.com/wmns-court-speed-ff-peacoat-pure-silver-1042a080-403",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "56c3edd1-d3f9-42c2-9b08-87f1f24fd70d",
+            "sku": "1012A708-020",
+            "brand": "ASICS",
+            "name": "Wmns Gel Venture 8 'Graphite Grey'",
+            "colorway": "Graphite Grey/Carrier Grey",
+            "gender": "women",
+            "silhouette": "Gel Venture",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/488/original/1012A708_020.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/488/original/1012A708_020.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/488/original/1012A708_020.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-venture-8-graphite-grey-1012a708-020",
+                "flightClub": "https://flightclub.com/wmns-gel-venture-8-graphite-grey-1012a708-020",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d5bc00ed-3564-4a86-b8ec-12defe823990",
+            "sku": "1202A307-101",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 'White Piedmont Grey'",
+            "colorway": "White/Piedmont Grey",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-quantum-90-white-piedmont-grey-1202a307-101",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-white-piedmont-grey-1202a307-101",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "368987be-3c56-4142-b585-04733be92243",
+            "sku": "1012A911-027",
+            "brand": "ASICS",
+            "name": "Wmns Gel Contend 7 'Metropolis Murasaki'",
+            "colorway": "Metropolis/Murasaki",
+            "gender": "women",
+            "silhouette": "Gel Contend",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-06",
+            "retailPrice": 65,
+            "estimatedMarketValue": 87,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-contend-7-metropolis-murasaki-1012a911-027",
+                "flightClub": "https://flightclub.com/wmns-gel-contend-7-metropolis-murasaki-1012a911-027",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e0b42459-304e-4383-b19f-359612c70fcc",
+            "sku": "1012A708-022",
+            "brand": "ASICS",
+            "name": "Wmns Gel Venture 8 'Sheet Rock Pure Silver'",
+            "colorway": "Sheet Rock/Pure Silver",
+            "gender": "women",
+            "silhouette": "Gel Venture",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-04",
+            "retailPrice": 70,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/489/original/1012A708_022.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/489/original/1012A708_022.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/489/original/1012A708_022.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-venture-8-sheet-rock-pure-silver-1012a708-022",
+                "flightClub": "https://flightclub.com/wmns-gel-venture-8-sheet-rock-pure-silver-1012a708-022",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "52f60578-d9c9-4266-be7a-80e69a129467",
+            "sku": "1202A307-020",
+            "brand": "ASICS",
+            "name": "Wmns Gel Quantum 90 'Piedmont Grey'",
+            "colorway": "Piedmont Grey/White",
+            "gender": "women",
+            "silhouette": "Gel Quantum 90",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-02",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-quantum-90-piedmont-grey-1202a307-020",
+                "flightClub": "https://flightclub.com/wmns-gel-quantum-90-piedmont-grey-1202a307-020",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "77877baf-8cf2-4a5b-a64a-0b869adc5d3f",
+            "sku": "1202A322-100",
+            "brand": "ASICS",
+            "name": "Wmns Japan S Platform 'White Piedmont Grey'",
+            "colorway": "White/Piedmont Grey",
+            "gender": "women",
+            "silhouette": "Japan",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-02",
+            "retailPrice": 90,
+            "estimatedMarketValue": 109,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/301/968/original/1202A322_100.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/301/968/original/1202A322_100.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/301/968/original/1202A322_100.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-japan-s-platform-white-piedmont-grey-1202a322-100",
+                "flightClub": "https://flightclub.com/wmns-japan-s-platform-white-piedmont-grey-1202a322-100",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9b8f3330-3e63-4db9-8c51-9af6cf1b547a",
+            "sku": "1202A147-101",
+            "brand": "ASICS",
+            "name": "Wmns Gel Jog MC 'White Sea Glass'",
+            "colorway": "White/Sea Glass",
+            "gender": "women",
+            "silhouette": "Gel Jog",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-02",
+            "retailPrice": 75,
+            "estimatedMarketValue": 75,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/301/964/original/1202A147_101.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/301/964/original/1202A147_101.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/301/964/original/1202A147_101.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-gel-jog-mc-white-sea-glass-1202a147-101",
+                "flightClub": "https://flightclub.com/wmns-gel-jog-mc-white-sea-glass-1202a147-101",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f351dd57-d3ce-4a7f-9a68-aced8e9a255c",
+            "sku": "1202A024-102",
+            "brand": "ASICS",
+            "name": "Wmns Japan S Platform 'White Blue Bliss'",
+            "colorway": "White/Blue Bliss",
+            "gender": "women",
+            "silhouette": "Japan",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-02",
+            "retailPrice": 70,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/301/959/original/1202A024_102.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/301/959/original/1202A024_102.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/301/959/original/1202A024_102.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-japan-s-platform-white-blue-bliss-1202a024-102",
+                "flightClub": "https://flightclub.com/wmns-japan-s-platform-white-blue-bliss-1202a024-102",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1f796cac-a838-4024-ac2a-e90ea92d9af3",
+            "sku": "1202A306-100",
+            "brand": "ASICS",
+            "name": "Wmns Lyte Classic 'Cream Butter'",
+            "colorway": "Cream/Butter",
+            "gender": "women",
+            "silhouette": "Lyte Classic",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-25",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/536/516/original/1202A306_100.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/536/516/original/1202A306_100.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/536/516/original/1202A306_100.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-lyte-classic-cream-butter-1202a306-100",
+                "flightClub": "https://flightclub.com/wmns-lyte-classic-cream-butter-1202a306-100",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4b0b850a-6cd6-43d0-a092-481fbdcfce8b",
+            "sku": "1012A908-302",
+            "brand": "ASICS",
+            "name": "Wmns Jolt 3 'Sage'",
+            "colorway": "Sage/Clear Blue",
+            "gender": "women",
+            "silhouette": "Jolt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-28",
+            "retailPrice": 55,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/251/220/original/1012A908_302.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/251/220/original/1012A908_302.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/251/220/original/1012A908_302.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-jolt-3-sage-1012a908-302",
+                "flightClub": "https://flightclub.com/wmns-jolt-3-sage-1012a908-302",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "928a298d-9079-4f88-90b6-8d40b235125c",
+            "sku": "1012A908-020",
+            "brand": "ASICS",
+            "name": "Wmns Jolt 3 'Sheet Rock Pink Salt'",
+            "colorway": "Sheet Rock/Pink Salt",
+            "gender": "women",
+            "silhouette": "Jolt",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-27",
+            "retailPrice": 55,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/251/218/original/1012A908_020.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/251/218/original/1012A908_020.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/251/218/original/1012A908_020.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-jolt-3-sheet-rock-pink-salt-1012a908-020",
+                "flightClub": "https://flightclub.com/wmns-jolt-3-sheet-rock-pink-salt-1012a908-020",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}

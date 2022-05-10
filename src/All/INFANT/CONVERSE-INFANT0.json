@@ -1,0 +1,2604 @@
+{
+    "results": [
+        {
+            "id": "a685ece9-8302-488d-b4b6-115c2ee31c9c",
+            "sku": "A01203F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star High TD 'Easy-On Plants'",
+            "colorway": "Black/Mason/Lime Rave/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-26",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/413/031/original/A01203F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/413/031/original/A01203F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/413/031/original/A01203F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-td-easy-on-plants-a01203f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-high-td-easy-on-plants-a01203f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "61d346ac-01b9-4813-ba72-2ee19c17995f",
+            "sku": "A02213C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Easy-On Low TD 'Floral Embroidery'",
+            "colorway": "Vintage White/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/662/701/original/A02213C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/662/701/original/A02213C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/662/701/original/A02213C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-easy-on-low-td-floral-embroidery-a02213c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-easy-on-low-td-floral-embroidery-a02213c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "593a27d6-a96f-4a14-bfeb-9997d3ba4b1c",
+            "sku": "A00389F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Sweet Scoops'",
+            "colorway": "Pink Foam/Prime Pink",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/416/614/original/A00389F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/416/614/original/A00389F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/416/614/original/A00389F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-sweet-scoops-a00389f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-sweet-scoops-a00389f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1d0d617c-fbf5-4a81-b451-38bb5f87535a",
+            "sku": "A01209F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Ice Pop'",
+            "colorway": "White/Baltic Blue/Lime Rave",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/416/628/original/A01209F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/416/628/original/A01209F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/416/628/original/A01209F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-ice-pop-a01209f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-ice-pop-a01209f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "659101af-0ca1-4caf-8eb5-0e796e1fdd7f",
+            "sku": "A00391C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Glitter Drip'",
+            "colorway": "White/Natural Ivory/Purple",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-02",
+            "retailPrice": 40,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/416/616/original/A00391C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/416/616/original/A00391C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/416/616/original/A00391C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-glitter-drip-a00391c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-glitter-drip-a00391c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f1958223-66a5-4f75-a03e-b2e11f40bd81",
+            "sku": "A01580F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star High TD 'Crafted with Love'",
+            "colorway": "Vintage White/University Red",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-09",
+            "retailPrice": 40,
+            "estimatedMarketValue": 39,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/811/original/A01580F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/811/original/A01580F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/811/original/A01580F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-td-crafted-with-love-a01580f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-high-td-crafted-with-love-a01580f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "131ef023-aefc-4df5-a40d-252620628920",
+            "sku": "772790C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Ultra Easy-On Mid TD 'White University Red'",
+            "colorway": "White/Black/University Red",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-07",
+            "retailPrice": 45,
+            "estimatedMarketValue": 45,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/657/558/original/772790C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/657/558/original/772790C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/657/558/original/772790C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-ultra-easy-on-mid-td-white-university-red-772790c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-ultra-easy-on-mid-td-white-university-red-772790c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f72d6f8c-40d6-4127-a1a3-bc525dd9323b",
+            "sku": "772788C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Ultra Easy-On Mid TD 'Mouse Pink Zest'",
+            "colorway": "Mouse/Storm Pink/Pink Zest",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-07",
+            "retailPrice": 45,
+            "estimatedMarketValue": 45,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/657/557/original/772788C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/657/557/original/772788C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/657/557/original/772788C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-ultra-easy-on-mid-td-mouse-pink-zest-772788c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-ultra-easy-on-mid-td-mouse-pink-zest-772788c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1e3c4600-7581-4961-9ea9-b9d877abe83d",
+            "sku": "A01620F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Easy-On High TD 'Bees'",
+            "colorway": "Pink Foam/White/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-27",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/177/979/original/A01620F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/177/979/original/A01620F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/177/979/original/A01620F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-easy-on-high-td-bees-a01620f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-easy-on-high-td-bees-a01620f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "89cf1f24-c6b7-49a0-80bb-2d832e615ef4",
+            "sku": "A01618C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Easy-On Low TD 'Butterfly Embroidery - Pale Amethyst'",
+            "colorway": "Pale Amethyst/Crimson Tint",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-17",
+            "retailPrice": 40,
+            "estimatedMarketValue": 744,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/565/257/original/A01618C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/565/257/original/A01618C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/565/257/original/A01618C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-easy-on-low-td-butterfly-embroidery-pale-amethyst-a01618c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-easy-on-low-td-butterfly-embroidery-pale-amethyst-a01618c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "da3109ce-4936-4a83-b518-e9ca46d2d8cf",
+            "sku": "A01617C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Easy-On High TD 'Embroidered Floral Print - Natural Ivory'",
+            "colorway": "Natural Ivory/White/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-17",
+            "retailPrice": 50,
+            "estimatedMarketValue": 746,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/565/256/original/A01617C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/565/256/original/A01617C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/565/256/original/A01617C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-easy-on-high-td-embroidered-floral-print-natural-ivory-a01617c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-easy-on-high-td-embroidered-floral-print-natural-ivory-a01617c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "206078db-b236-4eb2-83ed-2327fede4750",
+            "sku": "772942F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Easy-On Low TD 'Creatures'",
+            "colorway": "White/Ash Stone/Dk Marina Blue",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-16",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/565/248/original/772942F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/565/248/original/772942F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/565/248/original/772942F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-easy-on-low-td-creatures-772942f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-easy-on-low-td-creatures-772942f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a3732abd-b769-47b7-9af9-fc14fa6bbb7b",
+            "sku": "772751F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Easy-On Low TD 'Seahorses'",
+            "colorway": "White/Storm Pink/Light Dew",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-16",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/565/245/original/772751F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/565/245/original/772751F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/565/245/original/772751F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-easy-on-low-td-seahorses-772751f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-easy-on-low-td-seahorses-772751f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d7e673d3-0455-4c2f-98f9-4a90703d5e97",
+            "sku": "772875F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Easy-On Low TD 'Pirates'",
+            "colorway": "White/University Red/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-16",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/565/247/original/772875F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/565/247/original/772875F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/565/247/original/772875F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-easy-on-low-td-pirates-772875f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-easy-on-low-td-pirates-772875f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8da01f21-632c-48eb-9abb-afeb56cc1286",
+            "sku": "A01229F",
+            "brand": "Converse",
+            "name": "Pokemon x Chuck Taylor All Star High TD 'First Partners'",
+            "colorway": "Black/Multi/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-10",
+            "retailPrice": 40,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/066/202/070/original/A01229F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/066/202/070/original/A01229F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/066/202/070/original/A01229F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/pokemon-x-chuck-taylor-all-star-high-td-first-partners-a01229f",
+                "flightClub": "https://flightclub.com/pokemon-x-chuck-taylor-all-star-high-td-first-partners-a01229f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "94c4e5be-99df-41bc-afa8-ff7dfc26f8bf",
+            "sku": "A01232C",
+            "brand": "Converse",
+            "name": "Pokemon x Chuck Taylor All Star Easy-On Low TD 'Jigglypuff'",
+            "colorway": "Daybreak Pink/White/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-07",
+            "retailPrice": 0,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/998/849/original/A01232C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/998/849/original/A01232C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/998/849/original/A01232C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/pokemon-x-chuck-taylor-all-star-easy-on-low-td-jigglypuff-a01232c",
+                "flightClub": "https://flightclub.com/pokemon-x-chuck-taylor-all-star-easy-on-low-td-jigglypuff-a01232c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c5b00302-4565-4e92-8f42-0fbfa8aea0b2",
+            "sku": "A01231C",
+            "brand": "Converse",
+            "name": "Pokemon x Chuck Taylor All Star Easy-On Low TD 'Pikachu'",
+            "colorway": "Vibrant Yellow/Black/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-07",
+            "retailPrice": 0,
+            "estimatedMarketValue": 120,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/607/319/original/883853_00.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/607/319/original/883853_00.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/607/319/original/883853_00.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/pokemon-x-chuck-taylor-all-star-easy-on-low-td-pikachu-a01231c",
+                "flightClub": "https://flightclub.com/pokemon-x-chuck-taylor-all-star-easy-on-low-td-pikachu-a01231c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3a561965-e4b5-4b45-9e53-8cdf8693dd32",
+            "sku": "772870F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Easy-On Mid TD 'Creatures - Mouse Virtual Matcha'",
+            "colorway": "Mouse/Virtual Matcha/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-04",
+            "retailPrice": 40,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/657/559/original/772870F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/657/559/original/772870F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/657/559/original/772870F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-easy-on-mid-td-creatures-mouse-virtual-matcha-772870f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-easy-on-mid-td-creatures-mouse-virtual-matcha-772870f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "58614530-98c9-4166-8d31-915faf8c7e5a",
+            "sku": "772945F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Easy-On Low TD 'Rainbow Castles'",
+            "colorway": "White/Storm Pink/Washed Teal",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-03",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/891/016/original/772945F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/891/016/original/772945F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/891/016/original/772945F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-easy-on-low-td-rainbow-castles-772945f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-easy-on-low-td-rainbow-castles-772945f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "78d684f5-dda2-4a48-b723-96dfe5759c0a",
+            "sku": "772878F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Easy-On High TD 'Pixel Purple Glitter'",
+            "colorway": "Pixel Purple/Pale Amethyst",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2022",
+            "releaseDate": "2022-01-03",
+            "retailPrice": 45,
+            "estimatedMarketValue": 45,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/891/015/original/772878F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/891/015/original/772878F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/891/015/original/772878F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-easy-on-high-td-pixel-purple-glitter-772878f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-easy-on-high-td-pixel-purple-glitter-772878f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "30c0a8ab-30af-4f43-ae8d-d93ca11dbdb7",
+            "sku": "772914F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Wolf Pack - White'",
+            "colorway": "White/Garnet/Navy",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-11",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/690/272/original/772914F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/690/272/original/772914F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/690/272/original/772914F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-wolf-pack-white-772914f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-wolf-pack-white-772914f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "38e7acc7-0389-4f67-b784-77fb31c136a7",
+            "sku": "771466C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Dino Daze'",
+            "colorway": "White/University Blue",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-11",
+            "retailPrice": 35,
+            "estimatedMarketValue": 748,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/690/269/original/771466C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/690/269/original/771466C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/690/269/original/771466C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-dino-daze-771466c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-dino-daze-771466c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "eae77d51-b79b-4e9c-bb23-241c63ffc2dd",
+            "sku": "735511F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star High TD 'Snorkel Blue'",
+            "colorway": "Snorkel Blue",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-11",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/690/268/original/735511F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/690/268/original/735511F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/690/268/original/735511F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-td-snorkel-blue-735511f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-high-td-snorkel-blue-735511f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "31c917a8-efc2-4548-944e-7a949c7c5602",
+            "sku": "772252F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Leopard Print'",
+            "colorway": "Egret/Black/Prime Pink",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-10",
+            "retailPrice": 35,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/690/270/original/772252F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/690/270/original/772252F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/690/270/original/772252F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-leopard-print-772252f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-leopard-print-772252f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8423abb1-e232-4ce9-abc4-942f31a2e902",
+            "sku": "760182C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Easy-On Low TD 'Holiday Print' By You",
+            "colorway": "Multi-Color/Multi-Color",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-01",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/155/051/original/760182C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/155/051/original/760182C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/155/051/original/760182C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-easy-on-low-td-holiday-print-by-you-760182c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-easy-on-low-td-holiday-print-by-you-760182c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b13a94fe-5d35-4ed7-ab2a-da961d86e633",
+            "sku": "760174C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low TD By You",
+            "colorway": "Multi-Color/Multi-Color",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-12-01",
+            "retailPrice": 45,
+            "estimatedMarketValue": 45,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/155/050/original/760174C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/155/050/original/760174C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/155/050/original/760174C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-td-by-you-760174c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-td-by-you-760174c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9a8e3bdf-e38c-4d21-bfb4-279775224dd6",
+            "sku": "731717F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low TD 'Lemon Chrome'",
+            "colorway": "Lemon Chrome",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-30",
+            "retailPrice": 30,
+            "estimatedMarketValue": 30,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/097/059/original/731717F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/097/059/original/731717F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/097/059/original/731717F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-td-lemon-chrome-731717f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-td-lemon-chrome-731717f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3a2c9e38-9119-4ed4-9159-5d627e63a82e",
+            "sku": "765473C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star High Hook and Loop TD 'Unicons'",
+            "colorway": "Light Blue/Black/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-29",
+            "retailPrice": 40,
+            "estimatedMarketValue": 62,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/042/446/original/765473C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/042/446/original/765473C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/042/446/original/765473C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-hook-and-loop-td-unicons-765473c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-high-hook-and-loop-td-unicons-765473c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3b2c4584-3d53-451e-8bba-7392a9481def",
+            "sku": "763713C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Hook and Loop TD 'Dinoverse Print'",
+            "colorway": "White/Enamel Red/Totally Blue",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-11-28",
+            "retailPrice": 35,
+            "estimatedMarketValue": 256,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/064/042/445/original/763713C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/064/042/445/original/763713C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/064/042/445/original/763713C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-hook-and-loop-td-dinoverse-print-763713c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-hook-and-loop-td-dinoverse-print-763713c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1c08fb0d-9f7c-4700-bb00-ecb5c563588f",
+            "sku": "772223F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Constellations'",
+            "colorway": "White/Storm Pink/Gold",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-10",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/446/original/772223F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/446/original/772223F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/446/original/772223F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-constellations-772223f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-constellations-772223f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "52deacea-9b28-4a92-b762-c13206ca7898",
+            "sku": "772104F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Snowy Leopard'",
+            "colorway": "Light Armory Blue/Storm Pink",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-10",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/445/original/772104F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/445/original/772104F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/445/original/772104F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-snowy-leopard-772104f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-snowy-leopard-772104f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e94e3e0c-2695-4058-9f89-e52802b278a5",
+            "sku": "772100C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Winter Glitter'",
+            "colorway": "Silver/Black/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-07",
+            "retailPrice": 40,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/444/original/772100C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/444/original/772100C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/444/original/772100C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-winter-glitter-772100c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-winter-glitter-772100c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2122a938-539f-4a07-ab2c-a730bab8877b",
+            "sku": "737837F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low TD 'Electric Purple'",
+            "colorway": "Electric Purple",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-10-03",
+            "retailPrice": 30,
+            "estimatedMarketValue": 30,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/702/443/original/737837F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/702/443/original/737837F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/702/443/original/737837F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-td-electric-purple-737837f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-td-electric-purple-737837f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "45d1bd0b-01c4-4086-85e6-4942e88c12a5",
+            "sku": "768999F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star High TD 'Lemon Chrome'",
+            "colorway": "Lemon Chrome/White/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-29",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/061/211/134/original/768999F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/061/211/134/original/768999F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/061/211/134/original/768999F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-td-lemon-chrome-768999f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-high-td-lemon-chrome-768999f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2b122da7-4f23-4c26-a018-bc5f4be1e582",
+            "sku": "772588F",
+            "brand": "Converse",
+            "name": "Jean-Michel Basquiat x Chuck Taylor All Star High TD 'Pez Dispenser'",
+            "colorway": "Black/Multi/Egret",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-16",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "The Jean-Michel Basquiat x Converse Chuck Taylor All Star High TD ‘Pez Dispenser’ is taken from a capsule collection celebrating the legacy of the influential Brooklyn-born artist. His Pez Dispenser graphic is appliqued on the lateral side of the upper, crafted from black canvas and lined in breathable mesh. A circular All Star patch adorns the medial ankle, while ‘Basquiat’ is inscribed across the tongue. The high-top rides on a crisp white rubber midsole with contrasting black pinstripes.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/469/636/original/772588F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/469/636/original/772588F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/469/636/original/772588F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/jean-michel-basquiat-x-chuck-taylor-all-star-high-td-pez-dispenser-772588f",
+                "flightClub": "https://flightclub.com/jean-michel-basquiat-x-chuck-taylor-all-star-high-td-pez-dispenser-772588f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f7c60f04-3968-4190-a0dc-5f520d083c71",
+            "sku": "771525C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Berkshire Boot Easy-On TD 'Black'",
+            "colorway": "Black/Black/Pale Putty",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-14",
+            "retailPrice": 60,
+            "estimatedMarketValue": 115,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/526/417/original/771525C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/526/417/original/771525C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/526/417/original/771525C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-berkshire-boot-easy-on-td-black-771525c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-berkshire-boot-easy-on-td-black-771525c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fac9ea87-e0ef-4d52-a1e3-239741ea0ed6",
+            "sku": "771526C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Berkshire Boot Easy-On TD 'Rust Pink'",
+            "colorway": "Rust Pink/Rust Pink/Pale Putty",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-09-14",
+            "retailPrice": 60,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/060/526/418/original/771526C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/060/526/418/original/771526C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/060/526/418/original/771526C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-berkshire-boot-easy-on-td-rust-pink-771526c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-berkshire-boot-easy-on-td-rust-pink-771526c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0267c7a9-67f1-4b08-ab5f-51d7eaa51c5c",
+            "sku": "771006F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Fantasy Print'",
+            "colorway": "White/Multi/Wild Lilac",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-25",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/059/672/416/original/771006F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/059/672/416/original/771006F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/059/672/416/original/771006F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-fantasy-print-771006f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-fantasy-print-771006f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9ef8e4ca-a0bd-4283-b84e-e75f800993d3",
+            "sku": "771601C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star High Easy-On TD 'Friendly Floral '",
+            "colorway": "White/Pixel Purple",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-24",
+            "retailPrice": 40,
+            "estimatedMarketValue": 256,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/059/672/417/original/771601C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/059/672/417/original/771601C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/059/672/417/original/771601C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-easy-on-td-friendly-floral-771601c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-high-easy-on-td-friendly-floral-771601c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0c13b6e0-19b0-47b5-930b-f16117add003",
+            "sku": "772441F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Explorer'",
+            "colorway": "White/Midnight Navy/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-15",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/059/672/418/original/772441F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/059/672/418/original/772441F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/059/672/418/original/772441F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-explorer-772441f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-explorer-772441f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "722aafd7-21d0-415d-a638-a4d210b6df3c",
+            "sku": "760170C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star High TD By You",
+            "colorway": "Multi-Color/Multi-Color",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-08-12",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/059/737/639/original/760170C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/059/737/639/original/760170C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/059/737/639/original/760170C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-td-by-you-760170c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-high-td-by-you-760170c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c90ee7c3-0bb6-4774-a600-bf182bb880b1",
+            "sku": "772451F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star High TD 'Happy Hoops'",
+            "colorway": "White/Black/Multi-Color",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-07-20",
+            "retailPrice": 40,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/057/798/562/original/772451F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/057/798/562/original/772451F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/057/798/562/original/772451F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-td-happy-hoops-772451f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-high-td-happy-hoops-772451f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ea86af97-04e6-41d1-95de-6cd90efe5b22",
+            "sku": "772452F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Happy Hoops'",
+            "colorway": "White/Black/Multi-Color",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-07-20",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/057/798/563/original/772452F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/057/798/563/original/772452F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/057/798/563/original/772452F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-happy-hoops-772452f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-happy-hoops-772452f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "53dd58ba-678d-47ee-afa1-9dcfb44d0ef0",
+            "sku": "772487F",
+            "brand": "Converse",
+            "name": "Space Jam x Chuck Taylor All Star High TD 'Tune Squad'",
+            "colorway": "Black/Multi/While",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-07-16",
+            "retailPrice": 40,
+            "estimatedMarketValue": 69,
+            "story": "The Converse Chuck Taylor All Star High TD ‘Tune Squad’ pays tribute to LeBron James’ animated teammates from ‘Space Jam: A New Legacy.’ The black canvas upper is covered in a tonal circuit board print and colorful graphics that depict a cast of Looney Tunes all-stars, including Bugs Bunny, Lola Bunny, Daffy Duck, Marvin the Martian, and Taz. Orange accents make their way to the circular All Star ankle patch and tongue, featuring Tune Squad branding. The high-top sits on a crisp white rubber midsole with contrasting black pinstripes.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/057/724/719/original/796824_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/057/724/719/original/796824_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/057/724/719/original/796824_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/space-jam-x-chuck-taylor-all-star-high-td-tune-squad-772487f",
+                "flightClub": "https://flightclub.com/space-jam-x-chuck-taylor-all-star-high-td-tune-squad-772487f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a09d2535-965d-460c-9eed-bd210e400015",
+            "sku": "772487C",
+            "brand": "Converse",
+            "name": "Space Jam x Chuck Taylor All Star High TD 'Tune Squad'",
+            "colorway": "Black/Multi/While",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-07-16",
+            "retailPrice": 0,
+            "estimatedMarketValue": 79,
+            "story": "The Converse Chuck Taylor All Star High TD ‘Tune Squad’ celebrates the release of ‘Space Jam: A New Legacy’ with a scaled-down build made for little feet. The black canvas upper features a tonal circuit board print and colorful graphics made up of the film’s animated cast, including Bugs Bunny, Lola Bunny, Daffy Duck, Tweety Bird, Marvin the Martian, Taz and more. Tune Squad branding graces the tongue, while a circular All Star patch adorns the medial ankle. The high-top rests on a crisp white rubber midsole with contrasting black pinstripes.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/058/470/332/original/772487C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/058/470/332/original/772487C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/058/470/332/original/772487C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/space-jam-x-chuck-taylor-all-star-high-td-tune-squad-772487c",
+                "flightClub": "https://flightclub.com/space-jam-x-chuck-taylor-all-star-high-td-tune-squad-772487c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ee07d84d-d15c-41a4-8bc6-58eb5ff85643",
+            "sku": "772484F",
+            "brand": "Converse",
+            "name": "Space Jam x Chuck 70 High TD 'A New Legacy'",
+            "colorway": "Black/Mantra Orange/Multi",
+            "gender": "infant",
+            "silhouette": "Chuck 70",
+            "releaseYear": "2021",
+            "releaseDate": "2021-07-16",
+            "retailPrice": 75,
+            "estimatedMarketValue": 54,
+            "story": "Celebrating the release of LeBron James’ standalone ‘Space Jam’ sequel, the Converse Chuck 70 High TD ‘A New Legacy’ makes use of a black canvas upper with wraparound orange and yellow rings inspired by classic Looney Tunes branding. Atop the lateral heel, mismatched and oversized chenille patches feature the Tune Squad logo on the left shoe and LeBron James’ Tune Squad jersey number on the right. The high-top rides on an off-white rubber midsole with contrasting black pinstripes.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/057/414/578/original/772484F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/057/414/578/original/772484F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/057/414/578/original/772484F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/space-jam-x-chuck-70-high-td-a-new-legacy-772484f",
+                "flightClub": "https://flightclub.com/space-jam-x-chuck-70-high-td-a-new-legacy-772484f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7f7e70b2-339a-478a-8e4a-a90b62276825",
+            "sku": "770877C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low TD 'Utility Colorblock - Superplay Knit'",
+            "colorway": "Storm Wind/Black/Bright Poppy",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-06-12",
+            "retailPrice": 45,
+            "estimatedMarketValue": 45,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/056/174/831/original/770877C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/056/174/831/original/770877C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/056/174/831/original/770877C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-td-utility-colorblock-superplay-knit-770877c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-td-utility-colorblock-superplay-knit-770877c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "92a743ec-ef25-4242-89f1-4cace50acecb",
+            "sku": "770688F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low TD 'Allover Metallic Stars - White'",
+            "colorway": "White/Black/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-04-28",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "Built for toddlers, the Converse Chuck Taylor All Star Low TD ‘Allover Metallic Stars’ features convenient slip-on construction with dual hook-and-loop closure in lieu of conventional laces. The white canvas upper is covered in all-over print made up of multicolor stars in a metallic tint. A webbing pull tab at the heel assists with easy on and off, while a SmartFOAM sockliner delivers cushioned comfort for growing feet. Traditional Chuck details include a reinforced toe cap and a woven Converse All Star tag atop the tongue.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/009/490/original/770688F.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/009/490/original/770688F.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/009/490/original/770688F.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-td-allover-metallic-stars-white-770688f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-td-allover-metallic-stars-white-770688f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cf72d44f-34ca-490f-9150-322ae459adff",
+            "sku": "770695F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star High TD 'Gingham'",
+            "colorway": "Bright Poppy/White/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-04-28",
+            "retailPrice": 45,
+            "estimatedMarketValue": 45,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/258/792/original/770695F.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/258/792/original/770695F.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/258/792/original/770695F.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-td-gingham-770695f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-high-td-gingham-770695f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "898e2b53-48e3-4006-ab31-5e776905f1b4",
+            "sku": "770874C",
+            "brand": "Converse",
+            "name": "Jack Purcell Low TD 'Mythical Creatures - Dinosaur'",
+            "colorway": "Midnight Navy/White/Green",
+            "gender": "infant",
+            "silhouette": "Jack Purcell",
+            "releaseYear": "2021",
+            "releaseDate": "2021-04-16",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/053/461/028/original/770874C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/461/028/original/770874C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/053/461/028/original/770874C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/jack-purcell-low-td-mythical-creatures-dinosaur-770874c",
+                "flightClub": "https://flightclub.com/jack-purcell-low-td-mythical-creatures-dinosaur-770874c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8b4cae56-c95a-4c55-8a69-22f19375a87c",
+            "sku": "771909F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low TD 'Paint Splatter - White'",
+            "colorway": "White/Multi/Garnet",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-04-13",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/053/628/764/original/771909F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/628/764/original/771909F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/053/628/764/original/771909F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-td-paint-splatter-white-771909f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-td-paint-splatter-white-771909f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "26a26039-b68c-4420-b274-2cc7a1681918",
+            "sku": "770652F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low TD 'Gingham'",
+            "colorway": "Black/White/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-03-27",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/052/534/289/original/770652F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/534/289/original/770652F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/052/534/289/original/770652F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-td-gingham-770652f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-td-gingham-770652f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5e8b0b48-ea4b-4e1c-ae87-dd06bcdb0487",
+            "sku": "770708F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star High TD 'A Bug's World'",
+            "colorway": "White/Natural Ivory/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-03-26",
+            "retailPrice": 40,
+            "estimatedMarketValue": 143,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/052/534/291/original/770708F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/534/291/original/770708F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/052/534/291/original/770708F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-td-a-bug-s-world-770708f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-high-td-a-bug-s-world-770708f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d240fc6c-d2ef-4559-890e-6067a0224a98",
+            "sku": "770655F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low TD 'Butterfly'",
+            "colorway": "White/Black/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-03-26",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/052/534/290/original/770655F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/052/534/290/original/770655F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/052/534/290/original/770655F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-td-butterfly-770655f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-td-butterfly-770655f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "556b8a49-6c74-4a12-8cfb-2979050e1444",
+            "sku": "770181F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low TD 'Metallic Canvas - Blush Gold'",
+            "colorway": "Blush Gold/White/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-02-18",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/050/716/137/original/770181F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/716/137/original/770181F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/050/716/137/original/770181F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-td-metallic-canvas-blush-gold-770181f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-td-metallic-canvas-blush-gold-770181f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "535e2646-2957-4da6-898c-3f51d96488e3",
+            "sku": "771093C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star High TD 'My Wish'",
+            "colorway": "White/Pink/Silver",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-02-04",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/294/145/original/771093C.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/294/145/original/771093C.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/294/145/original/771093C.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-td-my-wish-771093c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-high-td-my-wish-771093c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6ea44897-9aa8-43b1-85ac-0596a5f25bf5",
+            "sku": "770502F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star High TD 'Ditsy Floral'",
+            "colorway": "White/Twilight Pulse",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-02-04",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/050/192/462/original/770502F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/192/462/original/770502F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/050/192/462/original/770502F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-td-ditsy-floral-770502f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-high-td-ditsy-floral-770502f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "76fef59b-8bf1-4547-acfc-22c00140cd9b",
+            "sku": "770178C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Easy-On Low TD 'Coated Glitter'",
+            "colorway": "Bold Pink/White/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-02-04",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/050/041/791/original/770178C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/050/041/791/original/770178C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/050/041/791/original/770178C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-easy-on-low-td-coated-glitter-770178c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-easy-on-low-td-coated-glitter-770178c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "94433dac-3e03-44aa-9ddf-e767a4dd8b13",
+            "sku": "770172F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low TD 'Gamer - Rainbows and Diamonds'",
+            "colorway": "White/Black/Bold Pink",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2021",
+            "releaseDate": "2021-01-10",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/293/999/original/770172F.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/293/999/original/770172F.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/293/999/original/770172F.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-td-gamer-rainbows-and-diamonds-770172f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-td-gamer-rainbows-and-diamonds-770172f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "316d3c3b-6953-4d60-9613-b85d9f19af92",
+            "sku": "770208C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Superplay TD 'Digital Terrain - Black'",
+            "colorway": "Black/Court Green/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2020",
+            "releaseDate": "2020-12-31",
+            "retailPrice": 50,
+            "estimatedMarketValue": 220,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/048/476/274/original/770208C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/476/274/original/770208C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/048/476/274/original/770208C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-superplay-td-digital-terrain-black-770208c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-superplay-td-digital-terrain-black-770208c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6904e651-fdfe-4b59-af0e-83428f647bf5",
+            "sku": "771129F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low TD 'Jungle Fun'",
+            "colorway": "White/Black/Yellow",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2020",
+            "releaseDate": "2020-12-31",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/048/476/277/original/771129F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/476/277/original/771129F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/048/476/277/original/771129F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-td-jungle-fun-771129f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-td-jungle-fun-771129f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b6269049-eaaf-4fb3-9270-7c5bd073270e",
+            "sku": "770213F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low TD 'Gamer - Knights and Skeletons'",
+            "colorway": "Storm Wind/Black/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2020",
+            "releaseDate": "2020-12-31",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/048/476/276/original/770213F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/476/276/original/770213F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/048/476/276/original/770213F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-td-gamer-knights-and-skeletons-770213f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-td-gamer-knights-and-skeletons-770213f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bd17766c-0966-4f40-aa16-06970f1b9aa3",
+            "sku": "770169F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Easy-On TD '8-Bit Dinosaur Print'",
+            "colorway": "Black/Natural Ivory/Dark Soba",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2020",
+            "releaseDate": "2020-12-26",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/048/072/945/original/770169F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/048/072/945/original/770169F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/048/072/945/original/770169F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-easy-on-td-8-bit-dinosaur-print-770169f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-easy-on-td-8-bit-dinosaur-print-770169f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5a19e748-1815-4ec6-8cf9-e7872a25aafa",
+            "sku": "769297C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Coated Glitter'",
+            "colorway": "Black/Bright Coral/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2020",
+            "releaseDate": "2020-10-01",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/043/629/824/original/769297C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/043/629/824/original/769297C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/043/629/824/original/769297C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-coated-glitter-769297c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-coated-glitter-769297c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6d6dbd91-dba5-44f4-a269-44c9438c75b3",
+            "sku": "769108F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Neon Unicorn'",
+            "colorway": "Pink Foam/Multi/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2020",
+            "releaseDate": "2020-10-01",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/043/629/822/original/769108F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/043/629/822/original/769108F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/043/629/822/original/769108F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-neon-unicorn-769108f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-neon-unicorn-769108f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "586d4d82-297a-4a9c-a251-9bbbaf44fb97",
+            "sku": "7S121",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star SP High Infant 'Triple Black'",
+            "colorway": "Black/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2019",
+            "releaseDate": "2019-06-14",
+            "retailPrice": 0,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/029/682/649/original/7S121.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/029/682/649/original/7S121.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/029/682/649/original/7S121.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-sp-high-infant-triple-black-7s121",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-sp-high-infant-black-black-146673",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "208a84b2-c70c-4f2a-bb8b-be131686a924",
+            "sku": "7J256",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Ox TD 'Optic White'",
+            "colorway": "Optic White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 30,
+            "estimatedMarketValue": 40,
+            "story": "The Converse Chuck Taylor All Star Ox TD is characterized by distinctly retro styling and court-specific tooling. Debuted in December 2018, this version for kid&#39;s is clad in Optic White canvas reinforced by metal eyelets and a signature toe cap. A classic tricolor palette revamps the tongue label, foxing bands and heel patch. The sneaker is supported by a vulcanized rubber sole equipping Waffle tread.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/038/470/890/original/7J256.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/038/470/890/original/7J256.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/038/470/890/original/7J256.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ct-all-star-toddler-low-top-optic-white-7j256",
+                "flightClub": "https://flightclub.com/c-t-a-s-ox-optic-white-137683",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "23aad88b-6247-4a09-84e1-fc56208b2199",
+            "sku": "754382F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Hi TD 'Oxygen Blue'",
+            "colorway": "Oxygen Blue",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 35,
+            "story": "The Converse Chuck Taylor All Star Hi TD distills nostalgia and classic style for kids. Released in December 2018, this edition&#39;s Oxygen Blue canvas upper is detailed with contrast topstitching and the iconic All-Star ankle patch. A toe cap, metal eyelets and high foxing tape reinforce the construction for added durability. Featuring a sidewall stripe and heel logo, the sneaker&#39;s vulcanized rubber outsole includes Waffle tread.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/022/474/300/original/754382F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/022/474/300/original/754382F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/022/474/300/original/754382F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-hi-td-oxygen-blue-754382f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-hi-td-oxygen-blue-137676",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2c05c180-a410-4551-9858-4b71d1d614aa",
+            "sku": "344806F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Ox 'Cosmos Pink'",
+            "colorway": "Cosmic Pink",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "The Converse Chuck Taylor All Star Ox sneaker is a playful rework of the icon just for kids. Debuted in December 2018, this edition takes a bold stance in Cosmos Pink canvas offset by a white toe cap and topstitching. Metal eyelets promote durability and signature logo patches hallmark the update. Reinforced by contrast foxing tape and a corrugated bumper, the vulcanized rubber sole resists abrasion thanks to classic Waffle tread.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/022/060/795/original/344806F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/022/060/795/original/344806F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/022/060/795/original/344806F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ct-ox-low-top-cosmos-pink-344806f",
+                "flightClub": "https://flightclub.com/ct-ox-cosmos-cosmic-pink-137733",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4d39b555-47ff-44a8-914a-6bf4f2d87068",
+            "sku": "339791F",
+            "brand": "Converse",
+            "name": "Chuck Taylor Oxford Low 'Blue Lemonade'",
+            "colorway": "Blue/Lemonade",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/029/682/559/original/339791F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/029/682/559/original/339791F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/029/682/559/original/339791F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-oxford-low-blue-lemonade-339791f",
+                "flightClub": "https://flightclub.com/chuck-taylor-oxford-low-blue-lemonade-143383",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4f910411-df4c-449d-a52f-8bf0c9a4386d",
+            "sku": "658069C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Asphalt High Boot TD 'Sequoia'",
+            "colorway": "Sequoia/Medium Olive/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/029/682/628/original/658069C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/029/682/628/original/658069C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/029/682/628/original/658069C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-asphalt-high-boot-td-sequoia-658069c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-asphalt-high-boot-td-sequoia-medium-olive-black-137729",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5c85bc1b-a3c7-4c75-a9c3-881e9f738130",
+            "sku": "732297F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Ox TD 'Kombu'",
+            "colorway": "Kombu Green",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "Converse&#39;s Chuck Taylor All Star Ox TD is a laid-back rendition of the celebrated sneaker icon. This kid&#39;s version—arrived in December 2018—captures the classic canvas upper in &#39;Kombu&#39; with a white toe cap, contrast stitching and metal eyelets. All-Star patches are emblazoned on the tongue and heel. Its vulcanized rubber outsole comes with high foxing tape and a split-colored Waffle tread for durability.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/022/474/296/original/732297F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/022/474/296/original/732297F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/022/474/296/original/732297F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-ox-td-kombu-732297f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-ox-td-kombu-green-137688",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "76dfdc73-287a-4684-8397-9c06af67737b",
+            "sku": "751177F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Ox 'Roadtrip Blue'",
+            "colorway": "Roadtrip Blue",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 30,
+            "estimatedMarketValue": 35,
+            "story": "Converse&#39;s Chuck Taylor All Star Ox sneaker recalls the hoops icon in a low-cut profile infused with classic elements. Updated in December 2018, this kid&#39;s version comes in Roadtrip Blue canvas finished with contrast topstitching, a white toe cap and gold-tone metal eyelets. Signature logo patches appear on the tongue and heel. Its vulcanized rubber sole is reinforced by a high foxing rim and Waffle grip.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/022/060/878/original/751177F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/022/060/878/original/751177F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/022/060/878/original/751177F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ct-all-star-ox-low-top-roadtrip-blue-751177f",
+                "flightClub": "https://flightclub.com/ct-all-star-ox-roadtrip-blue-143391",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8607b897-1a0d-4baf-a434-e2ce3bf707cc",
+            "sku": "751168F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star High Infant 'Roadtrip Blue'",
+            "colorway": "Roadtrip Blue/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/029/682/646/original/751168F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/029/682/646/original/751168F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/029/682/646/original/751168F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-high-infant-roadtrip-blue-751168f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-high-infant-roadtrip-blue-white-137693",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "87bf04d0-ef75-4d40-a672-b56bc636a416",
+            "sku": "750128F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Axel Mid Infant 'Black Chili'",
+            "colorway": "Black/Chili",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/029/682/645/original/750128F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/029/682/645/original/750128F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/029/682/645/original/750128F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-axel-mid-infant-black-chili-750128f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-axel-mid-infant-black-chili-143389",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8f1d9c38-fe54-4ca7-8f8a-3b800397b105",
+            "sku": "649999C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Street Hi 'Thunder'",
+            "colorway": "Thunder/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 45,
+            "estimatedMarketValue": 35,
+            "story": "Converse&#39;s Chuck Taylor All Star Street Hi sneaker for kids sits between sport heritage and modern style. Released in December 2018, this Thunder edition is given a split-colored leather upper contrasted by bright lining, a cap toe and single-wrapped foxing tape. Classic branding includes a star on the tongue, All-Star ankle patch and logo to the heel. Its vulcanized rubber sole offers a surefooted step thanks to Waffle tread.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/022/060/849/original/649999C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/022/060/849/original/649999C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/022/060/849/original/649999C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ct-high-street-high-top-thunder-649999c",
+                "flightClub": "https://flightclub.com/ct-high-street-thunder-black-137686",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "94ece2cf-9819-47a1-90d3-68841f028316",
+            "sku": "122008F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Spec Low TD 'USA'",
+            "colorway": "Red/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/029/682/510/original/122008F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/029/682/510/original/122008F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/029/682/510/original/122008F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-spec-low-td-usa-122008f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-spec-low-td-red-white-137736",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "96147fb6-75ae-49d5-925c-26930835c018",
+            "sku": "347141F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Ox 'Pink Paper'",
+            "colorway": "Pink Paper",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "Converse&#39;s Chuck Taylor All Star Ox sneaker pairs old-school elements and modern construction. This kid&#39;s variant—delivered in December 2018—flaunts a canvas upper in a playful Pink Paper hue, toe cap for durability and polished metal eyelets. Signature branding is echoed on tongue and heel. Contrasted by high foxing tape and a sidewall stripe, the vulcanized white rubber sole employs gum Waffle tread for stability.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/022/060/796/original/347141F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/022/060/796/original/347141F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/022/060/796/original/347141F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ct-ox-low-top-pink-paper-347141f",
+                "flightClub": "https://flightclub.com/ct-ox-pink-paper-137690",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c51ec1b9-798f-4c1c-b6d1-356ce4cafe8e",
+            "sku": "754385F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Ox 'Aegean Aqua'",
+            "colorway": "Aegean Aqua",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 30,
+            "estimatedMarketValue": 35,
+            "story": "The Converse Chuck Taylor All Star Ox kid&#39;s sneaker is classic and versatile, sporting heritage-inspired elements that made the original an icon. Delivered in December 2018, this Aegean Aqua update has a topstitched canvas upper, metal eyelets and a rubberized toe cap for added protection. Dual-toned patch logos brand the tongue and heel. Its vulcanized outsole is accompanied by a corrugated bumper and grippy Waffle tread.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/022/060/879/original/754385F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/022/060/879/original/754385F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/022/060/879/original/754385F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ct-all-star-ox-low-top-aegean-aqua-754385f",
+                "flightClub": "https://flightclub.com/ctas-ox-aegean-aqua-137672",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c90df38b-877d-4dc0-8010-d9f67bed912f",
+            "sku": "7J237",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Ox TD 'Navy'",
+            "colorway": "Navy",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 40,
+            "story": "The Converse Chuck Taylor All Star Ox T sneaker is the court icon scaled down in size for kids. Updated in December 2018, this version is constructed of navy canvas and detailed with a signature toe cap, contrast stitching and metal eyelets. Two-tone branding is placed on the tongue and heel for classic style. Its vulcanized rubber sole is completed with a corrugated bumper and Waffle-patterned gum tread.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/000/011/667/original/7J237.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/000/011/667/original/7J237.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/000/011/667/original/7J237.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/converse-chuck-taylor-all-star-toddler-low-top-navy-7j237",
+                "flightClub": "https://flightclub.com/in-c-t-a-s-ox-navy-137680",
+                "stadiumGoods": "https://sale.stadiumgoods.com/converse-chuck-70-ox-7j237"
+            }
+        },
+        {
+            "id": "cca0ee4a-c844-4367-bfec-65f16bdd6ea6",
+            "sku": "711358F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star 2V Low Infant 'Charcoal Grey'",
+            "colorway": "Charcoalgrey /White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/029/682/636/original/711358F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/029/682/636/original/711358F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/029/682/636/original/711358F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-2v-low-infant-charcoal-grey-711358f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-2v-low-infant-charcoalgrey-white-137689",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d719a16c-21ad-41ee-a699-44b2e8bc658e",
+            "sku": "740245F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Ox 'Atomic Blue'",
+            "colorway": "Atomic Blue",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 27,
+            "estimatedMarketValue": 27,
+            "story": "The Converse Chuck Taylor All Star Ox is the court icon redesigned for the playground. Launched in December 2018, this kid&#39;s iteration in Atomic Blue canvas is contrasted by a bright hue for the laces and stitching. Polished metal eyelets, a signature toe cap and foxing tape offer durability and add classic style. The sneaker is set on top of a vulcanized rubber sole utilizing a Waffle tread pattern for traction.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/025/579/859/original/740245F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/025/579/859/original/740245F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/025/579/859/original/740245F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ct-ox-low-top-atomic-blue-740245f",
+                "flightClub": "https://flightclub.com/ct-ox-atomic-blue-143381",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f763fec4-aedc-4255-9a17-e05acbe4afc3",
+            "sku": "654217F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Ox 'Obsidian'",
+            "colorway": "Obsidian/Oxy",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 40,
+            "estimatedMarketValue": 35,
+            "story": "Converse&#39;s Chuck Taylor All Star Ox matches modern and heritage design elements in a supportive profile to help little ones build mobility. Updated in December 2018, this kid&#39;s variant arrives in Obsidian canvas featuring dotted laces, a contrast toe cap and tonal metal eyelets. Dual-tone patches embellish the tongue and heel. The sneaker owes its durability to high foxing tape and Waffle grip on the striped, vulcanized rubber sole.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/039/418/670/original/511302_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/039/418/670/original/511302_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/039/418/670/original/511302_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ct-ox-all-star-obsidian-654217f",
+                "flightClub": "https://flightclub.com/ct-ox-all-star-obsidian-oxy-143382",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "81e53a24-a750-4e67-a5e4-e02144f75713",
+            "sku": "763909C",
+            "brand": "Converse",
+            "name": "Hello Kitty x One Star Low Top Velcro TD 'Red'",
+            "colorway": "Red",
+            "gender": "infant",
+            "silhouette": "One Star",
+            "releaseYear": "2018",
+            "releaseDate": "2018-12-06",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "Hello Kitty teamed up with Converse to release a velcro version of the One Star silhouette. The Hello Kitty x One Star Low Top Velcro TD &#39;Red&#39; features a red suede upper with a padded collar for comfort, matching polka dot lining, and two velcro straps on the midfoot. The low top also boasts an oversized tongue tab, a chunky white midsole, and a vulcanized outsole for added traction.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/016/775/619/original/763909C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/016/775/619/original/763909C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/016/775/619/original/763909C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/hello-kitty-x-one-star-low-top-velcro-td-red-763909c",
+                "flightClub": "https://flightclub.com/hello-kitty-x-one-star-low-top-velcro-td-red-763909c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "894ed436-5279-42ae-b724-1b905ad8d92d",
+            "sku": "763915F",
+            "brand": "Converse",
+            "name": "Hello Kitty x Chuck Taylor All Star Ox TD 'Red'",
+            "colorway": "Red/Black/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2018",
+            "releaseDate": "2018-12-06",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "Converse joined forces with Hello Kitty to release a toddler-sized iteration of the low cut Chuck Taylor. The Hello Kitty x Chuck Taylor All Star TD &#39;Red&#39; features a red canvas upper with Hello Kitty and Chuck Taylor faces in red and blue. The sneaker also boasts a white rubber toe cap, a branded tongue patch, and a low cut construction for a broader range of motion.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/016/775/622/original/763915F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/016/775/622/original/763915F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/016/775/622/original/763915F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/hello-kitty-x-chuck-taylor-all-star-td-red-763915f",
+                "flightClub": "https://flightclub.com/hello-kitty-x-chuck-taylor-all-star-td-red-763915f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9a362120-d116-4fa2-9d83-2c61e48b815c",
+            "sku": "763921F",
+            "brand": "Converse",
+            "name": "Hello Kitty x Chuck Taylor All Star Hi TD 'Black Blue'",
+            "colorway": "Black/White/Blue",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2018",
+            "releaseDate": "2018-12-06",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "Released exclusively in grade school sizing, the Hello Kitty x Chuck Taylor All Star High Top GS &#39;Black Blue&#39; features a black canvas upper with white stars outlined throughout. The sneaker also boasts a white rubber toe cap, a vulcanized outsole for traction, and a large Hello Kitty graphic on the heel side.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/016/775/625/original/763921F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/016/775/625/original/763921F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/016/775/625/original/763921F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/hello-kitty-x-chuck-taylor-all-star-high-top-td-black-blue-763921f",
+                "flightClub": "https://flightclub.com/hello-kitty-x-chuck-taylor-all-star-high-top-td-black-blue-763921f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bcbea906-bf5c-4dd3-9b50-09f6fdcf3b52",
+            "sku": "763918F",
+            "brand": "Converse",
+            "name": "Hello Kitty x Chuck Taylor All Star Ox TD 'White'",
+            "colorway": "White/Red/Prism Pink",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2018",
+            "releaseDate": "2018-12-06",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "Released in sizes for the whole family, this toddler’s version of the Hello Kitty x Chuck Taylor All Star &#39;White&#39; debuted as part of a collaboration between Converse and Sanrio in 2018. The low-top design is clad in white canvas with an iconic pattern depicting Hello Kitty, fruit, and cupcakes. The collaborative look is complemented by the same stylized fruit on the shoe’s classic white rubber sole.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/016/775/623/original/763918F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/016/775/623/original/763918F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/016/775/623/original/763918F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/hello-kitty-x-chuck-taylor-all-star-td-white-763918f",
+                "flightClub": "https://flightclub.com/hello-kitty-x-chuck-taylor-all-star-td-white-763918f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "31eaf9fa-e5aa-4af5-abd0-d3d81c351850",
+            "sku": "762946F",
+            "brand": "Converse",
+            "name": "Hello Kitty x Chuck Taylor All Star Canvas Hi TD 'White'",
+            "colorway": "White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2018",
+            "releaseDate": "2018-08-16",
+            "retailPrice": 40,
+            "estimatedMarketValue": 390,
+            "story": "Pop culture icon Hello Kitty partnered with Converse to release a toddlers’ shoe that celebrates friendship. The Hello Kitty x Chuck Taylor All Star Canvas High Top TD was designed in the mold of the classic Chuck Taylor silhouette, with a white canvas upper and red accents on the midsole lining. The high-top also boasts graphics of Hello Kitty and her friends along the sides and a large Hello Kitty head on the tongue.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/014/015/122/original/762946F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/014/015/122/original/762946F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/014/015/122/original/762946F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/hello-kitty-x-chuck-taylor-all-star-canvas-high-top-td-762946f",
+                "flightClub": "https://flightclub.com/hello-kitty-x-chuck-taylor-all-star-canvas-high-top-td-762946f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8047d3b5-2bf5-4c29-8527-831efde22f4f",
+            "sku": "762949F",
+            "brand": "Converse",
+            "name": "Hello Kitty x Chuck Taylor Canvas Low Top TD",
+            "colorway": "Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "2018",
+            "releaseDate": "2018-08-16",
+            "retailPrice": 35,
+            "estimatedMarketValue": 200,
+            "story": "Converse released this toddler-sized colorway as part of a collaboration with Hello Kitty. The Hello Kitty x Chuck Taylor Canvas Low Top TD features a breathable black canvas upper with Hello Kitty and friends graphics throughout. The sneaker also boasts a rubber toe cap, a branded tongue and red “Say hello to me when you see me” lettering on the white midsole.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/014/015/123/original/762949F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/014/015/123/original/762949F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/014/015/123/original/762949F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/hello-kitty-x-chuck-taylor-canvas-low-top-td-762949f",
+                "flightClub": "https://flightclub.com/hello-kitty-x-chuck-taylor-canvas-low-top-td-762949f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "036048f2-e404-431a-bc3f-0dadd104c547",
+            "sku": "769566F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star TD 'Tundra Print'",
+            "colorway": "Ash Stone/Bright Coral/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/043/970/802/original/769566F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/043/970/802/original/769566F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/043/970/802/original/769566F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-td-tundra-print-769566f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-td-tundra-print-769566f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0a94cf83-1d23-4bb5-9609-ff83d5cf23c0",
+            "sku": "730337",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Slip-On Ox 'Chuckit'",
+            "colorway": "Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/000/011/629/original/730337.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/000/011/629/original/730337.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/000/011/629/original/730337.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/converse-chuck-taylor-all-star-toddler-low-top-chuckit-slip-black-730337",
+                "flightClub": "https://flightclub.com/converse-chuck-taylor-all-star-toddler-low-top-chuckit-slip-black-730337",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0b565d0f-e147-48b3-9eb4-4b9f20f79c57",
+            "sku": "757585C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Ox 'Crinkle Leather'",
+            "colorway": "Dark Sangria/ Terra Red",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 35,
+            "estimatedMarketValue": 116,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/039/497/968/original/510893_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/039/497/968/original/510893_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/039/497/968/original/510893_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ct-all-star-ox-crinkle-leather-757585c",
+                "flightClub": "https://flightclub.com/ct-all-star-ox-crinkle-leather-757585c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "11794f26-3d12-40b7-a201-4b680fb0d716",
+            "sku": "709447F",
+            "brand": "Converse",
+            "name": "Chuck Taylor 2V Ox TD 'Pink'",
+            "colorway": "Pink",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/347/588/original/709447F.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/347/588/original/709447F.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/347/588/original/709447F.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-2v-ox-td-pink-709447f",
+                "flightClub": "https://flightclub.com/chuck-taylor-2v-ox-td-pink-709447f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "124241bc-0c82-464a-9bfb-5996b00bc15a",
+            "sku": "745122",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Ox TD 'Creatures'",
+            "colorway": "Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/000/011/658/original/745122.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/000/011/658/original/745122.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/000/011/658/original/745122.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/converse-chuck-taylor-all-star-toddler-low-top-creatures-black-745122",
+                "flightClub": "https://flightclub.com/converse-chuck-taylor-all-star-toddler-low-top-creatures-black-745122",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "13aa3bd3-9c1b-46e9-8118-e6ef4a834d24",
+            "sku": "762856C",
+            "brand": "Converse",
+            "name": "One Star 2V Ox TD 'Almost Black'",
+            "colorway": "Black/Almost Black/Egret",
+            "gender": "infant",
+            "silhouette": "One Star",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 55,
+            "estimatedMarketValue": 748,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/015/545/303/original/762856C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/015/545/303/original/762856C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/015/545/303/original/762856C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/one-star-2v-ox-td-almost-black-762856c",
+                "flightClub": "https://flightclub.com/one-star-2v-ox-td-almost-black-762856c",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1500d41f-9afe-414f-944b-fb2c848670bd",
+            "sku": "768206F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low Easy-On TD 'Unicorns'",
+            "colorway": "White/Multi/Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/294/091/original/768206F.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/294/091/original/768206F.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/294/091/original/768206F.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-easy-on-td-unicorns-768206f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-easy-on-td-unicorns-768206f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "179204b0-f43f-4be3-af70-59fbd2fb8cc1",
+            "sku": "755560F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low TD 'Fresh Cyan'",
+            "colorway": "Fresh Cyan/Black/White",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/015/239/028/original/755560F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/015/239/028/original/755560F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/015/239/028/original/755560F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-ox-td-fresh-cyan-755560f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-ox-td-fresh-cyan-755560f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1922a33c-4d54-454d-b6ca-0cb28d69d6e6",
+            "sku": "768281F",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star 2V Low TD 'Citrus'",
+            "colorway": "White/Yellow/Green",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/055/202/683/original/768281F.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/055/202/683/original/768281F.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/055/202/683/original/768281F.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-2v-low-td-citrus-768281f",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-2v-low-td-citrus-768281f",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "19dc3c63-4040-4098-a260-51fc603df72c",
+            "sku": "CN7J235",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Ox TD 'Black'",
+            "colorway": "Black",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "The classic Converse sneaker takes on a mini-version for growing steps with the CT All Star Toddler Ox. Mimicking the adult version, the shoe is armed with a black canvas upper and contrasting white stitching surrounding the ankle and along the vamp. Four metal eyelets are all it takes to lace up the small shoe with traditional cotton laces. A rubber toe, midfoot and outsole protect the foot and deliver comfort for increasing strides.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/000/013/165/original/CN7J235.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/000/013/165/original/CN7J235.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/000/013/165/original/CN7J235.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/converse-toddlers-ct-all-star-ox-cn7j235",
+                "flightClub": "https://flightclub.com/converse-toddlers-ct-all-star-ox-cn7j235",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1b2b2a4e-3152-4760-88c4-49bfc5b814ff",
+            "sku": "753108C",
+            "brand": "Converse",
+            "name": "Chuck Taylor All Star Low TD 'Pure Silver'",
+            "colorway": "Pure Silver/Black/Pure Silver",
+            "gender": "infant",
+            "silhouette": "Chuck Taylor All Star",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/065/757/101/original/753108C.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/065/757/101/original/753108C.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/065/757/101/original/753108C.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/chuck-taylor-all-star-low-td-pure-silver-753108c",
+                "flightClub": "https://flightclub.com/chuck-taylor-all-star-low-td-pure-silver-753108c",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}

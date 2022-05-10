@@ -1,0 +1,2826 @@
+{
+    "results": [
+        {
+            "id": "0a079beb-5435-412b-9893-087e9d5b60a9",
+            "sku": "VN0A3TKN4W1",
+            "brand": "Vans",
+            "name": "Vans Sk8-Hi Platform 2.0 Chain Velvet Ballad Blue (W)",
+            "colorway": "Ballad Blue/Silver",
+            "gender": "women",
+            "silhouette": "Vans Sk8-Hi Platform 2.0",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-11",
+            "retailPrice": 90,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Sk8-Hi-Platform-20-Chain-Velvet-Ballad-Blue-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1648782987",
+                "small": "https://images.stockx.com/images/Vans-Sk8-Hi-Platform-20-Chain-Velvet-Ballad-Blue-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1648782987",
+                "thumbnail": "https://images.stockx.com/images/Vans-Sk8-Hi-Platform-20-Chain-Velvet-Ballad-Blue-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1648782987"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-sk8-hi-platform-20-chain-velvet-ballad-blue-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "446747f7-fa46-4e3a-a82f-035d00e5a6d5",
+            "sku": "VN0A4BTO4GG",
+            "brand": "Vans",
+            "name": "Vans Era Stacked UV Ink Floral (W)",
+            "colorway": "Floral/True White",
+            "gender": "women",
+            "silhouette": "Era",
+            "releaseYear": "2021",
+            "releaseDate": "2021-07-04",
+            "retailPrice": 75,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img02.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img03.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img04.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img05.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img06.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img07.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img08.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img09.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img10.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img11.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img12.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img13.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img14.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img15.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img16.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img17.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img18.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img19.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img20.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img21.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img22.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img23.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img24.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img25.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img26.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img27.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img28.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img29.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img30.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img31.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img32.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img33.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img34.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img35.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958",
+                    "https://images.stockx.com/360/Vans-Era-Stacked-UV-Ink-Floral-W/Images/Vans-Era-Stacked-UV-Ink-Floral-W/Lv2/img36.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1630350958"
+                ],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/056/004/261/original/758295_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/056/004/261/original/758295_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/056/004/261/original/758295_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-era-stacked-uv-ink-floral-w",
+                "goat": "https://goat.com/sneakers/era-stacked-uv-ink-floral-vn0a4bto4gg",
+                "flightClub": "https://flightclub.com/era-stacked-uv-ink-floral-vn0a4bto4gg",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d869a2c7-c59a-41f0-a1ee-e2b67bae87a9",
+            "sku": "VN0A33TB3UA",
+            "brand": "Vans",
+            "name": "Vans Classic Slip-On UV Glitter (W)",
+            "colorway": "Pink/True White",
+            "gender": "women",
+            "silhouette": "Vans Classic Slip-On",
+            "releaseYear": "2021",
+            "releaseDate": "2021-03-19",
+            "retailPrice": 70,
+            "estimatedMarketValue": 65,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Classic-Slip-On-UV-Glitter-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642738527",
+                "small": "https://images.stockx.com/images/Vans-Classic-Slip-On-UV-Glitter-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642738527",
+                "thumbnail": "https://images.stockx.com/images/Vans-Classic-Slip-On-UV-Glitter-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642738527"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-classic-slip-on-uv-glitter-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "918b308c-5325-49ec-acf5-36a262bb56c1",
+            "sku": "VN000VOSW51",
+            "brand": "Vans",
+            "name": "Wmns Asher 'White Checkerboard'",
+            "colorway": "White/White",
+            "gender": "women",
+            "silhouette": "Asher",
+            "releaseYear": "2021",
+            "releaseDate": "2021-03-07",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/053/461/142/original/VN000VOSW51.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/053/461/142/original/VN000VOSW51.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/053/461/142/original/VN000VOSW51.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-asher-white-checkerboard-vn000vosw51",
+                "flightClub": "https://flightclub.com/wmns-asher-white-checkerboard-vn000vosw51",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4bdd5b21-3c46-439c-a07b-c86d1e3f177d",
+            "sku": "VN0A3MVD4Y5",
+            "brand": "Vans",
+            "name": "Vans Slip-On SF Suede Leopard (W)",
+            "colorway": "Chipmunk/Marshmallow",
+            "gender": "women",
+            "silhouette": "Vans Slip-On SF",
+            "releaseYear": "2021",
+            "releaseDate": "2021-02-03",
+            "retailPrice": 70,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Slip-On-SF-Suede-Leopard-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642738529",
+                "small": "https://images.stockx.com/images/Vans-Slip-On-SF-Suede-Leopard-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642738529",
+                "thumbnail": "https://images.stockx.com/images/Vans-Slip-On-SF-Suede-Leopard-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642738529"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-slip-on-sf-suede-leopard-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "308f284a-d3d5-49df-87fb-000a74a0b288",
+            "sku": "VN0A4P3ITUK",
+            "brand": "Vans",
+            "name": "Vans Sk8-Hi MTE 2.0 DX Valerian White (W)",
+            "colorway": "Valerian/True White",
+            "gender": "women",
+            "silhouette": "Vans Sk8-Hi MTE 2.0 DX",
+            "releaseYear": "2020",
+            "releaseDate": "2020-08-28",
+            "retailPrice": 130,
+            "estimatedMarketValue": 70,
+            "story": "The Vans Sk8-Hi MTE 2.0 DX “Valerian/True White” is a pair of rugged, water-resistant high-tops from the California-based footwear brand. Vans uses their popular Sk8-Hi model as the inspiration behind a special remaking for inclement weather. The aforementioned water-resistant upper features purple leather eyelets as well as a tonal forefoot and mid-panel. Tonal water-proof suede covers the collar and heel. Vans outfits the durable shoe with their classic white leather jazzy stripe and includes a small branding tag near the collar. The inner is lined with an extra layer of warm to keep things extra cozy on those particularly frigid winter days. Completing the design is a white rubber midsole with a gum traction bottom that assists in conquering snow, slush and anything else that is thrown its way.",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Sk8-Hi-MTE-20-DX-Valerian-White-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642738526",
+                "small": "https://images.stockx.com/images/Vans-Sk8-Hi-MTE-20-DX-Valerian-White-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642738526",
+                "thumbnail": "https://images.stockx.com/images/Vans-Sk8-Hi-MTE-20-DX-Valerian-White-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642738526"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-sk8-hi-mte-20-dx-valerian-white-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": "https://sale.stadiumgoods.com/vans-sk8-hi-mte-2-0-dx-vn0a4p3ituk"
+            }
+        },
+        {
+            "id": "e031c3b2-c1d8-43a0-8ae0-300c98397028",
+            "sku": "VN0A3JEZWVY",
+            "brand": "Vans",
+            "name": "Vans Mini Cord Classic Slip-On Platform Multi Pink (W)",
+            "colorway": "Mini Cord/Multi/True White",
+            "gender": "women",
+            "silhouette": "Vans Mini Cord Classic Slip-On Platform",
+            "releaseYear": "2020",
+            "releaseDate": "2020-08-27",
+            "retailPrice": 65,
+            "estimatedMarketValue": 65,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Mini-Cord-Classic-Slip-On-Platform-Multi-Pink-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1631235435",
+                "small": "https://images.stockx.com/images/Vans-Mini-Cord-Classic-Slip-On-Platform-Multi-Pink-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1631235435",
+                "thumbnail": "https://images.stockx.com/images/Vans-Mini-Cord-Classic-Slip-On-Platform-Multi-Pink-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1631235435"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-mini-cord-classic-slip-on-platform-multi-pink-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "75e5e1f2-cb10-4aaf-bf5f-20abcdea2daa",
+            "sku": "VN0A4TZWX90",
+            "brand": "Vans",
+            "name": "Vans Era Origami Croc (W)",
+            "colorway": "Multi/Snow White",
+            "gender": "women",
+            "silhouette": "Era",
+            "releaseYear": "2020",
+            "releaseDate": "2020-02-18",
+            "retailPrice": 80,
+            "estimatedMarketValue": 75,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/035/091/039/original/VN0A4TZWX90.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/035/091/039/original/VN0A4TZWX90.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/035/091/039/original/VN0A4TZWX90.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-era-origami-croc-w",
+                "goat": "https://goat.com/sneakers/wmns-era-origami-emboss-croc-vn0a4tzwx90",
+                "flightClub": "https://flightclub.com/wmns-era-origami-emboss-croc-vn0a4tzwx90",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ab158b89-7384-4a73-acf3-113850ae449f",
+            "sku": "VN0004LGUS9",
+            "brand": "Vans",
+            "name": "CoppaFeel! x Wmns Slide-On 'Breast Cancer Awareness'",
+            "colorway": "True White/Multi-Color",
+            "gender": "women",
+            "silhouette": "Slide-On",
+            "releaseYear": "2019",
+            "releaseDate": "2019-10-01",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/039/438/974/original/VN0004LGUS9.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/039/438/974/original/VN0004LGUS9.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/039/438/974/original/VN0004LGUS9.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/coppafeel-x-wmns-slide-on-breast-cancer-awareness-vn0004lgus9",
+                "flightClub": "https://flightclub.com/coppafeel-x-wmns-slide-on-breast-cancer-awareness-vn0004lgus9",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "09bf20be-6c8b-4de7-a556-0d0b0ab5174a",
+            "sku": "VN0A4BNFOS7",
+            "brand": "Vans",
+            "name": "Vans Sid Ni Staple Black True White (W)",
+            "colorway": "Black/True White",
+            "gender": "women",
+            "silhouette": "Vans Sid Ni",
+            "releaseYear": "2019",
+            "releaseDate": "2019-08-22",
+            "retailPrice": 70,
+            "estimatedMarketValue": 65,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Sid-Ni-Staple-Black-True-White-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642621210",
+                "small": "https://images.stockx.com/images/Vans-Sid-Ni-Staple-Black-True-White-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642621210",
+                "thumbnail": "https://images.stockx.com/images/Vans-Sid-Ni-Staple-Black-True-White-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642621210"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-sid-ni-staple-black-true-white-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1f791551-dbe1-48f3-8d4f-990d56cce7e0",
+            "sku": "VNA38FRVOL",
+            "brand": "Vans",
+            "name": "Vans Era Ashley Williams (W)",
+            "colorway": "Pink/True White",
+            "gender": "women",
+            "silhouette": "Vans Era",
+            "releaseYear": "2019",
+            "releaseDate": "2019-03-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Era-Ashley-Williams-W.png?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626903785",
+                "small": "https://images.stockx.com/images/Vans-Era-Ashley-Williams-W.png?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626903785",
+                "thumbnail": "https://images.stockx.com/images/Vans-Era-Ashley-Williams-W.png?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626903785"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-era-ashley-williams-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "35b25813-c14f-4b77-9b49-cc54f02ca908",
+            "sku": "VNA38F7SFQ",
+            "brand": "Vans",
+            "name": "Vans Slip-On Ashley Williams (W)",
+            "colorway": "White/Black",
+            "gender": "women",
+            "silhouette": "Vans Slip-On",
+            "releaseYear": "2019",
+            "releaseDate": "2019-03-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 212,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Slip-On-Ashley-Williams-W.png?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626899228",
+                "small": "https://images.stockx.com/images/Vans-Slip-On-Ashley-Williams-W.png?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626899228",
+                "thumbnail": "https://images.stockx.com/images/Vans-Slip-On-Ashley-Williams-W.png?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626899228"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-slip-on-ashley-williams-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5b5fcef5-fe3b-4880-9245-9ab7477d3ded",
+            "sku": "VN0A3XTJVTN1",
+            "brand": "Vans",
+            "name": "Vans Style 93 Ashley Williams (W)",
+            "colorway": "Orange/Black",
+            "gender": "women",
+            "silhouette": "Vans Style 93",
+            "releaseYear": "2019",
+            "releaseDate": "2019-03-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Style-93-Ashley-Williams-W.png?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626900052",
+                "small": "https://images.stockx.com/images/Vans-Style-93-Ashley-Williams-W.png?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626900052",
+                "thumbnail": "https://images.stockx.com/images/Vans-Style-93-Ashley-Williams-W.png?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626900052"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-style-93-ashley-williams-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9f325a4c-f30b-4554-8886-46b698c238f9",
+            "sku": "VN0A38EMVJL1",
+            "brand": "Vans",
+            "name": "Vans Authentic Ashley Williams (W)",
+            "colorway": "Black/True White",
+            "gender": "women",
+            "silhouette": "Vans Authentic",
+            "releaseYear": "2019",
+            "releaseDate": "2019-03-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 189,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Authentic-Ashley-Williams-W.png?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626903813",
+                "small": "https://images.stockx.com/images/Vans-Authentic-Ashley-Williams-W.png?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626903813",
+                "thumbnail": "https://images.stockx.com/images/Vans-Authentic-Ashley-Williams-W.png?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626903813"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-authentic-ashley-williams-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "41af5e31-b7a0-4b1f-a2bf-5c359892f10e",
+            "sku": "VN0A3MVRBLK",
+            "brand": "Vans",
+            "name": "Vans UltraRange Gore Black",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "UltraRange",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 85,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/038/968/043/original/VN0A3MVRBLK.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/038/968/043/original/VN0A3MVRBLK.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/038/968/043/original/VN0A3MVRBLK.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-ultrarange-gore-black",
+                "goat": "https://goat.com/sneakers/ultrarange-gore-black-vn0a3mvrblk",
+                "flightClub": "https://flightclub.com/ultrarange-gore-black-vn0a3mvrblk",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "48168b9d-5b83-4935-af67-9e6ec1a959ed",
+            "sku": "VN0A3AV8S1V1",
+            "brand": "Vans",
+            "name": "Vans Authentic Platform 2.0 Checkerboard Lace Violet (W)",
+            "colorway": "Violet/White",
+            "gender": "women",
+            "silhouette": "Vans Authentic",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-authentic-platform-2-checkerboard-lace-violet-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "54f4e896-5ea6-4474-943b-52fc9daffafa",
+            "sku": "VN0A3AV8S1X1",
+            "brand": "Vans",
+            "name": "Vans Authentic Platform 2.0 Checkerboard Lace Cool Blue (W)",
+            "colorway": "Cool Blue/White",
+            "gender": "women",
+            "silhouette": "Authentic",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 25,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/036/993/967/original/VN0A3AV8S1X1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/036/993/967/original/VN0A3AV8S1X1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/036/993/967/original/VN0A3AV8S1X1.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-authentic-platform-2-checkerboard-lace-cool-blue-w",
+                "goat": "https://goat.com/sneakers/authentic-platform-2-0-checkerboard-lace-cool-blue-vn0a3av8s1x1",
+                "flightClub": "https://flightclub.com/authentic-platform-2-0-checkerboard-lace-cool-blue-vn0a3av8s1x1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "70a5dad2-76a8-4b4b-a9fd-bc133edfe61a",
+            "sku": "VN0A2Z5IV2H",
+            "brand": "Vans",
+            "name": "Vans Authentic Glitter Purple (W)",
+            "colorway": "Fairy Wren/True White",
+            "gender": "women",
+            "silhouette": "Vans Authentic",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 60,
+            "estimatedMarketValue": 61,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Authentic-Glitter-Purple-W.png?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626903801",
+                "small": "https://images.stockx.com/images/Vans-Authentic-Glitter-Purple-W.png?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626903801",
+                "thumbnail": "https://images.stockx.com/images/Vans-Authentic-Glitter-Purple-W.png?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626903801"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-authentic-glitter-purple-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "949bf5c2-8d66-4d82-b126-74c28101eef4",
+            "sku": "VN0A4BV5T7R",
+            "brand": "Vans",
+            "name": "Vans Old Skool Warped Floral (W)",
+            "colorway": "Black/True White",
+            "gender": "women",
+            "silhouette": "Old Skool",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 65,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/032/059/848/original/555502_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/032/059/848/original/555502_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/032/059/848/original/555502_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-old-skool-warped-floral-w",
+                "goat": "https://goat.com/sneakers/old-skool-warped-floral-vn0a4bv5t7r",
+                "flightClub": "https://flightclub.com/old-skool-warped-floral-vn0a4bv5t7r",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "aa827447-21ac-4021-844b-82aacc906365",
+            "sku": "VN0A3AV8QXH",
+            "brand": "Vans",
+            "name": "Vans Authentic Platform Checkerboard (W)",
+            "colorway": "Checkerboard/True White",
+            "gender": "women",
+            "silhouette": "Authentic",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/023/161/714/original/VN0A3AV8QXH.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/023/161/714/original/VN0A3AV8QXH.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/023/161/714/original/VN0A3AV8QXH.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-authentic-platform-checkerboard-w",
+                "goat": "https://goat.com/sneakers/authentic-platform-checkerboard-vn0a3av8qxh",
+                "flightClub": "https://flightclub.com/authentic-platform-checkerboard-vn0a3av8qxh",
+                "stadiumGoods": "https://sale.stadiumgoods.com/vans-authentic-platform-2-0-vn0a3av8qxh"
+            }
+        },
+        {
+            "id": "ba82e993-447b-411a-8967-f11356dfe294",
+            "sku": "VN0A3AV8QB2",
+            "brand": "Vans",
+            "name": "Vans Authentic Platform 2.0 Evening Sand (W)",
+            "colorway": "Evening Sand/Muted Clay",
+            "gender": "women",
+            "silhouette": "Authentic",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 70,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/036/217/959/original/VN0A3AV8QB2.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/036/217/959/original/VN0A3AV8QB2.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/036/217/959/original/VN0A3AV8QB2.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-authentic-platform-2-evening-sand-w",
+                "goat": "https://goat.com/sneakers/authentic-platform-2-0-evening-sand-vn0a3av8qb2",
+                "flightClub": "https://flightclub.com/authentic-platform-2-0-evening-sand-vn0a3av8qb2",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bfbce860-2f5a-49a7-90fa-ce5f320f3cff",
+            "sku": "VN0A3JEZTCB",
+            "brand": "Vans",
+            "name": "Vans Classic Slip-On Platform Suede Polka Dot Black White (W)",
+            "colorway": "Black/True White",
+            "gender": "women",
+            "silhouette": "Slip-On",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 65,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/046/175/541/original/VN0A3JEZTCB.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/046/175/541/original/VN0A3JEZTCB.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/046/175/541/original/VN0A3JEZTCB.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-classic-slip-on-platform-suede-polka-dot-black-white-w",
+                "goat": "https://goat.com/sneakers/classic-slip-on-suede-polka-dot-vn0a3jeztcb",
+                "flightClub": "https://flightclub.com/classic-slip-on-suede-polka-dot-vn0a3jeztcb",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c5aeb318-ff69-4d45-8b2d-638569b73302",
+            "sku": "VN0A3B3UVYD",
+            "brand": "Vans",
+            "name": "Vans Old Skool Platform Plaid Checkerboard (W)",
+            "colorway": "Black/True White",
+            "gender": "women",
+            "silhouette": "Old Skool",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 65,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/023/161/715/original/VN0A3B3UVYD.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/023/161/715/original/VN0A3B3UVYD.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/023/161/715/original/VN0A3B3UVYD.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-old-skool-platform-plaid-checkerboard-w",
+                "goat": "https://goat.com/sneakers/old-skool-platform-plaid-checkerboard-vn0a3b3uvyd",
+                "flightClub": "https://flightclub.com/old-skool-platform-plaid-checkerboard-vn0a3b3uvyd",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ce890de7-e99e-4227-9108-d776fe77e442",
+            "sku": "VN0A4BV5V3J",
+            "brand": "Vans",
+            "name": "Vans Old Skool Glitter Checkerboard (W)",
+            "colorway": "Silver/True White-Black",
+            "gender": "women",
+            "silhouette": "Old Skool",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 65,
+            "estimatedMarketValue": 44,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/023/161/718/original/VN0A4BV5V3J.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/023/161/718/original/VN0A4BV5V3J.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/023/161/718/original/VN0A4BV5V3J.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-old-skool-glitter-checkerboard-w",
+                "goat": "https://goat.com/sneakers/old-skool-glitter-checkerboard-vn0a4bv5v3j",
+                "flightClub": "https://flightclub.com/old-skool-glitter-checkerboard-vn0a4bv5v3j",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "eb7608dd-7620-494e-af4b-d2c55eeac48d",
+            "sku": "VN0A3AV8S1T1",
+            "brand": "Vans",
+            "name": "Vans Authentic Platform 2.0 Rainbow Foxing White (W)",
+            "colorway": "White/Multi",
+            "gender": "women",
+            "silhouette": "Authentic",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 86,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/036/993/963/original/VN0A3AV8S1T1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/036/993/963/original/VN0A3AV8S1T1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/036/993/963/original/VN0A3AV8S1T1.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-authentic-platform-2-rainbow-foxing-white-w",
+                "goat": "https://goat.com/sneakers/authentic-platform-2-0-rainbow-foxing-white-vn0a3av8s1t1",
+                "flightClub": "https://flightclub.com/authentic-platform-2-0-rainbow-foxing-white-vn0a3av8s1t1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "eb85d7f6-72f8-40e3-8515-0fab5b7540fa",
+            "sku": "VN0A3B3UW00",
+            "brand": "Vans",
+            "name": "Vans Old Skool Platform True White (W)",
+            "colorway": "True White",
+            "gender": "women",
+            "silhouette": "Old Skool",
+            "releaseYear": "2019",
+            "releaseDate": "2019-01-01",
+            "retailPrice": 65,
+            "estimatedMarketValue": 62,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/024/605/580/original/VN0A3B3UW00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/024/605/580/original/VN0A3B3UW00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/024/605/580/original/VN0A3B3UW00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-old-skool-platform-true-white-w",
+                "goat": "https://goat.com/sneakers/old-skool-true-white-vn0a3b3uw00",
+                "flightClub": "https://flightclub.com/old-skool-true-white-vn0a3b3uw00",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "515c2cde-c3fb-4e63-8395-369f7fd1b46f",
+            "sku": "VN0004LGUJ3",
+            "brand": "Vans",
+            "name": "Disney x Wmns Slide-On 'Minnie's Bow'",
+            "colorway": "Minnie'S Bow/True White",
+            "gender": "women",
+            "silhouette": "Slide-On",
+            "releaseYear": "2018",
+            "releaseDate": "2018-10-05",
+            "retailPrice": 45,
+            "estimatedMarketValue": 120,
+            "story": "While Disney tapped Vans for a collection celebrating the 90th anniversary of Mickey Mouse, the Slide-On ‘Minnie’s Bow’ pays homage to Mickey’s significant other, Minnie Mouse. The character’s signature red and white polka dots are recreated on the strap, which is topped with a stuffed bow. A molded PU footbed in contrast black is printed with dual Vans and Disney branding.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/015/239/577/original/VN0004LGUJ3.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/015/239/577/original/VN0004LGUJ3.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/015/239/577/original/VN0004LGUJ3.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-wmns-slide-on-minnie-s-bow-vn0004lguj3",
+                "flightClub": "https://flightclub.com/disney-x-wmns-slide-on-minnie-s-bow-vn0004lguj3",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "73f2d81f-8dea-4d8c-bb1f-3404e2d7f221",
+            "sku": "VN0A38F7UJ4",
+            "brand": "Vans",
+            "name": "Vans Slip-On Disney Mickey and Minnie (W)",
+            "colorway": "Mickey Mouse And Minnie Mouse/Checker Flame",
+            "gender": "women",
+            "silhouette": "Slip-On",
+            "releaseYear": "2018",
+            "releaseDate": "2018-10-05",
+            "retailPrice": 65,
+            "estimatedMarketValue": 80,
+            "story": "Drawing from the rich archive of Mickey Mouse designs, Disney and Vans partnered up to celebrate the legendary character’s 90th-anniversary. The Disney x Slip-On &#39;Mickey &amp; Minnie&#39; features a canvas upper dressed in a black and white checkerboard color scheme. The low top also boasts flame designs on the side panel, a padded collar for comfort, a large Mickey Mouse head printed on the toe box, and a vulcanized outsole for flexibility and superior traction.",
+            "image": {
+                "360": [
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img02.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img03.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img04.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img05.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img06.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img07.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img08.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img09.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img10.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img11.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img12.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img13.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img14.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img15.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img16.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img17.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img18.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img19.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img20.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img21.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img22.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img23.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img24.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img25.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img26.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img27.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img28.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img29.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img30.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img31.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img32.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img33.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img34.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img35.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375",
+                    "https://images.stockx.com/360/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Images/Vans-Slip-On-Disney-Mickey-and-Minnie-W/Lv2/img36.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626899375"
+                ],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/015/936/066/original/462314_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/015/936/066/original/462314_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/015/936/066/original/462314_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-slip-on-disney-mickey-and-minnie-w",
+                "goat": "https://goat.com/sneakers/disney-x-slip-on-mickey-minnie-disney-slipon",
+                "flightClub": "https://flightclub.com/classic-slip-on-mickey-minnie-checker-flame-806532",
+                "stadiumGoods": "https://sale.stadiumgoods.com/vans-classic-slip-on-disney-mickey-and-minnie-vn0a38f7uj4"
+            }
+        },
+        {
+            "id": "6c05acdb-abe6-43c6-84f3-a4232cf4f795",
+            "sku": "VA38EMU3W",
+            "brand": "Vans",
+            "name": "Vans Authentic Van Gogh Sunflowers (W)",
+            "colorway": "Sunflowers/True White",
+            "gender": "women",
+            "silhouette": "Vans Authentic",
+            "releaseYear": "2018",
+            "releaseDate": "2018-08-03",
+            "retailPrice": 80,
+            "estimatedMarketValue": 144,
+            "story": "",
+            "image": {
+                "360": [
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img02.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img03.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img04.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img05.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img06.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img07.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img08.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img09.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img10.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img11.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img12.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img13.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img14.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img15.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img16.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img17.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img18.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img19.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img20.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img21.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img22.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img23.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img24.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img25.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img26.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img27.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img28.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img29.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img30.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img31.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img32.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img33.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img34.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img35.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347",
+                    "https://images.stockx.com/360/Vans-Authentic-Van-Gogh-Sunflowers-W/Images/Vans-Authentic-Van-Gogh-Sunflowers-W/Lv2/img36.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1609945347"
+                ],
+                "original": "https://images.stockx.com/images/Vans-Authentic-Van-Gogh-Sunflowers-W-Product.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1609945347",
+                "small": "https://images.stockx.com/images/Vans-Authentic-Van-Gogh-Sunflowers-W-Product.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1609945347",
+                "thumbnail": "https://images.stockx.com/images/Vans-Authentic-Van-Gogh-Sunflowers-W-Product.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1609945347"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-authentic-van-gogh-sunflowers-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d28e3c8f-c5ce-4d08-995a-1312c5773821",
+            "sku": "VA38G1UAX/VN0A38G1UAX",
+            "brand": "Vans",
+            "name": "Vans Old Skool Van Gogh Old Vineyard (W)",
+            "colorway": "Old Vineyard/Turtledove",
+            "gender": "women",
+            "silhouette": "Vans Old Skool",
+            "releaseYear": "2018",
+            "releaseDate": "2018-08-03",
+            "retailPrice": 95,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img02.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img03.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img04.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img05.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img06.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img07.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img08.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img09.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img10.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img11.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img12.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img13.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img14.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img15.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img16.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img17.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img18.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img19.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img20.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img21.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img22.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img23.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img24.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img25.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img26.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img27.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img28.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img29.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img30.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img31.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img32.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img33.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img34.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img35.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746",
+                    "https://images.stockx.com/360/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W/Lv2/img36.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898746"
+                ],
+                "original": "https://images.stockx.com/images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W-Product.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626898746",
+                "small": "https://images.stockx.com/images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W-Product.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626898746",
+                "thumbnail": "https://images.stockx.com/images/Vans-Old-Skool-Van-Gogh-Old-Vineyard-W-Product.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626898746"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-old-skool-van-gogh-old-vineyard-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f6dc18ef-5d42-4eb1-93d2-98c5b973ef20",
+            "sku": "VA38F7U7T",
+            "brand": "Vans",
+            "name": "Vans Slip-On Van Gogh Letters (W)",
+            "colorway": "Letters/Turtledove",
+            "gender": "women",
+            "silhouette": "Vans Slip-On",
+            "releaseYear": "2018",
+            "releaseDate": "2018-08-03",
+            "retailPrice": 80,
+            "estimatedMarketValue": 188,
+            "story": "",
+            "image": {
+                "360": [
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img02.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img03.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img04.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img05.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img06.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img07.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img08.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img09.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img10.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img11.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img12.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img13.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img14.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img15.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img16.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img17.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img18.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img19.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img20.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img21.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img22.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img23.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img24.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img25.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img26.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img27.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img28.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img29.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img30.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img31.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img32.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img33.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img34.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img35.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081",
+                    "https://images.stockx.com/360/Vans-Slip-On-Van-Gogh-Letters-W/Images/Vans-Slip-On-Van-Gogh-Letters-W/Lv2/img36.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626900081"
+                ],
+                "original": "https://images.stockx.com/images/Vans-Slip-On-Van-Gogh-Letters-W-Product.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626900081",
+                "small": "https://images.stockx.com/images/Vans-Slip-On-Van-Gogh-Letters-W-Product.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626900081",
+                "thumbnail": "https://images.stockx.com/images/Vans-Slip-On-Van-Gogh-Letters-W-Product.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626900081"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-slip-on-van-gogh-letters-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fb38c69e-96cb-4b25-9ff4-1909769b0da8",
+            "sku": "VA38EMU5X",
+            "brand": "Vans",
+            "name": "Vans Authentic Van Gogh Self Portrait (W)",
+            "colorway": "Self Portrait/True White",
+            "gender": "women",
+            "silhouette": "Vans Authentic",
+            "releaseYear": "2018",
+            "releaseDate": "2018-08-03",
+            "retailPrice": 80,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Authentic-Van-Gogh-Self-Portrait-W.png?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1609946065",
+                "small": "https://images.stockx.com/images/Vans-Authentic-Van-Gogh-Self-Portrait-W.png?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1609946065",
+                "thumbnail": "https://images.stockx.com/images/Vans-Authentic-Van-Gogh-Self-Portrait-W.png?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1609946065"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-authentic-van-gogh-self-portrait-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0ee9504e-a76d-4ba9-9389-c16fa825e009",
+            "sku": "VN038GEUBI",
+            "brand": "Vans",
+            "name": "Vans Sk8-Hi Marvel Captain Marvel (W)",
+            "colorway": "Red/Navy",
+            "gender": "women",
+            "silhouette": "Vans Sk8-Hi",
+            "releaseYear": "2018",
+            "releaseDate": "2018-06-08",
+            "retailPrice": 75,
+            "estimatedMarketValue": 175,
+            "story": "",
+            "image": {
+                "360": [
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img01.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img02.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img03.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img04.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img05.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img06.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img07.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img08.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img09.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img10.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img11.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img12.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img13.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img14.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img15.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img16.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img17.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img18.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img19.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img20.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img21.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img22.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img23.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img24.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img25.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img26.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img27.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img28.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img29.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img30.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img31.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img32.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img33.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img34.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img35.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893",
+                    "https://images.stockx.com/360/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W/Lv2/img36.jpg?auto=format,compress&w=559&q=90&dpr=2&updated_at=1626898893"
+                ],
+                "original": "https://images.stockx.com/images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W.png?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626898893",
+                "small": "https://images.stockx.com/images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W.png?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626898893",
+                "thumbnail": "https://images.stockx.com/images/Vans-Sk8-Hi-Marvel-Captain-Marvel-W.png?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626898893"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-sk8-hi-marvel-captain-marvel-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "655aa611-645d-4fdc-b3ad-b8444de88b1f",
+            "sku": "VN0004LGUFF",
+            "brand": "Vans",
+            "name": "Marvel x Wmns Slide-On 'Multi Women'",
+            "colorway": "Multi Black White",
+            "gender": "women",
+            "silhouette": "Slip-On",
+            "releaseYear": "2018",
+            "releaseDate": "2018-06-08",
+            "retailPrice": 40,
+            "estimatedMarketValue": 40,
+            "story": "The Marvel x Slide-On &#39;Multi Women&#39; features a black PU footbed stamped with Vans and Marvel branding. The underside of the synthetic leather straps are lined with foam-backed soft neoprene, while the top showcases the women of Marvel in an allover black-and-white print. This slide is a women’s exclusive model.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/012/584/483/original/MARVELMULTIWMNSLIDE.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/012/584/483/original/MARVELMULTIWMNSLIDE.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/012/584/483/original/MARVELMULTIWMNSLIDE.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/marvel-x-wmns-slide-on-multi-women-marvelmultiwmnslide",
+                "flightClub": "https://flightclub.com/marvel-x-wmns-slide-on-multi-women-marvelmultiwmnslide",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "aee0a223-13eb-4fb6-9244-b070d8d84eb3",
+            "sku": "VN0A38EMU5I",
+            "brand": "Vans",
+            "name": "Vans Authentic Marvel Avengers (W)",
+            "colorway": "Multi",
+            "gender": "women",
+            "silhouette": "Authentic",
+            "releaseYear": "2018",
+            "releaseDate": "2018-06-08",
+            "retailPrice": 65,
+            "estimatedMarketValue": 80,
+            "story": "Vans joins forces with Marvel Comics for the Vans x Marvel collection—a celebration of Marvel Universe superheroes across different franchises. Released in June 2018, the Marvel x Authentic &#39;Marvel Women&#39; sneaker is emblazoned with an allover print showcasing Marvel’s female protagonists on a signature canvas upper. A hit of red accents the ‘Off The Wall’ bumper logo at the heel and printed lining, while a rubber waffle outsole complements the design.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/016/246/746/original/451324_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/016/246/746/original/451324_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/016/246/746/original/451324_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-authentic-marvel-avengers-w",
+                "goat": "https://goat.com/sneakers/marvel-x-authentic-marvel-women-vn0a38emu5i",
+                "flightClub": "https://flightclub.com/marvel-x-authentic-marvel-women-vn0a38emu5i",
+                "stadiumGoods": "https://sale.stadiumgoods.com/vans-authentic-marvel-apos-s-avengers-vn0a38emu5i"
+            }
+        },
+        {
+            "id": "a67bd653-affb-4fd5-9b9b-199cabfcda2f",
+            "sku": "VN0A38F7I5Z",
+            "brand": "Vans",
+            "name": "Vans Slip-On Checker Floral (W)",
+            "colorway": "Floral/Checker",
+            "gender": "women",
+            "silhouette": "Slip-On",
+            "releaseYear": "2018",
+            "releaseDate": "2018-05-01",
+            "retailPrice": 60,
+            "estimatedMarketValue": 186,
+            "story": "The Vans Classic Slip-On &#39;Checker Floral&#39; sneaker was released in April 2018, offering a feminine take on the iconic skate style from 1977. This low-key shoe features a black canvas upper with checkerboard-patterned elastic insets for easier on and off. The top of the design is embellished with embroidered flowers, cherries, leaves and a butterfly. Following tradition, the style is founded on a cushioned autoclave sole with Waffle-inspired rubber tread.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/024/406/686/original/VN0A38F7I5Z.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/024/406/686/original/VN0A38F7I5Z.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/024/406/686/original/VN0A38F7I5Z.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-slip-on-checker-floral-w",
+                "goat": "https://goat.com/sneakers/classic-slip-on-checker-floral-vn0a38f7i5z",
+                "flightClub": "https://flightclub.com/classic-slip-on-foral-checker-803994",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "03386ecc-e3ba-455e-986c-fb276825c943",
+            "sku": "VA3DPXOEJ",
+            "brand": "Vans",
+            "name": "Vans Classic Slip-On Karl Lagerfeld Black (W)",
+            "colorway": "Black/Karl",
+            "gender": "women",
+            "silhouette": "Vans Classic Slip-On",
+            "releaseYear": "2017",
+            "releaseDate": "2017-09-07",
+            "retailPrice": 140,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Classic-Slip-On-Karl-Lagerfeld-Black-W-Product.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626903801",
+                "small": "https://images.stockx.com/images/Vans-Classic-Slip-On-Karl-Lagerfeld-Black-W-Product.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626903801",
+                "thumbnail": "https://images.stockx.com/images/Vans-Classic-Slip-On-Karl-Lagerfeld-Black-W-Product.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626903801"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-classic-slip-on-karl-lagerfeld-black-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4ae6e941-0206-45a0-a74f-aaebd8c9fe4a",
+            "sku": "VN0A3DPAOK9",
+            "brand": "Vans",
+            "name": "Vans Style 29 ALYX True White (W)",
+            "colorway": "White/White",
+            "gender": "women",
+            "silhouette": "Vans Style 29",
+            "releaseYear": "2017",
+            "releaseDate": "2017-07-29",
+            "retailPrice": 150,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Style-29-ALYX-True-White-W.png?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626899979",
+                "small": "https://images.stockx.com/images/Vans-Style-29-ALYX-True-White-W.png?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626899979",
+                "thumbnail": "https://images.stockx.com/images/Vans-Style-29-ALYX-True-White-W.png?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1626899979"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-style-29-alyx-true-white-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7139f133-8da3-4b75-b1f8-ab55893ee264",
+            "sku": "VN0A3DPAP4A",
+            "brand": "Vans",
+            "name": "Vans Style 29 ALYX Sea Pink (W)",
+            "colorway": "Rose/Black",
+            "gender": "women",
+            "silhouette": "Style 29",
+            "releaseYear": "2017",
+            "releaseDate": "2017-07-29",
+            "retailPrice": 150,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/020/280/086/original/VN0A3DPAP4A.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/020/280/086/original/VN0A3DPAP4A.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/020/280/086/original/VN0A3DPAP4A.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-style-29-alyx-sea-pink-w",
+                "goat": "https://goat.com/sneakers/alyx-x-style-29-lx-sea-pink-vn0a3dpap4a",
+                "flightClub": "https://flightclub.com/alyx-x-style-29-lx-sea-pink-vn0a3dpap4a",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bcab0ca3-5d5c-4c24-937e-53d72212a0dc",
+            "sku": "VN0A3DPAOK6",
+            "brand": "Vans",
+            "name": "Vans Style 29 ALYX Black (W)",
+            "colorway": "Black/Black",
+            "gender": "women",
+            "silhouette": "Style 29",
+            "releaseYear": "2017",
+            "releaseDate": "2017-07-29",
+            "retailPrice": 150,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/020/280/084/original/VN0A3DPAOK6.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/020/280/084/original/VN0A3DPAOK6.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/020/280/084/original/VN0A3DPAOK6.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-style-29-alyx-black-w",
+                "goat": "https://goat.com/sneakers/alyx-x-style-29-lx-black-vn0a3dpaok6",
+                "flightClub": "https://flightclub.com/alyx-x-style-29-lx-black-vn0a3dpaok6",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ff981489-dfc4-4421-ae73-93546f366217",
+            "sku": "VN0A38G1OI3",
+            "brand": "Vans",
+            "name": "Vans Old Skool Retro Sport Blossom (W)",
+            "colorway": "Blossom/True White",
+            "gender": "women",
+            "silhouette": "Old Skool",
+            "releaseYear": "2017",
+            "releaseDate": "2017-07-01",
+            "retailPrice": 60,
+            "estimatedMarketValue": 30,
+            "story": "A revamp on an old-time classic, the Old Skool Retro Sport features a pink suede upper with visible stitching, a reinforced toe cap for durability and support, and a padded collar for extra comfort and an adaptive fit. The low top also boasts contrasting white accents on the Vans branding and on the signature chunky midsole.",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/009/361/324/original/VN0A38G1OI3.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/009/361/324/original/VN0A38G1OI3.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/009/361/324/original/VN0A38G1OI3.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-old-skool-retro-sport-blossom-w",
+                "goat": "https://goat.com/sneakers/wmns-old-skool-retro-sport-vn0a38g1oi3",
+                "flightClub": "https://flightclub.com/wmns-old-skool-retro-sport-vn0a38g1oi3",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4d406b8d-d496-4b61-920d-76409b8c2e91",
+            "sku": "VN0A38F7QTR",
+            "brand": "Vans",
+            "name": "Vans Slip-On Mahogany Rose Leather (W)",
+            "colorway": "Mahogany Rose/White",
+            "gender": "women",
+            "silhouette": "Slip-On",
+            "releaseYear": "2017",
+            "releaseDate": "2017-01-01",
+            "retailPrice": 65,
+            "estimatedMarketValue": 65,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/018/381/438/original/VN0A38F7QTR.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/018/381/438/original/VN0A38F7QTR.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/018/381/438/original/VN0A38F7QTR.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-slip-on-mahogany-rose-leather-w",
+                "goat": "https://goat.com/sneakers/classic-slip-on-mahogany-rose-vn0a38f7qtr",
+                "flightClub": "https://flightclub.com/classic-slip-on-mahogany-rose-vn0a38f7qtr",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b0890863-1067-4ee8-b2ff-bd6f7c7dcc43",
+            "sku": "VN0A2Z5XLPW",
+            "brand": "Vans",
+            "name": "Vans Sk8-Hi Cup Luxe Tweed (W)",
+            "colorway": "Tweed/White",
+            "gender": "women",
+            "silhouette": "Vans Sk8-Hi Cup",
+            "releaseYear": "2017",
+            "releaseDate": "2017-01-01",
+            "retailPrice": 0,
+            "estimatedMarketValue": 43,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-sk8-hi-cup-luxe-tweed-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e7c0783e-0e75-4d06-bb2b-49f8c921d2e1",
+            "sku": "VN0A38IIROF",
+            "brand": "Vans",
+            "name": "Wmns Slide-On 'Flame'",
+            "colorway": "Black/Multi-Color",
+            "gender": "women",
+            "silhouette": "Slide-On",
+            "releaseYear": "2012",
+            "releaseDate": "2012-03-01",
+            "retailPrice": 30,
+            "estimatedMarketValue": 30,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/022/841/758/original/VN0A38IIROF.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/022/841/758/original/VN0A38IIROF.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/022/841/758/original/VN0A38IIROF.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-slide-on-flame-vn0a38iirof",
+                "flightClub": "https://flightclub.com/wmns-slide-on-flame-black-multi-color-147554",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "006fdff1-1196-4989-b535-e9386307b5db",
+            "sku": "VN0A3CXOR5U",
+            "brand": "Vans",
+            "name": "Wmns Camden Deluxe 'Marshmallow'",
+            "colorway": "Marshmallow",
+            "gender": "women",
+            "silhouette": "Camden",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 60,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/037/569/037/original/VN0A3CXOR5U.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/037/569/037/original/VN0A3CXOR5U.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/037/569/037/original/VN0A3CXOR5U.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-camden-deluxe-marshmallow-vn0a3cxor5u",
+                "flightClub": "https://flightclub.com/wmns-camden-deluxe-marshmallow-vn0a3cxor5u",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0071e620-535c-4d4e-a88a-fa8b60bc454f",
+            "sku": "VN0A3RARMXV",
+            "brand": "Vans",
+            "name": "Wmns Maddie High Zip '90's Black Delicacy'",
+            "colorway": "Black/Delicacy",
+            "gender": "women",
+            "silhouette": "Maddie",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 75,
+            "estimatedMarketValue": 75,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-maddie-high-zip-90-s-black-delicacy-vn0a3rarmxv",
+                "flightClub": "https://flightclub.com/wmns-maddie-high-zip-90-s-black-delicacy-vn0a3rarmxv",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "00db3335-ae97-47c9-b643-22eaf95425f7",
+            "sku": "VN0A4BV3TBE",
+            "brand": "Vans",
+            "name": "Wmns Classic Slip-On 'Flipping Sequins - White Checkerboard'",
+            "colorway": "White/Silver/Pink",
+            "gender": "women",
+            "silhouette": "Slip-On",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 70,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/033/921/757/original/VN0A4BV3TBE.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/033/921/757/original/VN0A4BV3TBE.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/033/921/757/original/VN0A4BV3TBE.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-slip-on-flipping-sequins-white-checkerboard-vn0a4bv3tbe",
+                "flightClub": "https://flightclub.com/wmns-classic-slip-on-flipping-sequins-white-checkerboard-vn0a4bv3tbe",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0261a323-4782-4c49-a897-e504d49cedde",
+            "sku": "VN0A4U39WZV",
+            "brand": "Vans",
+            "name": "Sandy Liang x Wmns Era 'Orchard'",
+            "colorway": "Orchard/True White",
+            "gender": "women",
+            "silhouette": "Era",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/035/003/047/original/VN0A4U39WZV.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/035/003/047/original/VN0A4U39WZV.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/035/003/047/original/VN0A4U39WZV.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/sandy-liang-x-wmns-era-orchard-vn0a4u39wzv",
+                "flightClub": "https://flightclub.com/sandy-liang-x-wmns-era-orchard-vn0a4u39wzv",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "02d8c247-6755-47bf-8d94-8313b5411371",
+            "sku": "VN0A38ENMR7",
+            "brand": "Vans",
+            "name": "Authentic 44 DX 'Mineral Green'",
+            "colorway": "Mineral Green",
+            "gender": "women",
+            "silhouette": "Authentic",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/015/636/226/original/VN0A38ENMR7.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/015/636/226/original/VN0A38ENMR7.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/015/636/226/original/VN0A38ENMR7.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/authentic-44-dx-mineral-green-vn0a38enmr7",
+                "flightClub": "https://flightclub.com/authentic-44-dx-mineral-green-vn0a38enmr7",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "02f8bd0a-c3cb-4775-8348-d941f7d5fde7",
+            "sku": "VN0A4BV4VXR",
+            "brand": "Vans",
+            "name": "Wmns Era 'Azalea Pink'",
+            "colorway": "Azalea Pink/True White",
+            "gender": "women",
+            "silhouette": "Era",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 60,
+            "estimatedMarketValue": 49,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/025/038/760/original/VN0A4BV4VXR.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/025/038/760/original/VN0A4BV4VXR.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/025/038/760/original/VN0A4BV4VXR.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-era-azalea-pink-vn0a4bv4vxr",
+                "flightClub": "https://flightclub.com/wmns-era-azalea-pink-vn0a4bv4vxr",
+                "stadiumGoods": "https://sale.stadiumgoods.com/vans-wmns-era-vn0a4bv4vxr"
+            }
+        },
+        {
+            "id": "02fb5085-481a-4755-803d-ad6cfa323f43",
+            "sku": "0XKWFQB",
+            "brand": "Vans",
+            "name": "Wmns Palisades Vulc Washed Canvas",
+            "colorway": "Beach Glass",
+            "gender": "women",
+            "silhouette": "Palisades",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/000/039/044/original/0XKWFQB.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/000/039/044/original/0XKWFQB.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/000/039/044/original/0XKWFQB.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/vans-palisades-vulc-washed-canvas-beach-glass-0xkwfqb",
+                "flightClub": "https://flightclub.com/vans-palisades-vulc-washed-canvas-beach-glass-0xkwfqb",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0338bc2d-5298-41c8-af1d-bc2079f6559b",
+            "sku": "VN0A3MVZR5P",
+            "brand": "Vans",
+            "name": "Wmns Doheny 'Cabernet'",
+            "colorway": "Cabernet",
+            "gender": "women",
+            "silhouette": "Doheny",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/037/569/062/original/VN0A3MVZR5P.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/037/569/062/original/VN0A3MVZR5P.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/037/569/062/original/VN0A3MVZR5P.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-doheny-cabernet-vn0a3mvzr5p",
+                "flightClub": "https://flightclub.com/wmns-doheny-cabernet-vn0a3mvzr5p",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0352f0a9-5294-49a6-bb1f-b545ceb7c751",
+            "sku": "VN04LGUJ3",
+            "brand": "Vans",
+            "name": "Disney x Wmns Slide-On 'Minnie Bow'",
+            "colorway": "Red/Black",
+            "gender": "women",
+            "silhouette": "Slide-On",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 45,
+            "estimatedMarketValue": 45,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/016/587/689/original/VN04LGUJ3.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/016/587/689/original/VN04LGUJ3.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/016/587/689/original/VN04LGUJ3.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/disney-x-wmns-slide-on-minnie-bow-vn04lguj3",
+                "flightClub": "https://flightclub.com/disney-x-wmns-slide-on-minnie-bow-vn04lguj3",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0374a74f-0798-42e1-aef3-16e451d00cd3",
+            "sku": "VN0A349CM1V",
+            "brand": "Vans",
+            "name": "Vans Sk8-Hi Slim Zip Flannel White Black (W)",
+            "colorway": "True White/Black",
+            "gender": "women",
+            "silhouette": "Sk8",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 85,
+            "estimatedMarketValue": 45,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/578/956/original/VN0A349CM1V.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/578/956/original/VN0A349CM1V.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/578/956/original/VN0A349CM1V.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-sk8-hi-slim-zip-flannel-white-black-w",
+                "goat": "https://goat.com/sneakers/sk8-hi-slim-zip-plaid-flannel-white-vn0a349cm1v",
+                "flightClub": "https://flightclub.com/sk8-hi-slim-zip-plaid-flannel-white-vn0a349cm1v",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "038a66e4-924d-4d13-9202-36f118a17dcf",
+            "sku": "VN000NJO186",
+            "brand": "Vans",
+            "name": "Wmns Atwood Low 'Black'",
+            "colorway": "Black/Black",
+            "gender": "women",
+            "silhouette": "Atwood",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/037/568/995/original/VN000NJO186.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/037/568/995/original/VN000NJO186.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/037/568/995/original/VN000NJO186.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-atwood-low-black-vn000njo186",
+                "flightClub": "https://flightclub.com/wmns-atwood-low-black-vn000njo186",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "047351ea-650d-4f9d-bccf-5852c9576506",
+            "sku": "VN0A4P3K4XB",
+            "brand": "Vans",
+            "name": "Vans Sentry WC Leopard",
+            "colorway": "Leopard/White",
+            "gender": "women",
+            "silhouette": "Vans Sentry WC",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 90,
+            "estimatedMarketValue": 64,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Vans-Sentry-WC-Leopard.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642621212",
+                "small": "https://images.stockx.com/images/Vans-Sentry-WC-Leopard.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642621212",
+                "thumbnail": "https://images.stockx.com/images/Vans-Sentry-WC-Leopard.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1642621212"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-sentry-wc-leopard",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "049c6764-41ed-4ff8-bfc7-3de0e5f64832",
+            "sku": "VN000ZSOUFA",
+            "brand": "Vans",
+            "name": "Wmns Camden Stripe 'Heavenly Pink'",
+            "colorway": "Heavenly Pink",
+            "gender": "women",
+            "silhouette": "Camden",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 60,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/039/244/374/original/VN000ZSOUFA.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/039/244/374/original/VN000ZSOUFA.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/039/244/374/original/VN000ZSOUFA.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-camden-stripe-heavenly-pink-vn000zsoufa",
+                "flightClub": "https://flightclub.com/wmns-camden-stripe-heavenly-pink-vn000zsoufa",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "04a67593-e2e7-4b09-ac91-7244be2fca58",
+            "sku": "0OY668R",
+            "brand": "Vans",
+            "name": "Krochet Kids International x Wmns Bixie 'Stripes'",
+            "colorway": "Stripes",
+            "gender": "women",
+            "silhouette": "Bixie",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/000/038/857/original/0OY668R.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/000/038/857/original/0OY668R.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/000/038/857/original/0OY668R.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/vans-womens-bixie-krochet-kids-stripes-0oy668r",
+                "flightClub": "https://flightclub.com/vans-womens-bixie-krochet-kids-stripes-0oy668r",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "05ee870c-ceb0-4724-ac6a-53d72dd53e91",
+            "sku": "VN000ZSOQYP",
+            "brand": "Vans",
+            "name": "Wmns Camden Stripe 'Metallic Mahogany Rose'",
+            "colorway": "Mahogany Rose",
+            "gender": "women",
+            "silhouette": "Camden",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/039/244/367/original/VN000ZSOQYP.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/039/244/367/original/VN000ZSOQYP.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/039/244/367/original/VN000ZSOQYP.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-camden-stripe-metallic-mahogany-rose-vn000zsoqyp",
+                "flightClub": "https://flightclub.com/wmns-camden-stripe-metallic-mahogany-rose-vn000zsoqyp",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "063b14ba-c762-481c-8831-0c1424f687fe",
+            "sku": "VN000ZSOR6P",
+            "brand": "Vans",
+            "name": "Wmns Camden Stripe 'Micro Eyelets - Pineapple Slice'",
+            "colorway": "Pineapple Slice",
+            "gender": "women",
+            "silhouette": "Camden",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/037/569/027/original/VN000ZSOR6P.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/037/569/027/original/VN000ZSOR6P.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/037/569/027/original/VN000ZSOR6P.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-camden-stripe-micro-eyelets-pineapple-slice-vn000zsor6p",
+                "flightClub": "https://flightclub.com/wmns-camden-stripe-micro-eyelets-pineapple-slice-vn000zsor6p",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "073d72a9-11da-44b9-93ba-5093cf027806",
+            "sku": "WARD-GLD-CHECK",
+            "brand": "Vans",
+            "name": "Wmns Ward Low 'Gold Checkerboard'",
+            "colorway": "Checkerboard/Gold",
+            "gender": "women",
+            "silhouette": "Ward",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/016/563/129/original/WARD_GLD_CHECK.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/016/563/129/original/WARD_GLD_CHECK.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/016/563/129/original/WARD_GLD_CHECK.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-ward-low-gold-checkerboard-ward-gld-check",
+                "flightClub": "https://flightclub.com/wmns-ward-low-gold-checkerboard-ward-gld-check",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "07e1aae0-a376-4900-a7fc-189ec24cba40",
+            "sku": "VN0A38EHQ40",
+            "brand": "Vans",
+            "name": "Wmns Slide-On 'Checkboard - Marshmallow Black'",
+            "colorway": "Marshmallow/Black",
+            "gender": "women",
+            "silhouette": "Slide-On",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/055/433/597/original/VN0A38EHQ40.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/055/433/597/original/VN0A38EHQ40.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/055/433/597/original/VN0A38EHQ40.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-slide-on-checkboard-marshmallow-black-vn0a38ehq40",
+                "flightClub": "https://flightclub.com/wmns-slide-on-checkboard-marshmallow-black-vn0a38ehq40",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "08206c52-d371-4f96-b88b-4e9a33dfaff9",
+            "sku": "VN0A3TL7UEO",
+            "brand": "Vans",
+            "name": "Wmns Asher Flex 'Rose Cloud Sand'",
+            "colorway": "Rose Cloud/Sand",
+            "gender": "women",
+            "silhouette": "Asher",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/039/244/438/original/VN0A3TL7UEO.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/039/244/438/original/VN0A3TL7UEO.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/039/244/438/original/VN0A3TL7UEO.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-asher-flex-rose-cloud-sand-vn0a3tl7ueo",
+                "flightClub": "https://flightclub.com/wmns-asher-flex-rose-cloud-sand-vn0a3tl7ueo",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0866fdfd-d82f-4bbf-b589-5f917b68a7f8",
+            "sku": "VN0A3MVZ4WV",
+            "brand": "Vans",
+            "name": "Wmns Doheny 'Pewter'",
+            "colorway": "Pewter/White",
+            "gender": "women",
+            "silhouette": "Doheny",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/039/244/415/original/VN0A3MVZ4WV.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/039/244/415/original/VN0A3MVZ4WV.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/039/244/415/original/VN0A3MVZ4WV.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-doheny-pewter-vn0a3mvz4wv",
+                "flightClub": "https://flightclub.com/wmns-doheny-pewter-vn0a3mvz4wv",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0965bc43-5604-4f97-9cac-02e6ee27bd0e",
+            "sku": "VN0A38EMOEE",
+            "brand": "Vans",
+            "name": "Vans Authentic J&S Frost Gray (W)",
+            "colorway": "Frost Gray/True White",
+            "gender": "women",
+            "silhouette": "Authentic",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 40,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/035/518/705/original/VN0A38EMOEE.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/035/518/705/original/VN0A38EMOEE.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/035/518/705/original/VN0A38EMOEE.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-authentic-j-s-frost-gray-w",
+                "goat": "https://goat.com/sneakers/wmns-authentic-j-s-frost-grey-vn0a38emoee",
+                "flightClub": "https://flightclub.com/wmns-authentic-j-s-frost-grey-vn0a38emoee",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "09fc9440-14b3-4a9b-9f93-850c69461b57",
+            "sku": "VN0A3IUNPQW",
+            "brand": "Vans",
+            "name": "Wmns Ward 'Checkerboard - Blue Fog'",
+            "colorway": "Grey/Black",
+            "gender": "women",
+            "silhouette": "Ward",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/046/461/307/original/VN0A3IUNPQW.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/046/461/307/original/VN0A3IUNPQW.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/046/461/307/original/VN0A3IUNPQW.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-ward-checkerboard-blue-fog-vn0a3iunpqw",
+                "flightClub": "https://flightclub.com/wmns-ward-checkerboard-blue-fog-vn0a3iunpqw",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0a6dbc17-6662-45e1-b0b4-faf235bce656",
+            "sku": "VN000ZUODC7",
+            "brand": "Vans",
+            "name": "Wmns Atwood Low 'Cosmic'",
+            "colorway": "Cosmic Print",
+            "gender": "women",
+            "silhouette": "Atwood",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/046/175/507/original/VN000ZUODC7.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/046/175/507/original/VN000ZUODC7.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/046/175/507/original/VN000ZUODC7.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-atwood-low-cosmic-vn000zuodc7",
+                "flightClub": "https://flightclub.com/wmns-atwood-low-cosmic-vn000zuodc7",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0d072009-2d8e-4059-b6ba-a509a2ae0fd9",
+            "sku": "VN0A3TL9U6V",
+            "brand": "Vans",
+            "name": "Wmns Cayucas Slide Platform 'Retro Rainbow'",
+            "colorway": "Retro Rainbow",
+            "gender": "women",
+            "silhouette": "Cayucas Slide",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/039/244/441/original/VN0A3TL9U6V.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/039/244/441/original/VN0A3TL9U6V.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/039/244/441/original/VN0A3TL9U6V.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cayucas-slide-platform-retro-rainbow-vn0a3tl9u6v",
+                "flightClub": "https://flightclub.com/wmns-cayucas-slide-platform-retro-rainbow-vn0a3tl9u6v",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0dd66a04-6a20-44e8-aed9-afab1668929d",
+            "sku": "VN0A3MW6LUL",
+            "brand": "Vans",
+            "name": "Wmns Makena 'VTCS - Black'",
+            "colorway": "Black",
+            "gender": "women",
+            "silhouette": "Makena",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 20,
+            "estimatedMarketValue": 20,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/039/244/424/original/VN0A3MW6LUL.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/039/244/424/original/VN0A3MW6LUL.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/039/244/424/original/VN0A3MW6LUL.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-makena-vtcs-black-vn0a3mw6lul",
+                "flightClub": "https://flightclub.com/wmns-makena-vtcs-black-vn0a3mw6lul",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0ea8eabd-2733-441f-94b0-9bdc44cd1671",
+            "sku": "0JWH0RD",
+            "brand": "Vans",
+            "name": "Wmns Aleeda Canvas Classic White",
+            "colorway": "",
+            "gender": "women",
+            "silhouette": "Aleeda",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/000/038/750/original/0JWH0RD.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/000/038/750/original/0JWH0RD.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/000/038/750/original/0JWH0RD.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/vans-womens-aleeda-canvas-classic-white-0jwh0rd",
+                "flightClub": "https://flightclub.com/vans-womens-aleeda-canvas-classic-white-0jwh0rd",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "104fe5fd-4cf7-4dac-adb3-e0c3324e48c7",
+            "sku": "VN000U4I4K1",
+            "brand": "Vans",
+            "name": "Wmns Atwood Low 'Navy'",
+            "colorway": "Navy/White",
+            "gender": "women",
+            "silhouette": "Atwood",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/037/569/008/original/VN000U4I4K1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/037/569/008/original/VN000U4I4K1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/037/569/008/original/VN000U4I4K1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-atwood-low-navy-vn000u4i4k1",
+                "flightClub": "https://flightclub.com/wmns-atwood-low-navy-vn000u4i4k1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "10528cb2-2944-4268-87b4-29e672c29e9b",
+            "sku": "VN0A3IL2GHV",
+            "brand": "Vans",
+            "name": "Wmns Maddie 'Floral Mini Studs'",
+            "colorway": "Mid Grey",
+            "gender": "women",
+            "silhouette": "Maddie",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 65,
+            "estimatedMarketValue": 65,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-maddie-floral-mini-studs-vn0a3il2ghv",
+                "flightClub": "https://flightclub.com/wmns-maddie-floral-mini-studs-vn0a3il2ghv",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1058ed6c-8e6f-4759-8970-f482f165dd76",
+            "sku": "VN0A3MVUUUT",
+            "brand": "Vans",
+            "name": "Wmns UltraRange RapidWeld 'Neptune Green'",
+            "colorway": "Neptune Green/White",
+            "gender": "women",
+            "silhouette": "UltraRange",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 39,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/055/469/276/original/577627_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/055/469/276/original/577627_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/055/469/276/original/577627_00.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-ultrarange-rapidweld-neptune-green-vn0a3mvuuut",
+                "flightClub": "https://flightclub.com/wmns-ultrarange-rapidweld-neptune-green-vn0a3mvuuut",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "10e4a432-1a6a-455a-85ed-e36212f6d7d2",
+            "sku": "VN000ZSOR6K",
+            "brand": "Vans",
+            "name": "Wmns Camden Stripe 'Floral Jacquard - Faded Blue'",
+            "colorway": "Faded Blue",
+            "gender": "women",
+            "silhouette": "Camden",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/037/569/021/original/VN000ZSOR6K.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/037/569/021/original/VN000ZSOR6K.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/037/569/021/original/VN000ZSOR6K.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-camden-stripe-floral-jacquard-faded-blue-vn000zsor6k",
+                "flightClub": "https://flightclub.com/wmns-camden-stripe-floral-jacquard-faded-blue-vn000zsor6k",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "110bce6d-6328-4454-8994-e0cff620e19c",
+            "sku": "43215-73",
+            "brand": "Vans",
+            "name": "Wmns Mannaz 'Black Yellow'",
+            "colorway": "Black/Yellow",
+            "gender": "women",
+            "silhouette": "Mannaz",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-mannaz-black-yellow-43215-73",
+                "flightClub": "https://flightclub.com/wmns-mannaz-black-yellow-43215-73",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "118bd976-5501-4f78-8ca1-b9bd13d49ef7",
+            "sku": "VN0A3MW4BLK",
+            "brand": "Vans",
+            "name": "Wmns Jacinto 'Black'",
+            "colorway": "Black",
+            "gender": "women",
+            "silhouette": "Jacinto",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 43,
+            "estimatedMarketValue": 43,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-jacinto-black-vn0a3mw4blk",
+                "flightClub": "https://flightclub.com/wmns-jacinto-black-vn0a3mw4blk",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "11ea93a4-3792-44e1-80cf-995ef1e0f509",
+            "sku": "VN0A3IL2EUK",
+            "brand": "Vans",
+            "name": "Wmns Maddie 'Black White'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "Maddie",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-maddie-black-white-vn0a3il2euk",
+                "flightClub": "https://flightclub.com/wmns-maddie-black-white-vn0a3il2euk",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "121d54d7-3921-4941-809d-764cc9a6f74c",
+            "sku": "VN000VO2R7I",
+            "brand": "Vans",
+            "name": "Wmns Winston Low 'Menswear Teal'",
+            "colorway": "Teal",
+            "gender": "women",
+            "silhouette": "Winston",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/049/368/438/original/VN000VO2R7I.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/368/438/original/VN000VO2R7I.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/049/368/438/original/VN000VO2R7I.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-winston-low-menswear-teal-vn000vo2r7i",
+                "flightClub": "https://flightclub.com/wmns-winston-low-menswear-teal-vn000vo2r7i",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "132d06f3-4862-4e28-8909-3f45722a6c00",
+            "sku": "VN0A3IUNOLN",
+            "brand": "Vans",
+            "name": "Wmns Ward 'Sepia Rose'",
+            "colorway": "Sepia Rose",
+            "gender": "women",
+            "silhouette": "Ward",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 55,
+            "estimatedMarketValue": 75,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/037/681/841/original/VN0A3IUNOLN.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/037/681/841/original/VN0A3IUNOLN.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/037/681/841/original/VN0A3IUNOLN.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-ward-sepia-rose-vn0a3iunoln",
+                "flightClub": "https://flightclub.com/wmns-ward-sepia-rose-vn0a3iunoln",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "13664ae9-30d6-4e2d-96ed-2b492b099768",
+            "sku": "VN000ZSOUF8",
+            "brand": "Vans",
+            "name": "Wmns Camden Stripe 'Satin Alloy'",
+            "colorway": "Alloy",
+            "gender": "women",
+            "silhouette": "Camden",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/039/244/372/original/VN000ZSOUF8.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/039/244/372/original/VN000ZSOUF8.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/039/244/372/original/VN000ZSOUF8.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-camden-stripe-satin-alloy-vn000zsouf8",
+                "flightClub": "https://flightclub.com/wmns-camden-stripe-satin-alloy-vn000zsouf8",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "136eed64-b387-4885-87a3-d8fecc1ba9ca",
+            "sku": "VN0A3IUNOLQ",
+            "brand": "Vans",
+            "name": "Wmns Ward 'Burgundy'",
+            "colorway": "Burgundy",
+            "gender": "women",
+            "silhouette": "Ward",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 55,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/037/681/842/original/VN0A3IUNOLQ.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/037/681/842/original/VN0A3IUNOLQ.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/037/681/842/original/VN0A3IUNOLQ.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-ward-burgundy-vn0a3iunolq",
+                "flightClub": "https://flightclub.com/wmns-ward-burgundy-vn0a3iunolq",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "15a21ae0-1fbb-43c0-9562-ed9d528a27e8",
+            "sku": "VN000VO1IOD",
+            "brand": "Vans",
+            "name": "Wmns Winston 'Asphalt Mint'",
+            "colorway": "Asphalt/Mint",
+            "gender": "women",
+            "silhouette": "Winston",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-winston-asphalt-mint-vn000vo1iod",
+                "flightClub": "https://flightclub.com/wmns-winston-asphalt-mint-vn000vo1iod",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "15a25440-501c-4ebd-bb40-98fdf6671468",
+            "sku": "VN0A348XOU5",
+            "brand": "Vans",
+            "name": "Wmns Atwood 'Weatherized - Tibetan Red'",
+            "colorway": "Tibetan Red",
+            "gender": "women",
+            "silhouette": "Atwood",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 60,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/039/244/389/original/VN0A348XOU5.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/039/244/389/original/VN0A348XOU5.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/039/244/389/original/VN0A348XOU5.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-atwood-weatherized-tibetan-red-vn0a348xou5",
+                "flightClub": "https://flightclub.com/wmns-atwood-weatherized-tibetan-red-vn0a348xou5",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "15cde15e-c1c0-4339-8c79-0180a0dc3029",
+            "sku": "VN000ZSO187",
+            "brand": "Vans",
+            "name": "Wmns Camden Stripe 'Black White'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "Camden",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/037/569/014/original/VN000ZSO187.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/037/569/014/original/VN000ZSO187.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/037/569/014/original/VN000ZSO187.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-camden-stripe-black-white-vn000zso187",
+                "flightClub": "https://flightclub.com/wmns-camden-stripe-black-white-vn000zso187",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "15e54b55-77d3-4ba3-a1f0-d39f74d3aa6c",
+            "sku": "VN0A3MW7R76",
+            "brand": "Vans",
+            "name": "Wmns Tonsai 'Frappe'",
+            "colorway": "Frappe",
+            "gender": "women",
+            "silhouette": "Tonsai",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 32,
+            "estimatedMarketValue": 32,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-tonsai-frappe-vn0a3mw7r76",
+                "flightClub": "https://flightclub.com/wmns-tonsai-frappe-vn0a3mw7r76",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "160cd43e-6744-49e8-8425-1f5bd3bd872c",
+            "sku": "VN0A3MW2R6R",
+            "brand": "Vans",
+            "name": "Wmns Cayucas Slide",
+            "colorway": "Black/Marshmallow",
+            "gender": "women",
+            "silhouette": "Cayucas",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 48,
+            "estimatedMarketValue": 125,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/012/238/449/original/VN0A3MW2R6R.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/012/238/449/original/VN0A3MW2R6R.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/012/238/449/original/VN0A3MW2R6R.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cayucas-slide-vn0a3mw2r6r",
+                "flightClub": "https://flightclub.com/wmns-cayucas-slide-vn0a3mw2r6r",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1659f8c4-e5e5-4a38-936e-133c6ea0303d",
+            "sku": "VN0A3CXOR6H",
+            "brand": "Vans",
+            "name": "Wmns Camden Deluxe 'Geo Knit'",
+            "colorway": "Multi",
+            "gender": "women",
+            "silhouette": "Camden",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 60,
+            "estimatedMarketValue": 60,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/049/368/461/original/VN0A3CXOR6H.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/368/461/original/VN0A3CXOR6H.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/049/368/461/original/VN0A3CXOR6H.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-camden-deluxe-geo-knit-vn0a3cxor6h",
+                "flightClub": "https://flightclub.com/wmns-camden-deluxe-geo-knit-vn0a3cxor6h",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1689b43a-bce8-4133-9212-8a28fbef8c69",
+            "sku": "VN0A3IUNUFN",
+            "brand": "Vans",
+            "name": "Wmns Ward 'Rose Cloud'",
+            "colorway": "Rose Cloud",
+            "gender": "women",
+            "silhouette": "Ward",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 65,
+            "estimatedMarketValue": 62,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/039/319/445/original/VN0A3IUNUFN.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/039/319/445/original/VN0A3IUNUFN.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/039/319/445/original/VN0A3IUNUFN.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-ward-rose-cloud-vn0a3iunufn",
+                "flightClub": "https://flightclub.com/wmns-ward-rose-cloud-vn0a3iunufn",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "16c426c4-7213-4342-a54c-b0d7fe456c8b",
+            "sku": "VN0A3IUOUF7",
+            "brand": "Vans",
+            "name": "Wmns Ward High 'Marled Canvas - Sesame'",
+            "colorway": "Sesame",
+            "gender": "women",
+            "silhouette": "Ward",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 70,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/039/319/455/original/VN0A3IUOUF7.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/039/319/455/original/VN0A3IUOUF7.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/039/319/455/original/VN0A3IUOUF7.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-ward-high-marled-canvas-sesame-vn0a3iuouf7",
+                "flightClub": "https://flightclub.com/wmns-ward-high-marled-canvas-sesame-vn0a3iuouf7",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1810fea6-d5b1-4aa1-a47c-422f7ed97dcf",
+            "sku": "VN0A3MW5R6W",
+            "brand": "Vans",
+            "name": "Wmns Linden High Lite 'Knit - Black'",
+            "colorway": "Black/Black",
+            "gender": "women",
+            "silhouette": "Linden",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 70,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-linden-high-lite-knit-black-vn0a3mw5r6w",
+                "flightClub": "https://flightclub.com/wmns-linden-high-lite-knit-black-vn0a3mw5r6w",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1820a4d4-169b-42ac-9c11-f3cae1d69577",
+            "sku": "VN000SDVG1G",
+            "brand": "Vans",
+            "name": "Vans Camryn Slim Native Taose Taupe (W)",
+            "colorway": "Taose Taupe/Ombre Blue",
+            "gender": "women",
+            "silhouette": "Camryn",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/022/360/434/original/VN000SDVG1G.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/022/360/434/original/VN000SDVG1G.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/022/360/434/original/VN000SDVG1G.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-camryn-slim-native-taose-taupe-w",
+                "goat": "https://goat.com/sneakers/wmns-camryn-slim-taose-taupe-vn000sdvg1g",
+                "flightClub": "https://flightclub.com/wmns-camryn-slim-taose-taupe-vn000sdvg1g",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "18835238-9296-4af5-ad25-90f290eeaa88",
+            "sku": "VN0A3AV8UJQ1",
+            "brand": "Vans",
+            "name": "Vans Authentic Platform Glitter Purple (W)",
+            "colorway": "Purple/True White",
+            "gender": "women",
+            "silhouette": "Vans Authentic",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "https://stockx.com/vans-authentic-platform-glitter-purple-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "18b1e06e-9538-42b1-9f56-42f5f2a35cf5",
+            "sku": "VN000XKVMZG",
+            "brand": "Vans",
+            "name": "Wmns Milton High '90'S Wind Chime'",
+            "colorway": "Wind Chime/Multi",
+            "gender": "women",
+            "silhouette": "Milton",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 70,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-milton-high-90-s-wind-chime-vn000xkvmzg",
+                "flightClub": "https://flightclub.com/wmns-milton-high-90-s-wind-chime-vn000xkvmzg",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "18fd9142-56ae-4243-94dd-17877c971964",
+            "sku": "0KBB7XZ",
+            "brand": "Vans",
+            "name": "Wmns Palisade Vulc (Washed) Calypso Cloral",
+            "colorway": "",
+            "gender": "women",
+            "silhouette": "Palisades",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/000/038/766/original/0KBB7XZ.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/000/038/766/original/0KBB7XZ.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/000/038/766/original/0KBB7XZ.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/vans-womens-palisade-vulc-washed-calypso-cloral-0kbb7xz",
+                "flightClub": "https://flightclub.com/vans-womens-palisade-vulc-washed-calypso-cloral-0kbb7xz",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1931dc3d-a1af-4385-99fa-56b1ac2dc2ff",
+            "sku": "VN0A3IL2GOK",
+            "brand": "Vans",
+            "name": "Wmns Maddie 'Cayenne'",
+            "colorway": "Cayenne",
+            "gender": "women",
+            "silhouette": "Maddie",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-maddie-cayenne-vn0a3il2gok",
+                "flightClub": "https://flightclub.com/wmns-maddie-cayenne-vn0a3il2gok",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "19ab4fc0-1869-4acd-8143-fda69482f79c",
+            "sku": "VN0A3MVFPHA",
+            "brand": "Vans",
+            "name": "Wmns Solana SF 'Pineapple Slice'",
+            "colorway": "Pineapple Slice",
+            "gender": "women",
+            "silhouette": "Solana",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 52,
+            "estimatedMarketValue": 52,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/037/155/250/original/VN0A3MVFPHA.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/037/155/250/original/VN0A3MVFPHA.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/037/155/250/original/VN0A3MVFPHA.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-solana-sf-pineapple-slice-vn0a3mvfpha",
+                "flightClub": "https://flightclub.com/wmns-solana-sf-pineapple-slice-vn0a3mvfpha",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1abddd95-64ab-4e7a-843a-871e6d8f8fd1",
+            "sku": "VN0004OLK1Y",
+            "brand": "Vans",
+            "name": "Wmns Asher 'Espadrille Stripes'",
+            "colorway": "Black/Off White",
+            "gender": "women",
+            "silhouette": "Asher",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 55,
+            "estimatedMarketValue": 55,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/049/368/431/original/VN0004OLK1Y.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/049/368/431/original/VN0004OLK1Y.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/049/368/431/original/VN0004OLK1Y.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-asher-espadrille-stripes-vn0004olk1y",
+                "flightClub": "https://flightclub.com/wmns-asher-espadrille-stripes-vn0004olk1y",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1b741ee3-3c89-4038-93b6-91b359377a1a",
+            "sku": "VN0003Z4IY1",
+            "brand": "Vans",
+            "name": "Wmns Classic Slip On 'Ballerina'",
+            "colorway": "Ballerina/True White",
+            "gender": "women",
+            "silhouette": "Slip-On",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/013/333/769/original/VN0003Z4IY1.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/013/333/769/original/VN0003Z4IY1.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/013/333/769/original/VN0003Z4IY1.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-classic-slip-on-ballerina-vn0003z4iy1",
+                "flightClub": "https://flightclub.com/wmns-classic-slip-on-ballerina-vn0003z4iy1",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1bb0ef5e-83a9-4e22-b3b8-802922eba8ad",
+            "sku": "VN0A3IL2187",
+            "brand": "Vans",
+            "name": "Wmns Maddie 'Black White'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "Maddie",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 50,
+            "estimatedMarketValue": 191,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/037/569/041/original/VN0A3IL2187.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/037/569/041/original/VN0A3IL2187.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/037/569/041/original/VN0A3IL2187.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-maddie-black-white-vn0a3il2187",
+                "flightClub": "https://flightclub.com/wmns-maddie-black-white-vn0a3il2187",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1bbc281f-4f61-4446-9621-d49520119d07",
+            "sku": "VN0A3MW6UFE",
+            "brand": "Vans",
+            "name": "Wmns Makena 'Dawn Patrol'",
+            "colorway": "Enamel Blue/Mazarine Blue",
+            "gender": "women",
+            "silhouette": "Makena",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 17,
+            "estimatedMarketValue": 17,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-makena-dawn-patrol-vn0a3mw6ufe",
+                "flightClub": "https://flightclub.com/wmns-makena-dawn-patrol-vn0a3mw6ufe",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}

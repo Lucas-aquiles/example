@@ -1,0 +1,56 @@
+{
+    "results": [
+        {
+            "id": "cffd6bc0-cc55-4c15-8f03-d177c89d8e51",
+            "sku": "201.178535-45032",
+            "brand": "Diadora",
+            "name": "Diadora N9000 Loop Breakfast",
+            "colorway": "Blue Strong/White/Grey",
+            "gender": "unisex",
+            "silhouette": "Diadora N9000",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-18",
+            "retailPrice": 230,
+            "estimatedMarketValue": 500,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "https://stockx.com/diadora-n9000-loop-breakfast",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d97410f9-ef06-44f0-8f3f-087a615118a9",
+            "sku": "201.178536-60037",
+            "brand": "Diadora",
+            "name": "Diadora Mi Basket Row Cut Milk Breakfast",
+            "colorway": "Fre Red/Italy/Black/Pink",
+            "gender": "unisex",
+            "silhouette": "Diadora Mi Basket Row Cut",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-18",
+            "retailPrice": 220,
+            "estimatedMarketValue": 220,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "https://stockx.com/diadora-mi-basket-row-cut-milk-breakfast",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}

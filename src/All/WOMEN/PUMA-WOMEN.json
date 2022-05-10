@@ -1,0 +1,2604 @@
+{
+    "results": [
+        {
+            "id": "ccadc170-e56f-491e-aebd-13668e9881aa",
+            "sku": "384147-01",
+            "brand": "Puma",
+            "name": "AMI x Wmns Suede Mayu Deconstruct 'Pristine'",
+            "colorway": "Pristine",
+            "gender": "women",
+            "silhouette": "Suede Mayu",
+            "releaseYear": "2022",
+            "releaseDate": "2022-05-06",
+            "retailPrice": 130,
+            "estimatedMarketValue": 180,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/312/550/original/384147_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/312/550/original/384147_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/312/550/original/384147_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/ami-x-wmns-suede-mayu-deconstruct-pristine-384147-01",
+                "flightClub": "https://flightclub.com/ami-x-wmns-suede-mayu-deconstruct-pristine-384147-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b1442fa3-4112-4455-907c-d58b486d22ea",
+            "sku": "371013-14",
+            "brand": "Puma",
+            "name": "Wmns Cool Cat Slide 'Castlerock Elektro Peach'",
+            "colorway": "Castlerock/Elektro Peach",
+            "gender": "women",
+            "silhouette": "Cool Cat Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-18",
+            "retailPrice": 30,
+            "estimatedMarketValue": 30,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/071/019/050/original/371013_14.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/071/019/050/original/371013_14.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/071/019/050/original/371013_14.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cool-cat-slide-castlerock-elektro-peach-371013-14",
+                "flightClub": "https://flightclub.com/wmns-cool-cat-slide-castlerock-elektro-peach-371013-14",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2dec71b8-d85a-4aa5-a210-11565bac8264",
+            "sku": "384974-02",
+            "brand": "Puma",
+            "name": "Wmns Mayze Infuse 'Pristine'",
+            "colorway": "Pristine/Pristine/Ocean Dive",
+            "gender": "women",
+            "silhouette": "Mayze",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/762/333/original/384974_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/762/333/original/384974_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/762/333/original/384974_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-mayze-infuse-pristine-384974-02",
+                "flightClub": "https://flightclub.com/wmns-mayze-infuse-pristine-384974-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "382fc767-b701-49f5-b7e4-7097c00005d5",
+            "sku": "385389-01",
+            "brand": "Puma",
+            "name": "Wmns Mayze Fade 'White Gradient'",
+            "colorway": "White/Luminous Pink/Elektro Purple",
+            "gender": "women",
+            "silhouette": "Mayze",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/762/335/original/385389_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/762/335/original/385389_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/762/335/original/385389_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-mayze-fade-white-gradient-385389-01",
+                "flightClub": "https://flightclub.com/wmns-mayze-fade-white-gradient-385389-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "497687c9-1073-45e3-bdbb-4bb145820ec5",
+            "sku": "383332-01",
+            "brand": "Puma",
+            "name": "Wmns Future Rider HF 'Floral'",
+            "colorway": "Black",
+            "gender": "women",
+            "silhouette": "Future Rider",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-13",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/762/326/original/383332_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/762/326/original/383332_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/762/326/original/383332_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-future-rider-hf-floral-383332-01",
+                "flightClub": "https://flightclub.com/wmns-future-rider-hf-floral-383332-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "198c2661-7473-478b-9197-35dab9840c82",
+            "sku": "383219-03",
+            "brand": "Puma",
+            "name": "Wmns RS-Z Reinvent 'Spring Moss'",
+            "colorway": "Spring Moss",
+            "gender": "women",
+            "silhouette": "RS-Z",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 110,
+            "estimatedMarketValue": 158,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/762/325/original/383219_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/762/325/original/383219_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/762/325/original/383219_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-rs-z-reinvent-spring-moss-383219-03",
+                "flightClub": "https://flightclub.com/wmns-rs-z-reinvent-spring-moss-383219-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f59393e1-56bf-4b71-9a5a-fc535a9715ff",
+            "sku": "307008-03",
+            "brand": "Puma",
+            "name": "Wmns Scuderia Ferrari x Ridge Cat 'Balle - Rosso Corsa'",
+            "colorway": "Rosso Corsa/Rosso Corsa",
+            "gender": "women",
+            "silhouette": "Ridge Cat",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-10",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/762/300/original/307008_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/762/300/original/307008_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/762/300/original/307008_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-scuderia-ferrari-x-ridge-cat-balle-rosso-corsa-307008-03",
+                "flightClub": "https://flightclub.com/wmns-scuderia-ferrari-x-ridge-cat-balle-rosso-corsa-307008-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1d2ac8e4-506b-4173-bd2f-8326af8adaea",
+            "sku": "307008-01",
+            "brand": "Puma",
+            "name": "Wmns Scuderia Ferrari x Ridge Cat 'Balle - Black Gold'",
+            "colorway": "Black/Black",
+            "gender": "women",
+            "silhouette": "Ridge Cat",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-08",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/762/298/original/307008_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/762/298/original/307008_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/762/298/original/307008_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-scuderia-ferrari-x-ridge-cat-balle-black-gold-307008-01",
+                "flightClub": "https://flightclub.com/wmns-scuderia-ferrari-x-ridge-cat-balle-black-gold-307008-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cede94f4-f053-4737-b170-fcde2c9b9558",
+            "sku": "385010-01",
+            "brand": "Puma",
+            "name": "Puma Mayze Liberty of London (W)",
+            "colorway": "Greener Pastures/Pastel Lilac",
+            "gender": "women",
+            "silhouette": "Mayze",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-08",
+            "retailPrice": 120,
+            "estimatedMarketValue": 114,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/637/133/original/913264_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/637/133/original/913264_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/637/133/original/913264_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/puma-mayze-liberty-of-london-w",
+                "goat": "https://goat.com/sneakers/liberty-of-london-x-wmns-mayze-floral-greener-pastures-385010-01",
+                "flightClub": "https://flightclub.com/liberty-of-london-x-wmns-mayze-floral-greener-pastures-385010-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d62ddd21-ce20-4198-802f-095be56c4c7d",
+            "sku": "194682-08",
+            "brand": "Puma",
+            "name": "Wmns Eternity Nitro 'Nimbus Cloud Fizzy Light'",
+            "colorway": "Nimbus Cloud/Nitro Blue/Fizzy Light",
+            "gender": "women",
+            "silhouette": "Eternity Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-05",
+            "retailPrice": 120,
+            "estimatedMarketValue": 190,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/416/585/original/194682_08.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/416/585/original/194682_08.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/416/585/original/194682_08.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-eternity-nitro-nimbus-cloud-fizzy-light-194682-08",
+                "flightClub": "https://flightclub.com/wmns-eternity-nitro-nimbus-cloud-fizzy-light-194682-08",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2827e2d4-f798-412b-8d6e-5896282365f5",
+            "sku": "194682-09",
+            "brand": "Puma",
+            "name": "Wmns Eternity Nitro 'Grape Wine'",
+            "colorway": "Grape Wine/Lavender Fog/White",
+            "gender": "women",
+            "silhouette": "Eternity Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 120,
+            "estimatedMarketValue": 190,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/416/586/original/194682_09.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/416/586/original/194682_09.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/416/586/original/194682_09.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-eternity-nitro-grape-wine-194682-09",
+                "flightClub": "https://flightclub.com/wmns-eternity-nitro-grape-wine-194682-09",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4cf060a4-6858-4af8-a4da-012adfd7a5af",
+            "sku": "194682-02",
+            "brand": "Puma",
+            "name": "Wmns Eternity Nitro 'Quarry Elektro Peach'",
+            "colorway": "Quarry/Elektro Blue/Elektro Peach",
+            "gender": "women",
+            "silhouette": "Eternity Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-04",
+            "retailPrice": 120,
+            "estimatedMarketValue": 190,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/416/584/original/194682_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/416/584/original/194682_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/416/584/original/194682_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-eternity-nitro-quarry-elektro-peach-194682-02",
+                "flightClub": "https://flightclub.com/wmns-eternity-nitro-quarry-elektro-peach-194682-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2bfd0a41-cef9-46d5-8874-6adbc4419357",
+            "sku": "376262-03",
+            "brand": "Puma",
+            "name": "Wmns Velocity Nitro 2 'Lavender Fog'",
+            "colorway": "Lavender Fog/Grape Wine",
+            "gender": "women",
+            "silhouette": "Velocity Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 120,
+            "estimatedMarketValue": 146,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/374/686/original/376262_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/374/686/original/376262_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/374/686/original/376262_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-velocity-nitro-2-lavender-fog-376262-03",
+                "flightClub": "https://flightclub.com/wmns-velocity-nitro-2-lavender-fog-376262-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "2f52e076-5a16-4ff1-a806-09c6cbda3e2e",
+            "sku": "385395-01",
+            "brand": "Puma",
+            "name": "Wmns Mayze 'Crystal Galaxy'",
+            "colorway": "White/Silver",
+            "gender": "women",
+            "silhouette": "Mayze",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 95,
+            "estimatedMarketValue": 165,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/894/182/original/385395_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/894/182/original/385395_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/894/182/original/385395_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-mayze-crystal-galaxy-385395-01",
+                "flightClub": "https://flightclub.com/wmns-mayze-crystal-galaxy-385395-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "92fbb1a8-0fe1-493d-b91a-779a0c3cf9a4",
+            "sku": "195174-08",
+            "brand": "Puma",
+            "name": "Wmns Electrify Nitro 'Black Deep Orchid'",
+            "colorway": "Black/Castlerock/Deep Orchid",
+            "gender": "women",
+            "silhouette": "Electrify Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-04-01",
+            "retailPrice": 100,
+            "estimatedMarketValue": 122,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/025/128/original/195174_08.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/025/128/original/195174_08.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/025/128/original/195174_08.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-electrify-nitro-black-deep-orchid-195174-08",
+                "flightClub": "https://flightclub.com/wmns-electrify-nitro-black-deep-orchid-195174-08",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0efdf733-0349-44b7-8a96-e9a17010720a",
+            "sku": "385597-01",
+            "brand": "Puma",
+            "name": "Wmns Cali 'Dream Pastel'",
+            "colorway": "Marshmallow/Arctic Ice",
+            "gender": "women",
+            "silhouette": "Cali",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/548/original/385597_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/548/original/385597_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/548/original/385597_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cali-dream-pastel-385597-01",
+                "flightClub": "https://flightclub.com/wmns-cali-dream-pastel-385597-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "243cceab-8adf-4171-b756-347ee3a997a2",
+            "sku": "383682-01",
+            "brand": "Puma",
+            "name": "Wmns Cruise Rider 'Rave - White Fizzy Melon'",
+            "colorway": "White/Fizzy Melon",
+            "gender": "women",
+            "silhouette": "Cruise Rider",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 85,
+            "estimatedMarketValue": 155,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/537/original/383682_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/537/original/383682_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/537/original/383682_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cruise-rider-rave-white-fizzy-melon-383682-01",
+                "flightClub": "https://flightclub.com/wmns-cruise-rider-rave-white-fizzy-melon-383682-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "61eb1234-53a5-4be3-bc8b-9e05ecc3ddf7",
+            "sku": "385591-02",
+            "brand": "Puma",
+            "name": "Wmns Mayze Leather 'White Arctic Ice'",
+            "colorway": "White/Arctic Ice",
+            "gender": "women",
+            "silhouette": "Mayze",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 90,
+            "estimatedMarketValue": 143,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/547/original/385591_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/547/original/385591_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/547/original/385591_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-mayze-leather-white-arctic-ice-385591-02",
+                "flightClub": "https://flightclub.com/wmns-mayze-leather-white-arctic-ice-385591-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8b26c2d5-dd36-466a-9311-8c3854df609e",
+            "sku": "384011-01",
+            "brand": "Puma",
+            "name": "Wmns Cali 'Dream Infuse'",
+            "colorway": "White/Pristine",
+            "gender": "women",
+            "silhouette": "Cali",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/542/original/384011_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/542/original/384011_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/542/original/384011_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cali-dream-infuse-384011-01",
+                "flightClub": "https://flightclub.com/wmns-cali-dream-infuse-384011-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8d8f45fc-02cf-4f59-b831-18cf1a28c6d0",
+            "sku": "193044-01",
+            "brand": "Puma",
+            "name": "Wmns Defy Mid Metal 'Black Gold'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "Defy",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 100,
+            "estimatedMarketValue": 68,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/476/original/193044_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/476/original/193044_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/476/original/193044_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-defy-mid-metal-black-gold-193044-01",
+                "flightClub": "https://flightclub.com/wmns-defy-mid-metal-black-gold-193044-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "932a4bda-095a-4e5d-8f26-dfb15b744a7b",
+            "sku": "195174-10",
+            "brand": "Puma",
+            "name": "Wmns Electrify Nitro 'Nitro Blue Fizzy Light'",
+            "colorway": "Nitro Blue/Dark Slate/White/Fizzy Light",
+            "gender": "women",
+            "silhouette": "Electrify Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/491/original/195174_10.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/491/original/195174_10.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/491/original/195174_10.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-electrify-nitro-nitro-blue-fizzy-light-195174-10",
+                "flightClub": "https://flightclub.com/wmns-electrify-nitro-nitro-blue-fizzy-light-195174-10",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "98ff74c6-c263-4ba2-8305-d36e91e022ff",
+            "sku": "194453-07",
+            "brand": "Puma",
+            "name": "Wmns Deviate Nitro 'Black White'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "Deviate Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 160,
+            "estimatedMarketValue": 230,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/481/original/194453_07.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/481/original/194453_07.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/481/original/194453_07.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-deviate-nitro-black-white-194453-07",
+                "flightClub": "https://flightclub.com/wmns-deviate-nitro-black-white-194453-07",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bb0b9755-b12c-4f78-b555-7c104bdd709b",
+            "sku": "385721-02",
+            "brand": "Puma",
+            "name": "Wmns Fluff Slide 'Jazzy - Parisian Night'",
+            "colorway": "Parisian Night/Mykonos Blue/Nitro Blue/Porcelain",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/550/original/385721_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/550/original/385721_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/550/original/385721_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-slide-jazzy-parisian-night-385721-02",
+                "flightClub": "https://flightclub.com/wmns-fluff-slide-jazzy-parisian-night-385721-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bc08cd9b-7719-4ba4-ba9d-aed558515617",
+            "sku": "385721-01",
+            "brand": "Puma",
+            "name": "Wmns Fluff Slide 'Jazzy - Grape Wine'",
+            "colorway": "Grape Wine/Lavender Fog/Deep Apricot/Festival Fuchsia",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/549/original/385721_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/549/original/385721_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/549/original/385721_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-slide-jazzy-grape-wine-385721-01",
+                "flightClub": "https://flightclub.com/wmns-fluff-slide-jazzy-grape-wine-385721-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d0c7f5f6-b8fb-40a6-b448-ff0ebd58bb60",
+            "sku": "381983-09",
+            "brand": "Puma",
+            "name": "Wmns Mayze 'White Dark Green Moss'",
+            "colorway": "White/Dark Green Moss",
+            "gender": "women",
+            "silhouette": "Mayze",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/526/original/381983_09.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/526/original/381983_09.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/526/original/381983_09.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-mayze-white-dark-green-moss-381983-09",
+                "flightClub": "https://flightclub.com/wmns-mayze-white-dark-green-moss-381983-09",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "dee9ba47-9cde-4ea5-b606-86f35507cc22",
+            "sku": "383682-02",
+            "brand": "Puma",
+            "name": "Wmns Cruise Rider 'Rave - White Arctic Ice'",
+            "colorway": "White/Arctic Ice",
+            "gender": "women",
+            "silhouette": "Cruise Rider",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 85,
+            "estimatedMarketValue": 133,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/538/original/383682_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/538/original/383682_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/538/original/383682_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cruise-rider-rave-white-arctic-ice-383682-02",
+                "flightClub": "https://flightclub.com/wmns-cruise-rider-rave-white-arctic-ice-383682-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "efcd184a-1f4f-4446-a567-3467a7df889d",
+            "sku": "195172-07",
+            "brand": "Puma",
+            "name": "Wmns Magnify Nitro 'Fizzy Light Metallic Silver'",
+            "colorway": "Fizzy Light/Metallic Silver",
+            "gender": "women",
+            "silhouette": "Magnify Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 140,
+            "estimatedMarketValue": 210,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/484/original/195172_07.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/484/original/195172_07.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/484/original/195172_07.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-magnify-nitro-fizzy-light-metallic-silver-195172-07",
+                "flightClub": "https://flightclub.com/wmns-magnify-nitro-fizzy-light-metallic-silver-195172-07",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f0798340-6b8b-45cb-9058-e0ce6f75aa1d",
+            "sku": "387119-01",
+            "brand": "Puma",
+            "name": "Wmns Basket Classic 21 'Flagship'",
+            "colorway": "White/White/Blue Coral",
+            "gender": "women",
+            "silhouette": "Basket",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-31",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/551/original/387119_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/551/original/387119_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/551/original/387119_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-basket-classic-21-flagship-387119-01",
+                "flightClub": "https://flightclub.com/wmns-basket-classic-21-flagship-387119-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "01c5fd2c-fb48-481a-ab32-825d962b79c5",
+            "sku": "383157-06",
+            "brand": "Puma",
+            "name": "Wmns Cali Dream Leather 'White Shifting Sand'",
+            "colorway": "White/Shifting Sand",
+            "gender": "women",
+            "silhouette": "Cali",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-30",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/122/633/original/383157_06.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/122/633/original/383157_06.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/122/633/original/383157_06.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cali-dream-leather-white-shifting-sand-383157-06",
+                "flightClub": "https://flightclub.com/wmns-cali-dream-leather-white-shifting-sand-383157-06",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "41b87b57-3346-4979-82b7-5d2b1145b787",
+            "sku": "387304-01",
+            "brand": "Puma",
+            "name": "Wmns Suede Classic 21 'NYC'",
+            "colorway": "Pristine/Spring Moss/Team Gold",
+            "gender": "women",
+            "silhouette": "Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-30",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/553/original/387304_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/553/original/387304_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/553/original/387304_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-suede-classic-21-nyc-387304-01",
+                "flightClub": "https://flightclub.com/wmns-suede-classic-21-nyc-387304-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "55be4acb-9852-4b63-9913-cbd9e51922a4",
+            "sku": "373906-09",
+            "brand": "Puma",
+            "name": "Wmns Cali Wedge Mix 'White Nimbus Cloud'",
+            "colorway": "White/Nimbus Cloud/Blue Fog",
+            "gender": "women",
+            "silhouette": "Cali",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-30",
+            "retailPrice": 90,
+            "estimatedMarketValue": 148,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/placeholders/product_templates/original/missing.png",
+                "small": "https://image.goat.com/placeholders/product_templates/medium/missing.png",
+                "thumbnail": "https://image.goat.com/placeholders/product_templates/grid/missing.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cali-wedge-mix-white-nimbus-cloud-373906-09",
+                "flightClub": "https://flightclub.com/wmns-cali-wedge-mix-white-nimbus-cloud-373906-09",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6a910764-de83-4c08-8b6b-f7bbf7f2b48f",
+            "sku": "195172-09",
+            "brand": "Puma",
+            "name": "Wmns Magnify Nitro 'Fizzy Melon Firelight'",
+            "colorway": "Fizzy Melon/Firelight",
+            "gender": "women",
+            "silhouette": "Magnify Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-30",
+            "retailPrice": 140,
+            "estimatedMarketValue": 210,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/122/606/original/195172_09.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/122/606/original/195172_09.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/122/606/original/195172_09.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-magnify-nitro-fizzy-melon-firelight-195172-09",
+                "flightClub": "https://flightclub.com/wmns-magnify-nitro-fizzy-melon-firelight-195172-09",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6b9d46ea-f027-478d-abd3-0d6c69f8a38e",
+            "sku": "383754-01",
+            "brand": "Puma",
+            "name": "Wmns Clyde 'Flagship - NYC Winter'",
+            "colorway": "White/Silver",
+            "gender": "women",
+            "silhouette": "Clyde",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-30",
+            "retailPrice": 90,
+            "estimatedMarketValue": 160,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/540/original/383754_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/540/original/383754_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/540/original/383754_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-clyde-flagship-nyc-winter-383754-01",
+                "flightClub": "https://flightclub.com/wmns-clyde-flagship-nyc-winter-383754-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c3d978f3-9bab-49f4-94bf-ad4bc712d2cf",
+            "sku": "383676-01",
+            "brand": "Puma",
+            "name": "Wmns Suede 'Jewel - Rosette'",
+            "colorway": "Rosette/White/Rose Gold",
+            "gender": "women",
+            "silhouette": "Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-30",
+            "retailPrice": 70,
+            "estimatedMarketValue": 70,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/122/634/original/383676_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/122/634/original/383676_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/122/634/original/383676_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-suede-jewel-rosette-383676-01",
+                "flightClub": "https://flightclub.com/wmns-suede-jewel-rosette-383676-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f0f6f865-1f0a-40f4-8873-ed6b6fe3a9f8",
+            "sku": "383954-03",
+            "brand": "Puma",
+            "name": "Wmns Muse X5 Metal 'Dark Green Moss Rose Gold'",
+            "colorway": "Dark Green Moss/White/Rose Gold",
+            "gender": "women",
+            "silhouette": "Muse",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-30",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/541/original/383954_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/541/original/383954_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/541/original/383954_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-muse-x5-metal-dark-green-moss-rose-gold-383954-03",
+                "flightClub": "https://flightclub.com/wmns-muse-x5-metal-dark-green-moss-rose-gold-383954-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "09224bcc-61ee-47e0-989b-26cb7c1f5376",
+            "sku": "384853-02",
+            "brand": "Puma",
+            "name": "Wmns Cali Dream Metal 'White Silver'",
+            "colorway": "White/Silver",
+            "gender": "women",
+            "silhouette": "Cali",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-28",
+            "retailPrice": 90,
+            "estimatedMarketValue": 138,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/545/original/384853_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/545/original/384853_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/545/original/384853_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cali-dream-metal-white-silver-384853-02",
+                "flightClub": "https://flightclub.com/wmns-cali-dream-metal-white-silver-384853-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "f6c7cc96-80a2-4325-911e-e49ade2cf825",
+            "sku": "384853-01",
+            "brand": "Puma",
+            "name": "Wmns Cali Dream Metal 'Black Rose Gold'",
+            "colorway": "Black/White/Rose Gold",
+            "gender": "women",
+            "silhouette": "Cali",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-28",
+            "retailPrice": 90,
+            "estimatedMarketValue": 138,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/237/543/original/384853_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/237/543/original/384853_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/237/543/original/384853_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cali-dream-metal-black-rose-gold-384853-01",
+                "flightClub": "https://flightclub.com/wmns-cali-dream-metal-black-rose-gold-384853-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "127a41da-efe3-489f-a6d1-887e0f00a0e1",
+            "sku": "383113-01",
+            "brand": "Puma",
+            "name": "Wmns Kosmo Rider 'New Realities'",
+            "colorway": "White/Fizzy Lime",
+            "gender": "women",
+            "silhouette": "Kosmo Rider",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-25",
+            "retailPrice": 90,
+            "estimatedMarketValue": 124,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/979/442/original/383113_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/979/442/original/383113_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/979/442/original/383113_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-kosmo-rider-new-realities-383113-01",
+                "flightClub": "https://flightclub.com/wmns-kosmo-rider-new-realities-383113-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "07d26e3f-3032-4df6-96d5-ea301fd455e3",
+            "sku": "384060-01",
+            "brand": "Puma",
+            "name": "Wmns Cruise Rider Re:Style 'Triple White'",
+            "colorway": "White",
+            "gender": "women",
+            "silhouette": "Court Rider",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-16",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/407/936/original/384060_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/407/936/original/384060_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/407/936/original/384060_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cruise-rider-re-style-triple-white-384060-01",
+                "flightClub": "https://flightclub.com/wmns-cruise-rider-re-style-triple-white-384060-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ff8aad90-3e75-49d7-8de8-a105cb6a9eae",
+            "sku": "376444-02",
+            "brand": "Puma",
+            "name": "Wmns Deviate Nitro Elite 'Fizzy Light Nitro Blue'",
+            "colorway": "Fizzy Light/Dark Slate/Nitro Blue",
+            "gender": "women",
+            "silhouette": "Deviate Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-13",
+            "retailPrice": 200,
+            "estimatedMarketValue": 197,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/407/935/original/376444_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/407/935/original/376444_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/407/935/original/376444_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-deviate-nitro-elite-fizzy-light-nitro-blue-376444-02",
+                "flightClub": "https://flightclub.com/wmns-deviate-nitro-elite-fizzy-light-nitro-blue-376444-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0ff41453-48ce-4d3f-8dad-11255e65106d",
+            "sku": "385240-06",
+            "brand": "Puma",
+            "name": "Wmns Fluff Remix Slide 'Black Rose Gold'",
+            "colorway": "Black/Rose Gold",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-10",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/795/original/385240_06.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/795/original/385240_06.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/795/original/385240_06.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-remix-slide-black-rose-gold-385240-06",
+                "flightClub": "https://flightclub.com/wmns-fluff-remix-slide-black-rose-gold-385240-06",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "68c2bf08-a3c7-4994-b01f-9692917825ae",
+            "sku": "383453-02",
+            "brand": "Puma",
+            "name": "Wmns Cool Cat Sherpa Slide 'Whisper White'",
+            "colorway": "Whisper White",
+            "gender": "women",
+            "silhouette": "Cool Cat Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-10",
+            "retailPrice": 35,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/204/318/original/383453_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/204/318/original/383453_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/204/318/original/383453_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cool-cat-sherpa-slide-whisper-white-383453-02",
+                "flightClub": "https://flightclub.com/wmns-cool-cat-sherpa-slide-whisper-white-383453-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7491ee5a-8492-4415-8074-c0e3bb2b71dc",
+            "sku": "385240-03",
+            "brand": "Puma",
+            "name": "Wmns Fluff Remix Slide 'Nimbus Cloud'",
+            "colorway": "Nimbus Cloud/White",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-10",
+            "retailPrice": 35,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/791/original/385240_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/791/original/385240_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/791/original/385240_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-remix-slide-nimbus-cloud-385240-03",
+                "flightClub": "https://flightclub.com/wmns-fluff-remix-slide-nimbus-cloud-385240-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "7e0ee927-8c47-4aee-a114-ee95567ea436",
+            "sku": "371013-05",
+            "brand": "Puma",
+            "name": "Wmns Cool Cat Slide 'Black Rose Gold'",
+            "colorway": "Black/Rose Gold",
+            "gender": "women",
+            "silhouette": "Cool Cat Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-10",
+            "retailPrice": 30,
+            "estimatedMarketValue": 30,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/204/295/original/371013_05.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/204/295/original/371013_05.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/204/295/original/371013_05.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cool-cat-slide-black-rose-gold-371013-05",
+                "flightClub": "https://flightclub.com/wmns-cool-cat-slide-black-rose-gold-371013-05",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8904ae4a-72b2-4f2e-b8dd-22b9297c207b",
+            "sku": "371013-15",
+            "brand": "Puma",
+            "name": "Wmns Cool Cat Slide 'Pink Rose Gold'",
+            "colorway": "Cloud Pink/Rose Gold",
+            "gender": "women",
+            "silhouette": "Cool Cat Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-10",
+            "retailPrice": 30,
+            "estimatedMarketValue": 30,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/204/298/original/371013_15.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/204/298/original/371013_15.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/204/298/original/371013_15.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cool-cat-slide-pink-rose-gold-371013-15",
+                "flightClub": "https://flightclub.com/wmns-cool-cat-slide-pink-rose-gold-371013-15",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a62bb2bf-e929-4caf-8010-50c90cb1c9fa",
+            "sku": "385240-01",
+            "brand": "Puma",
+            "name": "Wmns Fluff Remix Slide 'Black White'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-10",
+            "retailPrice": 35,
+            "estimatedMarketValue": 95,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/789/original/385240_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/789/original/385240_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/789/original/385240_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-remix-slide-black-white-385240-01",
+                "flightClub": "https://flightclub.com/wmns-fluff-remix-slide-black-white-385240-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b5f47c78-3d4e-46c5-8d7d-225f21fea5a1",
+            "sku": "383453-01",
+            "brand": "Puma",
+            "name": "Wmns Cool Cat Sherpa Slide 'Triple Black'",
+            "colorway": "Black",
+            "gender": "women",
+            "silhouette": "Cool Cat Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-10",
+            "retailPrice": 35,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/204/317/original/383453_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/204/317/original/383453_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/204/317/original/383453_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cool-cat-sherpa-slide-triple-black-383453-01",
+                "flightClub": "https://flightclub.com/wmns-cool-cat-sherpa-slide-triple-black-383453-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d1f5e993-ed73-40a8-a6a5-4665f716140d",
+            "sku": "385240-08",
+            "brand": "Puma",
+            "name": "Wmns Fluff Remix Slide 'Ice Flow'",
+            "colorway": "Ice Flow/Porcelain",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-10",
+            "retailPrice": 35,
+            "estimatedMarketValue": 95,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/797/original/385240_08.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/797/original/385240_08.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/797/original/385240_08.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-remix-slide-ice-flow-385240-08",
+                "flightClub": "https://flightclub.com/wmns-fluff-remix-slide-ice-flow-385240-08",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e13dcbd9-3dcc-4613-8126-f4343a596e7a",
+            "sku": "385240-05",
+            "brand": "Puma",
+            "name": "Wmns Fluff Remix Slide 'Mauvewood Silver'",
+            "colorway": "Mauvewood/Silver/Nimbus Cloud",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-10",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/793/original/385240_05.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/793/original/385240_05.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/793/original/385240_05.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-remix-slide-mauvewood-silver-385240-05",
+                "flightClub": "https://flightclub.com/wmns-fluff-remix-slide-mauvewood-silver-385240-05",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "ea149086-ca79-433b-9300-eb26d27f40bc",
+            "sku": "371013-12",
+            "brand": "Puma",
+            "name": "Wmns Cool Cat Slide 'Knockout Pink'",
+            "colorway": "Knockout Pink/White",
+            "gender": "women",
+            "silhouette": "Cool Cat Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-10",
+            "retailPrice": 30,
+            "estimatedMarketValue": 85,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/204/297/original/371013_12.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/204/297/original/371013_12.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/204/297/original/371013_12.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cool-cat-slide-knockout-pink-371013-12",
+                "flightClub": "https://flightclub.com/wmns-cool-cat-slide-knockout-pink-371013-12",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fac93bd4-697a-400f-b412-9f3b5539d6e2",
+            "sku": "385240-04",
+            "brand": "Puma",
+            "name": "Wmns Fluff Remix Slide 'Black High Risk Red'",
+            "colorway": "Black/High Risk Red/Amazon Green",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-10",
+            "retailPrice": 35,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/792/original/385240_04.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/792/original/385240_04.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/792/original/385240_04.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-remix-slide-black-high-risk-red-385240-04",
+                "flightClub": "https://flightclub.com/wmns-fluff-remix-slide-black-high-risk-red-385240-04",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "fd30b2dd-8b53-4900-b019-7d457ebdfa7e",
+            "sku": "385240-02",
+            "brand": "Puma",
+            "name": "Wmns Fluff Remix Slide 'Lotus'",
+            "colorway": "Lotus/White",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-10",
+            "retailPrice": 35,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/790/original/385240_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/790/original/385240_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/790/original/385240_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-remix-slide-lotus-385240-02",
+                "flightClub": "https://flightclub.com/wmns-fluff-remix-slide-lotus-385240-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4fbe0f8a-bc54-4714-bc1d-857ff394b587",
+            "sku": "383623-02",
+            "brand": "Puma",
+            "name": "Wmns Cool Cat Echo Slide 'Lotus Rose Gold'",
+            "colorway": "Lotus/Rose Gold",
+            "gender": "women",
+            "silhouette": "Cool Cat Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-09",
+            "retailPrice": 30,
+            "estimatedMarketValue": 30,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/204/321/original/383623_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/204/321/original/383623_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/204/321/original/383623_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cool-cat-echo-slide-lotus-rose-gold-383623-02",
+                "flightClub": "https://flightclub.com/wmns-cool-cat-echo-slide-lotus-rose-gold-383623-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "b41b6a71-9cff-4647-b468-950161ea320b",
+            "sku": "383623-03",
+            "brand": "Puma",
+            "name": "Wmns Cool Cat Echo Slide 'Black Team Gold'",
+            "colorway": "Black/Team Gold",
+            "gender": "women",
+            "silhouette": "Cool Cat Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-09",
+            "retailPrice": 30,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/204/322/original/383623_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/204/322/original/383623_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/204/322/original/383623_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cool-cat-echo-slide-black-team-gold-383623-03",
+                "flightClub": "https://flightclub.com/wmns-cool-cat-echo-slide-black-team-gold-383623-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "08455af3-05d5-4def-a538-df4d6a748bb3",
+            "sku": "384945-02",
+            "brand": "Puma",
+            "name": "Wmns Fluff Flip Slide 'High Risk Red'",
+            "colorway": "High Risk Red/Whisper White",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/204/325/original/384945_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/204/325/original/384945_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/204/325/original/384945_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-flip-slide-high-risk-red-384945-02",
+                "flightClub": "https://flightclub.com/wmns-fluff-flip-slide-high-risk-red-384945-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0b083f1c-1717-4fa1-837b-7c9abe0e2f39",
+            "sku": "384938-01",
+            "brand": "Puma",
+            "name": "Wmns Fluff Flip Slide 'Black Team Gold'",
+            "colorway": "Black/Team Gold",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 35,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/774/original/384938_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/774/original/384938_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/774/original/384938_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-flip-slide-black-team-gold-384938-01",
+                "flightClub": "https://flightclub.com/wmns-fluff-flip-slide-black-team-gold-384938-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1281145d-2d5b-40f2-beba-ba6f914f7490",
+            "sku": "384945-03",
+            "brand": "Puma",
+            "name": "Wmns Fluff Flip Slide 'Quite Shade'",
+            "colorway": "Quite Shade/Black",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 50,
+            "estimatedMarketValue": 50,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/204/326/original/384945_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/204/326/original/384945_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/204/326/original/384945_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-flip-slide-quite-shade-384945-03",
+                "flightClub": "https://flightclub.com/wmns-fluff-flip-slide-quite-shade-384945-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1caea42c-3ce1-49bc-9737-7fa1473c95e8",
+            "sku": "371016-04",
+            "brand": "Puma",
+            "name": "Wmns Cool Cat Sport Slide 'Black White'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "Cool Cat Sport Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 30,
+            "estimatedMarketValue": 30,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/204/300/original/371016_04.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/204/300/original/371016_04.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/204/300/original/371016_04.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cool-cat-sport-slide-black-white-371016-04",
+                "flightClub": "https://flightclub.com/wmns-cool-cat-sport-slide-black-white-371016-04",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "1e7914f5-db5d-4a97-84f8-4a85ccab49d1",
+            "sku": "384938-02",
+            "brand": "Puma",
+            "name": "Wmns Fluff Flip Slide 'Lotus'",
+            "colorway": "Lotus/White",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 35,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/778/original/384938_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/778/original/384938_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/778/original/384938_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-flip-slide-lotus-384938-02",
+                "flightClub": "https://flightclub.com/wmns-fluff-flip-slide-lotus-384938-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "31f83b23-6e8f-484e-b2ed-081807444f13",
+            "sku": "371016-02",
+            "brand": "Puma",
+            "name": "Wmns Cool Cat Sport Slide 'Triple Black'",
+            "colorway": "Black/Black",
+            "gender": "women",
+            "silhouette": "Cool Cat Sport Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 30,
+            "estimatedMarketValue": 30,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/204/299/original/371016_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/204/299/original/371016_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/204/299/original/371016_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cool-cat-sport-slide-triple-black-371016-02",
+                "flightClub": "https://flightclub.com/wmns-cool-cat-sport-slide-triple-black-371016-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3294a33e-76b8-403f-a61c-613ec5dd57e7",
+            "sku": "384938-04",
+            "brand": "Puma",
+            "name": "Wmns Fluff Flip Slide 'High Rise'",
+            "colorway": "High Rise/Silver",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/783/original/384938_04.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/783/original/384938_04.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/783/original/384938_04.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-flip-slide-high-rise-384938-04",
+                "flightClub": "https://flightclub.com/wmns-fluff-flip-slide-high-rise-384938-04",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3bbcf220-ebdd-482b-93c9-24601b67c9c4",
+            "sku": "384938-03",
+            "brand": "Puma",
+            "name": "Wmns Fluff Flip Slide 'Eggshell Blue'",
+            "colorway": "Eggshell Blue/White",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/782/original/384938_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/782/original/384938_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/782/original/384938_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-flip-slide-eggshell-blue-384938-03",
+                "flightClub": "https://flightclub.com/wmns-fluff-flip-slide-eggshell-blue-384938-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "4c91347d-82b4-4ef5-8df9-5657ec52bef4",
+            "sku": "384938-05",
+            "brand": "Puma",
+            "name": "Wmns Fluff Flip Slide 'Persian Red Team Gold'",
+            "colorway": "Persian Red/Team Gold",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 35,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/785/original/384938_05.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/785/original/384938_05.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/785/original/384938_05.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-flip-slide-persian-red-team-gold-384938-05",
+                "flightClub": "https://flightclub.com/wmns-fluff-flip-slide-persian-red-team-gold-384938-05",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "596e0620-83a5-4362-9c89-67cbd0cc8152",
+            "sku": "384938-08",
+            "brand": "Puma",
+            "name": "Wmns Fluff Flip Slide 'Rosette'",
+            "colorway": "Rosette/White",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 35,
+            "estimatedMarketValue": 35,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/788/original/384938_08.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/788/original/384938_08.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/788/original/384938_08.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-flip-slide-rosette-384938-08",
+                "flightClub": "https://flightclub.com/wmns-fluff-flip-slide-rosette-384938-08",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8979e5d6-ffa9-4c91-a035-2f420a2d00dc",
+            "sku": "385830-01",
+            "brand": "Puma",
+            "name": "Puma Cali Star DC Justice League Wonder Woman (W)",
+            "colorway": "Puma White/Intense Red",
+            "gender": "women",
+            "silhouette": "Cali",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 90,
+            "estimatedMarketValue": 143,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/070/734/527/original/899676_00.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/070/734/527/original/899676_00.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/070/734/527/original/899676_00.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/puma-cali-star-dc-justice-league-wonder-woman-w",
+                "goat": "https://goat.com/sneakers/dc-comics-x-wmns-cali-star-wonder-woman-385830-01",
+                "flightClub": "https://flightclub.com/dc-comics-x-wmns-cali-star-wonder-woman-385830-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a2e3a517-b429-46d5-ad1c-67357c41918e",
+            "sku": "384938-07",
+            "brand": "Puma",
+            "name": "Wmns Fluff Flip Slide 'Putty'",
+            "colorway": "Putty/White",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 35,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/786/original/384938_07.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/786/original/384938_07.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/786/original/384938_07.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-flip-slide-putty-384938-07",
+                "flightClub": "https://flightclub.com/wmns-fluff-flip-slide-putty-384938-07",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d8fb71a1-90c1-4605-86fe-8005ad810baa",
+            "sku": "371016-15",
+            "brand": "Puma",
+            "name": "Wmns Cool Cat Sport Slide 'Olivine Team Gold'",
+            "colorway": "Olivine/Team Gold",
+            "gender": "women",
+            "silhouette": "Cool Cat Sport Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 30,
+            "estimatedMarketValue": 85,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/204/301/original/371016_15.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/204/301/original/371016_15.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/204/301/original/371016_15.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cool-cat-sport-slide-olivine-team-gold-371016-15",
+                "flightClub": "https://flightclub.com/wmns-cool-cat-sport-slide-olivine-team-gold-371016-15",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "daf34ff9-49f3-46da-a3aa-629646d613c8",
+            "sku": "385895-01",
+            "brand": "Puma",
+            "name": "Wmns Cool Cat Slide 'Bleached'",
+            "colorway": "Opera Mauve/White/Silver",
+            "gender": "women",
+            "silhouette": "Cool Cat Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-08",
+            "retailPrice": 30,
+            "estimatedMarketValue": 30,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/204/342/original/385895_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/204/342/original/385895_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/204/342/original/385895_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cool-cat-slide-bleached-385895-01",
+                "flightClub": "https://flightclub.com/wmns-cool-cat-slide-bleached-385895-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "42b34314-8035-424c-afa6-6a86d6880115",
+            "sku": "385892-01",
+            "brand": "Puma",
+            "name": "Wmns Cool Cat Slide 'Matte & Shine'",
+            "colorway": "Black",
+            "gender": "women",
+            "silhouette": "Cool Cat Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-07",
+            "retailPrice": 30,
+            "estimatedMarketValue": 90,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/798/original/385892_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/798/original/385892_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/798/original/385892_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cool-cat-slide-matte-shine-385892-01",
+                "flightClub": "https://flightclub.com/wmns-cool-cat-slide-matte-shine-385892-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9fbd5f30-2a2d-4726-a612-0c5f0c6255f5",
+            "sku": "195505-05",
+            "brand": "Puma",
+            "name": "Wmns Voyage Nitro 'Black Sunblaze'",
+            "colorway": "Black/Sunblaze/Metallic Silver",
+            "gender": "women",
+            "silhouette": "Voyage Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-07",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/025/132/original/195505_05.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/025/132/original/195505_05.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/025/132/original/195505_05.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-voyage-nitro-black-sunblaze-195505-05",
+                "flightClub": "https://flightclub.com/wmns-voyage-nitro-black-sunblaze-195505-05",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bde0e3e6-d82f-4dab-b315-55fba143e489",
+            "sku": "195505-02",
+            "brand": "Puma",
+            "name": "Wmns Voyage Nitro 'Sunblaze'",
+            "colorway": "Sunblaze/Black",
+            "gender": "women",
+            "silhouette": "Voyage Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-07",
+            "retailPrice": 130,
+            "estimatedMarketValue": 200,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/025/130/original/195505_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/025/130/original/195505_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/025/130/original/195505_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-voyage-nitro-sunblaze-195505-02",
+                "flightClub": "https://flightclub.com/wmns-voyage-nitro-sunblaze-195505-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "9cc54b95-8ee8-406b-8d7f-0114c11e1e14",
+            "sku": "385240-07",
+            "brand": "Puma",
+            "name": "Wmns Fluff Remix Slide 'Anise Flower'",
+            "colorway": "Anise Flower/White",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-03",
+            "retailPrice": 35,
+            "estimatedMarketValue": 95,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/069/048/796/original/385240_07.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/069/048/796/original/385240_07.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/069/048/796/original/385240_07.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-remix-slide-anise-flower-385240-07",
+                "flightClub": "https://flightclub.com/wmns-fluff-remix-slide-anise-flower-385240-07",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "8bc02f37-41e5-42cd-a9e8-c1b2d866241e",
+            "sku": "384936-05",
+            "brand": "Puma",
+            "name": "Wmns Fluff X Strap Slide 'Opera Mauve'",
+            "colorway": "Opera Mauve/White",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-02",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/715/012/original/384936_05.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/715/012/original/384936_05.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/715/012/original/384936_05.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-x-strap-slide-opera-mauve-384936-05",
+                "flightClub": "https://flightclub.com/wmns-fluff-x-strap-slide-opera-mauve-384936-05",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6cabbaed-7406-4c24-b1a5-3fc739223f3c",
+            "sku": "383963-02",
+            "brand": "Puma",
+            "name": "Wmns Mayze 'Go For'",
+            "colorway": "Rosette",
+            "gender": "women",
+            "silhouette": "Mayze",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-01",
+            "retailPrice": 110,
+            "estimatedMarketValue": 145,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/714/549/original/383963_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/714/549/original/383963_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/714/549/original/383963_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-mayze-go-for-383963-02",
+                "flightClub": "https://flightclub.com/wmns-mayze-go-for-383963-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "6ebb7142-77a8-451d-b643-76ff54255589",
+            "sku": "376262-02",
+            "brand": "Puma",
+            "name": "Wmns Velocity Nitro 2 'Harbor Mist Fizzy Light'",
+            "colorway": "Harbor Mist/Fizzy Light",
+            "gender": "women",
+            "silhouette": "Velocity Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-27",
+            "retailPrice": 120,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/384/342/original/376262_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/384/342/original/376262_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/384/342/original/376262_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-velocity-nitro-2-harbor-mist-fizzy-light-376262-02",
+                "flightClub": "https://flightclub.com/wmns-velocity-nitro-2-harbor-mist-fizzy-light-376262-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bca2954b-0ee0-4eb3-8d70-8df0ff257aef",
+            "sku": "376262-01",
+            "brand": "Puma",
+            "name": "Wmns Velocity Nitro 2 'Black White'",
+            "colorway": "Black/White",
+            "gender": "women",
+            "silhouette": "Velocity Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-27",
+            "retailPrice": 120,
+            "estimatedMarketValue": 146,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/384/341/original/376262_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/384/341/original/376262_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/384/341/original/376262_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-velocity-nitro-2-black-white-376262-01",
+                "flightClub": "https://flightclub.com/wmns-velocity-nitro-2-black-white-376262-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "eecc0ba9-29c1-422c-a1bb-5a5a207dbd9d",
+            "sku": "383647-01",
+            "brand": "Puma",
+            "name": "Wmns High Court Leadcat Slide 'Glory'",
+            "colorway": "Black/Vibrant Orange",
+            "gender": "women",
+            "silhouette": "Leadcat Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-25",
+            "retailPrice": 60,
+            "estimatedMarketValue": 130,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/384/344/original/383647_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/384/344/original/383647_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/384/344/original/383647_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-high-court-leadcat-slide-glory-383647-01",
+                "flightClub": "https://flightclub.com/wmns-high-court-leadcat-slide-glory-383647-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0f86e86d-cc53-4ebb-9c5a-ed7fd63cfeab",
+            "sku": "376853-01",
+            "brand": "Puma",
+            "name": "Puma Court Rider 2.0 The Batman Catwoman (W)",
+            "colorway": "Black/Purple",
+            "gender": "women",
+            "silhouette": "Puma Court Rider 2.0",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-22",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Puma-Court-Rider-20-The-Batman-Catwoman-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1647058517",
+                "small": "https://images.stockx.com/images/Puma-Court-Rider-20-The-Batman-Catwoman-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1647058517",
+                "thumbnail": "https://images.stockx.com/images/Puma-Court-Rider-20-The-Batman-Catwoman-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1647058517"
+            },
+            "links": {
+                "stockX": "https://stockx.com/puma-court-rider-20-the-batman-catwoman-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "71a47035-18ef-4eb7-8762-5ab583e4e07e",
+            "sku": "385890-01",
+            "brand": "Puma",
+            "name": "Wmns Cool Cat 'Galentines'",
+            "colorway": "Black/Chalk Pink/Team Gold",
+            "gender": "women",
+            "silhouette": "Cool Cat Slides",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-22",
+            "retailPrice": 30,
+            "estimatedMarketValue": 30,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/374/692/original/385890_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/374/692/original/385890_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/374/692/original/385890_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cool-cat-galentines-385890-01",
+                "flightClub": "https://flightclub.com/wmns-cool-cat-galentines-385890-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "86e747c3-d805-437f-9d99-b27bd1e70d34",
+            "sku": "376309-01",
+            "brand": "Puma",
+            "name": "Puma Fierce 2 The Batman Catwoman (W)",
+            "colorway": "Black/Red",
+            "gender": "women",
+            "silhouette": "Puma Fierce 2",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-22",
+            "retailPrice": 0,
+            "estimatedMarketValue": 0,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Puma-Fierce-2-The-Batman-Catwoman-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1647058527",
+                "small": "https://images.stockx.com/images/Puma-Fierce-2-The-Batman-Catwoman-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1647058527",
+                "thumbnail": "https://images.stockx.com/images/Puma-Fierce-2-The-Batman-Catwoman-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1647058527"
+            },
+            "links": {
+                "stockX": "https://stockx.com/puma-fierce-2-the-batman-catwoman-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a7b94787-32fe-4972-aa6d-cb3d73977270",
+            "sku": "383293-01",
+            "brand": "Puma",
+            "name": "Puma Mayze The Batman Catwoman (W)",
+            "colorway": "Patent Black/Red",
+            "gender": "women",
+            "silhouette": "Puma Mayze",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-22",
+            "retailPrice": 110,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Puma-Mayze-The-Batman-Catwoman-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1647058530",
+                "small": "https://images.stockx.com/images/Puma-Mayze-The-Batman-Catwoman-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1647058530",
+                "thumbnail": "https://images.stockx.com/images/Puma-Mayze-The-Batman-Catwoman-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1647058530"
+            },
+            "links": {
+                "stockX": "https://stockx.com/puma-mayze-the-batman-catwoman-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "bbaa21a7-6ea6-4535-97b9-54f81331309a",
+            "sku": "384128-02",
+            "brand": "Puma",
+            "name": "Wmns Softride Slide 'Wordmark - Marshmallow'",
+            "colorway": "Marshmallow/Black",
+            "gender": "women",
+            "silhouette": "Softride Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-22",
+            "retailPrice": 50,
+            "estimatedMarketValue": 85,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/374/687/original/384128_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/374/687/original/384128_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/374/687/original/384128_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-softride-slide-wordmark-marshmallow-384128-02",
+                "flightClub": "https://flightclub.com/wmns-softride-slide-wordmark-marshmallow-384128-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d307108f-38b7-447a-906e-887710a3555f",
+            "sku": "384106-01",
+            "brand": "Puma",
+            "name": "Pronounce x Wmns Suede Mayu 2 'Silver Ultra Violet'",
+            "colorway": "Silver/Ultra Violet",
+            "gender": "women",
+            "silhouette": "Suede Mayu",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-22",
+            "retailPrice": 120,
+            "estimatedMarketValue": 139,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/714/550/original/384106_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/714/550/original/384106_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/714/550/original/384106_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/pronounce-x-wmns-suede-mayu-2-silver-ultra-violet-384106-01",
+                "flightClub": "https://flightclub.com/pronounce-x-wmns-suede-mayu-2-silver-ultra-violet-384106-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d72d0dfe-f1b6-43d2-88c5-0c551527773c",
+            "sku": "383292-01",
+            "brand": "Puma",
+            "name": "Puma Suede The Batman Catwoman (W)",
+            "colorway": "Black/Purple",
+            "gender": "women",
+            "silhouette": "Puma Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-22",
+            "retailPrice": 100,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://images.stockx.com/images/Puma-Suede-The-Batman-Catwoman-W.jpg?fit=fill&bg=FFFFFF&w=500&h=500&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1647058532",
+                "small": "https://images.stockx.com/images/Puma-Suede-The-Batman-Catwoman-W.jpg?fit=fill&bg=FFFFFF&w=375&h=375&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1647058532",
+                "thumbnail": "https://images.stockx.com/images/Puma-Suede-The-Batman-Catwoman-W.jpg?fit=fill&bg=FFFFFF&w=200&h=200&fm=webp&auto=compress&trim=color&q=90&dpr=2&updated_at=1647058532"
+            },
+            "links": {
+                "stockX": "https://stockx.com/puma-suede-the-batman-catwoman-w",
+                "goat": "",
+                "flightClub": "",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e358a0c9-8fd6-4e78-8782-2f8d05bf3ab1",
+            "sku": "384128-04",
+            "brand": "Puma",
+            "name": "Wmns Softride Slide 'Wordmark - White Royal'",
+            "colorway": "White/Royal/Limepunch/Black",
+            "gender": "women",
+            "silhouette": "Softride Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-22",
+            "retailPrice": 50,
+            "estimatedMarketValue": 100,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/374/688/original/384128_04.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/374/688/original/384128_04.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/374/688/original/384128_04.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-softride-slide-wordmark-white-royal-384128-04",
+                "flightClub": "https://flightclub.com/wmns-softride-slide-wordmark-white-royal-384128-04",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "623f10df-535e-4e04-bd71-8ab57a00d32f",
+            "sku": "380220-13",
+            "brand": "Puma",
+            "name": "Wmns Cali Star 'White Lavender Fog'",
+            "colorway": "White/Arctic Ice/Lavender Fog",
+            "gender": "women",
+            "silhouette": "Cali",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-21",
+            "retailPrice": 80,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/254/356/original/380220_13.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/254/356/original/380220_13.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/254/356/original/380220_13.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-cali-star-white-lavender-fog-380220-13",
+                "flightClub": "https://flightclub.com/wmns-cali-star-white-lavender-fog-380220-13",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "a7a8d984-f0b4-4970-8c0c-ca43655bfd66",
+            "sku": "384936-04",
+            "brand": "Puma",
+            "name": "Wmns Fluff X Strap Slide 'Nimbus Cloud'",
+            "colorway": "Nimbus Cloud/White",
+            "gender": "women",
+            "silhouette": "Fluff Slide",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-21",
+            "retailPrice": 35,
+            "estimatedMarketValue": 105,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/254/357/original/384936_04.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/254/357/original/384936_04.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/254/357/original/384936_04.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-fluff-x-strap-slide-nimbus-cloud-384936-04",
+                "flightClub": "https://flightclub.com/wmns-fluff-x-strap-slide-nimbus-cloud-384936-04",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "5eb7c920-2675-49f8-bedb-fde38f97d577",
+            "sku": "383999-01",
+            "brand": "Puma",
+            "name": "Wmns High Court Cunning Suede 'Safari'",
+            "colorway": "Safari",
+            "gender": "women",
+            "silhouette": "High Court Cunning Suede",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-16",
+            "retailPrice": 80,
+            "estimatedMarketValue": 124,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/025/790/original/383999_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/025/790/original/383999_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/025/790/original/383999_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-high-court-cunning-suede-safari-383999-01",
+                "flightClub": "https://flightclub.com/wmns-high-court-cunning-suede-safari-383999-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "df92e5c3-dbd3-4f9c-be6c-f7fb816bb287",
+            "sku": "384589-05",
+            "brand": "Puma",
+            "name": "Wmns Wild Rider Rollin' 'Blue Fog White'",
+            "colorway": "Blue Fog/White",
+            "gender": "women",
+            "silhouette": "Wild Rider",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-16",
+            "retailPrice": 100,
+            "estimatedMarketValue": 150,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/025/146/original/384589_05.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/025/146/original/384589_05.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/025/146/original/384589_05.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-wild-rider-rollin-blue-fog-white-384589-05",
+                "flightClub": "https://flightclub.com/wmns-wild-rider-rollin-blue-fog-white-384589-05",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "e073268c-79bb-44d0-a775-a12815960385",
+            "sku": "385517-02",
+            "brand": "Puma",
+            "name": "Wmns RS-X 'Cuddle'",
+            "colorway": "Pastel Parchment/Peach Pink/Ocean Dive",
+            "gender": "women",
+            "silhouette": "RS-X",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-16",
+            "retailPrice": 110,
+            "estimatedMarketValue": 149,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/025/148/original/385517_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/025/148/original/385517_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/025/148/original/385517_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-rs-x-cuddle-385517-02",
+                "flightClub": "https://flightclub.com/wmns-rs-x-cuddle-385517-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "0d195da1-1884-450c-95bf-d11888e90735",
+            "sku": "194458-10",
+            "brand": "Puma",
+            "name": "Wmns Liberate Nitro 'Black Silver'",
+            "colorway": "Black/White/Silver",
+            "gender": "women",
+            "silhouette": "Liberate Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-15",
+            "retailPrice": 110,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/025/127/original/194458_10.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/025/127/original/194458_10.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/025/127/original/194458_10.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-liberate-nitro-black-silver-194458-10",
+                "flightClub": "https://flightclub.com/wmns-liberate-nitro-black-silver-194458-10",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "267bdc97-8157-42bb-b8f6-17c1340875f7",
+            "sku": "194458-03",
+            "brand": "Puma",
+            "name": "Wmns Liberate Nitro 'Soft Fluo Yellow'",
+            "colorway": "Soft Fluo Yellow/Black",
+            "gender": "women",
+            "silhouette": "Liberate Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-15",
+            "retailPrice": 110,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/025/122/original/194458_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/025/122/original/194458_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/025/122/original/194458_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-liberate-nitro-soft-fluo-yellow-194458-03",
+                "flightClub": "https://flightclub.com/wmns-liberate-nitro-soft-fluo-yellow-194458-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "53d2d1dc-25be-48f5-a31e-58f7a427b48a",
+            "sku": "194458-02",
+            "brand": "Puma",
+            "name": "Wmns Liberate Nitro 'Black Elektro Peach'",
+            "colorway": "Black/White/Elektro Peach",
+            "gender": "women",
+            "silhouette": "Liberate Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-15",
+            "retailPrice": 110,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/025/121/original/194458_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/025/121/original/194458_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/025/121/original/194458_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-liberate-nitro-black-elektro-peach-194458-02",
+                "flightClub": "https://flightclub.com/wmns-liberate-nitro-black-elektro-peach-194458-02",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "cedaaf60-cad2-4e1e-b317-9f655d14aac4",
+            "sku": "194458-13",
+            "brand": "Puma",
+            "name": "Wmns Liberate Nitro 'Black Nitro Blue'",
+            "colorway": "Black/Nitro Blue",
+            "gender": "women",
+            "silhouette": "Liberate Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-15",
+            "retailPrice": 110,
+            "estimatedMarketValue": 180,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/981/029/original/194458_13.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/981/029/original/194458_13.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/981/029/original/194458_13.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-liberate-nitro-black-nitro-blue-194458-13",
+                "flightClub": "https://flightclub.com/wmns-liberate-nitro-black-nitro-blue-194458-13",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "d08e4004-0449-459e-9a09-260d3cb15b30",
+            "sku": "384591-05",
+            "brand": "Puma",
+            "name": "Wmns Wild Rider Vintage 'Super Lemon Glowing Pink'",
+            "colorway": "Super Lemon/Glowing Pink",
+            "gender": "women",
+            "silhouette": "Wild Rider",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-15",
+            "retailPrice": 110,
+            "estimatedMarketValue": 110,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/025/147/original/384591_05.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/025/147/original/384591_05.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/025/147/original/384591_05.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-wild-rider-vintage-super-lemon-glowing-pink-384591-05",
+                "flightClub": "https://flightclub.com/wmns-wild-rider-vintage-super-lemon-glowing-pink-384591-05",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "44268ee7-f5e0-4704-bbb6-6a049bf8927a",
+            "sku": "195174-01",
+            "brand": "Puma",
+            "name": "Wmns Electrify Nitro 'Black'",
+            "colorway": "Black",
+            "gender": "women",
+            "silhouette": "Electrify Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-14",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/889/710/original/195174_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/889/710/original/195174_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/889/710/original/195174_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-electrify-nitro-black-195174-01",
+                "flightClub": "https://flightclub.com/wmns-electrify-nitro-black-195174-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "af2e6101-902a-4f06-8496-574563d8665a",
+            "sku": "194458-04",
+            "brand": "Puma",
+            "name": "Wmns Liberate Nitro 'White Elektro Peach'",
+            "colorway": "White/Elektro Peach",
+            "gender": "women",
+            "silhouette": "Liberate Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-14",
+            "retailPrice": 110,
+            "estimatedMarketValue": 180,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/068/025/124/original/194458_04.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/068/025/124/original/194458_04.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/068/025/124/original/194458_04.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-liberate-nitro-white-elektro-peach-194458-04",
+                "flightClub": "https://flightclub.com/wmns-liberate-nitro-white-elektro-peach-194458-04",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "04f5e446-cab9-44ff-9811-df457607db28",
+            "sku": "195174-03",
+            "brand": "Puma",
+            "name": "Wmns Electrify Nitro 'Persian Red'",
+            "colorway": "Persian Red",
+            "gender": "women",
+            "silhouette": "Electrify Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-12",
+            "retailPrice": 100,
+            "estimatedMarketValue": 170,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/889/712/original/195174_03.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/889/712/original/195174_03.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/889/712/original/195174_03.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-electrify-nitro-persian-red-195174-03",
+                "flightClub": "https://flightclub.com/wmns-electrify-nitro-persian-red-195174-03",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "c815cdff-ea92-41c1-a677-9647cfe02c10",
+            "sku": "385390-01",
+            "brand": "Puma",
+            "name": "Wmns RS-Curve 'Lightsense'",
+            "colorway": "Black",
+            "gender": "women",
+            "silhouette": "RS-Curve",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-11",
+            "retailPrice": 100,
+            "estimatedMarketValue": 185,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/889/732/original/385390_01.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/889/732/original/385390_01.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/889/732/original/385390_01.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-rs-curve-lightsense-385390-01",
+                "flightClub": "https://flightclub.com/wmns-rs-curve-lightsense-385390-01",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "05a224ce-f59f-4837-a609-a60abde9faf0",
+            "sku": "195172-02",
+            "brand": "Puma",
+            "name": "Wmns Magnify Nitro 'Nimbus Cloud Green Glare'",
+            "colorway": "Nimbus Cloud/Green Glare",
+            "gender": "women",
+            "silhouette": "Magnify Nitro",
+            "releaseYear": "2022",
+            "releaseDate": "2022-02-09",
+            "retailPrice": 140,
+            "estimatedMarketValue": 140,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/067/714/521/original/195172_02.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/067/714/521/original/195172_02.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/067/714/521/original/195172_02.png.png"
+            },
+            "links": {
+                "stockX": "",
+                "goat": "https://goat.com/sneakers/wmns-magnify-nitro-nimbus-cloud-green-glare-195172-02",
+                "flightClub": "https://flightclub.com/wmns-magnify-nitro-nimbus-cloud-green-glare-195172-02",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}

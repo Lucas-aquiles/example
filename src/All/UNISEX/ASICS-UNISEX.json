@@ -1,0 +1,108 @@
+{
+    "results": [
+        {
+            "id": "ad963691-da6f-4f6a-b2af-92514b740773",
+            "sku": "1201A561-020",
+            "brand": "ASICS",
+            "name": "ASICS Gel-PTG atmos Denim Grey",
+            "colorway": "Metropolis/Metropolis",
+            "gender": "unisex",
+            "silhouette": "Gel PTG",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-13",
+            "retailPrice": 125,
+            "estimatedMarketValue": 193,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "https://stockx.com/asics-gel-ptg-atmos-denim-grey",
+                "goat": "https://goat.com/sneakers/gel-ptg-metropolis-1201a561-020",
+                "flightClub": "https://flightclub.com/gel-ptg-metropolis-1201a561-020",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "3872bea6-fd4e-4db8-9158-1e084a381036",
+            "sku": "1201A561-400",
+            "brand": "ASICS",
+            "name": "ASICS Gel-PTG atmos Denim Azure",
+            "colorway": "Azure/Azure",
+            "gender": "unisex",
+            "silhouette": "Gel PTG",
+            "releaseYear": "2022",
+            "releaseDate": "2022-03-06",
+            "retailPrice": 125,
+            "estimatedMarketValue": 193,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "",
+                "small": "",
+                "thumbnail": ""
+            },
+            "links": {
+                "stockX": "https://stockx.com/asics-gel-ptg-atmos-denim-azure",
+                "goat": "https://goat.com/sneakers/gel-ptg-azure-1201a561-400",
+                "flightClub": "https://flightclub.com/gel-ptg-azure-1201a561-400",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "66503db1-e36e-4afb-b0e5-f7ddf72879bd",
+            "sku": "1203A076-102",
+            "brand": "ASICS",
+            "name": "ASICS Gel-PTG atmos Python White",
+            "colorway": "White/Cream",
+            "gender": "unisex",
+            "silhouette": "Gel PTG",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 110,
+            "estimatedMarketValue": 158,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/045/025/621/original/1203A076_102.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/045/025/621/original/1203A076_102.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/045/025/621/original/1203A076_102.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/asics-gel-ptg-atmos-python-white",
+                "goat": "https://goat.com/sneakers/atmos-x-gel-ptg-snakeskin-1203a076-102",
+                "flightClub": "https://flightclub.com/atmos-x-gel-ptg-snakeskin-1203a076-102",
+                "stadiumGoods": ""
+            }
+        },
+        {
+            "id": "88671d35-bcd5-496e-81e0-dea367fdebfb",
+            "sku": "1203A117-100",
+            "brand": "ASICS",
+            "name": "ASICS Gel-PTG MT atmos Python White",
+            "colorway": "White/Cream",
+            "gender": "unisex",
+            "silhouette": "Gel PTG",
+            "releaseYear": "0",
+            "releaseDate": "",
+            "retailPrice": 120,
+            "estimatedMarketValue": 149,
+            "story": "",
+            "image": {
+                "360": [],
+                "original": "https://image.goat.com/attachments/product_template_pictures/images/045/025/622/original/1203A117_100.png.png",
+                "small": "https://image.goat.com/750/attachments/product_template_pictures/images/045/025/622/original/1203A117_100.png.png",
+                "thumbnail": "https://image.goat.com/375/attachments/product_template_pictures/images/045/025/622/original/1203A117_100.png.png"
+            },
+            "links": {
+                "stockX": "https://stockx.com/asics-gel-ptg-mt-atmos-python-white",
+                "goat": "https://goat.com/sneakers/atmos-x-gel-ptg-mt-snakeskin-1203a117-100",
+                "flightClub": "https://flightclub.com/atmos-x-gel-ptg-mt-snakeskin-1203a117-100",
+                "stadiumGoods": ""
+            }
+        }
+    ]
+}
