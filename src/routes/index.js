@@ -5,7 +5,7 @@ const { Router } = require('express');
 const countryRouter = require('./country.js');
 const activityRouter = require('./activity.js');
 //
-const information = require('./information.js');
+// const information = require('./information.js');
 //
 
 const router = Router();
@@ -15,7 +15,7 @@ const router = Router();
 router.use('/countries', countryRouter)
 router.use('/activities', activityRouter)
 //
-router.use('/infodb', information)
+// router.use('/infodb', information)
 //
 module.exports = router;
 
