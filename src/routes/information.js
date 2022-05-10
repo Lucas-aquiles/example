@@ -2,7 +2,7 @@ const express = require('express');
 require('dotenv').config();
 const server = require("express").Router();
 
-const allInformacion = require('../All/CHILD/AdidasChild0JSON')
+const allInformacion = require('../All/CHILD/AdidasChild.json')
 const allInfant = require('../All/INFANT/ADIDAS-INFANT0.json')
 
 
