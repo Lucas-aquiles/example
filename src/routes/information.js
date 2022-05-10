@@ -5,7 +5,7 @@ const { API, API_NAME } = process.env;
 const server = require("express").Router();
 // const API = "https://restcountries.com/v3/all"
 const info = require('../AdidasMen0.json');
-const allInformacion = require('../All')
+const allInformacion = require('../All/CHILD/AsicsChild.json')
 
 
 server.get('/', (req, res) => {
