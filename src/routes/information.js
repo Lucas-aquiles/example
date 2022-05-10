@@ -4,7 +4,7 @@ const axios = require('axios');
 const { API, API_NAME } = process.env;
 const server = require("express").Router();
 // const API = "https://restcountries.com/v3/all"
-const allInformacion = require('../All/CHILD/AdidasChild0JSON')
+const allInformacion = require('../All/CHILD/infoNiños.json')
 
 
 
