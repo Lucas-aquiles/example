@@ -33,7 +33,7 @@ server.get('/unisex', (req, res) => {
 })
 
 
-server.get('/unisex', (req, res) => {
+server.get('/women', (req, res) => {
 
     res.status(200).json(allWomen)
 
